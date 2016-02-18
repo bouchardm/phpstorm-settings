@@ -1,0 +1,16 @@
+<templateSet group="PHP">
+  <template name="try" value="try {&#10;&#10;} catch (\Exception $e) {&#10;    die(var_dump($e));&#10;}" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="foreach" value="foreach ($ITERABLE$ as $$$VAR_VALUE$) {&#10;    $END$&#10;}&#10;" description="foreach(iterable_expr as $value) {...}" toReformat="true" toShortenFQNames="true">
+    <variable name="ITERABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR_VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="for" value="for ($i = $iterateur$; $i &lt;= $maximum$; $i++) {&#10;    $code$&#10;}" description="for ($i = 1; $i &lt;= $max; $i++) {...}" toReformat="false" toShortenFQNames="true">
+    <variable name="iterateur" expression="" defaultValue="1" alwaysStopAt="true" />
+    <variable name="maximum" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="code" expression="" defaultValue="// code" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
