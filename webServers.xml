@@ -1,0 +1,12 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="42a05bcd-26a1-4d44-9e7c-2d65fb8736de" name="Feuilletemps" url="http://feuilletemps.local">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="c934b093-29fb-4c77-ac28-3d3cbe5a22d9" name="SAAQ" url="http://saaq.local">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>

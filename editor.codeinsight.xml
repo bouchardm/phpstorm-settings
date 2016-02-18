@@ -1,0 +1,14 @@
+<application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
+  </component>
+  <component name="CodeInsightSettings">
+    <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="3" />
+  </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="COLLAPSE_ONE_LINE_METHODS" value="false" />
+  </component>
+</application>
