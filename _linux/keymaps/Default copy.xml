@@ -43,11 +43,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
   <action id="EditorCompleteStatement" />
-  <action id="EditorContextInfo" />
   <action id="EditorDeleteLine" />
   <action id="EditorDuplicate" />
   <action id="EditorScrollToCenter">
-    <keyboard-shortcut first-keystroke="ctrl m" />
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="EditorSelectLine">
@@ -58,8 +56,16 @@
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="ctrl u" />
   </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="alt insert" />
@@ -74,6 +80,7 @@
     <keyboard-shortcut first-keystroke="f10" />
     <mouse-shortcut keystroke="control button1" />
   </action>
+  <action id="GotoSuperMethod" />
   <action id="Jdbc.RunQueryInConsole" />
   <action id="JumpToLastWindow">
     <keyboard-shortcut first-keystroke="f12" />
@@ -84,6 +91,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
   <action id="NextTab" />
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
   <action id="PreviousTab" />
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt t" />
@@ -123,14 +133,14 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
-  <action id="ToggleDistractionFreeMode">
-    <keyboard-shortcut first-keystroke="alt q" />
-  </action>
   <action id="UML.ApplyCurrentLayout" />
   <action id="Uml.ShowDiff" />
   <action id="UnselectPreviousOccurrence">
     <keyboard-shortcut first-keystroke="shift alt j" />
     <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="XDebugger.AutoTooltip">
     <keyboard-shortcut first-keystroke="shift ctrl q" />
