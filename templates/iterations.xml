@@ -1,0 +1,9 @@
+<templateSet group="iterations">
+  <template name="dd" value="var_dump($var$); die;$end$" description="dump die" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
