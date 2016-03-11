@@ -7,12 +7,12 @@
     <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\btodo\b.*">
       <option name="FOREGROUND" value="a8c023" />
       <option name="FONT_TYPE" value="2" />
-      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
+      <option name="ERROR_STRIPE_COLOR" value="977ab" />
     </pattern>
     <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\bfixme\b.*">
       <option name="FOREGROUND" value="a8c023" />
       <option name="FONT_TYPE" value="2" />
-      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
+      <option name="ERROR_STRIPE_COLOR" value="977ab" />
     </pattern>
     <pattern icon="important" useCustomColors="true" case-sensitive="false" pattern="\breview\b.*">
       <option name="FOREGROUND" value="e326cd" />
@@ -26,7 +26,7 @@
     <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="(?:@|((\/\*)?\*(\s?)?)|#(\s?)|\/\/(\s?)(@?))todo.*">
       <option name="FOREGROUND" value="a8c023" />
       <option name="FONT_TYPE" value="2" />
-      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
+      <option name="ERROR_STRIPE_COLOR" value="977ab" />
     </pattern>
     <filter name="review">
       <pattern index="3" />
