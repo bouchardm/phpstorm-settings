@@ -1,4 +1,20 @@
 <application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Blade files</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
   <component name="CodeStyleSchemes">
     <option name="CURRENT_SCHEME_NAME" value="Default" />
   </component>
@@ -102,6 +118,18 @@
       <option name="ENABLED" value="true" />
     </filter>
     <filter>
+      <option name="PATTERN" value="javassist.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.apache.webbeans.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.ibm.ws.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
       <option name="PATTERN" value="kotlin.*" />
       <option name="ENABLED" value="true" />
     </filter>
@@ -109,26 +137,8 @@
   <component name="PhpRefactoringSettings">
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="true" />
     <option name="RENAME_SEARCH_NON_CODE_FOR_CLASS" value="true" />
-  </component>
-  <component name="RecentDirectoryProjectsManager">
-    <option name="recentPaths">
-      <list>
-        <option value="$USER_HOME$/code/feuilletemps" />
-        <option value="/var/www/client/saaq/site" />
-        <option value="/var/www/client/saaq/site/public" />
-      </list>
-    </option>
-    <option name="openPaths">
-      <list>
-        <option value="/var/www/client/saaq/site" />
-      </list>
-    </option>
-    <option name="lastPath" value="$USER_HOME$/code/feuilletemps" />
-  </component>
-  <component name="RefactoringSettings">
-    <option name="MOVE_PREVIEW_USAGES" value="false" />
-    <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
-    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+    <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="private" />
+    <option name="EXTRACT_FIELD_DEFAULT_VISIBILITY" value="protected" />
   </component>
   <component name="XPathView.XPathViewPlugin">
     <option name="attributes">
