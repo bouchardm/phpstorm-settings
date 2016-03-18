@@ -1,0 +1,33 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/code/Neoclocking/api/database/seeds/LogEntrySeeder.php" timestamp="1455827142337">
+        <mark key="]" line="21" column="53" />
+        <mark key="^" line="21" column="53" />
+        <mark key="." line="21" column="53" />
+        <mark key="[" line="21" column="54" />
+      </file>
+      <file name="$USER_HOME$/code/Neoclocking/api/app/Http/Controllers/Api/CurrentUserController.php" timestamp="1457702546680">
+        <mark key="]" line="118" column="27" />
+        <mark key="^" line="118" column="27" />
+        <mark key="." line="118" column="27" />
+        <mark key="[" line="118" column="28" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers />
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>true</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts />
+  </component>
+</application>
