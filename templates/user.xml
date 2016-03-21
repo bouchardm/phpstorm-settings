@@ -1,0 +1,10 @@
+<templateSet group="user">
+  <template name="dd" value="var_dump($VARIABLE$);&#10;die();" description="die and dump" toReformat="false" toShortenFQNames="true">
+    <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="tdd" value="\TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($VARIABLE$);&#10;die();" description="tdd" toReformat="false" toShortenFQNames="true">
+    <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
