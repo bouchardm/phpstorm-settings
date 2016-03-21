@@ -1,0 +1,20 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern="java" type="JAVA" />
+      <mapping pattern="PORT" type="PLAIN_TEXT" />
+      <mapping pattern="marcantoine-key" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="access-key" type="PLAIN_TEXT" />
+      <mapping pattern="sylvainbouchard-key" type="PLAIN_TEXT" />
+      <mapping ext="filters" type="PLAIN_TEXT" />
+      <mapping ext="sqlite" type="PLAIN_TEXT" />
+      <mapping ext="" type="TypoScript File" />
+      <mapping pattern="*constants.txt" type="TypoScript File" />
+      <mapping pattern="*setup.txt" type="TypoScript File" />
+      <mapping pattern="ext.cst.txt" type="TypoScript File" />
+      <mapping pattern="ext.stp.txt" type="TypoScript File" />
+    </extensionMap>
+  </component>
+</application>
