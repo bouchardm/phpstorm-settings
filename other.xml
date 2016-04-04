@@ -136,6 +136,9 @@
     <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="private" />
     <option name="EXTRACT_FIELD_DEFAULT_VISIBILITY" value="protected" />
   </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+  </component>
   <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
     <recent_templates>
       <option name="RECENT_TEMPLATES">
