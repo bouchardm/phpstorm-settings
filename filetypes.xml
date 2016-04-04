@@ -12,6 +12,7 @@
       <mapping pattern="access-key" type="PLAIN_TEXT" />
       <mapping pattern="sylvainbouchard-key" type="PLAIN_TEXT" />
       <mapping ext="filters" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="xlf" type="XML" />
       <mapping ext="" type="TypoScript File" />
