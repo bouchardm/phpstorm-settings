@@ -1,6 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="customScope" value="File '/home/marcabm/code/promutuel/soumission/src/src/Promutuel/UIBundle/Resources/public/soumission/images/email/icon-header-auto.png'" />
+    <option name="defaultScopeName" value="File '/home/marcabm/code/promutuel/soumission/src/src/Promutuel/UIBundle/Resources/public/soumission/images/email/icon-header-auto.png'" />
+    <option name="SEARCH_SCOPE" value="File '/home/marcabm/code/promutuel/soumission/src/src/Promutuel/UIBundle/Resources/public/soumission/images/email/icon-header-auto.png'" />
   </component>
 </application>
