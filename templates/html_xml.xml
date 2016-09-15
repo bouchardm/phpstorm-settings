@@ -1,8 +1,0 @@
-<templateSet group="html/xml">
-  <template name="t" value="{% trans %}$SELECTION${% endtrans %}" description="translate symfony" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="true" />
-    </context>
-  </template>
-</templateSet>
