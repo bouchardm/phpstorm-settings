@@ -96,6 +96,7 @@
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
     <keyboard-shortcut first-keystroke="alt f" />
+    <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="PreviousTab" />
   <action id="ProfilerJumpToSource">
