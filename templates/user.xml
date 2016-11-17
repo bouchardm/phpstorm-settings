@@ -6,4 +6,10 @@
       <option name="PHP Class Member" value="true" />
     </context>
   </template>
+  <template name="btest" value="/** @before */&#10;public function before()&#10;{&#10;    $qwe$&#10;}" description="before function for phpunit test" toReformat="true" toShortenFQNames="true">
+    <variable name="qwe" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
 </templateSet>
