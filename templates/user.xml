@@ -12,4 +12,9 @@
       <option name="PHP Class Member" value="true" />
     </context>
   </template>
+  <template name="lang" value="&lt;?php&#10;&#10;return [&#10;    ''&#10;];" description="lang file laravel" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
 </templateSet>
