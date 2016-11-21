@@ -5,6 +5,7 @@
       <mapping ext="install" type="PHP" />
       <mapping pattern="tests" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
+      <mapping pattern="behat-active" type="PLAIN_TEXT" />
       <mapping pattern="composer" type="PLAIN_TEXT" />
       <mapping pattern="sdfsdf" type="PLAIN_TEXT" />
       <mapping pattern="PORT" type="PLAIN_TEXT" />
