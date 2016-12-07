@@ -7,7 +7,6 @@
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="behat-active" type="PLAIN_TEXT" />
       <mapping pattern="composer" type="PLAIN_TEXT" />
-      <mapping pattern="sdfsdf" type="PLAIN_TEXT" />
       <mapping pattern="PORT" type="PLAIN_TEXT" />
       <mapping pattern="marcantoine-key" type="PLAIN_TEXT" />
       <mapping pattern=".testing.env" type="PLAIN_TEXT" />
@@ -15,6 +14,8 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="access-key" type="PLAIN_TEXT" />
       <mapping pattern="sylvainbouchard-key" type="PLAIN_TEXT" />
+      <mapping pattern="xdebugPhpFpm" type="PLAIN_TEXT" />
+      <mapping pattern="sdfsdf" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="filters" type="PLAIN_TEXT" />
       <mapping pattern="soumission_caravane_type_caravane,less" type="SCSS" />
