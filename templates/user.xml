@@ -17,7 +17,7 @@
       <option name="HTML" value="true" />
     </context>
   </template>
-  <template name="ddsql" value="$query = preg_replace_array('/\?/', $result$-&gt;getBindings(), $result$-&gt;toSql());" toReformat="true" toShortenFQNames="true">
+  <template name="ddsql" value="dd($query = preg_replace_array('/\?/', $result$-&gt;getBindings(), $result$-&gt;toSql()));" toReformat="true" toShortenFQNames="true">
     <variable name="result" expression="" defaultValue="$result" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
