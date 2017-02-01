@@ -1,0 +1,26 @@
+<templateSet group="user">
+  <template name="test" value="/** @test */&#10;public function $NAME$()&#10;{&#10;    $test$&#10;}" description="add a new phpunit test" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="test" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+  <template name="btest" value="/** @before */&#10;public function before()&#10;{&#10;    $qwe$&#10;}" description="before function for phpunit test" toReformat="true" toShortenFQNames="true">
+    <variable name="qwe" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+  <template name="lang" value="&lt;?php&#10;&#10;return [&#10;    ''&#10;];" description="lang file laravel" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="ddsql" value="dd($query = preg_replace_array('/\?/', $result$-&gt;getBindings(), $result$-&gt;toSql()));" toReformat="true" toShortenFQNames="true">
+    <variable name="result" expression="" defaultValue="$result" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
