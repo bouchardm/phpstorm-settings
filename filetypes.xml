@@ -6,6 +6,7 @@
       <mapping pattern="tests" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="behat-active" type="PLAIN_TEXT" />
+      <mapping pattern="generate_config" type="PLAIN_TEXT" />
       <mapping pattern="composer" type="PLAIN_TEXT" />
       <mapping pattern="PORT" type="PLAIN_TEXT" />
       <mapping pattern="marcantoine-key" type="PLAIN_TEXT" />
