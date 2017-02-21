@@ -1,11 +1,18 @@
 <scheme name="Darcula copy2" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="modified">2017-01-18T11:52:35</property>
+    <property name="modified">2017-02-21T10:25:19</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
-  <option name="EDITOR_FONT_SIZE" value="17" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="17" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_SIZE" value="17" />
+  </font>
+  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_SIZE" value="14" />
   <option name="CONSOLE_LINE_SPACING" value="2.0" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
 </scheme>
