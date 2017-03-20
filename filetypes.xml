@@ -19,6 +19,7 @@
       <mapping pattern="xdebugPhpFpm" type="PLAIN_TEXT" />
       <mapping pattern="sdfsdf" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="filters" type="PLAIN_TEXT" />
       <mapping pattern="soumission_caravane_type_caravane,less" type="SCSS" />
