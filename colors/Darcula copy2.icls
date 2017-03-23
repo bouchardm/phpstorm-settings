@@ -1,6 +1,7 @@
 <scheme name="Darcula copy2" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2017-02-21T10:25:19</property>
+    <property name="modified">2017-03-23T11:00:32</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
   <font>
@@ -9,10 +10,10 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="17" />
+    <option name="EDITOR_FONT_SIZE" value="20" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
-  <option name="CONSOLE_FONT_SIZE" value="14" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="2.0" />
 </scheme>
