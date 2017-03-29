@@ -4,7 +4,9 @@
       <blacklist language="PHP">
         <removed pattern="" />
       </blacklist>
-      <blacklist language="PHP" />
+      <blacklist language="PHP">
+        <added pattern="\compact(varname,_)" />
+      </blacklist>
     </blacklists>
   </component>
 </application>
