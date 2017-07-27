@@ -27,11 +27,10 @@
         <mark key="." line="20" column="112" />
         <mark key="^" line="20" column="112" />
       </file>
-      <file name="$USER_HOME$/code/mica/tests/unit/Http/Controllers/DocumentControllerTest.php" timestamp="1501169570025">
-        <mark key="[" line="65" column="58" />
-        <mark key="]" line="65" column="156" />
-        <mark key="^" line="53" column="6" />
-        <mark key="." line="65" column="58" />
+      <file name="$USER_HOME$/code/mica/tests/unit/Http/Controllers/DocumentControllerTest.php" timestamp="1501176536465">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/code/Neoclocking/api/database/seeds/LogEntrySeeder.php" timestamp="1455827142337">
         <mark key="[" line="21" column="54" />
@@ -148,10 +147,65 @@
       <jump line="225" column="25" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/Profile.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/code/mica/app/Notifications/DocumentAdded.php" />
       <jump line="7" column="0" filename="$USER_HOME$/code/mica/app/Http/Validators/SameClientName.php" />
+      <jump line="27" column="13" filename="$USER_HOME$/code/mica/tests/unit/Http/Controllers/DocumentControllerTest.php" />
     </jumps>
     <registers>
+      <register name="a" type="4">
+        <keys>
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="35" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="64" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="126" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="64" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+        </keys>
+      </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -409,54 +463,101 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JG5vdGlmaWNhdGlvbi0+ZGF0YVsnY2xpZW50X2lkJ10=</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text>hasCurrentClient</text>
+        <text>sdkfjssdfjkh</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">WydTSU5fTnVtYmVyJyA9PiAkdGhpcy0+Y2xpZW50VHdvLT5TSU5fTnVtYmVyLCAnRGF0ZV9vZl9CaXJ0aCcgPT4gJHRoaXMtPmNsaWVudFR3by0+RGF0ZV9vZl9CaXJ0aF0=</text>
       </register>
       <register name="q" type="4">
-        <text />
+        <keys>
+          <key char="63" code="0" mods="0" />
+          <key char="42" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="52" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="52" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="65535" code="36" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="65535" code="36" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="52" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="52" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+        </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQocm91dGUoJ2NsaWVudHMuZG9jdW1lbnRzJywgWydjbGllbnQnID0+ICRub3RpZmljYXRpb24tPmRhdGFbJ2NsaWVudF9pZCddXSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgiU0RGU0RGIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgiU0RGU0RGIik7Cg==</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbm90aWZpY2F0aW9uLT5kYXRhZGQpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZHVtcCgpOwo=</text>
+        <text encoding="base64">ICAgIC8qKiBEb2N1bWVudENvbnRyb2xsZXJUZXN0IGNvbnN0cnVjdG9yLiAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>hasCurrentClient</last-search>
+      <last-search>sdkfjssdfjkh</last-search>
       <last-offset />
-      <last-pattern>hasCurrentClient</last-pattern>
+      <last-pattern>sdkfjssdfjkh</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -470,12 +571,30 @@
         <entry>inc.</entry>
         <entry>link</entry>
         <entry>hasCurrentClient</entry>
+        <entry>/**</entry>
+        <entry>\/**</entry>
+        <entry>**</entry>
+        <entry>sdfsdfdsf</entry>
+        <entry>sdkfjh</entry>
+        <entry>*</entry>
+        <entry>sdkfjssdfjkh</entry>
       </history-search>
       <history-cmd>
         <entry>!ls -l</entry>
         <entry>W</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry encoding="base64">bGV0IEBzPSc/KjxDUj54eDxVcD48RW5kPmE8RGVsPjxEZWw+PERlbD48RGVsPjxEZWw+PEVuZD48RGVsPjxEZWw+PERlbD48RGVsPjxEZWw+PEVzYz4n</entry>
+        <entry encoding="base64">bGV0IEBzID0gJz8qPENSPnh4PFVwPjxFbmQ+YTxEZWw+PERlbD48RGVsPjxEZWw+PERlbD48RW5kPjxEZWw+PERlbD48RGVsPjxEZWw+PERlbD48RXNjPic=</entry>
+        <entry encoding="base64">bGV0IEBzPSdcPyo8Q1I+eHg8VXA+PEVuZD5hPERlbD48RGVsPjxEZWw+PERlbD48RGVsPjxFbmQ+PERlbD48RGVsPjxEZWw+PERlbD48RGVsPjxFc2M+Jw==</entry>
+        <entry encoding="base64">bGV0IEBzPSdcPyo8Q1I+eHg8VXA+PEVuZD5hPERlbD48RGVsPjxEZWw+PERlbD48RGVsPjxFbmQ+PERlbD48RGVsPjxEZWw+PERlbD48RGVsPic=</entry>
+        <entry>let @s='?*'</entry>
+        <entry>let @s='\?\*'</entry>
+        <entry>let @s='asalut'</entry>
+        <entry>source ~/.vimrc</entry>
+        <entry>reg q</entry>
+        <entry>reg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
