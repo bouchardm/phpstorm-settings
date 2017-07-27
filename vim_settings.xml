@@ -54,13 +54,14 @@
         <mark key="." line="40" column="39" />
         <mark key="^" line="40" column="39" />
       </file>
-      <file name="$USER_HOME$/code/mica/release/deploy.php" timestamp="1501180895840">
-        <mark key="[" line="48" column="17" />
-        <mark key="]" line="53" column="27" />
-        <mark key="^" line="53" column="27" />
-        <mark key="." line="53" column="27" />
+      <file name="$USER_HOME$/code/mica/release/deploy.php" timestamp="1501186137313">
+        <mark key="[" line="21" column="22" />
+        <mark key="]" line="21" column="50" />
+        <mark key="^" line="21" column="50" />
+        <mark key="." line="21" column="50" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1501168340157" />
+      <file name="/deploy.php" timestamp="1501185718076" />
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/navigation/Notification.vue" timestamp="1501166825780">
         <mark key="[" line="10" column="118" />
         <mark key="]" line="10" column="123" />
@@ -204,7 +205,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text>master</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -462,7 +463,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>master</text>
       </register>
       <register name="/" type="4">
         <text>numbersattr</text>
