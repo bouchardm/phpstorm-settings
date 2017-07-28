@@ -15,10 +15,12 @@
         <mark key="." line="117" column="88" />
         <mark key="^" line="117" column="88" />
       </file>
-      <file name="$USER_HOME$/code/mica/tests/unit/Http/Controllers/DocumentControllerTest.php" timestamp="1501176536465">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/code/mica/tests/unit/Http/Controllers/DocumentControllerTest.php" timestamp="1501243623834">
+        <mark key="'" line="64" column="8" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="64" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/database/migrations/2017_07_20_131654_create_client_links_table.php" timestamp="1501165152139">
         <mark key="[" line="21" column="0" />
@@ -80,7 +82,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/release/vendor/deployer/deployer/recipe/deploy/prepare.php" timestamp="1501180867655" />
-      <file name="/Dummy.txt" timestamp="1501180840894">
+      <file name="/Dummy.txt" timestamp="1501243139839">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Query/UserQueryTest.php" timestamp="1501168675635">
@@ -148,6 +150,15 @@
       <jump line="247" column="34" filename="$USER_HOME$/code/mica/app/User.php" />
       <jump line="463" column="38" filename="$USER_HOME$/code/mica/app/User.php" />
       <jump line="224" column="31" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="70" column="3" filename="$USER_HOME$/code/mica/tests/unit/Http/Controllers/DocumentControllerTest.php" />
+      <jump line="74" column="27" filename="$USER_HOME$/code/mica/tests/unit/Http/Controllers/DocumentControllerTest.php" />
+      <jump line="83" column="35" filename="$USER_HOME$/code/mica/tests/unit/Http/Controllers/DocumentControllerTest.php" />
+      <jump line="86" column="25" filename="$USER_HOME$/code/mica/tests/unit/Http/Controllers/DocumentControllerTest.php" />
+      <jump line="7" column="31" filename="$USER_HOME$/code/mica/tests/unit/Http/Controllers/DocumentControllerTest.php" />
+      <jump line="46" column="16" filename="$USER_HOME$/code/mica/tests/unit/Http/Controllers/DocumentControllerTest.php" />
+      <jump line="47" column="27" filename="$USER_HOME$/code/mica/tests/unit/Http/Controllers/DocumentControllerTest.php" />
+      <jump line="59" column="27" filename="$USER_HOME$/code/mica/tests/unit/Http/Controllers/DocumentControllerTest.php" />
+      <jump line="64" column="8" filename="$USER_HOME$/code/mica/tests/unit/Http/Controllers/DocumentControllerTest.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -204,8 +215,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>master</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2VlUGFnZUlzKHJvdXRlKCdjbGllbnRzLmRvY3VtZW50cycsIFsnY2xpZW50JyA9PiAkdGhpcy0+Y2xpZW50VHdvXSkpOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -466,10 +477,10 @@
         <text>master</text>
       </register>
       <register name="/" type="4">
-        <text>numbersattr</text>
+        <text>dd</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CiAgICAgICAgLy8gbGluayBjbGllbnQKICAgICAgICAnZnJvbUNsaWVudElkJyA9PiAnW0ZSXSBjbGllbnQgaWQgZGUgcHJvdmVuYW5jZScsCiAgICAgICAgJ3RvQ2xpZW50SWQnID0+ICdbRlJdIGNsaWVudCBpZCBkZSBkZXN0aW5hdGlvbicsCiAgICAgICAgJ3RvQ2xpZW50TmFtZScgPT4gJ1tGUl0gbm9tIGRlIGZhbWlsbGUgLyBjb21wYWduaWUnLAogICAgICAgICdjb25zZW50JyA9PiAnW0ZSXSBjb25zZW50ZW1lbnQnLA==</text>
+        <text encoding="base64">cm91dGUoJ2NsaWVudHMuZG9jdW1lbnRzJywgWydjbGllbnQnID0+ICR0aGlzLT5jbGllbnRUd29dKQ==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -522,46 +533,45 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZW5kLSRzdGFydCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2VlUGFnZUlzKHJvdXRlKCdjbGllbnRzLmRvY3VtZW50cycsIFsnY2xpZW50JyA9PiAkdGhpcy0+Y2xpZW50VHdvXSkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVkaXJlY3QtPmdldFRhcmdldFVybCgpKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">LT5maWx0ZXIoZnVuY3Rpb24gKFdpbmZ1bmRDbGllbnQgJGNsaWVudCkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiAhICRjbGllbnQtPmV4cGlyZWQ7IC8vIFRPRE8gVXNlbGVzcz8KICAgICAgICAgICAgICAgIH0pLQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT52aXNpdChyb3V0ZSgnY2xpZW50cy5kb2N1bWVudCcsIFsnbm90aWZpY2F0aW9uJyA9PiAkdXNlci0+bm90aWZpY2F0aW9ucy0+Zmlyc3QoKSwgJ2NsaWVudCcgPT4gJGNsaWVudF0pKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">J2N1c3RvbScgPT4gWwogICAgICAgICd0b0NsaWVudElkJyA9PiBbCiAgICAgICAgICAgICdleHBpcmVkX2NsaWVudCcgPT4gJ2N1c3RvbS1tZXNzYWdlJywKICAgICAgICBdLAogICAgICAgICdmcm9tQ2xpZW50SWQnID0+IFsKICAgICAgICAgICAgJ2V4cGlyZWRfY2xpZW50JyA9PiAnY3VzdG9tLW1lc3NhZ2UnLAogICAgICAgIF0sCiAgICBdLA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkZW5kLSRzdGFydCk7Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">LT5maWx0ZXIoZnVuY3Rpb24gKFdpbmZ1bmRDbGllbnQgJGNsaWVudCkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiAhICRjbGllbnQtPmV4cGlyZWQ7IC8vIFRPRE8gVXNlbGVzcz8KICAgICAgICAgICAgICAgIH0pLQ==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">J2N1c3RvbScgPT4gWwogICAgICAgICd0b0NsaWVudElkJyA9PiBbCiAgICAgICAgICAgICdleHBpcmVkX2NsaWVudCcgPT4gJ2N1c3RvbS1tZXNzYWdlJywKICAgICAgICBdLAogICAgICAgICdmcm9tQ2xpZW50SWQnID0+IFsKICAgICAgICAgICAgJ2V4cGlyZWRfY2xpZW50JyA9PiAnY3VzdG9tLW1lc3NhZ2UnLAogICAgICAgIF0sCiAgICBdLA==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ2QnCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">J2Zyb21DbGllbnRJZCcgPT4gWwogICAgICAgICAgICAnZXhwaXJlZF9jbGllbnQnID0+ICdjdXN0b20tbWVzc2FnZScsCiAgICAgICAgXSw=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>numbersattr</last-search>
+      <last-search>dd</last-search>
       <last-offset />
-      <last-pattern>numbersattr</last-pattern>
+      <last-pattern>dd</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>app(</entry>
         <entry>Client avec</entry>
         <entry encoding="base64">XDwvXD4=</entry>
         <entry>constr</entry>
@@ -581,6 +591,7 @@
         <entry>expire</entry>
         <entry>clientsattr</entry>
         <entry>numbersattr</entry>
+        <entry>dd</entry>
       </history-search>
       <history-cmd>
         <entry>!ls -l</entry>
@@ -597,6 +608,8 @@
         <entry>reg q</entry>
         <entry>reg</entry>
         <entry>wq</entry>
+        <entry>464</entry>
+        <entry>2</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -626,6 +639,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Q</text>
