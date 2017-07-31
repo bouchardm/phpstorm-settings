@@ -137,12 +137,12 @@
         <mark key="." line="92" column="21" />
         <mark key="^" line="92" column="21" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/User.php" timestamp="1501503879894">
+      <file name="$USER_HOME$/code/mica/app/User.php" timestamp="1501503904110">
         <mark key="'" line="319" column="47" />
         <mark key="[" line="470" column="9" />
-        <mark key="]" line="319" column="47" />
-        <mark key="." line="319" column="47" />
-        <mark key="^" line="319" column="47" />
+        <mark key="]" line="472" column="28" />
+        <mark key="." line="472" column="28" />
+        <mark key="^" line="472" column="28" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Command/ImportExpiredClientTest.php" timestamp="1501502766022">
         <mark key="[" line="137" column="46" />
