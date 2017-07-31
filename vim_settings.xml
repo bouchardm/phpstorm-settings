@@ -118,6 +118,12 @@
         <mark key="." line="60" column="51" />
         <mark key="^" line="60" column="51" />
       </file>
+      <file name="$USER_HOME$/code/mica/.env" timestamp="1501517210099">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="20" />
+        <mark key="^" line="6" column="20" />
+        <mark key="." line="6" column="20" />
+      </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" timestamp="1501166580072">
         <mark key="[" line="151" column="34" />
         <mark key="]" line="151" column="56" />
@@ -128,6 +134,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/code/mica/config/graphql.php" timestamp="1501516906391" />
       <file name="$USER_HOME$/code/mica/resources/lang/fr/validation.php" timestamp="1501508233273">
         <mark key="'" line="158" column="13" />
         <mark key="[" line="110" column="0" />
@@ -164,6 +171,12 @@
         <mark key="." line="235" column="0" />
         <mark key="^" line="234" column="95" />
       </file>
+      <file name="$USER_HOME$/code/mica/app/Repositories/AccountRepository.php" timestamp="1501516614363">
+        <mark key="[" line="96" column="21" />
+        <mark key="]" line="96" column="19" />
+        <mark key="^" line="96" column="19" />
+        <mark key="." line="96" column="19" />
+      </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Type/User/UserType.php" timestamp="1501164903032">
         <mark key="'" line="135" column="50" />
         <mark key="[" line="193" column="84" />
@@ -184,12 +197,8 @@
         <mark key="^" line="40" column="39" />
       </file>
       <file name="$USER_HOME$/code/mica/release/deploy.php" timestamp="1501514225851">
-        <mark key="'" line="108" column="5" />
-        <mark key="[" line="79" column="20" />
-        <mark key="]" line="79" column="19" />
-        <mark key="m" line="96" column="33" />
-        <mark key="^" line="79" column="19" />
-        <mark key="." line="79" column="19" />
+        <mark key="'" line="123" column="5" />
+        <mark key="m" line="111" column="33" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/TestCase.php" timestamp="1501511909814">
         <mark key="[" line="196" column="46" />
@@ -219,6 +228,11 @@
         <mark key="]" line="92" column="21" />
         <mark key="." line="92" column="21" />
         <mark key="^" line="92" column="21" />
+      </file>
+      <file name="$USER_HOME$/code/mica/config/debugbar.php" timestamp="1501516858073">
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="14" column="38" />
+        <mark key="." line="14" column="38" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Enums/UserStatusTest.php" timestamp="1501512247121">
         <mark key="[" line="85" column="0" />
