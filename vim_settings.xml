@@ -43,12 +43,12 @@
         <mark key="]" line="94" column="0" />
         <mark key="." line="94" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Query/PaginatedUsersQuery.php" timestamp="1501512874337">
+      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Query/PaginatedUsersQuery.php" timestamp="1501513014725">
         <mark key="'" line="39" column="28" />
-        <mark key="[" line="138" column="12" />
-        <mark key="]" line="138" column="11" />
-        <mark key="^" line="138" column="11" />
-        <mark key="." line="138" column="11" />
+        <mark key="[" line="144" column="13" />
+        <mark key="]" line="147" column="48" />
+        <mark key="^" line="147" column="48" />
+        <mark key="." line="147" column="48" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1501503592722">
         <mark key="[" line="0" column="1" />
@@ -81,12 +81,19 @@
         <mark key="." line="136" column="0" />
         <mark key="^" line="136" column="31" />
       </file>
-      <file name="$USER_HOME$/code/mica/tests/integration/UsersListTest.php" timestamp="1501512871017">
-        <mark key="'" line="146" column="0" />
-        <mark key="[" line="134" column="30" />
-        <mark key="]" line="142" column="21" />
-        <mark key="." line="142" column="21" />
-        <mark key="^" line="142" column="21" />
+      <file name="$USER_HOME$/code/mica/tests/integration/UsersListTest.php" timestamp="1501513044211">
+        <mark key="'" line="145" column="0" />
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="66" />
+        <mark key="." line="142" column="66" />
+        <mark key="^" line="142" column="66" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/lang/en/information.php" timestamp="1501514530080">
+        <mark key="'" line="61" column="8" />
+        <mark key="[" line="48" column="58" />
+        <mark key="]" line="48" column="57" />
+        <mark key="^" line="48" column="57" />
+        <mark key="." line="48" column="57" />
       </file>
       <file name="$USER_HOME$/code/mica/database/migrations/2017_07_28_132959_add_expired_status.php" timestamp="1501511846059">
         <mark key="[" line="27" column="10" />
@@ -176,6 +183,14 @@
         <mark key="." line="40" column="39" />
         <mark key="^" line="40" column="39" />
       </file>
+      <file name="$USER_HOME$/code/mica/release/deploy.php" timestamp="1501514225851">
+        <mark key="'" line="108" column="5" />
+        <mark key="[" line="79" column="20" />
+        <mark key="]" line="79" column="19" />
+        <mark key="m" line="96" column="33" />
+        <mark key="^" line="79" column="19" />
+        <mark key="." line="79" column="19" />
+      </file>
       <file name="$USER_HOME$/code/mica/tests/TestCase.php" timestamp="1501511909814">
         <mark key="[" line="196" column="46" />
         <mark key="]" line="196" column="89" />
@@ -190,7 +205,7 @@
       <file name="/dummy.sql" timestamp="1501503688615">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501512547741">
+      <file name="/Dummy.txt" timestamp="1501513164820">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Query/UserQueryTest.php" timestamp="1501168675635">
@@ -325,6 +340,7 @@
       <jump line="39" column="28" filename="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Query/PaginatedUsersQuery.php" />
       <jump line="2" column="0" filename="$USER_HOME$/code/mica/tests/integration/UsersListTest.php" />
       <jump line="122" column="0" filename="$USER_HOME$/code/mica/tests/integration/UsersListTest.php" />
+      <jump line="61" column="8" filename="$USER_HOME$/code/mica/resources/lang/en/information.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -382,7 +398,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>an_admin_can_search_expired_users</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -640,10 +656,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>an_admin_can_search_expired_users</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>status</text>
+        <text>Are you sure</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+Y3JlYXRlVXNlcihbJ2V4cGlyZWQnID0+IHRydWVdKTs=</text>
@@ -699,47 +715,45 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZHVtcCgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y3JlYXRlVXNlcihbJ2V4cGlyZWQnID0+IHRydWVdKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+Y3JlYXRlVXNlcihbJ2V4cGlyZWQnID0+IHRydWVdKTsK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXERhdGFiYXNlVHJhbnNhY3Rpb25zOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y3JlYXRlVXNlcihbJ2V4cGlyZWQnID0+IHRydWVdKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXFdpdGhvdXRNaWRkbGV3YXJlOwo=</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXERhdGFiYXNlVHJhbnNhY3Rpb25zOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXFdpdGhvdXRNaWRkbGV3YXJlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlciAkdGhpcy0+Y3JlYXRlVXNlcihbJ2V4cGlyZWQnID0+IHRydWVdKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>status</last-search>
+      <last-search>Are you sure</last-search>
       <last-offset />
-      <last-pattern>status</last-pattern>
+      <last-pattern>Are you sure</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sdkfjhsdkjfh</entry>
-        <entry>expire</entry>
         <entry>clientsattr</entry>
         <entry>numbersattr</entry>
         <entry>dd</entry>
@@ -758,6 +772,8 @@
         <entry>setExpire</entry>
         <entry>getStat</entry>
         <entry>status</entry>
+        <entry>Are you syre</entry>
+        <entry>Are you sure</entry>
       </history-search>
       <history-cmd>
         <entry>!ls -l</entry>
