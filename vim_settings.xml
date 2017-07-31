@@ -99,6 +99,9 @@
         <mark key="^" line="21" column="50" />
         <mark key="." line="21" column="50" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1501503592722">
+        <mark key="[" line="0" column="1" />
+      </file>
       <file name="$USER_HOME$/code/mica/tests/integration/UserSecurityTest.php" timestamp="1501262267378">
         <mark key="'" line="29" column="63" />
       </file>
@@ -116,7 +119,7 @@
       <file name="$USER_HOME$/code/mica/app/Http/Validators/OneTimeClientShareValidator.php" timestamp="1501170098732">
         <mark key="[" line="14" column="1" />
       </file>
-      <file name="/dummy.sql" timestamp="1501168348481">
+      <file name="/dummy.sql" timestamp="1501503688615">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1501263138881">
@@ -134,9 +137,9 @@
         <mark key="." line="92" column="21" />
         <mark key="^" line="92" column="21" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/User.php" timestamp="1501502984601">
-        <mark key="'" line="144" column="28" />
-        <mark key="[" line="317" column="9" />
+      <file name="$USER_HOME$/code/mica/app/User.php" timestamp="1501503879894">
+        <mark key="'" line="319" column="47" />
+        <mark key="[" line="470" column="9" />
         <mark key="]" line="319" column="47" />
         <mark key="." line="319" column="47" />
         <mark key="^" line="319" column="47" />
@@ -157,10 +160,11 @@
         <mark key="]" line="186" column="0" />
         <mark key="." line="186" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/tests/integration/UserTest.php" timestamp="1501503000883">
-        <mark key="[" line="61" column="37" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
+      <file name="$USER_HOME$/code/mica/tests/integration/UserTest.php" timestamp="1501503032074">
+        <mark key="[" line="58" column="20" />
+        <mark key="]" line="58" column="45" />
+        <mark key="." line="58" column="29" />
+        <mark key="^" line="58" column="29" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" timestamp="1501166580072">
         <mark key="[" line="151" column="34" />
@@ -277,6 +281,7 @@
       <jump line="105" column="18" filename="$USER_HOME$/code/mica/app/User.php" />
       <jump line="315" column="34" filename="$USER_HOME$/code/mica/app/User.php" />
       <jump line="144" column="28" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="319" column="47" filename="$USER_HOME$/code/mica/app/User.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -333,8 +338,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3N0YXR1cycgPT4gVXNlclN0YXR1czo6RVhQSVJFRCwK</text>
+      <register name="&quot;" type="4">
+        <text>a_expired_user_cant_login(</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -595,10 +600,10 @@
         <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmFjdGl2ZSA9IGZhbHNlOw==</text>
       </register>
       <register name="/" type="4">
-        <text>setExpire</text>
+        <text>getStat</text>
       </register>
       <register name="0" type="4">
-        <text>a_expired_user_cant_login</text>
+        <text>a_expired_user_cant_login(</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -682,15 +687,14 @@
       </register>
     </registers>
     <search>
-      <last-search>setExpire</last-search>
+      <last-search>getStat</last-search>
       <last-offset />
-      <last-pattern>setExpire</last-pattern>
+      <last-pattern>getStat</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sdkfjssdfjkh</entry>
         <entry>_[a-z]</entry>
         <entry>sdkfjhsdkjfh</entry>
         <entry>expire</entry>
@@ -710,6 +714,7 @@
         <entry>setSta</entry>
         <entry>cast</entry>
         <entry>setExpire</entry>
+        <entry>getStat</entry>
       </history-search>
       <history-cmd>
         <entry>!ls -l</entry>
