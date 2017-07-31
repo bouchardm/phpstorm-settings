@@ -32,6 +32,7 @@
         <mark key="." line="10" column="32" />
         <mark key="^" line="10" column="32" />
       </file>
+      <file name="$USER_HOME$/code/mica/vendor/folklore/graphql/src/Folklore/GraphQL/ServiceProvider.php" timestamp="1501517243481" />
       <file name="$USER_HOME$/code/mica/app/Enums/UserStatus.php" timestamp="1501262094991">
         <mark key="[" line="16" column="30" />
         <mark key="]" line="17" column="3" />
@@ -68,12 +69,12 @@
         <mark key="." line="13" column="1" />
         <mark key="^" line="13" column="1" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/User.php" timestamp="1501503904110">
+      <file name="$USER_HOME$/code/mica/app/User.php" timestamp="1501520083164">
         <mark key="'" line="319" column="47" />
-        <mark key="[" line="470" column="9" />
-        <mark key="]" line="472" column="28" />
-        <mark key="." line="472" column="28" />
-        <mark key="^" line="472" column="28" />
+        <mark key="[" line="171" column="5" />
+        <mark key="]" line="171" column="7" />
+        <mark key="." line="171" column="7" />
+        <mark key="^" line="171" column="7" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Command/ImportExpiredClientTest.php" timestamp="1501511960207">
         <mark key="[" line="136" column="0" />
@@ -118,11 +119,11 @@
         <mark key="." line="60" column="51" />
         <mark key="^" line="60" column="51" />
       </file>
-      <file name="$USER_HOME$/code/mica/.env" timestamp="1501517210099">
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="20" />
-        <mark key="^" line="6" column="20" />
-        <mark key="." line="6" column="20" />
+      <file name="$USER_HOME$/code/mica/.env" timestamp="1501520001499">
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="9" column="12" />
+        <mark key="^" line="9" column="12" />
+        <mark key="." line="9" column="12" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" timestamp="1501166580072">
         <mark key="[" line="151" column="34" />
@@ -211,6 +212,8 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/code/mica/config/app.php" timestamp="1501519924029" />
+      <file name="$USER_HOME$/code/mica/bootstrap/app.php" timestamp="1501519981996" />
       <file name="/dummy.sql" timestamp="1501503688615">
         <mark key="[" line="0" column="0" />
       </file>
@@ -239,11 +242,11 @@
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Providers/AppServiceProvider.php" timestamp="1501510695107">
-        <mark key="[" line="46" column="28" />
-        <mark key="]" line="46" column="67" />
-        <mark key="." line="46" column="67" />
-        <mark key="^" line="46" column="67" />
+      <file name="$USER_HOME$/code/mica/app/Providers/AppServiceProvider.php" timestamp="1501519955183">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="45" column="67" />
       </file>
       <file name="$USER_HOME$/code/Neoclocking/api/app/Http/Controllers/Api/CurrentUserController.php" timestamp="1457702546680">
         <mark key="[" line="118" column="28" />
@@ -412,7 +415,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -670,7 +673,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>Are you sure</text>
@@ -729,31 +732,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZHVtcCgpOwo=</text>
+        <text encoding="base64">dXNlIEJ1Z3NuYWdcQnVnc25hZ0xhcmF2ZWxcRmFjYWRlc1xCdWdzbmFnOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZHVtcCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y3JlYXRlVXNlcihbJ2V4cGlyZWQnID0+IHRydWVdKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+Y3JlYXRlVXNlcihbJ2V4cGlyZWQnID0+IHRydWVdKTsK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXERhdGFiYXNlVHJhbnNhY3Rpb25zOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y3JlYXRlVXNlcihbJ2V4cGlyZWQnID0+IHRydWVdKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXFdpdGhvdXRNaWRkbGV3YXJlOwo=</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXERhdGFiYXNlVHJhbnNhY3Rpb25zOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXFdpdGhvdXRNaWRkbGV3YXJlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
