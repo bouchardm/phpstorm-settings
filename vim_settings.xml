@@ -63,6 +63,11 @@
       <file name="$USER_HOME$/code/mica/app/Http/Validators/OneTimeClientShareValidator.php" timestamp="1501170098732">
         <mark key="[" line="14" column="1" />
       </file>
+      <file name="$USER_HOME$/code/mica/bootstrap/cache/config.php" timestamp="1501520757108">
+        <mark key="[" line="519" column="0" />
+        <mark key="]" line="519" column="0" />
+        <mark key="." line="519" column="0" />
+      </file>
       <file name="$USER_HOME$/code/mica/app/Http/Validators/ExpiredUserValidator.php" timestamp="1501510702171">
         <mark key="[" line="13" column="1" />
         <mark key="]" line="13" column="1" />
@@ -119,11 +124,11 @@
         <mark key="." line="60" column="51" />
         <mark key="^" line="60" column="51" />
       </file>
-      <file name="$USER_HOME$/code/mica/.env" timestamp="1501520001499">
-        <mark key="[" line="6" column="22" />
-        <mark key="]" line="9" column="12" />
-        <mark key="^" line="9" column="12" />
-        <mark key="." line="9" column="12" />
+      <file name="$USER_HOME$/code/mica/.env" timestamp="1501520230293">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="21" />
+        <mark key="^" line="6" column="21" />
+        <mark key="." line="6" column="21" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" timestamp="1501166580072">
         <mark key="[" line="151" column="34" />
@@ -217,7 +222,7 @@
       <file name="/dummy.sql" timestamp="1501503688615">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501513164820">
+      <file name="/Dummy.txt" timestamp="1501520751677">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Query/UserQueryTest.php" timestamp="1501168675635">
@@ -414,8 +419,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgMjIgPT4gJ0xhcmF2ZWxcXFRpbmtlclxcVGlua2VyU2VydmljZVByb3ZpZGVyJywK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -676,7 +681,7 @@
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>Are you sure</text>
+        <text>Tinker</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+Y3JlYXRlVXNlcihbJ2V4cGlyZWQnID0+IHRydWVdKTs=</text>
@@ -732,46 +737,45 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEJ1Z3NuYWdcQnVnc25hZ0xhcmF2ZWxcRmFjYWRlc1xCdWdzbmFnOwo=</text>
+        <text encoding="base64">ICAgICAgMjIgPT4gJ0xhcmF2ZWxcXFRpbmtlclxcVGlua2VyU2VydmljZVByb3ZpZGVyJywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZHVtcCgpOwo=</text>
+        <text encoding="base64">dXNlIEJ1Z3NuYWdcQnVnc25hZ0xhcmF2ZWxcRmFjYWRlc1xCdWdzbmFnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZHVtcCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y3JlYXRlVXNlcihbJ2V4cGlyZWQnID0+IHRydWVdKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+Y3JlYXRlVXNlcihbJ2V4cGlyZWQnID0+IHRydWVdKTsK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXERhdGFiYXNlVHJhbnNhY3Rpb25zOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y3JlYXRlVXNlcihbJ2V4cGlyZWQnID0+IHRydWVdKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXFdpdGhvdXRNaWRkbGV3YXJlOwo=</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXERhdGFiYXNlVHJhbnNhY3Rpb25zOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXFdpdGhvdXRNaWRkbGV3YXJlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Are you sure</last-search>
+      <last-search>Tinker</last-search>
       <last-offset />
-      <last-pattern>Are you sure</last-pattern>
+      <last-pattern>Tinker</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>clientsattr</entry>
         <entry>numbersattr</entry>
         <entry>dd</entry>
         <entry>oauth</entry>
@@ -791,6 +795,7 @@
         <entry>status</entry>
         <entry>Are you syre</entry>
         <entry>Are you sure</entry>
+        <entry>Tinker</entry>
       </history-search>
       <history-cmd>
         <entry>!ls -l</entry>
