@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/mica/app/Notifications/NewLinkedClient.php" timestamp="1501164952431">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Query/Notification/PaginatedNotificationsQuery.php" timestamp="1501164734541">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -45,11 +40,10 @@
         <mark key="." line="17" column="3" />
         <mark key="^" line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Http/Validators/ExpiredClientValidator.php" timestamp="1501591974686">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="38" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="16" column="15" />
+      <file name="$USER_HOME$/code/mica/app/Http/Validators/ExpiredClientValidator.php" timestamp="1501594141237">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Query/PaginatedUsersQuery.php" timestamp="1501529963066">
         <mark key="'" line="143" column="26" />
@@ -58,7 +52,7 @@
         <mark key="^" line="143" column="45" />
         <mark key="." line="140" column="34" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1501529692636">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1501594349694">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/navigation/Notification.vue" timestamp="1501166825780">
@@ -69,11 +63,6 @@
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/Validators/OneTimeClientShareValidator.php" timestamp="1501592144307">
         <mark key="[" line="14" column="1" />
-      </file>
-      <file name="$USER_HOME$/code/mica/bootstrap/cache/config.php" timestamp="1501520757108">
-        <mark key="[" line="519" column="0" />
-        <mark key="]" line="519" column="0" />
-        <mark key="." line="519" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/Validators/ExpiredUserValidator.php" timestamp="1501510702171">
         <mark key="[" line="13" column="1" />
@@ -107,11 +96,12 @@
         <mark key="^" line="18" column="40" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Mutation/LinkClientMutationTest.php" timestamp="1501592523843">
+      <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Mutation/LinkClientMutationTest.php" timestamp="1501593765111">
         <mark key="'" line="40" column="4" />
-        <mark key="[" line="144" column="42" />
-        <mark key="]" line="155" column="0" />
-        <mark key="." line="155" column="0" />
+        <mark key="[" line="222" column="0" />
+        <mark key="]" line="222" column="0" />
+        <mark key="^" line="221" column="57" />
+        <mark key="." line="222" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/UserUnitTest.php" timestamp="1501512396210">
         <mark key="[" line="320" column="28" />
@@ -131,21 +121,12 @@
         <mark key="^" line="17" column="26" />
         <mark key="." line="17" column="26" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" timestamp="1501591516887">
-        <mark key="[" line="27" column="30" />
-        <mark key="]" line="23" column="51" />
-        <mark key="." line="23" column="51" />
-        <mark key="^" line="23" column="51" />
-      </file>
-      <file name="$USER_HOME$/code/mica/app/Http/Controllers/NotificationController.php" timestamp="1501169015751">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/mica/app/Winfund/Client.php" timestamp="1501527390026">
-        <mark key="[" line="457" column="0" />
-        <mark key="]" line="457" column="0" />
-        <mark key="." line="457" column="0" />
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" timestamp="1501594424726">
+        <mark key="'" line="91" column="31" />
+        <mark key="[" line="26" column="121" />
+        <mark key="]" line="26" column="79" />
+        <mark key="." line="26" column="79" />
+        <mark key="^" line="26" column="79" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/lang/fr/validation.php" timestamp="1501529027298">
         <mark key="'" line="158" column="13" />
@@ -166,16 +147,6 @@
         <mark key="]" line="21" column="53" />
         <mark key="^" line="21" column="53" />
         <mark key="." line="21" column="53" />
-      </file>
-      <file name="$USER_HOME$/code/mica/database/migrations/2017_07_20_131654_create_client_links_table.php" timestamp="1501165152139">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/mica/tests/integration/UsernameGeneratorTest.php" timestamp="1501177880207">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/integration/AdminManageUsersTest.php" timestamp="1501507959288">
         <mark key="[" line="235" column="0" />
@@ -202,10 +173,11 @@
         <mark key="." line="112" column="24" />
         <mark key="^" line="112" column="24" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Mutation/User/LinkClientMutation.php" timestamp="1501592472754">
-        <mark key="[" line="46" column="89" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Mutation/User/LinkClientMutation.php" timestamp="1501594034803">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="^" line="72" column="19" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/TestCase.php" timestamp="1501530205010">
         <mark key="[" line="196" column="83" />
@@ -213,15 +185,10 @@
         <mark key="^" line="196" column="88" />
         <mark key="." line="196" column="88" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Http/Validators/ClientHasUserValidator.php" timestamp="1501170124126">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="/dummy.sql" timestamp="1501588759640">
+      <file name="/dummy.sql" timestamp="1501594332389">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501592070595">
+      <file name="/Dummy.txt" timestamp="1501593404793">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Query/UserQueryTest.php" timestamp="1501168675635">
@@ -243,16 +210,16 @@
         <mark key="." line="180" column="53" />
         <mark key="^" line="180" column="53" />
       </file>
+      <file name="$USER_HOME$/code/mica/config/debugbar.php" timestamp="1501516858073">
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="14" column="38" />
+        <mark key="." line="14" column="38" />
+      </file>
       <file name="$USER_HOME$/code/mica/resources/lang/en/profile.php" timestamp="1501590269558">
         <mark key="[" line="28" column="26" />
         <mark key="]" line="28" column="26" />
         <mark key="." line="28" column="26" />
         <mark key="^" line="27" column="30" />
-      </file>
-      <file name="$USER_HOME$/code/mica/tests/unit/Enums/UserStatusTest.php" timestamp="1501512247121">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Providers/AppServiceProvider.php" timestamp="1501523375236">
         <mark key="[" line="18" column="0" />
@@ -272,8 +239,8 @@
         <mark key="." line="45" column="24" />
         <mark key="^" line="45" column="24" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Http/Validators/UserOwnClientValidator.php" timestamp="1501592021908">
-        <mark key="[" line="13" column="0" />
+      <file name="$USER_HOME$/code/mica/app/Http/Validators/UserOwnClientValidator.php" timestamp="1501594102402">
+        <mark key="[" line="14" column="9" />
         <mark key="]" line="13" column="73" />
         <mark key="^" line="14" column="8" />
         <mark key="." line="11" column="12" />
@@ -284,11 +251,6 @@
         <mark key="^" line="118" column="27" />
         <mark key="." line="118" column="27" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Database/Generators/UsernameGenerator.php" timestamp="1501177866619">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-      </file>
       <file name="$USER_HOME$/code/mica/resources/lang/en/status.php" timestamp="1501511803250">
         <mark key="[" line="10" column="28" />
         <mark key="]" line="10" column="32" />
@@ -297,7 +259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="8" filename="$USER_HOME$/code/mica/tests/unit/Http/Controllers/DocumentControllerTest.php" />
       <jump line="90" column="89" filename="$USER_HOME$/code/mica/release/deploy.php" />
       <jump line="98" column="5" filename="$USER_HOME$/code/mica/release/deploy.php" />
       <jump line="88" column="6" filename="$USER_HOME$/code/mica/release/deploy.php" />
@@ -397,6 +358,7 @@
       <jump line="234" column="4" filename="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Support/Collection.php" />
       <jump line="34" column="0" filename="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Mutation/LinkClientMutationTest.php" />
       <jump line="40" column="4" filename="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Mutation/LinkClientMutationTest.php" />
+      <jump line="91" column="31" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -453,8 +415,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>null</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -712,13 +674,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jywg</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>same_client</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IDxsYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImNoZWNrYm94IiBuYW1lPSJjb25zZW50IiB2LW1vZGVsPSJsaW5rQ2xpZW50LmNvbnNlbnQiIHZhbHVlPSIxIj48aSBjbGFzcz0iaGVscGVyIj48L2k+CiAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuPnt7IHRyYW5zKCdwcm9maWxlLmxpbmtlZGNsaWVudC5jb25zZW50JykgfX08L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgPC9sYWJlbD4=</text>
+        <text encoding="base64">ICAgICAgICAkdG9DbGllbnQgPSBDbGllbnQ6OmZpbmQoJGFyZ3NbJ3RvQ2xpZW50SWQnXSk7</text>
       </register>
       <register name="q" type="4">
         <text encoding="base64">V0UgICAg</text>
@@ -727,31 +689,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZHVtcCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHZhbHVlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICEgJGNsaWVudC0+ZXhwaXJlZDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHVzZXIgPSAkZnJvbUNsaWVudC0+dXNlcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5kdW1wKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJGZyb21DbGllbnQtPnVzZXI7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">JGNsaWVudCA9ICRjbGllbnQgPz8gQ2xpZW50OjpmaW5kKCRjbGllbnRJZCk7CgogICAgICAgIHJldHVybiAkY2xpZW50LT51c2VyID8gJGNsaWVudC0+dXNlci0+aXMoYXV0aCgpLT51c2VyKCkpIDogZmFsc2U7</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gISAkY2xpZW50LT5leHBpcmVkOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAkY2xpZW50ID0gQ2xpZW50OjpmaW5kKChpbnQpICR2YWx1ZSk7CiAgICAgICAgaWYgKCFpc3NldCgkY2xpZW50KSkgewogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gISAkY2xpZW50LT5leHBpcmVkOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+dXNlclJlcG9zaXRvcnktPmxpbmtDbGllbnRUb1VzZXIoJGZyb21DbGllbnQsICR0b0NsaWVudCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>help diw</text>
       </register>
     </registers>
     <search>
@@ -785,8 +747,6 @@
         <entry>same_client</entry>
       </history-search>
       <history-cmd>
-        <entry>!ls -l</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry encoding="base64">bGV0IEBzPSc/KjxDUj54eDxVcD48RW5kPmE8RGVsPjxEZWw+PERlbD48RGVsPjxEZWw+PEVuZD48RGVsPjxEZWw+PERlbD48RGVsPjxEZWw+PEVzYz4n</entry>
         <entry encoding="base64">bGV0IEBzID0gJz8qPENSPnh4PFVwPjxFbmQ+YTxEZWw+PERlbD48RGVsPjxEZWw+PERlbD48RW5kPjxEZWw+PERlbD48RGVsPjxEZWw+PERlbD48RXNjPic=</entry>
         <entry encoding="base64">bGV0IEBzPSdcPyo8Q1I+eHg8VXA+PEVuZD5hPERlbD48RGVsPjxEZWw+PERlbD48RGVsPjxFbmQ+PERlbD48RGVsPjxEZWw+PERlbD48RGVsPjxFc2M+Jw==</entry>
@@ -805,6 +765,8 @@
         <entry encoding="base64">dyA=</entry>
         <entry>reg</entry>
         <entry>w</entry>
+        <entry>help</entry>
+        <entry>help diw</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -819,7 +781,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed M</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -837,13 +799,13 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Q</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
