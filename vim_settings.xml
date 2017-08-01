@@ -104,12 +104,6 @@
         <mark key="." line="136" column="0" />
         <mark key="^" line="136" column="31" />
       </file>
-      <file name="$USER_HOME$/code/mica/tests/integration/UsersListTest.php" timestamp="1501524707751">
-        <mark key="'" line="145" column="0" />
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="0" />
-        <mark key="." line="136" column="0" />
-      </file>
       <file name="$USER_HOME$/code/mica/config/auth.php" timestamp="1501608956709" />
       <file name="$USER_HOME$/code/mica/resources/lang/en/information.php" timestamp="1501514530080">
         <mark key="'" line="61" column="8" />
@@ -150,13 +144,13 @@
         <mark key="." line="17" column="26" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/bootstrap.js" timestamp="1501608665139" />
-      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" timestamp="1501615346971">
-        <mark key="'" line="242" column="0" />
-        <mark key="[" line="1" column="41" />
-        <mark key="]" line="225" column="56" />
-        <mark key="^" line="225" column="56" />
-        <mark key="." line="225" column="56" />
-        <mark key="o" line="30" column="124" />
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" timestamp="1501617736509">
+        <mark key="'" line="7" column="19" />
+        <mark key="[" line="226" column="34" />
+        <mark key="]" line="227" column="42" />
+        <mark key="." line="227" column="42" />
+        <mark key="^" line="227" column="42" />
+        <mark key="o" line="50" column="124" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/lang/en/notifications.php" timestamp="1501613035850">
         <mark key="'" line="0" column="0" />
@@ -175,12 +169,6 @@
         <mark key="]" line="51" column="31" />
         <mark key="^" line="51" column="31" />
         <mark key="." line="51" column="31" />
-      </file>
-      <file name="$USER_HOME$/code/mica/app/Winfund/Client.php" timestamp="1501599595207">
-        <mark key="'" line="671" column="23" />
-        <mark key="[" line="457" column="0" />
-        <mark key="]" line="457" column="0" />
-        <mark key="." line="457" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/lang/fr/validation.php" timestamp="1501529027298">
         <mark key="'" line="158" column="13" />
@@ -249,7 +237,7 @@
       </file>
       <file name="$USER_HOME$/code/mica/config/app.php" timestamp="1501519924029" />
       <file name="$USER_HOME$/code/mica/bootstrap/app.php" timestamp="1501519981996" />
-      <file name="/Dummy.txt" timestamp="1501615239404">
+      <file name="/Dummy.txt" timestamp="1501616877826">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Query/UserQueryTest.php" timestamp="1501168675635">
@@ -277,8 +265,18 @@
         <mark key="." line="180" column="53" />
         <mark key="^" line="180" column="53" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/lang/en/profile.php" timestamp="1501590269558">
-        <mark key="[" line="28" column="26" />
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/ui/Alert.vue" timestamp="1501617570548">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/config/debugbar.php" timestamp="1501516858073">
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="14" column="38" />
+        <mark key="." line="14" column="38" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/lang/en/profile.php" timestamp="1501616157894">
+        <mark key="[" line="32" column="78" />
         <mark key="]" line="28" column="26" />
         <mark key="." line="28" column="26" />
         <mark key="^" line="27" column="30" />
@@ -294,8 +292,8 @@
         <mark key="^" line="44" column="67" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/lang/fr/profile.php" timestamp="1501590245820">
-        <mark key="[" line="28" column="26" />
+      <file name="$USER_HOME$/code/mica/resources/lang/fr/profile.php" timestamp="1501616079567">
+        <mark key="[" line="32" column="70" />
         <mark key="]" line="28" column="26" />
         <mark key="." line="28" column="26" />
         <mark key="^" line="25" column="24" />
@@ -335,21 +333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="306" column="52" filename="$USER_HOME$/code/mica/tests/integration/UserSecurityTest.php" />
-      <jump line="308" column="44" filename="$USER_HOME$/code/mica/tests/integration/UserSecurityTest.php" />
-      <jump line="309" column="33" filename="$USER_HOME$/code/mica/tests/integration/UserSecurityTest.php" />
-      <jump line="310" column="42" filename="$USER_HOME$/code/mica/tests/integration/UserSecurityTest.php" />
-      <jump line="22" column="29" filename="$USER_HOME$/code/mica/tests/integration/UserSecurityTest.php" />
-      <jump line="24" column="26" filename="$USER_HOME$/code/mica/tests/integration/UserSecurityTest.php" />
-      <jump line="29" column="63" filename="$USER_HOME$/code/mica/tests/integration/UserSecurityTest.php" />
-      <jump line="454" column="0" filename="$USER_HOME$/code/mica/app/User.php" />
-      <jump line="140" column="9" filename="$USER_HOME$/code/mica/app/User.php" />
-      <jump line="29" column="19" filename="$USER_HOME$/code/mica/app/User.php" />
-      <jump line="101" column="16" filename="$USER_HOME$/code/mica/app/User.php" />
-      <jump line="62" column="71" filename="$USER_HOME$/code/mica/app/User.php" />
-      <jump line="159" column="20" filename="$USER_HOME$/code/mica/app/User.php" />
-      <jump line="163" column="14" filename="$USER_HOME$/code/mica/app/User.php" />
-      <jump line="168" column="41" filename="$USER_HOME$/code/mica/app/User.php" />
       <jump line="234" column="52" filename="$USER_HOME$/code/mica/app/User.php" />
       <jump line="236" column="76" filename="$USER_HOME$/code/mica/app/User.php" />
       <jump line="286" column="20" filename="$USER_HOME$/code/mica/app/User.php" />
@@ -421,8 +404,6 @@
       <jump line="95" column="78" filename="$USER_HOME$/code/mica/resources/views/mail/mica.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/code/mica/resources/lang/en/notifications.php" />
       <jump line="226" column="0" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
-      <jump line="12" column="20" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
-      <jump line="18" column="81" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
       <jump line="22" column="97" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
       <jump line="24" column="75" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
       <jump line="223" column="12" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
@@ -433,8 +414,25 @@
       <jump line="23" column="73" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
       <jump line="216" column="21" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
       <jump line="239" column="0" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
-      <jump line="224" column="56" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
       <jump line="241" column="0" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
+      <jump line="9" column="156" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
+      <jump line="12" column="39" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
+      <jump line="13" column="50" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
+      <jump line="18" column="13" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
+      <jump line="242" column="0" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
+      <jump line="181" column="21" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
+      <jump line="243" column="0" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
+      <jump line="53" column="37" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
+      <jump line="201" column="12" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
+      <jump line="205" column="26" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
+      <jump line="224" column="69" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
+      <jump line="225" column="66" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
+      <jump line="1" column="42" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
+      <jump line="3" column="24" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
+      <jump line="8" column="13" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
+      <jump line="211" column="16" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
+      <jump line="6" column="20" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
+      <jump line="7" column="19" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -492,7 +490,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnbWFya2V0VmFsdWUnID0+IGZvcm1hdF9tb25leSgkdGhpcy0+Y2xpZW50LT50b3RhbF9pbnZlc3RtZW50KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgOnN0YXJ0LWhpZGRlbj0idHJ1ZSIK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -750,10 +748,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>[EN] Vous avez maintenant accès à:</text>
+        <text>cancel</text>
       </register>
       <register name="/" type="4">
-        <text>({{</text>
+        <text>button</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">J25ld19saW5rZWRfY2xpZW50JyA9PiBbCiAgICAgICAgJ2xpbmUnID0+ICdbRlJdIFZvdXMgYXZleiBtYWludGVuYW50IGFjY8OocyDDoCA6Y2xpZW50TmFtZSA6Y2xpZW50U3VybmFtZSA6bWFya2V0VmFsdWUnLAogICAgICAgICdhY3Rpb24nID0+ICJDb25uZWN0aW9uIiwKICAgIF0=</text>
@@ -762,51 +760,45 @@
         <text encoding="base64">V0UgICAg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnbWFya2V0VmFsdWUnID0+IGZvcm1hdF9tb25leSgkdGhpcy0+Y2xpZW50LT50b3RhbF9pbnZlc3RtZW50KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgOnN0YXJ0LWhpZGRlbj0idHJ1ZSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnY2xpZW50U3VybmFtZScgPT4gJHRoaXMtPmNsaWVudC0+U3VybmFtZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQGNhbmNlbD0iY2xpZW50VG9VbmxpbmsgPSBudWxsIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnY2xpZW50TmFtZScgPT4gJHRoaXMtPmNsaWVudC0+TmFtZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuY2xvc2UoKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xvcjogI2Y3ZjdmNzsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICB0aGlzLmNsb3NlKCk7CiAgICAgICAgICAgICAgICB0aGlzLiRlbWl0KCc=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmNsaWVudHMtPmNvdW50KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQGNhbmNlbD0iIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdmFyIGFycmF5ICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgOnN0YXJ0LWhpZGRlbj0idHJ1ZSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnbGluZScgPT4gJ1tGUl0gVm91cyBhdmV6IG1haW50ZW5hbnQgYWNjw6hzIMOgIDpjbGllbnROYW1lIDpjbGllbnRTdXJuYW1lIDptYXJrZXRWYWx1ZScsCiAgICAgICAgJ2FjdGlvbicgPT4gIkxvZ2luIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLiRicm9hZGNhc3QoJ2FsZXJ0OnN1Y2Nlc3MtdW5saW5rJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnbGluZScgPT4gJ1tGUl0gVm91cyBhdmV6IG1haW50ZW5hbnQgYWNjw6hzIMOgIDpjbGllbnROYW1lIDpjbGllbnRTdXJuYW1lIDptYXJrZXRWYWx1ZScsCiAgICAgICAgJ2FjdGlvbicgPT4gIkxvZ2luIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnbWFya2V0VmFsdWUnID0+IGZvcm1hdF9tb25leSgkdGhpcy0+Y2xpZW50LT50b3RhbF9pbnZlc3RtZW50KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnY2xpZW50U3VybmFtZScgPT4gJHRoaXMtPmNsaWVudC0+U3VybmFtZSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>({{</last-search>
+      <last-search>button</last-search>
       <last-offset />
-      <last-pattern>({{</last-pattern>
+      <last-pattern>button</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>isAdmin</entry>
-        <entry>status</entry>
-        <entry>clients</entry>
-        <entry>clients_list</entry>
-        <entry>function has</entry>
-        <entry>i_cant_share</entry>
         <entry>same_client</entry>
         <entry>notifi</entry>
         <entry>expired</entry>
@@ -821,6 +813,12 @@
         <entry>label</entry>
         <entry>style</entry>
         <entry>({{</entry>
+        <entry>link</entry>
+        <entry encoding="base64">bGlua0NsaWVuIA==</entry>
+        <entry>success:</entry>
+        <entry>unlink</entry>
+        <entry>confirm</entry>
+        <entry>button</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bGV0IEBzPSc/KjxDUj54eDxVcD48RW5kPmE8RGVsPjxEZWw+PERlbD48RGVsPjxEZWw+PEVuZD48RGVsPjxEZWw+PERlbD48RGVsPjxEZWw+PEVzYz4n</entry>
