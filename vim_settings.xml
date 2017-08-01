@@ -68,8 +68,11 @@
         <mark key="." line="10" column="123" />
         <mark key="^" line="10" column="123" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Http/Validators/OneTimeClientShareValidator.php" timestamp="1501592144307">
-        <mark key="[" line="14" column="1" />
+      <file name="$USER_HOME$/code/mica/app/Http/Validators/OneTimeClientShareValidator.php" timestamp="1501599812936">
+        <mark key="[" line="12" column="35" />
+        <mark key="]" line="12" column="38" />
+        <mark key="^" line="12" column="38" />
+        <mark key="." line="12" column="38" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/Validators/ExpiredUserValidator.php" timestamp="1501510702171">
         <mark key="[" line="13" column="1" />
@@ -147,8 +150,8 @@
         <mark key="." line="25" column="53" />
         <mark key="^" line="25" column="53" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Winfund/Client.php" timestamp="1501597215006">
-        <mark key="'" line="455" column="4" />
+      <file name="$USER_HOME$/code/mica/app/Winfund/Client.php" timestamp="1501599595207">
+        <mark key="'" line="671" column="23" />
         <mark key="[" line="457" column="0" />
         <mark key="]" line="457" column="0" />
         <mark key="." line="457" column="0" />
@@ -198,7 +201,7 @@
         <mark key="." line="112" column="24" />
         <mark key="^" line="112" column="24" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Mutation/User/LinkClientMutation.php" timestamp="1501599066586">
+      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Mutation/User/LinkClientMutation.php" timestamp="1501599639884">
         <mark key="[" line="76" column="31" />
         <mark key="]" line="76" column="29" />
         <mark key="." line="76" column="29" />
@@ -213,7 +216,7 @@
       <file name="/dummy.sql" timestamp="1501595383517">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501598578209">
+      <file name="/Dummy.txt" timestamp="1501599700648">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Query/UserQueryTest.php" timestamp="1501168675635">
@@ -280,7 +283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="4" filename="$USER_HOME$/code/mica/release/deploy.php" />
       <jump line="102" column="5" filename="$USER_HOME$/code/mica/release/deploy.php" />
       <jump line="39" column="0" filename="$USER_HOME$/code/mica/tests/integration/UserSecurityTest.php" />
       <jump line="42" column="78" filename="$USER_HOME$/code/mica/tests/integration/UserSecurityTest.php" />
@@ -380,6 +382,7 @@
       <jump line="455" column="4" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
       <jump line="11" column="56" filename="$USER_HOME$/code/mica/app/Http/Validators/UserOwnClientValidator.php" />
       <jump line="56" column="25" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="671" column="23" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -437,7 +440,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pz8g</text>
+        <text>word</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -695,10 +698,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pz8g</text>
+        <text>word</text>
       </register>
       <register name="/" type="4">
-        <text>Personal</text>
+        <text>linkedClient</text>
       </register>
       <register name="0" type="4">
         <text>\Notification::assertSentTo([$toUser], NewLinkedClient::class);</text>
@@ -738,15 +741,14 @@
       </register>
     </registers>
     <search>
-      <last-search>Personal</last-search>
+      <last-search>linkedClient</last-search>
       <last-offset />
-      <last-pattern>Personal</last-pattern>
+      <last-pattern>linkedClient</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>setExpire</entry>
         <entry>getStat</entry>
         <entry>Are you syre</entry>
         <entry>Are you sure</entry>
@@ -766,6 +768,7 @@
         <entry>expired</entry>
         <entry>personal</entry>
         <entry>Personal</entry>
+        <entry>linkedClient</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bGV0IEBzPSc/KjxDUj54eDxVcD48RW5kPmE8RGVsPjxEZWw+PERlbD48RGVsPjxEZWw+PEVuZD48RGVsPjxEZWw+PERlbD48RGVsPjxEZWw+PEVzYz4n</entry>
