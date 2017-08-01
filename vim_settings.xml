@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/mica/app/Notifications/NewLinkedClient.php" timestamp="1501596156440">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="12" column="18" />
+      </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Query/Notification/PaginatedNotificationsQuery.php" timestamp="1501164734541">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -70,8 +76,13 @@
         <mark key="." line="13" column="1" />
         <mark key="^" line="13" column="1" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/User.php" timestamp="1501528891979">
-        <mark key="'" line="236" column="20" />
+      <file name="$USER_HOME$/code/mica/app/Notifications/NewLinkedClients.php" timestamp="1501596060846">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/User.php" timestamp="1501596295841">
+        <mark key="'" line="393" column="31" />
         <mark key="[" line="212" column="0" />
         <mark key="]" line="212" column="0" />
         <mark key="." line="212" column="0" />
@@ -96,12 +107,12 @@
         <mark key="^" line="18" column="40" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Mutation/LinkClientMutationTest.php" timestamp="1501593765111">
-        <mark key="'" line="40" column="4" />
-        <mark key="[" line="222" column="0" />
-        <mark key="]" line="222" column="0" />
-        <mark key="^" line="221" column="57" />
-        <mark key="." line="222" column="0" />
+      <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Mutation/LinkClientMutationTest.php" timestamp="1501596312704">
+        <mark key="'" line="41" column="4" />
+        <mark key="[" line="225" column="38" />
+        <mark key="]" line="225" column="53" />
+        <mark key="." line="225" column="53" />
+        <mark key="^" line="225" column="53" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/UserUnitTest.php" timestamp="1501512396210">
         <mark key="[" line="320" column="28" />
@@ -173,10 +184,11 @@
         <mark key="." line="112" column="24" />
         <mark key="^" line="112" column="24" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Mutation/User/LinkClientMutation.php" timestamp="1501595408804">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
+      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Mutation/User/LinkClientMutation.php" timestamp="1501596222201">
+        <mark key="[" line="68" column="12" />
+        <mark key="]" line="68" column="58" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="67" column="69" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/TestCase.php" timestamp="1501530205010">
         <mark key="[" line="196" column="83" />
@@ -258,8 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="89" filename="$USER_HOME$/code/mica/release/deploy.php" />
-      <jump line="98" column="5" filename="$USER_HOME$/code/mica/release/deploy.php" />
       <jump line="88" column="6" filename="$USER_HOME$/code/mica/release/deploy.php" />
       <jump line="89" column="46" filename="$USER_HOME$/code/mica/release/deploy.php" />
       <jump line="104" column="18" filename="$USER_HOME$/code/mica/release/deploy.php" />
@@ -358,6 +368,8 @@
       <jump line="34" column="0" filename="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Mutation/LinkClientMutationTest.php" />
       <jump line="40" column="4" filename="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Mutation/LinkClientMutationTest.php" />
       <jump line="91" column="31" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
+      <jump line="212" column="0" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="393" column="31" filename="$USER_HOME$/code/mica/app/User.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -415,7 +427,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiAkdXNlcjsK</text>
+        <text encoding="base64">ICAgICAgICBcTm90aWZpY2F0aW9uOjphc3NlcnRTZW50VG8oWyR0b1VzZXJdLCBOZXdMaW5rZWRDbGllbnQ6OmNsYXNzKTsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -673,37 +685,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>mail</text>
       </register>
       <register name="/" type="4">
-        <text>same_client</text>
+        <text>notifi</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAkdG9DbGllbnQgPSBDbGllbnQ6OmZpbmQoJGFyZ3NbJ3RvQ2xpZW50SWQnXSk7</text>
+        <text>\Notification::assertSentTo([$toUser], NewLinkedClient::class);</text>
       </register>
       <register name="q" type="4">
         <text encoding="base64">V0UgICAg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiAkdXNlcjsK</text>
+        <text encoding="base64">ICAgICAgICBcTm90aWZpY2F0aW9uOjphc3NlcnRTZW50VG8oWyR0b1VzZXJdLCBOZXdMaW5rZWRDbGllbnQ6OmNsYXNzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBcTm90aWZpY2F0aW9uOjphc3NlcnRTZW50VG8oWyR0b1VzZXJdLCBOZXdMaW5rZWRDbGllbnQ6OmNsYXNzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAkdG9DbGllbnQtPnVzZXItPmluY3JlbWVudE5vdGlmaWNhdGlvbkNvdW50KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICEgJGNsaWVudC0+ZXhwaXJlZDsK</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcTm90aWZpY2F0aW9uc1xNZXNzYWdlc1xNYWlsTWVzc2FnZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHVzZXIgPSAkZnJvbUNsaWVudC0+dXNlcjsK</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJGZyb21DbGllbnQtPnVzZXI7Cg==</text>
+        <text encoding="base64">ICAgICAqIEB2YXIgQ2xpZW50Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -712,19 +724,18 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>help diw</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>same_client</last-search>
+      <last-search>notifi</last-search>
       <last-offset />
-      <last-pattern>same_client</last-pattern>
+      <last-pattern>notifi</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>fill</entry>
         <entry>setSta</entry>
         <entry>cast</entry>
         <entry>setExpire</entry>
@@ -744,6 +755,7 @@
         <entry>function has</entry>
         <entry>i_cant_share</entry>
         <entry>same_client</entry>
+        <entry>notifi</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bGV0IEBzPSc/KjxDUj54eDxVcD48RW5kPmE8RGVsPjxEZWw+PERlbD48RGVsPjxEZWw+PEVuZD48RGVsPjxEZWw+PERlbD48RGVsPjxEZWw+PEVzYz4n</entry>
@@ -763,9 +775,9 @@
         <entry>wq</entry>
         <entry encoding="base64">dyA=</entry>
         <entry>reg</entry>
-        <entry>w</entry>
         <entry>help</entry>
         <entry>help diw</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
