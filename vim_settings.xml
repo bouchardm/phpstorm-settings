@@ -39,17 +39,11 @@
         <mark key="." line="10" column="32" />
         <mark key="^" line="10" column="32" />
       </file>
-      <file name="$USER_HOME$/code/mica/vendor/folklore/graphql/src/Folklore/GraphQL/ServiceProvider.php" timestamp="1501517243481" />
       <file name="$USER_HOME$/code/mica/app/Enums/UserStatus.php" timestamp="1501262094991">
         <mark key="[" line="16" column="30" />
         <mark key="]" line="17" column="3" />
         <mark key="." line="17" column="3" />
         <mark key="^" line="17" column="3" />
-      </file>
-      <file name="$USER_HOME$/code/mica/tests/integration/UserProfileTest.php" timestamp="1501530190332">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Query/PaginatedUsersQuery.php" timestamp="1501529963066">
         <mark key="'" line="143" column="26" />
@@ -136,17 +130,17 @@
         <mark key="^" line="17" column="26" />
         <mark key="." line="17" column="26" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" timestamp="1501166580072">
-        <mark key="[" line="151" column="34" />
-        <mark key="]" line="151" column="56" />
-        <mark key="." line="151" column="34" />
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" timestamp="1501590980949">
+        <mark key="[" line="27" column="30" />
+        <mark key="]" line="27" column="30" />
+        <mark key="." line="27" column="30" />
+        <mark key="^" line="27" column="40" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/Controllers/NotificationController.php" timestamp="1501169015751">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/config/graphql.php" timestamp="1501516906391" />
       <file name="$USER_HOME$/code/mica/app/Winfund/Client.php" timestamp="1501527390026">
         <mark key="[" line="457" column="0" />
         <mark key="]" line="457" column="0" />
@@ -224,12 +218,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/config/app.php" timestamp="1501519924029" />
-      <file name="$USER_HOME$/code/mica/bootstrap/app.php" timestamp="1501519981996" />
-      <file name="/dummy.sql" timestamp="1501529687932">
+      <file name="/dummy.sql" timestamp="1501588759640">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501530172498">
+      <file name="/Dummy.txt" timestamp="1501589389288">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Query/UserQueryTest.php" timestamp="1501168675635">
@@ -251,6 +243,12 @@
         <mark key="." line="180" column="53" />
         <mark key="^" line="180" column="53" />
       </file>
+      <file name="$USER_HOME$/code/mica/resources/lang/en/profile.php" timestamp="1501590269558">
+        <mark key="[" line="28" column="26" />
+        <mark key="]" line="28" column="26" />
+        <mark key="." line="28" column="26" />
+        <mark key="^" line="27" column="30" />
+      </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Enums/UserStatusTest.php" timestamp="1501512247121">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="0" />
@@ -261,6 +259,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="^" line="44" column="67" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/lang/fr/profile.php" timestamp="1501590245820">
+        <mark key="[" line="28" column="26" />
+        <mark key="]" line="28" column="26" />
+        <mark key="." line="28" column="26" />
+        <mark key="^" line="25" column="24" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Database/Connections/ODBCConnection.php" timestamp="1501528404249">
         <mark key="[" line="45" column="24" />
@@ -444,7 +448,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Code</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -702,16 +706,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Code</text>
       </register>
       <register name="/" type="4">
         <text>function has</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">JHN0YXR1cy0+Y29udGFpbnMobnVsbCwgJ2V4cGlyZWQnKQ==</text>
+        <text encoding="base64">IDxsYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImNoZWNrYm94IiBuYW1lPSJjb25zZW50IiB2LW1vZGVsPSJsaW5rQ2xpZW50LmNvbnNlbnQiIHZhbHVlPSIxIj48aSBjbGFzcz0iaGVscGVyIj48L2k+CiAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuPnt7IHRyYW5zKCdwcm9maWxlLmxpbmtlZGNsaWVudC5jb25zZW50JykgfX08L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgPC9sYWJlbD4=</text>
       </register>
       <register name="q" type="4">
-        <text />
+        <text encoding="base64">V0UgICAg</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -786,7 +790,6 @@
         <entry>let @s='asalut'</entry>
         <entry>source ~/.vimrc</entry>
         <entry>reg q</entry>
-        <entry>reg</entry>
         <entry>464</entry>
         <entry>3</entry>
         <entry>2</entry>
@@ -794,6 +797,7 @@
         <entry>W</entry>
         <entry>wq</entry>
         <entry encoding="base64">dyA=</entry>
+        <entry>reg</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -835,6 +839,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
