@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/mica/app/Notifications/NewLinkedClient.php" timestamp="1501851239673">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="15" column="34" />
+      <file name="$USER_HOME$/code/mica/app/Notifications/NewLinkedClient.php" timestamp="1501852293567">
+        <mark key="[" line="33" column="54" />
+        <mark key="]" line="33" column="53" />
+        <mark key="." line="33" column="53" />
+        <mark key="^" line="33" column="53" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Query/Notification/PaginatedNotificationsQuery.php" timestamp="1501164734541">
         <mark key="[" line="38" column="0" />
@@ -108,12 +108,12 @@
         <mark key="." line="38" column="17" />
         <mark key="^" line="38" column="17" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/User.php" timestamp="1501789934940">
-        <mark key="'" line="88" column="6" />
-        <mark key="[" line="245" column="89" />
-        <mark key="]" line="245" column="98" />
-        <mark key="^" line="245" column="98" />
-        <mark key="." line="245" column="98" />
+      <file name="$USER_HOME$/code/mica/app/User.php" timestamp="1501853406286">
+        <mark key="'" line="60" column="25" />
+        <mark key="[" line="241" column="47" />
+        <mark key="]" line="246" column="98" />
+        <mark key="^" line="246" column="98" />
+        <mark key="." line="246" column="98" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Command/ImportExpiredClientTest.php" timestamp="1501785948049">
         <mark key="'" line="136" column="67" />
@@ -261,6 +261,12 @@
         <mark key="]" line="188" column="0" />
         <mark key="." line="188" column="0" />
       </file>
+      <file name="$USER_HOME$/code/mica/tests/unit/Repositories/ClientRepositoryTest.php" timestamp="1501853955558">
+        <mark key="[" line="193" column="51" />
+        <mark key="]" line="193" column="52" />
+        <mark key="." line="193" column="52" />
+        <mark key="^" line="193" column="52" />
+      </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Mutation/User/LinkClientMutation.php" timestamp="1501851010009">
         <mark key="[" line="80" column="44" />
         <mark key="]" line="80" column="57" />
@@ -294,7 +300,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501791358702">
+      <file name="/Dummy.txt" timestamp="1501852021565">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Query/UserQueryTest.php" timestamp="1501790686120">
@@ -303,11 +309,11 @@
         <mark key="^" line="47" column="108" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Repositories/ClientRepository.php" timestamp="1501762202693">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="29" column="49" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/code/mica/app/Repositories/ClientRepository.php" timestamp="1501853986924">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="35" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/lang/fr/notifications.php" timestamp="1501851320857">
         <mark key="[" line="94" column="80" />
@@ -427,22 +433,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="227" column="1" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
-      <jump line="231" column="2" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
-      <jump line="222" column="17" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
-      <jump line="23" column="73" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
-      <jump line="216" column="21" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
-      <jump line="241" column="0" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
-      <jump line="9" column="156" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
-      <jump line="12" column="39" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
-      <jump line="13" column="50" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
-      <jump line="18" column="13" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
-      <jump line="242" column="0" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
-      <jump line="181" column="21" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
-      <jump line="243" column="0" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
-      <jump line="53" column="37" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
-      <jump line="201" column="12" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
-      <jump line="205" column="26" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
       <jump line="225" column="66" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
       <jump line="3" column="24" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
       <jump line="8" column="13" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
@@ -527,6 +517,22 @@
       <jump line="136" column="41" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
       <jump line="140" column="42" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
       <jump line="213" column="39" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/mica/tests/unit/Repositories/ClientRepositoryTest.php" />
+      <jump line="257" column="8" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="368" column="25" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="419" column="23" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="425" column="25" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="429" column="47" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="432" column="23" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="434" column="22" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="34" column="23" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="51" column="25" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="52" column="25" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="65" column="71" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="107" column="9" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="121" column="9" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="369" column="0" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="59" column="25" filename="$USER_HOME$/code/mica/app/User.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -583,8 +589,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Vous avez maintenant accès à visualiser les comptes de: :user.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkY2xpZW50c0xpc3QgPSAkY2xpZW50c0xpc3QtPm1lcmdlKCR1c2VyLT5zaGFyZWRfY2xpZW50cy0+ZmlsdGVyKGZ1bmN0aW9uICgkY2xpZW50KSB1c2UgKCR1c2VyKSB7CiAgICAgICAgICAgIHJldHVybiAkY2xpZW50LT5Db2RlICE9ICR1c2VyLT5jdXJyZW50X2NsaWVudF9pZDsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -842,13 +848,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Vous avez maintenant accès à visualiser les comptes de: :user.</text>
+        <text encoding="base64">JHRoaXMtPmdldHNoYXJlZGNsaWVudCgkdXNlci0+Y3VycmVudF9jbGllbnQsICR1c2VyLT5zaGFyZWRfY2xpZW50cyk=</text>
       </register>
       <register name="/" type="4">
-        <text>confirm-unlink</text>
+        <text>shared</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">LT5saW5lKAogICAgICAgICAgICB0cmFucygKICAgICAgICAgICAgICAgICdub3RpZmljYXRpb25zLm5ld19saW5rZWRfY2xpZW50LmxpbmUnLAogICAgICAgICAgICAgICAgWyd1c2VyJyA9PiAieyR0aGlzLT51c2VyLT5maXJzdF9uYW1lfSB7JHRoaXMtPnVzZXItPmxhc3RfbmFtZX0gLSB7JHRoaXMtPnVzZXItPnVzZXJuYW1lfSJdCiAgICAgICAgICAgICkKICAgICAgICApLQ==</text>
+        <text encoding="base64">ICAgICAgICBsaXN0KCRmcm9tVXNlciwgJGZyb21DbGllbnQpID0gJHRoaXMtPmNyZWF0ZVVzZXJBbmRDbGllbnQoKTsKICAgICAgICBsaXN0KCR0b1VzZXIsICR0b0NsaWVudCkgPSAkdGhpcy0+Y3JlYXRlVXNlckFuZENsaWVudCgpOwogICAgICAgICR0aGlzLT5jcmVhdGVSZWxhdGVkV2luZnVuZENsaWVudCgkdG9DbGllbnQpOwogICAgICAgICR0aGlzLT5hcHAtPm1ha2UoVXNlclJlcG9zaXRvcnk6OmNsYXNzKS0+bGlua0NsaWVudFRvVXNlcigkZnJvbVVzZXIsICR0b1VzZXIpOwoKICAgICAgICAkY2xpZW50cyA9ICR0aGlzLT5jbGllbnRSZXBvc2l0b3J5LT5vcmRlcmVkQ2xpZW50KCR0b1VzZXIpLT5wbHVjaygnQ29kZScpOwoKICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCRmcm9tQ2xpZW50LT5Db2RlLCAkY2xpZW50c1syXSk7</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -885,40 +891,40 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEFwcFxXaW5mdW5kXENsaWVudDsK</text>
+        <text encoding="base64">ICAgICAgICAkY2xpZW50c0xpc3QgPSAkY2xpZW50c0xpc3QtPm1lcmdlKCR1c2VyLT5zaGFyZWRfY2xpZW50cy0+ZmlsdGVyKGZ1bmN0aW9uICgkY2xpZW50KSB1c2UgKCR1c2VyKSB7CiAgICAgICAgICAgIHJldHVybiAkY2xpZW50LT5Db2RlICE9ICR1c2VyLT5jdXJyZW50X2NsaWVudF9pZDsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">dHJhbnNfY2hvaWNlKAogICAgICAgICAgICAgICAgJ25vdGlmaWNhdGlvbnMubmV3X2xpbmtlZF9jbGllbnQubGluZScsCiAgICAgICAgICAgICAgICAxLAogICAgICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgICAgICdjbGllbnRzJyA9PiAieyR0aGlzLT5jbGllbnQtPk5hbWV9IHskdGhpcy0+Y2xpZW50LT5TdXJuYW1lfSAoeyR0aGlzLT5jbGllbnQtPkNvZGV9KSIKICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgKSw=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBkdW1wKCRjbGllbnRzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIG5vdGlmaWNhdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCJmcm9tY2xpZW50IHskZnJvbUNsaWVudC0+Q29kZX0iKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdG9Vc2VyLT5zYXZlKCk7ZGQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCR0b1VzZXItPmN1cnJlbnRDbGllbnQtPkNvZGUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgfSktPmltcGxvZGUoJywgJyksCg==</text>
+        <text encoding="base64">ICAgICAgICAkdG9Vc2VyLT51cGRhdGUoWydjdXJyZW50X2NsaWVudF9jb2RlJyA9PiAkZnJvbUNsaWVudC0+Q29kZV0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIHJldHVybiAieyRjbGllbnQtPk5hbWV9IHskY2xpZW50LT5TdXJuYW1lfSAoJGNsaWVudC0+Q29kZSkiOwo=</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCR1c2VyLT5jdXJyZW50X2NsaWVudC0+Q29kZSk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgJ2NsaWVudHMnID0+ICR0aGlzLT5jbGllbnRzLT5tYXAoZnVuY3Rpb24gKCRjbGllbnQpIHsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICBsaXN0KCRmcm9tVXNlciwgJGZyb21DbGllbnQpID0gJHRoaXMtPmNyZWF0ZVVzZXJBbmRDbGllbnQoKTsKICAgICAgICBsaXN0KCR0b1VzZXIsICR0b0NsaWVudCkgPSAkdGhpcy0+Y3JlYXRlVXNlckFuZENsaWVudCgpOwogICAgICAgICR0aGlzLT5jcmVhdGVSZWxhdGVkV2luZnVuZENsaWVudCgkdG9DbGllbnQpOwogICAgICAgICR0aGlzLT5hcHAtPm1ha2UoVXNlclJlcG9zaXRvcnk6OmNsYXNzKS0+bGlua0NsaWVudFRvVXNlcigkZnJvbVVzZXIsICR0b1VzZXIpOwoKICAgICAgICAkY2xpZW50cyA9ICR0aGlzLT5jbGllbnRSZXBvc2l0b3J5LT5vcmRlcmVkQ2xpZW50KCR0b1VzZXIpLT5wbHVjaygnQ29kZScpOwoKICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCRmcm9tQ2xpZW50LT5Db2RlLCAkY2xpZW50c1syXSk7</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBbCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>confirm-unlink</last-search>
+      <last-search>shared</last-search>
       <last-offset />
-      <last-pattern>confirm-unlink</last-pattern>
+      <last-pattern>shared</last-pattern>
       <last-replace>userWithAccess</last-replace>
       <last-substitute>clientWithAccess</last-substitute>
       <last-dir>1</last-dir>
@@ -926,10 +932,6 @@
     </search>
     <history>
       <history-search>
-        <entry>currency</entry>
-        <entry>linkclient</entry>
-        <entry>linkclientth</entry>
-        <entry>sdkjfh</entry>
         <entry>linkclie</entry>
         <entry>linkClientthroughapi</entry>
         <entry>sdlkfhjdskljh</entry>
@@ -946,6 +948,10 @@
         <entry>userwith</entry>
         <entry>sdklfhsdklfjh</entry>
         <entry>confirm-unlink</entry>
+        <entry>$sdkfh</entry>
+        <entry>current</entry>
+        <entry>sdlfjkkldsfj</entry>
+        <entry>shared</entry>
       </history-search>
       <history-cmd>
         <entry>let @s='asalut'</entry>
@@ -1023,6 +1029,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed L</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
