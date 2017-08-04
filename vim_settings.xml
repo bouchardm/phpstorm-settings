@@ -365,6 +365,12 @@
         <mark key="^" line="118" column="27" />
         <mark key="." line="118" column="27" />
       </file>
+      <file name="$USER_HOME$/code/mica/app/Winfund/ExchangeRates.php" timestamp="1501873295690">
+        <mark key="[" line="31" column="95" />
+        <mark key="]" line="31" column="95" />
+        <mark key="^" line="31" column="95" />
+        <mark key="." line="31" column="95" />
+      </file>
       <file name="$USER_HOME$/code/mica/app/Database/Generators/UsernameGenerator.php" timestamp="1501177866619">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
@@ -845,7 +851,7 @@
         <text encoding="base64">Ly8K</text>
       </register>
       <register name=":" type="4">
-        <text>474</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -896,11 +902,11 @@
         <entry>2</entry>
         <entry>%s/clientWithAccess/userWithAccess/</entry>
         <entry>%s/clientWithAccess/userWithAccess/g</entry>
-        <entry>w</entry>
         <entry>reg</entry>
         <entry encoding="base64">JzwsJz5zL2F1dGgoKS0+dXNlcigpLyRmcm9tVXNlci9n</entry>
         <entry>noh</entry>
         <entry>474</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
