@@ -48,7 +48,7 @@
         <mark key="." line="77" column="15" />
         <mark key="^" line="77" column="15" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1502134194047">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1502194111977">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/UserLink.php" timestamp="1502115832743">
@@ -213,11 +213,11 @@
         <mark key="." line="6" column="15" />
         <mark key="^" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Http/Middleware/ShadowAccessClient.php" timestamp="1502134147951">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="19" column="53" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/code/mica/app/Http/Middleware/ShadowAccessClient.php" timestamp="1502194356236">
+        <mark key="[" line="17" column="25" />
+        <mark key="]" line="18" column="30" />
+        <mark key="^" line="18" column="30" />
+        <mark key="." line="18" column="30" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/integration/UsernameGeneratorTest.php" timestamp="1501177880207">
         <mark key="[" line="105" column="0" />
@@ -270,7 +270,7 @@
         <mark key="^" line="10" column="47" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1502134188504">
+      <file name="/dummy.sql" timestamp="1502194100805">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1502134281220">
@@ -552,8 +552,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcGFyYW1zKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">YXV0aCgpLT51c2VyKCk7</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -817,7 +817,7 @@
         <text>currentclient</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">JHRoaXMtPmhhc01hbnlUaHJvdWdoKFVzZXI6OmNsYXNzLCBVc2VyTGluazo6Y2xhc3MsICd0b191c2VyX2lkJywgJ2Zyb21fdXNlcl9pZCcsICdpZCcpOw==</text>
+        <text encoding="base64">YXV0aCgpLT51c2VyKCk7</text>
       </register>
       <register name="q" type="4">
         <keys>
