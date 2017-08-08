@@ -101,7 +101,9 @@
         <mark key="." line="83" column="52" />
         <mark key="^" line="79" column="46" />
       </file>
-      <file name="$USER_HOME$/code/mica/package.json" timestamp="1502196658394" />
+      <file name="$USER_HOME$/code/mica/package.json" timestamp="1502199944066">
+        <mark key="[" line="57" column="35" />
+      </file>
       <file name="$USER_HOME$/code/mica/app/Notifications/NewLinkedClients.php" timestamp="1502110772207">
         <mark key="[" line="9" column="22" />
         <mark key="]" line="6" column="0" />
@@ -331,11 +333,11 @@
         <mark key="^" line="93" column="76" />
         <mark key="." line="93" column="76" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/navigation/Notifications.vue" timestamp="1502197449612">
-        <mark key="[" line="182" column="0" />
-        <mark key="]" line="19" column="113" />
-        <mark key="." line="19" column="113" />
-        <mark key="^" line="19" column="113" />
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/navigation/Notifications.vue" timestamp="1502200360335">
+        <mark key="[" line="132" column="60" />
+        <mark key="]" line="168" column="0" />
+        <mark key="^" line="9" column="73" />
+        <mark key="." line="168" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Enums/UserStatusTest.php" timestamp="1501512247121">
         <mark key="[" line="85" column="0" />
@@ -560,7 +562,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -818,13 +820,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>:class=&quot;{'is-open': opened}&quot;</text>
       </register>
       <register name="/" type="4">
         <text>clientToUnlink</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">aWYgKHRoaXMubm90aWZpY2F0aW9ucy5sZW5ndGggPiAwKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLiRicm9hZGNhc3QoJyRJbmZpbml0ZUxvYWRpbmc6cmVzZXQnKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICBpZiAocmVzcG9uc2UuZGF0YS5kYXRhLnBhZ2luYXRlZE5vdGlmaWNhdGlvbnMubm90aWZpY2F0aW9uLmxlbmd0aCA+IDApIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuJGJyb2FkY2FzdCgnJEluZmluaXRlTG9hZGluZzpsb2FkZWQnKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIHRoaXMuJGJyb2FkY2FzdCgnJEluZmluaXRlTG9hZGluZzpsb2FkZWQnKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -837,31 +839,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLiRicm9hZGNhc3QoJyRJbmZpbml0ZUxvYWRpbmc6bG9hZGVkJyk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5uZXh0X3BhZ2VfdXJsKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChyZXNwb25zZS5kYXRhLmRhdGEucGFnaW5hdGVkTm90aWZpY2F0aW9ucy5ub3RpZmljYXRpb24ubGVuZ3RoID4gMCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMub3BlbmVkKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuX25leHRfcGFnZV91cmwpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLiRicm9hZGNhc3QoJyRJbmZpbml0ZUxvYWRpbmc6cmVzZXQnKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICh0aGlzLm5vdGlmaWNhdGlvbnMubGVuZ3RoID4gMCkgewo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIHRoaXMuJGJyb2FkY2FzdCgnJEluZmluaXRlTG9hZGluZzpsb2FkZWQnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcGFyYW1zKTsK</text>
+        <text encoding="base64">Ly8gZWxzZSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBkdW1wKCJub3RpZiIpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgcmV0dXJuICRuZXh0KHJlZGlyZWN0KCktPnRvKHJvdXRlKCdkYXNoYm9hcmQnKSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
