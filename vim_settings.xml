@@ -30,6 +30,9 @@
         <mark key="." line="10" column="32" />
         <mark key="^" line="10" column="32" />
       </file>
+      <file name="$USER_HOME$/code/mica/app/Document.php" timestamp="1502387189843">
+        <mark key="[" line="92" column="27" />
+      </file>
       <file name="$USER_HOME$/code/mica/app/Enums/UserStatus.php" timestamp="1501262094991">
         <mark key="[" line="16" column="30" />
         <mark key="]" line="17" column="3" />
@@ -123,12 +126,6 @@
         <mark key="." line="454" column="0" />
         <mark key="^" line="454" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/lang/en/information.php" timestamp="1502373927976">
-        <mark key="'" line="70" column="100" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
-      </file>
       <file name="$USER_HOME$/code/mica/database/migrations/2017_07_28_132959_add_expired_status.php" timestamp="1501529986975">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -141,11 +138,11 @@
         <mark key="." line="320" column="48" />
         <mark key="^" line="320" column="48" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/lang/en/documents.php" timestamp="1502379406921">
-        <mark key="[" line="21" column="28" />
-        <mark key="]" line="12" column="35" />
-        <mark key="^" line="12" column="35" />
-        <mark key="." line="12" column="35" />
+      <file name="$USER_HOME$/code/mica/resources/lang/en/documents.php" timestamp="1502386757965">
+        <mark key="[" line="22" column="47" />
+        <mark key="]" line="14" column="36" />
+        <mark key="^" line="14" column="36" />
+        <mark key="." line="14" column="36" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/integration/UserTest.php" timestamp="1501511939148">
         <mark key="[" line="60" column="35" />
@@ -165,6 +162,13 @@
         <mark key="]" line="161" column="37" />
         <mark key="^" line="161" column="37" />
         <mark key="." line="161" column="37" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/lang/en/notifications.php" timestamp="1502386666900">
+        <mark key="'" line="94" column="29" />
+        <mark key="[" line="98" column="221" />
+        <mark key="]" line="98" column="219" />
+        <mark key="^" line="98" column="219" />
+        <mark key="." line="98" column="219" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/integration/ManagerManageClientsTest.php" timestamp="1502376655538">
         <mark key="[" line="63" column="8" />
@@ -194,6 +198,12 @@
         <mark key="]" line="38" column="0" />
         <mark key="^" line="57" column="15" />
         <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Helpers/QuarterHelper.php" timestamp="1502387501752">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="44" />
+        <mark key="^" line="98" column="68" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="$USER_HOME$/code/Neoclocking/api/database/seeds/LogEntrySeeder.php" timestamp="1455827142337">
         <mark key="[" line="21" column="54" />
@@ -258,7 +268,7 @@
       <file name="/dummy.sql" timestamp="1502379119581">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502378928446">
+      <file name="/Dummy.txt" timestamp="1502387449583">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Query/UserQueryTest.php" timestamp="1502112471153">
@@ -267,16 +277,12 @@
         <mark key="^" line="47" column="108" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/lang/fr/notifications.php" timestamp="1501851320857">
-        <mark key="[" line="94" column="80" />
-        <mark key="]" line="94" column="78" />
-        <mark key="." line="94" column="78" />
-        <mark key="^" line="94" column="78" />
-      </file>
-      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/ui/Alert.vue" timestamp="1502370365634">
-        <mark key="[" line="15" column="16" />
-        <mark key="]" line="18" column="15" />
-        <mark key="." line="107" column="0" />
+      <file name="$USER_HOME$/code/mica/resources/lang/fr/notifications.php" timestamp="1502386648844">
+        <mark key="'" line="95" column="23" />
+        <mark key="[" line="99" column="278" />
+        <mark key="]" line="104" column="4" />
+        <mark key="." line="103" column="54" />
+        <mark key="^" line="103" column="54" />
       </file>
       <file name="/fragment.php" timestamp="1501766236245">
         <mark key="[" line="0" column="0" />
@@ -284,10 +290,11 @@
       <file name="$USER_HOME$/code/mica/resources/lang/en/profile.php" timestamp="1502110253264">
         <mark key="[" line="20" column="15" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Console/Commands/ImportDocuments.php" timestamp="1502377522204">
-        <mark key="[" line="160" column="0" />
-        <mark key="]" line="160" column="0" />
-        <mark key="." line="160" column="0" />
+      <file name="$USER_HOME$/code/mica/app/Console/Commands/ImportDocuments.php" timestamp="1502387259253">
+        <mark key="[" line="162" column="9" />
+        <mark key="]" line="162" column="8" />
+        <mark key="^" line="162" column="8" />
+        <mark key="." line="162" column="8" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/Kernel.php" timestamp="1501868575102">
         <mark key="[" line="93" column="77" />
@@ -313,18 +320,36 @@
         <mark key="^" line="58" column="83" />
         <mark key="." line="58" column="83" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Notifications/TaxSlipAdded.php" timestamp="1502380003476">
-        <mark key="'" line="18" column="22" />
-        <mark key="[" line="20" column="36" />
-        <mark key="]" line="21" column="50" />
-        <mark key="." line="20" column="36" />
-        <mark key="^" line="41" column="7" />
+      <file name="$USER_HOME$/code/mica/app/Notifications/TaxSlipAdded.php" timestamp="1502386603876">
+        <mark key="'" line="46" column="40" />
+        <mark key="[" line="26" column="39" />
+        <mark key="]" line="31" column="15" />
+        <mark key="." line="31" column="15" />
+        <mark key="^" line="31" column="15" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/lang/fr/profile.php" timestamp="1502110243696">
         <mark key="[" line="20" column="15" />
         <mark key="]" line="27" column="24" />
         <mark key="." line="27" column="24" />
         <mark key="^" line="27" column="24" />
+      </file>
+      <file name="$USER_HOME$/code/mica/tests/features/documents/Notifications.feature" timestamp="1502388729377">
+        <mark key="[" line="39" column="48" />
+        <mark key="]" line="21" column="48" />
+        <mark key="^" line="21" column="48" />
+        <mark key="." line="21" column="48" />
+      </file>
+      <file name="$USER_HOME$/code/mica/tests/features/documents/Documents.feature" timestamp="1502387589528">
+        <mark key="[" line="13" column="49" />
+        <mark key="]" line="13" column="48" />
+        <mark key="^" line="13" column="48" />
+        <mark key="." line="13" column="48" />
+      </file>
+      <file name="$USER_HOME$/code/mica/tests/features/bootstrap/DocumentsContext.php" timestamp="1502388547747">
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="164" column="0" />
+        <mark key="." line="164" column="0" />
+        <mark key="^" line="162" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Database/Connections/ODBCConnection.php" timestamp="1501762679154">
         <mark key="[" line="69" column="51" />
@@ -344,11 +369,11 @@
         <mark key="^" line="79" column="8" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/tests/integration/ImportDocumentsTest.php" timestamp="1502376903735">
-        <mark key="[" line="103" column="51" />
-        <mark key="]" line="103" column="62" />
-        <mark key="." line="103" column="62" />
-        <mark key="^" line="103" column="62" />
+      <file name="$USER_HOME$/code/mica/tests/integration/ImportDocumentsTest.php" timestamp="1502388851405">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="^" line="104" column="62" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/dashboard/Account.vue" timestamp="1501762536145">
         <mark key="[" line="22" column="74" />
@@ -356,17 +381,9 @@
         <mark key="^" line="22" column="77" />
         <mark key="." line="22" column="77" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/Profile.vue" timestamp="1502370344777" />
       <file name="$USER_HOME$/code/mica/app/Notifications/DocumentAdded.php" timestamp="1502379234439">
         <mark key="[" line="51" column="54" />
         <mark key="]" line="54" column="4" />
-      </file>
-      <file name="$USER_HOME$/code/mica/resources/assets/js/components/client/information/EditAllClientEmail.vue" timestamp="1502373579904">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="121" column="9" />
-        <mark key="]" line="25" column="92" />
-        <mark key="^" line="25" column="92" />
-        <mark key="." line="25" column="92" />
       </file>
       <file name="$USER_HOME$/code/Neoclocking/api/app/Http/Controllers/Api/CurrentUserController.php" timestamp="1457702546680">
         <mark key="[" line="118" column="28" />
@@ -388,10 +405,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="102" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
-      <jump line="149" column="31" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
-      <jump line="155" column="53" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
-      <jump line="153" column="72" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
       <jump line="157" column="13" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
       <jump line="176" column="28" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
       <jump line="202" column="82" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
@@ -488,6 +501,10 @@
       <jump line="25" column="23" filename="$USER_HOME$/code/mica/app/Notifications/TaxSlipAdded.php" />
       <jump line="20" column="22" filename="$USER_HOME$/code/mica/app/Notifications/TaxSlipAdded.php" />
       <jump line="17" column="24" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/navigation/Notification.vue" />
+      <jump line="95" column="23" filename="$USER_HOME$/code/mica/resources/lang/fr/notifications.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/mica/resources/lang/en/notifications.php" />
+      <jump line="94" column="29" filename="$USER_HOME$/code/mica/resources/lang/en/notifications.php" />
+      <jump line="45" column="40" filename="$USER_HOME$/code/mica/app/Notifications/TaxSlipAdded.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -544,8 +561,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgJHRoaXMtPmN1cnJlbnRMb2NhbGUgPSBhcHAoKS0+Z2V0TG9jYWxlKCk7</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -803,67 +820,65 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PHNjcmlwdD4=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>(</text>
+        <text>password_changed</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CiAgICAgICAgJHRoaXMtPmN1cnJlbnRMb2NhbGUgPSBhcHAoKS0+Z2V0TG9jYWxlKCk7</text>
+        <text encoding="base64">J3RheF9zbGlwJyA9PiBbCiAgICAgICAgJ3N1YmplY3QnID0+ICdWb3RyZSBmZXVpbGxldCBmaXNjYWwgTUlDQSBlc3QgbWFpbnRlbmFudCBkaXNwb25pYmxlIGVuIGxpZ25lIScsCiAgICAgICAgJ2dyZWV0aW5nJyA9PiAnQm9uam91ciwnLAogICAgICAgICdsaW5lcycgPT4gWwogICAgICAgICAgICAnTm91cyB0ZW5vbnMgw6Agdm91cyBpbmZvcm1lciBxdWUgdm90cmUgZmV1aWxsZXQgZmlzY2FsIE1JQ0EgZXN0IG1haW50ZW5hbnQgZGlzcG9uaWJsZSBlbiBsaWduZSBwb3VyIGZpbiBkZSBjb25zdWx0YXRpb24uJywKICAgICAgICAgICAgJ1BvdXIgdmlzdWFsaXNlciB2b3MgZmV1aWxsZXRzIENsaXF1ZXogaWNpIGV0IHJlbmRlei12b3VzIMOgIGxhIHNlY3Rpb27CoMKrIE1lcyBkb2N1bWVudHMgwrsuJywKICAgICAgICAgICAgIlByZW5leiBub3RlIHF1ZSBjZXR0ZSBhZHJlc3NlIGRlIGNvdXJyaWVsIG7igJlhY2NlcHRlIHBhcyBsZXMgcsOpcG9uc2VzLsKgU2kgdm91cyByZW5jb250cmV6IGRlcyBkaWZmaWN1bHTDqXMsIG7igJlow6lzaXRleiBwYXMgw6AgY29tbXVuaXF1ZXIgYXZlYyBub3RyZSBzZXJ2aWNlIGRlIHNvdXRpZW4gdGVjaG5pcXVlIMOgIGzigJlhZHJlc3NlIGNvdXJyaWVsIHN1aXZhbnRlwqA6IDxhIGhyZWY9J21haWx0bzpzdXBwb3J0QG1pY2FzZi5jb20nIHN0eWxlPSdjb2xvcjojMzg2OUQ0Oyc+c3VwcG9ydEBtaWNhc2YuY29tPC9hPi4iLAogICAgICAgICAgICAiU2kgdm91cyBuJ8OqdGVzIHBhcyBsZSBkZXN0aW5hdGFpcmUsIHZvdXMgbmUgZGV2cmlleiBwYXMgZGlmZnVzZXIsIGRpc3RyaWJ1ZXIgb3UgY29waWVyIGNlIGNvdXJyaWVsLiBTaSB2b3VzIGF2ZXogcmXDp3UgY2UgY291cnJpZWwgcGFyIGVycmV1ciwgbm91cyB2b3VzIGRlbWFuZG9ucyBkZSBub3VzIGVuIGluZm9ybWVyIGVuIGVudm95YW50IHVuIGNvdXJyaWVsIMOgIGzigJlhZHJlc3NlIHN1aXZhbnRlIDxhIGhyZWY9J21haWx0bzpzdXBwb3J0QG1pY2FzZi5jb20nIHN0eWxlPSdjb2xvcjojMzg2OUQ0Oyc+c3VwcG9ydEBtaWNhc2YuY29tPC9hPiBldCBkZSBzdXBwcmltZXIgY2UgY291cnJpZWwgZGUgdm90cmUgc3lzdMOobWUuIiwKICAgICAgICAgICAgJ0VzcMOpcmFudCBsZSB0b3V0IGNvbmZvcm1lLCB2ZXVpbGxleiBhY2NlcHRlciBub3Mgc2FsdXRhdGlvbnMgZGlzdGluZ3XDqWVzLicsCiAgICAgICAgXSwKICAgICAgICAnc2lnbmF0dXJlJyA9PiAnPHN0cm9uZz5NSUNBIENhcGl0YWw8L3N0cm9uZz4nLAogICAgXQ==</text>
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="39" mods="0" />
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5hc3NlcnROb3ROdWxsKCRub3RpZmljYXRpb24pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAnc3RhdGVtZW50JzsK</text>
+        <text encoding="base64">Ly8gICAgICAgICRub3RpZmljYXRpb24gPSAkdGhpcy0+Z2V0RG9jdW1lbnRBZGRlZE5vdGlmaWNhdGlvbkZvckRvY3VtZW50KCRkb2N1bWVudCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG9jdW1lbnRUeXBlKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCRkYXRlUmVhZCwgJG1hdGNoZXMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wdXRlZDogewo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZGF0ZVJlYWQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7IG5vdGlmaWNhdGlvbi5kYXRhIHwganNvbiB9fQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGRkKCRzdGF0dXMpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGR1bXAoJGRvY3VtZW50LT50aXRsZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkbWF0Y2hlcyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+ZG9jdW1lbnQtPnRpdGxlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRnZW5lcmF0ZWRRdWFydGVyc1tdID0gJHF1YXJ0ZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcXVhcnRlcnMpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>%s/password_changed/tax_slip/g</text>
       </register>
     </registers>
     <search>
-      <last-search>(</last-search>
+      <last-search>password_changed</last-search>
       <last-offset />
-      <last-pattern>(</last-pattern>
-      <last-replace>userToUnlink</last-replace>
-      <last-substitute>clientToUnlink</last-substitute>
+      <last-pattern>password_changed</last-pattern>
+      <last-replace>tax_slip</last-replace>
+      <last-substitute>password_changed</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getexpired</entry>
         <entry>getexpire</entry>
         <entry>sdflkhj</entry>
         <entry>constr</entry>
@@ -883,9 +898,9 @@
         <entry>{</entry>
         <entry>sdfsdf</entry>
         <entry>(</entry>
+        <entry>password_changed</entry>
       </history-search>
       <history-cmd>
-        <entry>help diw</entry>
         <entry>s/confirmation/unlink/</entry>
         <entry>PluginInstall</entry>
         <entry>PluginsInstall</entry>
@@ -905,6 +920,7 @@
         <entry>W</entry>
         <entry>w</entry>
         <entry>noh</entry>
+        <entry>%s/password_changed/tax_slip/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
