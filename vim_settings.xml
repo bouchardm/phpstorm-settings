@@ -334,10 +334,7 @@
         <mark key="." line="93" column="76" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/navigation/Notifications.vue" timestamp="1502200360335">
-        <mark key="[" line="132" column="60" />
-        <mark key="]" line="168" column="0" />
         <mark key="^" line="9" column="73" />
-        <mark key="." line="168" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Enums/UserStatusTest.php" timestamp="1501512247121">
         <mark key="[" line="85" column="0" />
@@ -876,7 +873,7 @@
       <last-replace>userToUnlink</last-replace>
       <last-substitute>clientToUnlink</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
