@@ -339,6 +339,9 @@
       <file name="$USER_HOME$/code/mica/resources/lang/en/profile.php" timestamp="1502110253264">
         <mark key="[" line="20" column="15" />
       </file>
+      <file name="$USER_HOME$/code/mica/app/Console/Commands/ImportDocuments.php" timestamp="1502375830783">
+        <mark key="[" line="158" column="68" />
+      </file>
       <file name="$USER_HOME$/code/mica/app/Http/Kernel.php" timestamp="1501868575102">
         <mark key="[" line="93" column="77" />
         <mark key="]" line="93" column="76" />
@@ -388,6 +391,12 @@
         <mark key="]" line="83" column="0" />
         <mark key="^" line="79" column="8" />
         <mark key="." line="83" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/tests/integration/ImportDocumentsTest.php" timestamp="1502375608937">
+        <mark key="[" line="90" column="8" />
+        <mark key="]" line="88" column="40" />
+        <mark key="." line="88" column="40" />
+        <mark key="^" line="88" column="40" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/dashboard/Account.vue" timestamp="1501762536145">
         <mark key="[" line="22" column="74" />
@@ -585,7 +594,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2RvbmUnID0+ICdUZXJtaW5lcicsCg==</text>
+        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XENvbnNvbGVcSGVscGVyXFF1ZXN0aW9uSGVscGVyOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -862,31 +871,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2RvbmUnID0+ICdUZXJtaW5lcicsCg==</text>
+        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XENvbnNvbGVcSGVscGVyXFF1ZXN0aW9uSGVscGVyOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ2RvbmUnID0+ICdUZXJtaW5lcicsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHAgY2xhc3M9InNtYWxsZXIiPnt7IHRyYW5zKCdpbmZvcm1hdGlvbi5lZGl0LXRheFNsaXBEZWxpdmVyeS5jb25maXJtLXN1YnNjcmliZS5lbWFpbC1zZW50JykgfX08L3A+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2RvbmUnID0+ICdUZXJtaW5lcicsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2VtYWlsLXNlbnQnID0+ICdVbiBjb3VycmllbCB2b3VzIMOgIMOpdMOpIGVudm95ZXInLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHAgY2xhc3M9InNtYWxsZXIiPnt7IHRyYW5zKCdpbmZvcm1hdGlvbi5lZGl0LXRheFNsaXBEZWxpdmVyeS5jb25maXJtLXN1YnNjcmliZS5lbWFpbC1zZW50JykgfX08L3A+Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ2VtYWlsLXNlbnQnID0+ICdVbiBjb3VycmllbCB2b3VzIMOgIMOpdMOpIGVudm95ZXInLAo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgPHAgY2xhc3M9ImFsZXJ0LW5vdGUiPgogICAgICAgICAgICAgICAgPGljb24gaWNvbj0iaW5mby1pY29uZSIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIj48L2ljb24+CiAgICAgICAgICAgICAgICB7eyB0cmFucygnaW5mb3JtYXRpb24uZWRpdC10YXhTbGlwRGVsaXZlcnkuY2hhbmdlLWVtYWlsLWRpc2NsYWltZXInKSB9fQogICAgICAgICAgICA8L3A+</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2VtYWlsLXNlbnQnID0+ICdVbiBjb3VycmllbCB2b3VzIMOgIMOpdMOpIGVudm95ZXInLAo=</text>
       </register>
       <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgPHAgY2xhc3M9ImFsZXJ0LW5vdGUiPgogICAgICAgICAgICAgICAgPGljb24gaWNvbj0iaW5mby1pY29uZSIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIj48L2ljb24+CiAgICAgICAgICAgICAgICB7eyB0cmFucygnaW5mb3JtYXRpb24uZWRpdC10YXhTbGlwRGVsaXZlcnkuY2hhbmdlLWVtYWlsLWRpc2NsYWltZXInKSB9fQogICAgICAgICAgICA8L3A+</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">ICAgICAgICA8cCBjbGFzcz0iYWxlcnQtbm90ZSI+CiAgICAgICAgICAgIDxpY29uIGljb249ImluZm8taWNvbmUiIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCI+PC9pY29uPgogICAgICAgICAgICB7eyB0cmFucygnaW5mb3JtYXRpb24uZWRpdC10YXhTbGlwRGVsaXZlcnkuY2hhbmdlLWVtYWlsLWRpc2NsYWltZXInKSB9fQogICAgICAgIDwvcD4KCiA=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
