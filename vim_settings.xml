@@ -134,12 +134,11 @@
         <mark key="]" line="103" column="0" />
         <mark key="." line="103" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/lang/en/information.php" timestamp="1502371898891">
+      <file name="$USER_HOME$/code/mica/resources/lang/en/information.php" timestamp="1502373927976">
         <mark key="'" line="70" column="100" />
-        <mark key="[" line="80" column="24" />
-        <mark key="]" line="80" column="24" />
-        <mark key="." line="80" column="24" />
-        <mark key="^" line="80" column="35" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/database/migrations/2017_07_28_132959_add_expired_status.php" timestamp="1501529986975">
         <mark key="[" line="15" column="0" />
@@ -198,13 +197,6 @@
         <mark key="^" line="51" column="31" />
         <mark key="." line="51" column="31" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Winfund/Client.php" timestamp="1502128099904">
-        <mark key="'" line="444" column="0" />
-        <mark key="[" line="454" column="0" />
-        <mark key="]" line="454" column="0" />
-        <mark key="n" line="213" column="36" />
-        <mark key="." line="454" column="0" />
-      </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Mutation/UnlinkClientMutationTest.php" timestamp="1502110616589">
         <mark key="[" line="7" column="15" />
         <mark key="]" line="7" column="16" />
@@ -217,11 +209,12 @@
         <mark key="^" line="43" column="64" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/assets/js/components/client/information/TaxSlipDelivery.vue" timestamp="1502371379144">
-        <mark key="[" line="63" column="83" />
-        <mark key="]" line="62" column="15" />
-        <mark key="." line="62" column="15" />
-        <mark key="^" line="62" column="15" />
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/client/information/TaxSlipDelivery.vue" timestamp="1502373852742">
+        <mark key="'" line="76" column="75" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="57" column="15" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/code/Neoclocking/api/database/seeds/LogEntrySeeder.php" timestamp="1455827142337">
         <mark key="[" line="21" column="54" />
@@ -390,11 +383,11 @@
         <mark key="." line="52" column="15" />
         <mark key="^" line="52" column="15" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/lang/fr/information.php" timestamp="1502371852417">
-        <mark key="[" line="82" column="24" />
-        <mark key="]" line="82" column="24" />
-        <mark key="." line="82" column="24" />
+      <file name="$USER_HOME$/code/mica/resources/lang/fr/information.php" timestamp="1502373953773">
+        <mark key="[" line="86" column="162" />
+        <mark key="]" line="83" column="0" />
         <mark key="^" line="79" column="8" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/dashboard/Account.vue" timestamp="1501762536145">
         <mark key="[" line="22" column="74" />
@@ -403,6 +396,13 @@
         <mark key="." line="22" column="77" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/Profile.vue" timestamp="1502370344777" />
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/client/information/EditAllClientEmail.vue" timestamp="1502373579904">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="121" column="9" />
+        <mark key="]" line="25" column="92" />
+        <mark key="^" line="25" column="92" />
+        <mark key="." line="25" column="92" />
+      </file>
       <file name="$USER_HOME$/code/Neoclocking/api/app/Http/Controllers/Api/CurrentUserController.php" timestamp="1457702546680">
         <mark key="[" line="118" column="28" />
         <mark key="]" line="118" column="27" />
@@ -428,13 +428,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="65" filename="$USER_HOME$/code/mica/tests/unit/Repositories/UserRepositoryTest.php" />
-      <jump line="243" column="75" filename="$USER_HOME$/code/mica/app/User.php" />
-      <jump line="71" column="0" filename="$USER_HOME$/code/mica/tests/unit/Repositories/UserRepositoryTest.php" />
-      <jump line="74" column="0" filename="$USER_HOME$/code/mica/tests/unit/Repositories/UserRepositoryTest.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/mica/tests/unit/Command/ImportExpiredClientTest.php" />
-      <jump line="136" column="67" filename="$USER_HOME$/code/mica/tests/unit/Command/ImportExpiredClientTest.php" />
-      <jump line="94" column="0" filename="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Mutation/LinkClientMutationTest.php" />
       <jump line="88" column="6" filename="$USER_HOME$/code/mica/app/User.php" />
       <jump line="17" column="0" filename="$USER_HOME$/code/mica/app/ClientLink.php" />
       <jump line="54" column="16" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
@@ -528,6 +521,13 @@
       <jump line="20" column="0" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
       <jump line="9" column="40" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
       <jump line="71" column="100" filename="$USER_HOME$/code/mica/resources/lang/en/information.php" />
+      <jump line="68" column="38" filename="$USER_HOME$/code/mica/resources/assets/js/components/client/information/TaxSlipDelivery.vue" />
+      <jump line="40" column="77" filename="$USER_HOME$/code/mica/resources/assets/js/components/client/information/TaxSlipDelivery.vue" />
+      <jump line="38" column="28" filename="$USER_HOME$/code/mica/resources/assets/js/components/client/information/TaxSlipDelivery.vue" />
+      <jump line="36" column="76" filename="$USER_HOME$/code/mica/resources/assets/js/components/client/information/EditAllClientEmail.vue" />
+      <jump line="63" column="15" filename="$USER_HOME$/code/mica/resources/assets/js/components/client/information/EditAllClientEmail.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/mica/resources/assets/js/components/client/information/EditAllClientEmail.vue" />
+      <jump line="77" column="75" filename="$USER_HOME$/code/mica/resources/assets/js/components/client/information/TaxSlipDelivery.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -584,8 +584,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Confirmation</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2RvbmUnID0+ICdUZXJtaW5lcicsCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -843,13 +843,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Confirmation</text>
+        <text>Voulez vous vraiment?</text>
       </register>
       <register name="/" type="4">
-        <text>clientToUnlink</text>
+        <text>email-sent</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0iYWxlcnQtaWNvbiIgdi1pZj0iYWxlcnRUeXBlIj4KICAgICAgICAgICAgICAgICAgICA8aWNvbiA6aWNvbj0iJ2FsZXJ0LScgKyBhbGVydFR5cGUiIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCI+PC9pY29uPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwIGNsYXNzPSJhbGVydC1ub3RlIj4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -862,40 +862,40 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2RvbmUnID0+ICdUZXJtaW5lcicsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2RvbmUnID0+ICdUZXJtaW5lcicsCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgPGJ1dHRvbiB0eXBlPSJidXR0b24iIGNsYXNzPSJidG4iIEBjbGljaz0iY2xvc2VNZXNzYWdlIj4KICAgICAgICAgICAgICAgIHt7IHRyYW5zKCdpbmZvcm1hdGlvbi5lZGl0LXRheFNsaXBEZWxpdmVyeS5jb25maXJtLXN1YnNjcmliZS5uZXh0JykgfX0KICAgICAgICAgICAgPC9idXR0b24+CiA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHAgY2xhc3M9InNtYWxsZXIiPnt7IHRyYW5zKCdpbmZvcm1hdGlvbi5lZGl0LXRheFNsaXBEZWxpdmVyeS5jb25maXJtLXN1YnNjcmliZS5lbWFpbC1zZW50JykgfX08L3A+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3BsZWFzZS1yZWFkJyA9PiAnUGxlYXNlIHJlYWQgdGhlIGZvbGxvd2luZyBjb25zZW50IGFncmVlbWVudCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2VtYWlsLXNlbnQnID0+ICdVbiBjb3VycmllbCB2b3VzIMOgIMOpdMOpIGVudm95ZXInLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3BsZWFzZS1yZWFkJyA9PiAnVmV1aWxsZXogbGlyZSBs4oCZZW50ZW50ZSBkZSBjb25zZW50ZW1lbnQgc3VpdmFudGUnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2VtYWlsLXNlbnQnID0+ICdVbiBjb3VycmllbCB2b3VzIMOgIMOpdMOpIGVudm95ZXInLAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgPHAgY2xhc3M9ImFsZXJ0LW5vdGUiPgogICAgICAgICAgICAgICAgPGljb24gaWNvbj0iaW5mby1pY29uZSIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIj48L2ljb24+CiAgICAgICAgICAgICAgICB7eyB0cmFucygnaW5mb3JtYXRpb24uZWRpdC10YXhTbGlwRGVsaXZlcnkuY2hhbmdlLWVtYWlsLWRpc2NsYWltZXInKSB9fQogICAgICAgICAgICA8L3A+</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5uZXh0X3BhZ2VfdXJsKTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICA8cCBjbGFzcz0iYWxlcnQtbm90ZSI+CiAgICAgICAgICAgIDxpY29uIGljb249ImluZm8taWNvbmUiIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCI+PC9pY29uPgogICAgICAgICAgICB7eyB0cmFucygnaW5mb3JtYXRpb24uZWRpdC10YXhTbGlwRGVsaXZlcnkuY2hhbmdlLWVtYWlsLWRpc2NsYWltZXInKSB9fQogICAgICAgIDwvcD4KCiA=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMub3BlbmVkKTsK</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuX25leHRfcGFnZV91cmwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>clientToUnlink</last-search>
+      <last-search>email-sent</last-search>
       <last-offset />
-      <last-pattern>clientToUnlink</last-pattern>
+      <last-pattern>email-sent</last-pattern>
       <last-replace>userToUnlink</last-replace>
       <last-substitute>clientToUnlink</last-substitute>
       <last-dir>1</last-dir>
@@ -903,11 +903,6 @@
     </search>
     <history>
       <history-search>
-        <entry>person</entry>
-        <entry>static</entry>
-        <entry>sdlkfjhsdf</entry>
-        <entry>sdkfjh</entry>
-        <entry>sdlfkj</entry>
         <entry>getclien</entry>
         <entry>expired</entry>
         <entry>getclients</entry>
@@ -923,6 +918,11 @@
         <entry>current_client</entry>
         <entry>currentclient</entry>
         <entry>clientToUnlink</entry>
+        <entry>node</entry>
+        <entry>note</entry>
+        <entry>disclaimer</entry>
+        <entry>disclai</entry>
+        <entry>email-sent</entry>
       </history-search>
       <history-cmd>
         <entry>help diw</entry>
