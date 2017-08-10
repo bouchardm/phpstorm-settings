@@ -134,12 +134,12 @@
         <mark key="]" line="103" column="0" />
         <mark key="." line="103" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/lang/en/information.php" timestamp="1502368093964">
-        <mark key="'" line="71" column="100" />
-        <mark key="[" line="73" column="31" />
-        <mark key="]" line="73" column="31" />
-        <mark key="." line="73" column="31" />
-        <mark key="^" line="71" column="21" />
+      <file name="$USER_HOME$/code/mica/resources/lang/en/information.php" timestamp="1502370031011">
+        <mark key="'" line="70" column="100" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="75" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="81" column="21" />
       </file>
       <file name="$USER_HOME$/code/mica/database/migrations/2017_07_28_132959_add_expired_status.php" timestamp="1501529986975">
         <mark key="[" line="15" column="0" />
@@ -216,6 +216,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="43" column="64" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/client/information/TaxSlipDelivery.vue" timestamp="1502370384602">
+        <mark key="[" line="60" column="16" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="59" column="11" />
       </file>
       <file name="$USER_HOME$/code/Neoclocking/api/database/seeds/LogEntrySeeder.php" timestamp="1455827142337">
         <mark key="[" line="21" column="54" />
@@ -324,9 +330,9 @@
         <mark key="]" line="219" column="0" />
         <mark key="." line="219" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/ui/Alert.vue" timestamp="1501617570548">
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/ui/Alert.vue" timestamp="1502370365634">
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="18" column="15" />
         <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/config/debugbar.php" timestamp="1501516858073">
@@ -384,11 +390,11 @@
         <mark key="." line="52" column="15" />
         <mark key="^" line="52" column="15" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/lang/fr/information.php" timestamp="1502368117865">
-        <mark key="[" line="76" column="10" />
-        <mark key="]" line="75" column="31" />
-        <mark key="." line="75" column="31" />
-        <mark key="^" line="73" column="24" />
+      <file name="$USER_HOME$/code/mica/resources/lang/fr/information.php" timestamp="1502370029136">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+        <mark key="^" line="83" column="31" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/dashboard/Account.vue" timestamp="1501762536145">
         <mark key="[" line="22" column="74" />
@@ -396,6 +402,7 @@
         <mark key="^" line="22" column="77" />
         <mark key="." line="22" column="77" />
       </file>
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/Profile.vue" timestamp="1502370344777" />
       <file name="$USER_HOME$/code/Neoclocking/api/app/Http/Controllers/Api/CurrentUserController.php" timestamp="1457702546680">
         <mark key="[" line="118" column="28" />
         <mark key="]" line="118" column="27" />
@@ -577,8 +584,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Terme et condition</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -836,13 +843,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Terme et condition</text>
+        <text>Suivant</text>
       </register>
       <register name="/" type="4">
         <text>clientToUnlink</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIHRoaXMuJGJyb2FkY2FzdCgnJEluZmluaXRlTG9hZGluZzpsb2FkZWQnKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">PGRpdiBjbGFzcz0iYWxlcnQtaWNvbiIgdi1pZj0iYWxlcnRUeXBlIj4KICAgICAgICAgICAgICAgICAgICA8aWNvbiA6aWNvbj0iJ2FsZXJ0LScgKyBhbGVydFR5cGUiIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCI+PC9pY29uPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -855,31 +862,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5uZXh0X3BhZ2VfdXJsKTsK</text>
+        <text encoding="base64">IAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMub3BlbmVkKTsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgPGJ1dHRvbiB0eXBlPSJidXR0b24iIGNsYXNzPSJidG4iIEBjbGljaz0iY2xvc2VNZXNzYWdlIj4KICAgICAgICAgICAgICAgIHt7IHRyYW5zKCdpbmZvcm1hdGlvbi5lZGl0LXRheFNsaXBEZWxpdmVyeS5jb25maXJtLXN1YnNjcmliZS5uZXh0JykgfX0KICAgICAgICAgICAgPC9idXR0b24+CiA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuX25leHRfcGFnZV91cmwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3BsZWFzZS1yZWFkJyA9PiAnUGxlYXNlIHJlYWQgdGhlIGZvbGxvd2luZyBjb25zZW50IGFncmVlbWVudCcsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3BsZWFzZS1yZWFkJyA9PiAnVmV1aWxsZXogbGlyZSBs4oCZZW50ZW50ZSBkZSBjb25zZW50ZW1lbnQgc3VpdmFudGUnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIHRoaXMuJGJyb2FkY2FzdCgnJEluZmluaXRlTG9hZGluZzpsb2FkZWQnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gZWxzZSB7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5uZXh0X3BhZ2VfdXJsKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMub3BlbmVkKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuX25leHRfcGFnZV91cmwpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -892,7 +899,7 @@
       <last-replace>userToUnlink</last-replace>
       <last-substitute>clientToUnlink</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
