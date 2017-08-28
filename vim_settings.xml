@@ -124,6 +124,12 @@
         <mark key="^" line="57" column="15" />
         <mark key="." line="38" column="0" />
       </file>
+      <file name="$USER_HOME$/code/mica/tests/features/bootstrap/FeatureContext.php" timestamp="1503929908287">
+        <mark key="[" line="244" column="42" />
+        <mark key="]" line="244" column="42" />
+        <mark key="." line="244" column="42" />
+        <mark key="^" line="244" column="42" />
+      </file>
       <file name="$USER_HOME$/code/mica/database/migrations/2017_08_10_112835_add_notification_type.php" timestamp="1503923761234">
         <mark key="[" line="18" column="5" />
         <mark key="]" line="19" column="7" />
@@ -430,7 +436,7 @@
         <mark key="^" line="32" column="62" />
         <mark key="." line="32" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503926974341">
+      <file name="/Dummy.txt" timestamp="1503929921804">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Query/UserQueryTest.php" timestamp="1502112471153">
@@ -472,8 +478,8 @@
         <mark key="^" line="280" column="50" />
         <mark key="." line="280" column="50" />
       </file>
-      <file name="$USER_HOME$/code/mica/tests/features/documents/Notifications.feature" timestamp="1502388729377">
-        <mark key="[" line="39" column="48" />
+      <file name="$USER_HOME$/code/mica/tests/features/documents/Notifications.feature" timestamp="1503929615506">
+        <mark key="[" line="9" column="10" />
         <mark key="]" line="21" column="48" />
         <mark key="^" line="21" column="48" />
         <mark key="." line="21" column="48" />
@@ -490,11 +496,11 @@
         <mark key="^" line="17" column="15" />
         <mark key="." line="17" column="15" />
       </file>
-      <file name="$USER_HOME$/code/mica/tests/features/bootstrap/DocumentsContext.php" timestamp="1502391551448">
-        <mark key="[" line="163" column="61" />
-        <mark key="]" line="164" column="0" />
-        <mark key="." line="164" column="0" />
-        <mark key="^" line="162" column="0" />
+      <file name="$USER_HOME$/code/mica/tests/features/bootstrap/DocumentsContext.php" timestamp="1503929776684">
+        <mark key="[" line="170" column="46" />
+        <mark key="]" line="170" column="45" />
+        <mark key="." line="170" column="45" />
+        <mark key="^" line="170" column="35" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Database/Connections/ODBCConnection.php" timestamp="1501762679154">
         <mark key="[" line="69" column="51" />
@@ -673,7 +679,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Spousal_Surname</text>
+        <text>notification</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -931,7 +937,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Spousal_Surname</text>
+        <text>notification</text>
       </register>
       <register name="/" type="4">
         <text>spousal</text>
@@ -967,31 +973,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICkgLyBzdHJsZW4oJGZvcm1hdHRlZENvcnBvTmFtZSkgKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHNlbGVjdG9yKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAkZm9ybWF0dGVkQ29ycG9OYW1lCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBzdHJfcmVwbGFjZSgkaWdub3JlZFN0ciwgJycsICRmb3JtYXR0ZWROYW1lKSwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGRkKCBsZXZlbnNodGVpbigK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZm9ybWF0dGVkQ29ycG9OYW1lKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcyk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgICAgICkgLyBzdHJsZW4oJGZvcm1hdHRlZENvcnBvTmFtZSkgKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAkZm9ybWF0dGVkQ29ycG9OYW1lCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBzdHJfcmVwbGFjZSgkaWdub3JlZFN0ciwgJycsICRmb3JtYXR0ZWROYW1lKSwK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gICAgICAgIGRkKCBsZXZlbnNodGVpbigK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkY2xpZW50SWQgPSAkYXJnc1snY2xpZW50X2lkJ107Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZm9ybWF0dGVkQ29ycG9OYW1lKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>325</text>
       </register>
     </registers>
     <search>
@@ -1027,7 +1033,6 @@
         <entry>spousal</entry>
       </history-search>
       <history-cmd>
-        <entry>s/confirmation/unlink/</entry>
         <entry>PluginInstall</entry>
         <entry>PluginsInstall</entry>
         <entry>source ~/.vimrc</entry>
@@ -1047,6 +1052,7 @@
         <entry>%s/password_changed/tax_slip/g</entry>
         <entry>noh</entry>
         <entry>w</entry>
+        <entry>325</entry>
       </history-cmd>
       <history-expr />
       <history-input />
