@@ -97,6 +97,7 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/86eee6cc-3a14-406f-a3ca-c6b7ce31fcd3/console.sql" timestamp="1503941158041" />
       <file name="$USER_HOME$/code/mica/resources/lang/en/notifications.php" timestamp="1502386666900">
         <mark key="'" line="94" column="29" />
         <mark key="[" line="98" column="221" />
@@ -300,6 +301,12 @@
         <mark key="]" line="519" column="0" />
         <mark key="." line="519" column="0" />
       </file>
+      <file name="$USER_HOME$/code/mica/app/Http/Controllers/Auth/RegisterController.php" timestamp="1503941378602">
+        <mark key="[" line="106" column="9" />
+        <mark key="]" line="100" column="38" />
+        <mark key="." line="100" column="38" />
+        <mark key="^" line="100" column="38" />
+      </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Mutation/EditTaxSlipTest.php" timestamp="1502391625508">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -428,7 +435,7 @@
         <mark key="^" line="196" column="88" />
         <mark key="." line="196" column="88" />
       </file>
-      <file name="/dummy.sql" timestamp="1503925230639">
+      <file name="/dummy.sql" timestamp="1503941395487">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Mutation/User/ChangeMainClientMutation.php" timestamp="1503925594431">
@@ -440,7 +447,7 @@
       <file name="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" timestamp="1503936116329">
         <mark key="'" line="559" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503936609655">
+      <file name="/Dummy.txt" timestamp="1503941158155">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Query/UserQueryTest.php" timestamp="1502112471153">
@@ -682,7 +689,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbWF0Y2hlcyk7Cg==</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcQXV0aFxQYXNzd29yZHNcVG9rZW5SZXBvc2l0b3J5SW50ZXJmYWNlOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -952,31 +959,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbWF0Y2hlcyk7Cg==</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcQXV0aFxQYXNzd29yZHNcVG9rZW5SZXBvc2l0b3J5SW50ZXJmYWNlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZGF0ZVJlYWQpO2RkCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBkZCgkbWF0Y2hlcyk7Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkZGF0ZVJlYWQpO2RkCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2xpY2tMaW5rKCdOb3RpZmljYXRpb25zJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkbWF0Y2hlcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIGRkIAo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2xpY2tMaW5rKCdOb3RpZmljYXRpb25zJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIGRkIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHNlbGVjdG9yKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHNlbGVjdG9yKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnUK</text>
       </register>
       <register name=":" type="4">
         <text>325</text>
