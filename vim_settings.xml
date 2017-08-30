@@ -159,12 +159,12 @@
       <file name="$USER_HOME$/code/mica/resources/lang/en/passwords.php" timestamp="1503946054034">
         <mark key="[" line="19" column="118" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/86eee6cc-3a14-406f-a3ca-c6b7ce31fcd3/console.sql" timestamp="1504112833702">
-        <mark key="'" line="136" column="22" />
-        <mark key="[" line="150" column="27" />
-        <mark key="]" line="161" column="19" />
-        <mark key="^" line="161" column="19" />
-        <mark key="." line="161" column="19" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/86eee6cc-3a14-406f-a3ca-c6b7ce31fcd3/console.sql" timestamp="1504113958008">
+        <mark key="'" line="1" column="5" />
+        <mark key="[" line="37" column="25" />
+        <mark key="]" line="39" column="17" />
+        <mark key="^" line="39" column="17" />
+        <mark key="." line="39" column="17" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/lang/en/notifications.php" timestamp="1502386666900">
         <mark key="'" line="94" column="29" />
@@ -441,7 +441,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="460" column="4" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
       <jump line="491" column="33" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
       <jump line="438" column="5" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
       <jump line="437" column="20" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
@@ -541,6 +540,7 @@
       <jump line="559" column="20" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
       <jump line="148" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/86eee6cc-3a14-406f-a3ca-c6b7ce31fcd3/console.sql" />
       <jump line="136" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/86eee6cc-3a14-406f-a3ca-c6b7ce31fcd3/console.sql" />
+      <jump line="1" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/86eee6cc-3a14-406f-a3ca-c6b7ce31fcd3/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -598,7 +598,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdG9rZW4sICR0b2tlblN0ciwgcGFzc3dvcmRfdmVyaWZ5KCR0b2tlblN0ciwgJHRva2VuLT50b2tlbikpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -868,31 +868,164 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdG9rZW4sICR0b2tlblN0ciwgcGFzc3dvcmRfdmVyaWZ5KCR0b2tlblN0ciwgJHRva2VuLT50b2tlbikpOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdG9rZW4tPnRva2VuLCAkdG9rZW5TdHIpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKDsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>select DISTINCT Clients.Business_Type from Clients
+where Clients.Business_Type not like '% %'
+;
+
+
+-- // 30327
+Select count(Clients.Code) as total
+from Clients
+where Clients.Client_Status = 0
+and Clients.ClientType = 0;
+
+-- -- SEX
+-- Select count(Clients.Sex) / 30327.0, Clients.Sex from Clients
+-- where Clients.Client_Status = 0
+--       and Clients.ClientType = 0
+-- GROUP BY Clients.Sex
+
+
+
+
+
+-- # AGE
+
+-- 0 - 25 ans
+-- Select count(Clients.Sex) / 30327.0 from Clients
+-- where Clients.Client_Status = 0
+--   and Clients.ClientType = 0
+--       and Clients.Date_of_Birth BETWEEN DATEADD(year, -25, GETDATE()) and GETDATE()
+
+-- 25 - 40 ans
+-- Select count(Clients.Sex) / 30327.0 from Clients
+-- where Clients.Client_Status = 0
+--   and Clients.ClientType = 0
+--       and Clients.Date_of_Birth BETWEEN DATEADD(year, -40, GETDATE()) and DATEADD(year, -25, GETDATE())
+
+-- 40 - 55 ans
+Select count(Clients.Sex) / 30327.0 from Clients
+where Clients.Client_Status = 0
+  and Clients.ClientType = 0
+      and Clients.Date_of_Birth BETWEEN DATEADD(year, -55, GETDATE()) and DATEADD(year, -40, GETDATE())
+
+
+-- 55 - 70 ans
+-- Select count(Clients.Sex) / 30327.0 from Clients
+-- where Clients.Client_Status = 0
+--   and Clients.ClientType = 0
+--       and Clients.Date_of_Birth BETWEEN DATEADD(year, -70, GETDATE()) and DATEADD(year, -55, GETDATE())
+
+
+-- 70 - 80 ans
+-- Select count(Clients.Code) / 30327.0 from Clients
+-- where Clients.Client_Status = 0
+--   and Clients.ClientType = 0
+--       and Clients.Date_of_Birth BETWEEN DATEADD(year, -80, GETDATE()) and DATEADD(year, -70, GETDATE())
+
+
+-- Select count(Clients.Code) / 30327.0 from Clients
+-- where Clients.Client_Status = 0
+--   and Clients.ClientType = 0
+--       and Clients.Date_of_Birth BETWEEN DATEADD(year, -120, GETDATE()) and DATEADD(year, -80, GETDATE())
+--
+--
+-- Select count(Clients.Code) / 30327.0 from Clients
+-- where Clients.Client_Status = 0
+--   and Clients.ClientType = 0
+--       and Clients.Date_of_Birth BETWEEN DATEADD(year, -120, GETDATE()) and DATEADD(year, -90, GETDATE())
+
+-- -- # Client type
+-- select count(Clients.Code) / 31058.0, Clients.ClientType
+-- FROM Clients
+-- where Clients.Client_Status = 0
+-- GROUP BY Clients.ClientType
+
+
+Select count(Clients.Code) / 30327.0, Clients.Country
+from Clients
+where Clients.Client_Status = 0
+      and Clients.ClientType = 0
+GROUP BY Clients.Country
+
+
+--
+-- Select count(Clients.Code) / 30327.0, Clients.City
+-- from Clients
+-- where Clients.Client_Status = 0
+--       and Clients.ClientType = 0
+-- GROUP BY Clients.City
+
+
+--
+-- Select count(Clients.Code) / 30327.0, Clients.Business_Type
+-- from Clients
+-- where Clients.Client_Status = 0
+--       and Clients.ClientType = 0
+-- GROUP BY Clients.Business_Type
+
+--
+-- Select count(Clients.Code) / 30327.0, Clients.Language
+-- from Clients
+-- where Clients.Client_Status = 0
+--       and Clients.ClientType = 0
+-- GROUP BY Clients.Language
+
+--
+-- Select count(Clients.Code) / 30327.0, Clients.Marital_Status
+-- from Clients
+-- where Clients.Client_Status = 0
+--       and Clients.ClientType = 0
+-- GROUP BY Clients.Marital_Status
+
+
+
+--
+--
+-- Select count(Clients.Code) / 30327.0, Clients.Investment_Knowledge
+-- from Clients
+-- where Clients.Client_Status = 0
+--       and Clients.ClientType = 0
+-- GROUP BY Clients.Investment_Knowledge
+
+--
+Select count(Clients.Code) / 30327.0, Clients.Personal_Income
+from Clients
+where Clients.Client_Status = 0
+      and Clients.ClientType = 0
+GROUP BY Clients.Personal_Income
+
+
+--
+-- Select count(Clients.Code) / 30327.0, Clients.Net_Worth
+-- from Clients
+-- where Clients.Client_Status = 0
+--       and Clients.ClientType = 0
+-- GROUP BY Clients.Net_Worth</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdG9rZW4pOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdG9rZW4sICR0b2tlblN0ciwgcGFzc3dvcmRfdmVyaWZ5KCR0b2tlblN0ciwgJHRva2VuLT50b2tlbikpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcQXV0aFxQYXNzd29yZHNcVG9rZW5SZXBvc2l0b3J5SW50ZXJmYWNlOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdG9rZW4tPnRva2VuLCAkdG9rZW5TdHIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbWF0Y2hlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZGF0ZVJlYWQpO2RkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbWF0Y2hlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdG9rZW4pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>325</text>
