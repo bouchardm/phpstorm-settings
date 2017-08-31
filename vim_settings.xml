@@ -159,7 +159,7 @@
       <file name="$USER_HOME$/code/mica/resources/lang/en/passwords.php" timestamp="1503946054034">
         <mark key="[" line="19" column="118" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/86eee6cc-3a14-406f-a3ca-c6b7ce31fcd3/console.sql" timestamp="1504183638095">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/86eee6cc-3a14-406f-a3ca-c6b7ce31fcd3/console.sql" timestamp="1504188692551">
         <mark key="'" line="42" column="36" />
         <mark key="[" line="59" column="29" />
         <mark key="]" line="59" column="29" />
@@ -172,13 +172,6 @@
         <mark key="]" line="98" column="219" />
         <mark key="^" line="98" column="219" />
         <mark key="." line="98" column="219" />
-      </file>
-      <file name="$USER_HOME$/code/mica/app/Winfund/Client.php" timestamp="1503927407776">
-        <mark key="'" line="670" column="4" />
-        <mark key="[" line="769" column="0" />
-        <mark key="]" line="769" column="0" />
-        <mark key="n" line="213" column="36" />
-        <mark key="." line="769" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/config/graphql.php" timestamp="1502197561304">
         <mark key="[" line="51" column="22" />
@@ -265,11 +258,17 @@
         <mark key="." line="193" column="52" />
         <mark key="^" line="193" column="52" />
       </file>
+      <file name="/a.sql" timestamp="1504189549585">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/mica/tests/TestCase.php" timestamp="1501530205010">
         <mark key="[" line="196" column="83" />
         <mark key="]" line="196" column="88" />
         <mark key="^" line="196" column="88" />
         <mark key="." line="196" column="88" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b891c3d5-0ae5-46f7-b988-c3e72ba1ca1f/console.sql" timestamp="1504189944766">
+        <mark key="[" line="33" column="11" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/Validators/ClientHasUserValidator.php" timestamp="1502110678400">
         <mark key="[" line="10" column="0" />
@@ -277,7 +276,7 @@
         <mark key="^" line="10" column="47" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1504182303880">
+      <file name="/dummy.sql" timestamp="1504189188637">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Mutation/User/ChangeMainClientMutation.php" timestamp="1503925594431">
@@ -347,6 +346,12 @@
         <mark key="]" line="47" column="0" />
         <mark key="^" line="43" column="67" />
         <mark key="." line="47" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e0b99914-3b22-42fa-a202-b85bc0811dc8/console.sql" timestamp="1504190199085">
+        <mark key="[" line="6" column="48" />
+        <mark key="]" line="6" column="6" />
+        <mark key="^" line="6" column="6" />
+        <mark key="." line="6" column="6" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Notifications/TaxSlipAdded.php" timestamp="1502391334044">
         <mark key="'" line="46" column="40" />
