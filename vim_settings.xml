@@ -66,8 +66,14 @@
         <mark key="." line="77" column="15" />
         <mark key="^" line="77" column="15" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1504193979678">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5055f813-3fb1-4bbd-a46b-d08038f1154a/console.sql" timestamp="1504199701963">
+        <mark key="[" line="21" column="32" />
+        <mark key="]" line="21" column="34" />
+        <mark key="^" line="21" column="34" />
+        <mark key="." line="21" column="34" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1504198459565">
+        <mark key="[" line="0" column="17" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/lang/fr/passwords.php" timestamp="1503946020562">
         <mark key="[" line="19" column="66" />
@@ -166,13 +172,6 @@
         <mark key="." line="59" column="29" />
         <mark key="^" line="59" column="35" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/lang/en/notifications.php" timestamp="1502386666900">
-        <mark key="'" line="94" column="29" />
-        <mark key="[" line="98" column="221" />
-        <mark key="]" line="98" column="219" />
-        <mark key="^" line="98" column="219" />
-        <mark key="." line="98" column="219" />
-      </file>
       <file name="$USER_HOME$/code/mica/config/graphql.php" timestamp="1502197561304">
         <mark key="[" line="51" column="22" />
         <mark key="]" line="51" column="31" />
@@ -184,13 +183,6 @@
         <mark key="]" line="7" column="16" />
         <mark key="^" line="27" column="44" />
         <mark key="." line="7" column="16" />
-      </file>
-      <file name="$USER_HOME$/code/mica/resources/assets/js/components/client/information/TaxSlipDelivery.vue" timestamp="1502373852742">
-        <mark key="'" line="76" column="75" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="^" line="57" column="15" />
-        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/features/bootstrap/FeatureContext.php" timestamp="1503929908287">
         <mark key="[" line="244" column="42" />
@@ -267,7 +259,7 @@
         <mark key="^" line="196" column="88" />
         <mark key="." line="196" column="88" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b891c3d5-0ae5-46f7-b988-c3e72ba1ca1f/console.sql" timestamp="1504193625814">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b891c3d5-0ae5-46f7-b988-c3e72ba1ca1f/console.sql" timestamp="1504198539148">
         <mark key="'" line="66" column="0" />
         <mark key="[" line="38" column="0" />
         <mark key="]" line="61" column="27" />
@@ -301,13 +293,6 @@
         <mark key="^" line="47" column="108" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/lang/fr/notifications.php" timestamp="1502386648844">
-        <mark key="'" line="95" column="23" />
-        <mark key="[" line="99" column="278" />
-        <mark key="]" line="104" column="4" />
-        <mark key="." line="103" column="54" />
-        <mark key="^" line="103" column="54" />
-      </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Winfund/Mutation/EditTaxSlipMutation.php" timestamp="1502391277468">
         <mark key="[" line="44" column="21" />
         <mark key="]" line="44" column="20" />
@@ -316,13 +301,6 @@
       </file>
       <file name="/fragment.php" timestamp="1501766236245">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/mica/app/Console/Commands/ImportDocuments.php" timestamp="1502391117882">
-        <mark key="'" line="32" column="4" />
-        <mark key="[" line="65" column="29" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="159" column="8" />
-        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/lang/en/profile.php" timestamp="1502110253264">
         <mark key="[" line="20" column="15" />
@@ -356,20 +334,6 @@
         <mark key="]" line="6" column="6" />
         <mark key="^" line="6" column="6" />
         <mark key="." line="6" column="6" />
-      </file>
-      <file name="$USER_HOME$/code/mica/app/Notifications/TaxSlipAdded.php" timestamp="1502391334044">
-        <mark key="'" line="46" column="40" />
-        <mark key="[" line="46" column="13" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="55" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/mica/tests/unit/Winfund/ClientTest.php" timestamp="1503927710292">
-        <mark key="'" line="280" column="30" />
-        <mark key="[" line="280" column="47" />
-        <mark key="]" line="280" column="50" />
-        <mark key="^" line="280" column="50" />
-        <mark key="." line="280" column="50" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/lang/fr/profile.php" timestamp="1502110243696">
         <mark key="[" line="20" column="15" />
@@ -607,7 +571,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>6103cvi3</text>
+        <text>128</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -865,7 +829,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>6103cvi3</text>
+        <text>128</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -1171,6 +1135,9 @@ GROUP BY Clients.Personal_Income
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
