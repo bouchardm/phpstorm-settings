@@ -66,8 +66,8 @@
         <mark key="." line="77" column="15" />
         <mark key="^" line="77" column="15" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1504122471485">
-        <mark key="[" line="0" column="2" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1504193979678">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/lang/fr/passwords.php" timestamp="1503946020562">
         <mark key="[" line="19" column="66" />
@@ -267,7 +267,7 @@
         <mark key="^" line="196" column="88" />
         <mark key="." line="196" column="88" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b891c3d5-0ae5-46f7-b988-c3e72ba1ca1f/console.sql" timestamp="1504192036210">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b891c3d5-0ae5-46f7-b988-c3e72ba1ca1f/console.sql" timestamp="1504193625814">
         <mark key="'" line="66" column="0" />
         <mark key="[" line="38" column="0" />
         <mark key="]" line="61" column="27" />
@@ -280,7 +280,7 @@
         <mark key="^" line="10" column="47" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1504191219524">
+      <file name="/dummy.sql" timestamp="1504193958501">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Mutation/User/ChangeMainClientMutation.php" timestamp="1503925594431">
@@ -292,7 +292,7 @@
       <file name="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" timestamp="1503936116329">
         <mark key="'" line="559" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504191377037">
+      <file name="/Dummy.txt" timestamp="1504193871719">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Query/UserQueryTest.php" timestamp="1502112471153">
