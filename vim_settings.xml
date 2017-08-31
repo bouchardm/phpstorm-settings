@@ -159,12 +159,12 @@
       <file name="$USER_HOME$/code/mica/resources/lang/en/passwords.php" timestamp="1503946054034">
         <mark key="[" line="19" column="118" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/86eee6cc-3a14-406f-a3ca-c6b7ce31fcd3/console.sql" timestamp="1504182679144">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/86eee6cc-3a14-406f-a3ca-c6b7ce31fcd3/console.sql" timestamp="1504183638095">
         <mark key="'" line="42" column="36" />
-        <mark key="[" line="64" column="48" />
-        <mark key="]" line="59" column="6" />
-        <mark key="^" line="59" column="6" />
-        <mark key="." line="59" column="6" />
+        <mark key="[" line="59" column="29" />
+        <mark key="]" line="59" column="29" />
+        <mark key="." line="59" column="29" />
+        <mark key="^" line="59" column="35" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/lang/en/notifications.php" timestamp="1502386666900">
         <mark key="'" line="94" column="29" />
@@ -598,7 +598,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>174958</text>
+        <text>6103cvi3</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -856,7 +856,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>174958</text>
+        <text>6103cvi3</text>
       </register>
       <register name="/" type="4">
         <text>locked</text>
@@ -868,7 +868,7 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RVhFQ1VURSBkYm8uZnVuZGZhYwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -876,7 +876,10 @@
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>select DISTINCT Clients.Business_Type from Clients
 where Clients.Business_Type not like '% %'
 ;
@@ -1012,20 +1015,17 @@ GROUP BY Clients.Personal_Income
 --       and Clients.ClientType = 0
 -- GROUP BY Clients.Net_Worth</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBkZCgkdG9rZW4sICR0b2tlblN0ciwgcGFzc3dvcmRfdmVyaWZ5KCR0b2tlblN0ciwgJHRva2VuLT50b2tlbikpOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBkZCgkdG9rZW4tPnRva2VuLCAkdG9rZW5TdHIpOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBkdW1wKDsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdG9rZW4pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>325</text>
