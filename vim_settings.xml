@@ -159,12 +159,12 @@
       <file name="$USER_HOME$/code/mica/resources/lang/en/passwords.php" timestamp="1503946054034">
         <mark key="[" line="19" column="118" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/86eee6cc-3a14-406f-a3ca-c6b7ce31fcd3/console.sql" timestamp="1504124749651">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/86eee6cc-3a14-406f-a3ca-c6b7ce31fcd3/console.sql" timestamp="1504182679144">
         <mark key="'" line="42" column="36" />
-        <mark key="[" line="49" column="39" />
-        <mark key="]" line="49" column="39" />
-        <mark key="^" line="49" column="41" />
-        <mark key="." line="49" column="39" />
+        <mark key="[" line="64" column="48" />
+        <mark key="]" line="59" column="6" />
+        <mark key="^" line="59" column="6" />
+        <mark key="." line="59" column="6" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/lang/en/notifications.php" timestamp="1502386666900">
         <mark key="'" line="94" column="29" />
@@ -277,7 +277,7 @@
         <mark key="^" line="10" column="47" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1504124816169">
+      <file name="/dummy.sql" timestamp="1504182303880">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Mutation/User/ChangeMainClientMutation.php" timestamp="1503925594431">
