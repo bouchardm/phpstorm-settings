@@ -66,11 +66,10 @@
         <mark key="." line="77" column="15" />
         <mark key="^" line="77" column="15" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5055f813-3fb1-4bbd-a46b-d08038f1154a/console.sql" timestamp="1504199701963">
-        <mark key="[" line="21" column="32" />
-        <mark key="]" line="21" column="34" />
-        <mark key="^" line="21" column="34" />
-        <mark key="." line="21" column="34" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5055f813-3fb1-4bbd-a46b-d08038f1154a/console.sql" timestamp="1504200822836">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1504198459565">
         <mark key="[" line="0" column="17" />
@@ -165,7 +164,7 @@
       <file name="$USER_HOME$/code/mica/resources/lang/en/passwords.php" timestamp="1503946054034">
         <mark key="[" line="19" column="118" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/86eee6cc-3a14-406f-a3ca-c6b7ce31fcd3/console.sql" timestamp="1504188692551">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/86eee6cc-3a14-406f-a3ca-c6b7ce31fcd3/console.sql" timestamp="1504201335318">
         <mark key="'" line="42" column="36" />
         <mark key="[" line="59" column="29" />
         <mark key="]" line="59" column="29" />
@@ -570,8 +569,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>128</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -858,7 +857,7 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RVhFQ1VURSBkYm8uZnVuZGZhYwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -869,150 +868,17 @@
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>select DISTINCT Clients.Business_Type from Clients
-where Clients.Business_Type not like '% %'
-;
-
-
--- // 30327
-Select count(Clients.Code) as total
-from Clients
-where Clients.Client_Status = 0
-and Clients.ClientType = 0;
-
--- -- SEX
--- Select count(Clients.Sex) / 30327.0, Clients.Sex from Clients
--- where Clients.Client_Status = 0
---       and Clients.ClientType = 0
--- GROUP BY Clients.Sex
-
-
-
-
-
--- # AGE
-
--- 0 - 25 ans
--- Select count(Clients.Sex) / 30327.0 from Clients
--- where Clients.Client_Status = 0
---   and Clients.ClientType = 0
---       and Clients.Date_of_Birth BETWEEN DATEADD(year, -25, GETDATE()) and GETDATE()
-
--- 25 - 40 ans
--- Select count(Clients.Sex) / 30327.0 from Clients
--- where Clients.Client_Status = 0
---   and Clients.ClientType = 0
---       and Clients.Date_of_Birth BETWEEN DATEADD(year, -40, GETDATE()) and DATEADD(year, -25, GETDATE())
-
--- 40 - 55 ans
-Select count(Clients.Sex) / 30327.0 from Clients
-where Clients.Client_Status = 0
-  and Clients.ClientType = 0
-      and Clients.Date_of_Birth BETWEEN DATEADD(year, -55, GETDATE()) and DATEADD(year, -40, GETDATE())
-
-
--- 55 - 70 ans
--- Select count(Clients.Sex) / 30327.0 from Clients
--- where Clients.Client_Status = 0
---   and Clients.ClientType = 0
---       and Clients.Date_of_Birth BETWEEN DATEADD(year, -70, GETDATE()) and DATEADD(year, -55, GETDATE())
-
-
--- 70 - 80 ans
--- Select count(Clients.Code) / 30327.0 from Clients
--- where Clients.Client_Status = 0
---   and Clients.ClientType = 0
---       and Clients.Date_of_Birth BETWEEN DATEADD(year, -80, GETDATE()) and DATEADD(year, -70, GETDATE())
-
-
--- Select count(Clients.Code) / 30327.0 from Clients
--- where Clients.Client_Status = 0
---   and Clients.ClientType = 0
---       and Clients.Date_of_Birth BETWEEN DATEADD(year, -120, GETDATE()) and DATEADD(year, -80, GETDATE())
---
---
--- Select count(Clients.Code) / 30327.0 from Clients
--- where Clients.Client_Status = 0
---   and Clients.ClientType = 0
---       and Clients.Date_of_Birth BETWEEN DATEADD(year, -120, GETDATE()) and DATEADD(year, -90, GETDATE())
-
--- -- # Client type
--- select count(Clients.Code) / 31058.0, Clients.ClientType
--- FROM Clients
--- where Clients.Client_Status = 0
--- GROUP BY Clients.ClientType
-
-
-Select count(Clients.Code) / 30327.0, Clients.Country
-from Clients
-where Clients.Client_Status = 0
-      and Clients.ClientType = 0
-GROUP BY Clients.Country
-
-
---
--- Select count(Clients.Code) / 30327.0, Clients.City
--- from Clients
--- where Clients.Client_Status = 0
---       and Clients.ClientType = 0
--- GROUP BY Clients.City
-
-
---
--- Select count(Clients.Code) / 30327.0, Clients.Business_Type
--- from Clients
--- where Clients.Client_Status = 0
---       and Clients.ClientType = 0
--- GROUP BY Clients.Business_Type
-
---
--- Select count(Clients.Code) / 30327.0, Clients.Language
--- from Clients
--- where Clients.Client_Status = 0
---       and Clients.ClientType = 0
--- GROUP BY Clients.Language
-
---
--- Select count(Clients.Code) / 30327.0, Clients.Marital_Status
--- from Clients
--- where Clients.Client_Status = 0
---       and Clients.ClientType = 0
--- GROUP BY Clients.Marital_Status
-
-
-
---
---
--- Select count(Clients.Code) / 30327.0, Clients.Investment_Knowledge
--- from Clients
--- where Clients.Client_Status = 0
---       and Clients.ClientType = 0
--- GROUP BY Clients.Investment_Knowledge
-
---
-Select count(Clients.Code) / 30327.0, Clients.Personal_Income
-from Clients
-where Clients.Client_Status = 0
-      and Clients.ClientType = 0
-GROUP BY Clients.Personal_Income
-
-
---
--- Select count(Clients.Code) / 30327.0, Clients.Net_Worth
--- from Clients
--- where Clients.Client_Status = 0
---       and Clients.ClientType = 0
--- GROUP BY Clients.Net_Worth</text>
+      <register name="5" type="2">
+        <text encoding="base64">d2hlcmUgQ2xpZW50cy5Db2RlID0gMjg4OTU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdG9rZW4sICR0b2tlblN0ciwgcGFzc3dvcmRfdmVyaWZ5KCR0b2tlblN0ciwgJHRva2VuLT50b2tlbikpOwo=</text>
+        <text encoding="base64">c2V0IEJpdF9GbGFncyA9IDE5Mgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdG9rZW4tPnRva2VuLCAkdG9rZW5TdHIpOwo=</text>
+        <text encoding="base64">dXBkYXRlIENsaWVudHMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKDsK</text>
+        <text encoding="base64">RVhFQ1VURSBkYm8uZnVuZGZhYwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
