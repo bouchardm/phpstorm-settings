@@ -258,7 +258,7 @@
         <mark key="." line="193" column="52" />
         <mark key="^" line="193" column="52" />
       </file>
-      <file name="/a.sql" timestamp="1504189549585">
+      <file name="/a.sql" timestamp="1504191946093">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/TestCase.php" timestamp="1501530205010">
@@ -267,8 +267,12 @@
         <mark key="^" line="196" column="88" />
         <mark key="." line="196" column="88" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b891c3d5-0ae5-46f7-b988-c3e72ba1ca1f/console.sql" timestamp="1504189944766">
-        <mark key="[" line="33" column="11" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b891c3d5-0ae5-46f7-b988-c3e72ba1ca1f/console.sql" timestamp="1504192036210">
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="61" column="27" />
+        <mark key="^" line="61" column="27" />
+        <mark key="." line="61" column="27" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/Validators/ClientHasUserValidator.php" timestamp="1502110678400">
         <mark key="[" line="10" column="0" />
@@ -276,7 +280,7 @@
         <mark key="^" line="10" column="47" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1504189188637">
+      <file name="/dummy.sql" timestamp="1504191219524">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Mutation/User/ChangeMainClientMutation.php" timestamp="1503925594431">
@@ -288,7 +292,7 @@
       <file name="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" timestamp="1503936116329">
         <mark key="'" line="559" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503945912558">
+      <file name="/Dummy.txt" timestamp="1504191377037">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Query/UserQueryTest.php" timestamp="1502112471153">
@@ -347,7 +351,7 @@
         <mark key="^" line="43" column="67" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e0b99914-3b22-42fa-a202-b85bc0811dc8/console.sql" timestamp="1504190199085">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e0b99914-3b22-42fa-a202-b85bc0811dc8/console.sql" timestamp="1504190572579">
         <mark key="[" line="6" column="48" />
         <mark key="]" line="6" column="6" />
         <mark key="^" line="6" column="6" />
@@ -446,16 +450,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="438" column="5" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
-      <jump line="437" column="20" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
-      <jump line="575" column="20" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
-      <jump line="164" column="0" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
-      <jump line="211" column="19" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
-      <jump line="6" column="58" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
-      <jump line="78" column="8" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
-      <jump line="81" column="66" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
-      <jump line="58" column="39" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
-      <jump line="33" column="7" filename="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Query/Notification/PaginatedNotificationsQuery.php" />
       <jump line="143" column="23" filename="$USER_HOME$/code/mica/app/User.php" />
       <jump line="155" column="55" filename="$USER_HOME$/code/mica/app/User.php" />
       <jump line="157" column="27" filename="$USER_HOME$/code/mica/app/User.php" />
@@ -546,6 +540,16 @@
       <jump line="136" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/86eee6cc-3a14-406f-a3ca-c6b7ce31fcd3/console.sql" />
       <jump line="1" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/86eee6cc-3a14-406f-a3ca-c6b7ce31fcd3/console.sql" />
       <jump line="42" column="36" filename="$APPLICATION_CONFIG_DIR$/consoles/db/86eee6cc-3a14-406f-a3ca-c6b7ce31fcd3/console.sql" />
+      <jump line="56" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b891c3d5-0ae5-46f7-b988-c3e72ba1ca1f/console.sql" />
+      <jump line="57" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b891c3d5-0ae5-46f7-b988-c3e72ba1ca1f/console.sql" />
+      <jump line="58" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b891c3d5-0ae5-46f7-b988-c3e72ba1ca1f/console.sql" />
+      <jump line="59" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b891c3d5-0ae5-46f7-b988-c3e72ba1ca1f/console.sql" />
+      <jump line="60" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b891c3d5-0ae5-46f7-b988-c3e72ba1ca1f/console.sql" />
+      <jump line="61" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b891c3d5-0ae5-46f7-b988-c3e72ba1ca1f/console.sql" />
+      <jump line="62" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b891c3d5-0ae5-46f7-b988-c3e72ba1ca1f/console.sql" />
+      <jump line="63" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b891c3d5-0ae5-46f7-b988-c3e72ba1ca1f/console.sql" />
+      <jump line="64" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b891c3d5-0ae5-46f7-b988-c3e72ba1ca1f/console.sql" />
+      <jump line="65" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b891c3d5-0ae5-46f7-b988-c3e72ba1ca1f/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -864,13 +868,30 @@
         <text>6103cvi3</text>
       </register>
       <register name="/" type="4">
-        <text>locked</text>
+        <text>,</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IGxldmVuc2h0ZWluKAogICAgICAgICAgICBzdHJfcmVwbGFjZSgkaWdub3JlZFN0ciwgJycsICRmb3JtYXR0ZWROYW1lKSwKICAgICAgICAgICAgJGZvcm1hdHRlZENvcnBvTmFtZQogICAgICAgICkgLyBzdHJsZW4oJGZvcm1hdHRlZENvcnBvTmFtZSkg</text>
       </register>
       <register name="q" type="4">
-        <text />
+        <keys>
+          <key char="47" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="36" mods="0" />
+        </keys>
       </register>
       <register name="1" type="2">
         <text encoding="base64">RVhFQ1VURSBkYm8uZnVuZGZhYwo=</text>
@@ -1033,13 +1054,13 @@ GROUP BY Clients.Personal_Income
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>325</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>locked</last-search>
+      <last-search>,</last-search>
       <last-offset />
-      <last-pattern>locked</last-pattern>
+      <last-pattern>,</last-pattern>
       <last-replace>tax_slip</last-replace>
       <last-substitute>password_changed</last-substitute>
       <last-dir>1</last-dir>
@@ -1047,7 +1068,6 @@ GROUP BY Clients.Personal_Income
     </search>
     <history>
       <history-search>
-        <entry>disclai</entry>
         <entry>email-sent</entry>
         <entry>{</entry>
         <entry>sdfsdf</entry>
@@ -1067,9 +1087,9 @@ GROUP BY Clients.Personal_Income
         <entry>benef</entry>
         <entry>bit_fl</entry>
         <entry>locked</entry>
+        <entry>,</entry>
       </history-search>
       <history-cmd>
-        <entry>PluginInstall</entry>
         <entry>PluginsInstall</entry>
         <entry>source ~/.vimrc</entry>
         <entry>source ~/.ideavimrc</entry>
@@ -1085,10 +1105,11 @@ GROUP BY Clients.Personal_Income
         <entry>286</entry>
         <entry encoding="base64">JzwsJz5zL2NsaWVudFRvVW5saW5rL3VzZXJUb1VubGluay9n</entry>
         <entry>%s/password_changed/tax_slip/g</entry>
-        <entry>noh</entry>
         <entry>w</entry>
         <entry>325</entry>
         <entry>W</entry>
+        <entry>nohj</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
