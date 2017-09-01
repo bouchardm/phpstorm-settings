@@ -45,10 +45,11 @@
         <mark key="." line="477" column="0" />
         <mark key="^" line="456" column="84" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5055f813-3fb1-4bbd-a46b-d08038f1154a/console.sql" timestamp="1504200822836">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5055f813-3fb1-4bbd-a46b-d08038f1154a/console.sql" timestamp="1504267938010">
+        <mark key="[" line="76" column="8" />
+        <mark key="]" line="76" column="7" />
+        <mark key="." line="76" column="7" />
+        <mark key="^" line="76" column="6" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Type/Notification/NotificationTypeType.php" timestamp="1502379207502">
         <mark key="[" line="32" column="14" />
@@ -112,6 +113,14 @@
         <mark key="^" line="98" column="219" />
         <mark key="." line="98" column="219" />
       </file>
+      <file name="$USER_HOME$/code/mica/app/Winfund/Client.php" timestamp="1504267416450">
+        <mark key="'" line="451" column="23" />
+        <mark key="[" line="563" column="5" />
+        <mark key="]" line="564" column="32" />
+        <mark key="n" line="213" column="36" />
+        <mark key="." line="564" column="32" />
+        <mark key="^" line="564" column="32" />
+      </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Mutation/UnlinkClientMutationTest.php" timestamp="1502110616589">
         <mark key="[" line="7" column="15" />
         <mark key="]" line="7" column="16" />
@@ -144,11 +153,11 @@
         <mark key="^" line="19" column="7" />
         <mark key="." line="19" column="7" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Repositories/AccountRepository.php" timestamp="1504203208736">
-        <mark key="[" line="86" column="40" />
-        <mark key="]" line="86" column="39" />
-        <mark key="^" line="86" column="39" />
-        <mark key="." line="86" column="39" />
+      <file name="$USER_HOME$/code/mica/app/Repositories/AccountRepository.php" timestamp="1504267322690">
+        <mark key="[" line="130" column="87" />
+        <mark key="]" line="130" column="143" />
+        <mark key="^" line="130" column="143" />
+        <mark key="." line="130" column="143" />
       </file>
       <file name="/a.sql" timestamp="1504191946093">
         <mark key="[" line="0" column="0" />
@@ -429,7 +438,7 @@
         <mark key="." line="563" column="72" />
         <mark key="^" line="563" column="72" />
       </file>
-      <file name="/dummy.sql" timestamp="1504212664165">
+      <file name="/dummy.sql" timestamp="1504267457623">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Mutation/User/ChangeMainClientMutation.php" timestamp="1503925594431">
@@ -527,18 +536,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="20" filename="$USER_HOME$/code/mica/app/User.php" />
-      <jump line="186" column="45" filename="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Type/User/UserType.php" />
-      <jump line="251" column="15" filename="$USER_HOME$/code/mica/app/User.php" />
-      <jump line="257" column="24" filename="$USER_HOME$/code/mica/app/User.php" />
-      <jump line="196" column="6" filename="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasManyThrough.php" />
-      <jump line="253" column="35" filename="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasManyThrough.php" />
-      <jump line="258" column="39" filename="$USER_HOME$/code/mica/app/User.php" />
-      <jump line="59" column="25" filename="$USER_HOME$/code/mica/app/User.php" />
-      <jump line="491" column="4" filename="$USER_HOME$/code/mica/app/User.php" />
-      <jump line="433" column="0" filename="$USER_HOME$/code/mica/app/User.php" />
-      <jump line="154" column="11" filename="$USER_HOME$/code/mica/app/User.php" />
-      <jump line="263" column="0" filename="$USER_HOME$/code/mica/app/User.php" />
       <jump line="513" column="0" filename="$USER_HOME$/code/mica/app/User.php" />
       <jump line="465" column="53" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
       <jump line="47" column="18" filename="$USER_HOME$/code/mica/app/User.php" />
@@ -627,6 +624,18 @@
       <jump line="595" column="4" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
       <jump line="53" column="0" filename="$USER_HOME$/code/mica/database/factories/ModelFactory.php" />
       <jump line="34" column="27" filename="$USER_HOME$/code/mica/database/seeds/WinfundDBMockSeeder.php" />
+      <jump line="575" column="20" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
+      <jump line="600" column="27" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
+      <jump line="650" column="13" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
+      <jump line="81" column="18" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
+      <jump line="82" column="18" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
+      <jump line="208" column="30" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
+      <jump line="212" column="25" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
+      <jump line="400" column="71" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
+      <jump line="401" column="71" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
+      <jump line="427" column="9" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
+      <jump line="445" column="28" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
+      <jump line="451" column="23" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -683,8 +692,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gQ2xpZW50QWNjb3VudDo6d2hlcmVDb2RlKCRhY2NvdW50WydpZCddKS0+Zmlyc3QoKS0+dHJ1c3RBY2NvdW50czsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">c3VtKFRydXN0X0FjY291bnQuQW1vdW50KSA=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -942,10 +951,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">c3VtKFRydXN0X0FjY291bnQuQW1vdW50KSA=</text>
       </register>
       <register name="/" type="4">
-        <text>Equity_S</text>
+        <text>tot</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Q2xpZW50QWNjb3VudDo6d2hlcmVDb2RlKCRhY2NvdW50WydpZCddKS0+Zmlyc3QoKS0+dHJ1c3RBY2NvdW50czs=</text>
@@ -1002,17 +1011,16 @@
       </register>
     </registers>
     <search>
-      <last-search>Equity_S</last-search>
+      <last-search>tot</last-search>
       <last-offset />
-      <last-pattern>Equity_S</last-pattern>
+      <last-pattern>tot</last-pattern>
       <last-replace>tax_slip</last-replace>
       <last-substitute>password_changed</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>(</entry>
         <entry>password_changed</entry>
         <entry encoding="base64">JHRoaXMtPnR5cGVz</entry>
         <entry>taxSlip</entry>
@@ -1032,6 +1040,7 @@
         <entry>isself</entry>
         <entry>public function fun</entry>
         <entry>Equity_S</entry>
+        <entry>tot</entry>
       </history-search>
       <history-cmd>
         <entry>PluginsInstall</entry>
