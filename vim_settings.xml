@@ -45,11 +45,11 @@
         <mark key="." line="481" column="65" />
         <mark key="^" line="481" column="65" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5055f813-3fb1-4bbd-a46b-d08038f1154a/console.sql" timestamp="1504622805262">
-        <mark key="[" line="583" column="32" />
-        <mark key="]" line="584" column="59" />
-        <mark key="." line="584" column="59" />
-        <mark key="^" line="584" column="59" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5055f813-3fb1-4bbd-a46b-d08038f1154a/console.sql" timestamp="1504625641561">
+        <mark key="[" line="605" column="20" />
+        <mark key="]" line="585" column="49" />
+        <mark key="." line="585" column="49" />
+        <mark key="^" line="585" column="49" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Type/Notification/NotificationTypeType.php" timestamp="1502379207502">
         <mark key="[" line="32" column="14" />
@@ -99,20 +99,20 @@
         <mark key="." line="60" column="51" />
         <mark key="^" line="60" column="51" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/86eee6cc-3a14-406f-a3ca-c6b7ce31fcd3/console.sql" timestamp="1504617018275">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/86eee6cc-3a14-406f-a3ca-c6b7ce31fcd3/console.sql" timestamp="1504625033977">
         <mark key="'" line="81" column="2" />
-        <mark key="[" line="100" column="46" />
-        <mark key="]" line="100" column="28" />
-        <mark key="^" line="100" column="28" />
-        <mark key="." line="100" column="28" />
+        <mark key="[" line="123" column="31" />
+        <mark key="]" line="123" column="34" />
+        <mark key="." line="123" column="34" />
+        <mark key="^" line="123" column="34" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Winfund/Client.php" timestamp="1504621692628">
+      <file name="$USER_HOME$/code/mica/app/Winfund/Client.php" timestamp="1504626710466">
         <mark key="'" line="451" column="23" />
-        <mark key="[" line="567" column="71" />
-        <mark key="]" line="547" column="0" />
+        <mark key="[" line="555" column="42" />
+        <mark key="]" line="557" column="22" />
         <mark key="n" line="213" column="36" />
-        <mark key="." line="547" column="0" />
-        <mark key="^" line="550" column="74" />
+        <mark key="." line="557" column="22" />
+        <mark key="^" line="557" column="22" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Mutation/UnlinkClientMutationTest.php" timestamp="1502110616589">
         <mark key="[" line="7" column="15" />
@@ -451,7 +451,7 @@
         <mark key="." line="563" column="72" />
         <mark key="^" line="563" column="72" />
       </file>
-      <file name="/dummy.sql" timestamp="1504622807555">
+      <file name="/dummy.sql" timestamp="1504625119011">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Mutation/User/ChangeMainClientMutation.php" timestamp="1503925594431">
@@ -466,7 +466,7 @@
         <mark key="]" line="459" column="0" />
         <mark key="." line="459" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504619470566">
+      <file name="/Dummy.txt" timestamp="1504626773645">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Query/UserQueryTest.php" timestamp="1502112471153">
@@ -485,7 +485,7 @@
         <mark key="^" line="272" column="49" />
         <mark key="." line="272" column="49" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Repositories/Queries/WinfundQueryBuilder.php" timestamp="1504621681214">
+      <file name="$USER_HOME$/code/mica/app/Repositories/Queries/WinfundQueryBuilder.php" timestamp="1504626546385">
         <mark key="'" line="10" column="6" />
         <mark key="[" line="87" column="22" />
         <mark key="]" line="89" column="59" />
@@ -498,12 +498,12 @@
         <mark key="^" line="43" column="67" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/tests/unit/Winfund/ClientTest.php" timestamp="1504619347780">
+      <file name="$USER_HOME$/code/mica/tests/unit/Winfund/ClientTest.php" timestamp="1504626689004">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="252" column="38" />
-        <mark key="]" line="252" column="43" />
-        <mark key="." line="252" column="43" />
-        <mark key="^" line="252" column="43" />
+        <mark key="[" line="250" column="75" />
+        <mark key="]" line="262" column="87" />
+        <mark key="^" line="262" column="87" />
+        <mark key="." line="262" column="87" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/features/documents/Notifications.feature" timestamp="1503929615506">
         <mark key="[" line="9" column="10" />
@@ -705,7 +705,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">LS0gICAgICAgICAgICsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaGF2aW5nIHN1bShUcnVzdF9BY2NvdW50LkFtb3VudCkgPiAwLjAK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -963,13 +963,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>group</text>
+        <text>2369, 2400, 2401, 2402, 2403, 2404, 2405, 2468, 2497, 2617</text>
       </register>
       <register name="/" type="4">
         <text>fromas</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgR1JPVVAgQmFydXN0X0FjY291bnQuUGxhbl9Db2RlCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">JGNsaWVudCA9ICR0aGlzLT5jcmVhdGVXaW5mdW5kQ2xpZW50KCk7CiAgICAgICAgJHBsYW4gPSAkdGhpcy0+Y3JlYXRlQ2xpZW50UGxhbihbJ0NsaWVudENvZGUnID0+ICRjbGllbnQtPkNvZGVdKTsKICAgICAgICAkYWNjb3VudCA9ICR0aGlzLT5jcmVhdGVBY2NvdW50KFsnQ29kZScgPT4gJHBsYW4tPlBsYW5Db2RlXSk7CiAgICAgICAgJHRoaXMtPmNyZWF0ZVRydXN0QWNjb3VudCgkYWNjb3VudCwgWydBbW91bnQnID0+IDEyM10pOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1005,53 +1005,70 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LS0gICAgICAgICAgICsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaGF2aW5nIHN1bShUcnVzdF9BY2NvdW50LkFtb3VudCkgPiAwLjAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LS0gICAgICAgICAgICAgICBFTFNFIHRlcm1EZXBvc2l0U3ViUXVlcnkudGVybURlcG9zaXRNYXJrZXRWYWx1ZSBFTkQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaGF2aW5nIHN1bShBbW91bnQpID4gMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LS0gICAgICAgICAgICAgVEhFTiAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaGF2aW5nIHN1bShUcnVzdF9BY2NvdW50LkFtb3VudCkgPiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LS0gICAgICAgICAgIHN1bShDQVNFIFdkZGRIRU4gdGVybURlcG9zaXRTdWJRdWVyeS50ZXJtRGVwb3NpdE1hcmtldFZhbHVlIElTIE5VTEwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaGF2aW5nIHN1bShUcnVzdF9BY2NvdW50LkFtb3VudCkgPiAwCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>LEFT JOIN
-        (
-          SELECT
-            sum(Trust_Account.Amount) AS marketValue,
-            Trust_Account.Plan_Code
-          FROM Trust_Account
-          WHERE Trust_Account.Transaction_Status IN (1, 2)
-          GROUP BY Trust_Account.Plan_Code
-        ) AS trustAccountQuery
-          ON [trustAccountQuery].[Plan_Code] = [Client_Accounts].[Code]</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBDbGllbnRzLkNvZAo=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">LS0gICAgICAgICBMRUZUIEpPSU4gKFNFTEVDVAotLSAgICAgICAgICAgICAgICAgICAgICBbZ2ljQWNjb3VudFF1ZXJ5XS5bU3RhcnRfRGF0ZV0sCi0tICAgICAgICAgICAgICAgICAgICAgIFtnaWNBY2NvdW50UXVlcnldLltDb21wb3VuZF9GcmVxdWVuY3ldLAotLSAgICAgICAgICAgICAgICAgICAgICBbZ2ljQWNjb3VudFF1ZXJ5XS5bQ29kZV0sCi0tICAgICAgICAgICAgICAgICAgICAgIChnaWNBY2NvdW50UXVlcnkuUGxhbl9Db2RlKSAgICAgICAgICAgICAgICBBUyBQbGFuX0NvZGUsCi0tICAgICAgICAgICAgICAgICAgICAgIChTVU0oQ0FTRSB0aW1lX2ZyZXF1ZW5jeQotLSAgICAgICAgICAgICAgICAgICAgICAgICAgIFdIRU4gMAotLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVEhFTiBnaWNBY2NvdW50UXVlcnkuTWF0dXJpdHlfVmFsdWUKLS0gICAgICAgICAgICAgICAgICAgICAgICAgICBXSEVOIDEyCi0tICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUSEVOIHJvdW5kKGdpY0FjY291bnRRdWVyeS5BbW91bnQgKyBEQVRFRElGRihELCBEQVRFQUREKE0sIERBVEVESUZGKE0sCi0tICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdpY0FjY291bnRRdWVyeS5TdGFydF9EYXRlLAotLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBHRVREQVRFKCkpIC0gMSwKLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZ2ljQWNjb3VudFF1ZXJ5LlN0YXJ0X0RhdGUpLAotLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgR0VUREFURSgpKSAqIChnaWNBY2NvdW50UXVlcnkuTWF0dXJpdHlfVmFsdWUgLQotLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBnaWNBY2NvdW50UXVlcnkuQW1vdW50KSAvIDMxLjAsCi0tICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDIpCi0tICAgICAgICAgICAgICAgICAgICAgICAgICAgRUxTRSBDQVNFIFdIRU4gZ2ljQWNjb3VudFF1ZXJ5LlN0b3BfRGF0ZSA8IEdFVERBVEUoKQotLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVEhFTiAwLjAKLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEVMU0UgQ0FTRSBXSEVOIFlFQVIoZ2ljQWNjb3VudFF1ZXJ5LlN0b3BfRGF0ZSkgPSBZRUFSKEdFVERBVEUoKSkgQU5ECi0tICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBNT05USChnaWNBY2NvdW50UXVlcnkuU3RvcF9EYXRlKSA9IE1PTlRIKEdFVERBVEUoKSkgQU5ECi0tICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBnaWNBY2NvdW50UXVlcnkuRnJlcXVlbmN5ID0gNQotLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUSEVOIGdpY0FjY291bnRRdWVyeS5NYXR1cml0eV9WYWx1ZQotLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBFTFNFIHJvdW5kKGdpY0FjY291bnRRdWVyeS5BbW91bnQgKiBDQVNUKFBPV0VSKDEgKyBDQVNUKAotLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKGdpY0FjY291bnRRdWVyeS5JbnRlcmVzdCAvIDEwMC4wKSAvIHRpbWVfZnJlcXVlbmN5IEFTIERFQ0lNQUwoMjUsIDE0KSksCi0tICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZmxvb3IoeWVhckZyYWMpKSBBUyBERUNJTUFMKDI1LCAxNCkpCi0tICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKiAoMSArIENBU1QoKGdpY0FjY291bnRRdWVyeS5JbnRlcmVzdCAvIDEwMC4wKSAvIHRpbWVfZnJlcXVlbmN5IEFTCi0tICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgREVDSU1BTCgyNSwgMTQpKSAqCi0tICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIENBU1QoeWVhckZyYWMgLSBmbG9vcih5ZWFyRnJhYykgQVMgREVDSU1BTCgyNSwgMTQpKSksCi0tICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMikgRU5EIEVORCBFTkQpKSBBUyB0ZXJtRGVwb3NpdE1hcmtldFZhbHVlCi0tICAgICAgICAgICAgICAgICAgICBGUk9NIChTRUxFQ1QKLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgKiwKLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgKFNFTEVDVCBDQVNUKChEQVRFRElGRihELCBHSUNfQWNjb3VudHMuU3RhcnRfRGF0ZSwgREFURUFERChELCAtKFNFTEVDVCBjb3VudCgqKSBBUyBuYnIKLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZST00gZGJvLnVkZldERUdldERhdGVzKAotLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEdJQ19BY2NvdW50cy5TdGFydF9EYXRlICsKLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxLCBHRVREQVRFKCkgLSAxKQotLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgV0hFUkUgbW9udGgoRGF0ZSkgPSAwMgotLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQU5EIGRheShEYXRlKSA9IDI5KSwKLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBHRVREQVRFKCkpKSkgQVMgREVDSU1BTCgyNSwgMTQpKSAvCi0tICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMzY1LjApIEFTIHllYXJGcmFjCi0tICAgICAgICAgICAgICAgICAgICAgICAgICBGUk9NIFtHSUNfQWNjb3VudHNdKSBBUyBnaWNBY2NvdW50UXVlcnkgSU5ORVIgSk9JTiAoU0VMRUNUCi0tICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBERUZfR0lDSW50ZXJlc3RGcmVxdWVuY3kuQ29kZSwKLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIENBU0UgREVGX0dJQ0ludGVyZXN0RnJlcXVlbmN5LkNvZGUKLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFdIRU4gMAotLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUSEVOIDEuMAotLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgV0hFTiAxCi0tICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRIRU4gMi4wCi0tICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBXSEVOIDIKLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVEhFTiA0LjAKLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFdIRU4gMwotLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUSEVOIDEyLjAKLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFdIRU4gNAotLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUSEVOIDM2NS4wCi0tICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBFTFNFIDAgRU5EIEFTIHRpbWVfZnJlcXVlbmN5Ci0tICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRlJPTQotLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgREVGX0dJQ0ludGVyZXN0RnJlcXVlbmN5KSBBUyBpbnRlcmVzdEZyZXF1ZW5jeVF1ZXJ5Ci0tICAgICAgICAgICAgICAgICAgICAgICAgT04gW2ludGVyZXN0RnJlcXVlbmN5UXVlcnldLltDb2RlXSA9IFtnaWNBY2NvdW50UXVlcnldLltDb21wb3VuZF9GcmVxdWVuY3ldCi0tICAgICAgICAgICAgICAgICAgICBXSEVSRSBbZ2ljQWNjb3VudFF1ZXJ5XS5bQ2FzaGVkT3V0X0RhdGVdIElTIE5VTEwKLS0gICAgICAgICAgICAgICAgICAgIEdST1VQIEJZIFtnaWNBY2NvdW50UXVlcnldLltQbGFuX0NvZGVdLCBbZ2ljQWNjb3VudFF1ZXJ5XS5bU3RhcnRfRGF0ZV0sCi0tICAgICAgICAgICAgICAgICAgICAgIFtnaWNBY2NvdW50UXVlcnldLltDb21wb3VuZF9GcmVxdWVuY3ldLCBbZ2ljQWNjb3VudFF1ZXJ5XS5bQ29kZV0pIEFTIHRlcm1EZXBvc2l0U3ViUXVlcnkKLS0gICAgICAgICAgIE9OIFt0ZXJtRGVwb3NpdFN1YlF1ZXJ5XS5bUGxhbl9Db2RlXSA9IENsaWVudF9BY2NvdW50cy5Db2RlIEFORCAoU0VMRUNUIGNvdW50KCopCi0tICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZST00gR0lDX0FjY291bnRzCi0tICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFdIRVJFIEdJQ19BY2NvdW50cy5QbGFuX0NvZGUgPQotLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDbGllbnRfQWNjb3VudHMuQ29kZSkgPiAwYXYKIA==</text>
+        <text>e,
+  Clients.Name,
+  Clients.Surname,
+  DEF_ClientType.NameFR as ClientType,
+  Clients.Address,
+  Clients.City,
+  Clients.Province,
+  Clients.Postal_Code,
+  Clients.Country,
+  Clients.UserDefined2,
+  Clients.Spousal_Name,
+  Clients.Spousal_Surname,
+  Clients.Dealer_Code,
+  Clients.Rep_Code,
+  TaxIdentificationNumber.CreatedDate as FATCA_Effective_Date,
+  Clients.KYCOnFile_Date,
+  DEF_Clients_PersonalIncome.NameFR as Personal_Income,
+  DEF_Clients_InvestmentKnowledge.NameFR as Investment_Knowledge,
+  Clients.LTA_Date</text>
       </register>
       <register name="7" type="4">
-        <text>\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n</text>
+        <text>INNER
+INNER
+INNER
+INNER</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+dG90YWxJbnZlc3RtZW50Q2xpZW50cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgYW5kIENsaWVudHMuRGVhbGVyX0NvZGUgaW4gKDc3NTUsIDM0NTUsIDc5MDEpCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICsgQ0FTRSBXSEVOIG1heCh0cnVzdEFjY291bnRRdWVyeS5tYXJrZXRWYWx1ZSkgaXMgbnVsbCBUSEVOIDAgRUxTRSBtYXgodHJ1c3RBY2NvdW50UXVlcnkubWFya2V0VmFsdWUpIEVORAo=</text>
+      <register name="9" type="4">
+        <text>Clients.Code,
+  Clients.Name,
+  Clients.Surname,
+  DEF_ClientType.NameFR as ClientType,
+  Clients.Address,
+  Clients.City,
+  Clients.Province,
+  Clients.Postal_Code,
+  Clients.Country,
+  Clients.UserDefined2,
+  Clients.Spousal_Name,
+  Clients.Spousal_Surname,
+  Clients.Dealer_Code,
+  Clients.Rep_Code,
+  TaxIdentificationNumber.CreatedDate as FATCA_Effective_Date,
+  Clients.KYCOnFile_Date,
+  DEF_Clients_PersonalIncome.NameFR as Personal_Income,
+  DEF_Clients_InvestmentKnowledge.NameFR as Investment_Knowledge,
+  Clients.LTA_Date</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
