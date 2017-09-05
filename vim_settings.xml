@@ -45,11 +45,11 @@
         <mark key="." line="481" column="65" />
         <mark key="^" line="481" column="65" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5055f813-3fb1-4bbd-a46b-d08038f1154a/console.sql" timestamp="1504625641561">
-        <mark key="[" line="605" column="20" />
-        <mark key="]" line="585" column="49" />
-        <mark key="." line="585" column="49" />
-        <mark key="^" line="585" column="49" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5055f813-3fb1-4bbd-a46b-d08038f1154a/console.sql" timestamp="1504634119385">
+        <mark key="[" line="599" column="0" />
+        <mark key="]" line="723" column="21" />
+        <mark key="." line="723" column="21" />
+        <mark key="^" line="723" column="21" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Type/Notification/NotificationTypeType.php" timestamp="1502379207502">
         <mark key="[" line="32" column="14" />
@@ -139,10 +139,11 @@
         <mark key="^" line="19" column="7" />
         <mark key="." line="19" column="7" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Repositories/MarketValueRepository.php" timestamp="1504621752046">
-        <mark key="[" line="83" column="43" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
+      <file name="$USER_HOME$/code/mica/app/Repositories/MarketValueRepository.php" timestamp="1504634041274">
+        <mark key="[" line="53" column="25" />
+        <mark key="]" line="40" column="20" />
+        <mark key="." line="40" column="20" />
+        <mark key="^" line="40" column="20" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Repositories/AccountRepository.php" timestamp="1504617806257">
         <mark key="'" line="0" column="0" />
@@ -203,11 +204,11 @@
         <mark key="." line="44" column="20" />
         <mark key="^" line="44" column="20" />
       </file>
-      <file name="$USER_HOME$/code/mica/tests/unit/Winfund/ClientAccountTest.php" timestamp="1504275132961">
-        <mark key="[" line="162" column="26" />
-        <mark key="]" line="162" column="62" />
-        <mark key="^" line="162" column="62" />
-        <mark key="." line="162" column="62" />
+      <file name="$USER_HOME$/code/mica/tests/unit/Winfund/ClientAccountTest.php" timestamp="1504633673453">
+        <mark key="[" line="184" column="9" />
+        <mark key="]" line="184" column="34" />
+        <mark key="^" line="184" column="34" />
+        <mark key="." line="184" column="34" />
       </file>
       <file name="/fragment.php" timestamp="1501766236245">
         <mark key="[" line="0" column="0" />
@@ -460,13 +461,13 @@
         <mark key="^" line="32" column="62" />
         <mark key="." line="32" column="62" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" timestamp="1504281130137">
+      <file name="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" timestamp="1504632915690">
         <mark key="'" line="418" column="89" />
-        <mark key="[" line="459" column="0" />
-        <mark key="]" line="459" column="0" />
-        <mark key="." line="459" column="0" />
+        <mark key="[" line="512" column="0" />
+        <mark key="]" line="512" column="0" />
+        <mark key="." line="512" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504626773645">
+      <file name="/Dummy.txt" timestamp="1504632515906">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Query/UserQueryTest.php" timestamp="1502112471153">
@@ -485,12 +486,12 @@
         <mark key="^" line="272" column="49" />
         <mark key="." line="272" column="49" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Repositories/Queries/WinfundQueryBuilder.php" timestamp="1504626546385">
+      <file name="$USER_HOME$/code/mica/app/Repositories/Queries/WinfundQueryBuilder.php" timestamp="1504633467370">
         <mark key="'" line="10" column="6" />
-        <mark key="[" line="87" column="22" />
-        <mark key="]" line="89" column="59" />
-        <mark key="." line="89" column="59" />
-        <mark key="^" line="89" column="59" />
+        <mark key="[" line="87" column="42" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+        <mark key="^" line="87" column="83" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Providers/AppServiceProvider.php" timestamp="1501868515911">
         <mark key="[" line="47" column="0" />
@@ -705,7 +706,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaGF2aW5nIHN1bShUcnVzdF9BY2NvdW50LkFtb3VudCkgPiAwLjAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHskdGhpcy0+c3VtRXhjZXB0TnVsbCgndHJ1c3RBY2NvdW50UXVlcnkubWFya2V0VmFsdWUnLCAwKX0K</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -963,13 +964,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>2369, 2400, 2401, 2402, 2403, 2404, 2405, 2468, 2497, 2617</text>
+        <text>toSql</text>
       </register>
       <register name="/" type="4">
         <text>fromas</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">JGNsaWVudCA9ICR0aGlzLT5jcmVhdGVXaW5mdW5kQ2xpZW50KCk7CiAgICAgICAgJHBsYW4gPSAkdGhpcy0+Y3JlYXRlQ2xpZW50UGxhbihbJ0NsaWVudENvZGUnID0+ICRjbGllbnQtPkNvZGVdKTsKICAgICAgICAkYWNjb3VudCA9ICR0aGlzLT5jcmVhdGVBY2NvdW50KFsnQ29kZScgPT4gJHBsYW4tPlBsYW5Db2RlXSk7CiAgICAgICAgJHRoaXMtPmNyZWF0ZVRydXN0QWNjb3VudCgkYWNjb3VudCwgWydBbW91bnQnID0+IDEyM10pOwo=</text>
+        <text encoding="base64">JHRoaXMtPmdldE1hcmtldFZhbHVlUXVlcnkoKQogICAgICAgICAgICAgICAgICAgIC0+d2hlcmUoJ0NsaWVudFBsYW4uUGxhbkNvZGUnLCAnPScsICRjbGllbnRBY2NvdW50LT5Db2RlKQogICAgICAgICAgICAgICAgICAgIC0+Z3JvdXBCeShEQjo6cmF3KCJDbGllbnRQbGFuLkNsaWVudENvZGUgeyR0aGlzLT5nZXRSZWN1cnNpdmVPcHRpb24oKX0iKSkKICAgICAgICAgICAgICAgICAgICAtPmZpcnN0KCk=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1005,70 +1006,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaGF2aW5nIHN1bShUcnVzdF9BY2NvdW50LkFtb3VudCkgPiAwLjAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHskdGhpcy0+c3VtRXhjZXB0TnVsbCgndHJ1c3RBY2NvdW50UXVlcnkubWFya2V0VmFsdWUnLCAwKX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaGF2aW5nIHN1bShBbW91bnQpID4gMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5zZWxlY3RSYXcoJ0NsaWVudFBsYW4uUGxhbkNvZGUnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaGF2aW5nIHN1bShUcnVzdF9BY2NvdW50LkFtb3VudCkgPiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaGF2aW5nIHN1bShUcnVzdF9BY2NvdW50LkFtb3VudCkgPiAwCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGRkKCRyZXN1bHQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBDbGllbnRzLkNvZAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAtPnRvU3FsKCkK</text>
       </register>
-      <register name="6" type="4">
-        <text>e,
-  Clients.Name,
-  Clients.Surname,
-  DEF_ClientType.NameFR as ClientType,
-  Clients.Address,
-  Clients.City,
-  Clients.Province,
-  Clients.Postal_Code,
-  Clients.Country,
-  Clients.UserDefined2,
-  Clients.Spousal_Name,
-  Clients.Spousal_Surname,
-  Clients.Dealer_Code,
-  Clients.Rep_Code,
-  TaxIdentificationNumber.CreatedDate as FATCA_Effective_Date,
-  Clients.KYCOnFile_Date,
-  DEF_Clients_PersonalIncome.NameFR as Personal_Income,
-  DEF_Clients_InvestmentKnowledge.NameFR as Investment_Knowledge,
-  Clients.LTA_Date</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHskdGhpcy0+c3VtRXhjZXB0TnVsbCgndHJ1c3RBY2NvdW50UXVlcnkubWFya2V0VmFsdWUnLCAwKX0K</text>
       </register>
-      <register name="7" type="4">
-        <text>INNER
-INNER
-INNER
-INNER</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIHN1bUV4Y2VwdE51bGwgdHJ1c3RhY2NvdW50IG1hcmtldCB2YWx1ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYW5kIENsaWVudHMuRGVhbGVyX0NvZGUgaW4gKDc3NTUsIDM0NTUsIDc5MDEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgV0hFUkUgVHJ1c3RfQWNjb3VudC5UcmFuc2FjdGlvbl9TdGF0dXMgaW4gKDEsIDIpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>Clients.Code,
-  Clients.Name,
-  Clients.Surname,
-  DEF_ClientType.NameFR as ClientType,
-  Clients.Address,
-  Clients.City,
-  Clients.Province,
-  Clients.Postal_Code,
-  Clients.Country,
-  Clients.UserDefined2,
-  Clients.Spousal_Name,
-  Clients.Spousal_Surname,
-  Clients.Dealer_Code,
-  Clients.Rep_Code,
-  TaxIdentificationNumber.CreatedDate as FATCA_Effective_Date,
-  Clients.KYCOnFile_Date,
-  DEF_Clients_PersonalIncome.NameFR as Personal_Income,
-  DEF_Clients_InvestmentKnowledge.NameFR as Investment_Knowledge,
-  Clients.LTA_Date</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHF3ZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
