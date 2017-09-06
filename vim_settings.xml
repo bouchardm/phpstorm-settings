@@ -154,18 +154,19 @@
         <mark key="^" line="19" column="7" />
         <mark key="." line="19" column="7" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Repositories/MarketValueRepository.php" timestamp="1504639357431">
-        <mark key="'" line="42" column="48" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/code/mica/app/Repositories/MarketValueRepository.php" timestamp="1504720986261">
+        <mark key="'" line="63" column="20" />
+        <mark key="[" line="83" column="42" />
+        <mark key="]" line="81" column="42" />
+        <mark key="." line="81" column="42" />
+        <mark key="^" line="81" column="42" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Repositories/AccountRepository.php" timestamp="1504719393559">
+      <file name="$USER_HOME$/code/mica/app/Repositories/AccountRepository.php" timestamp="1504720993263">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="111" column="0" />
-        <mark key="^" line="110" column="13" />
-        <mark key="." line="111" column="0" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="^" line="136" column="14" />
+        <mark key="." line="152" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/.env.ci" timestamp="1504617781734">
         <mark key="'" line="43" column="0" />
@@ -525,12 +526,12 @@
         <mark key="^" line="272" column="49" />
         <mark key="." line="272" column="49" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Repositories/Queries/WinfundQueryBuilder.php" timestamp="1504633467370">
-        <mark key="'" line="10" column="6" />
-        <mark key="[" line="87" column="42" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
-        <mark key="^" line="87" column="83" />
+      <file name="$USER_HOME$/code/mica/app/Repositories/Queries/WinfundQueryBuilder.php" timestamp="1504720798819">
+        <mark key="'" line="11" column="6" />
+        <mark key="[" line="34" column="75" />
+        <mark key="]" line="36" column="20" />
+        <mark key="." line="36" column="20" />
+        <mark key="^" line="36" column="20" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Providers/AppServiceProvider.php" timestamp="1501868515911">
         <mark key="[" line="47" column="0" />
@@ -588,7 +589,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b891c3d5-0ae5-46f7-b988-c3e72ba1ca1f/console.sql" />
       <jump line="65" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b891c3d5-0ae5-46f7-b988-c3e72ba1ca1f/console.sql" />
       <jump line="372" column="0" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
       <jump line="595" column="4" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
@@ -688,6 +688,7 @@
       <jump line="321" column="78" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
       <jump line="322" column="78" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
       <jump line="738" column="26" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
+      <jump line="63" column="20" filename="$USER_HOME$/code/mica/app/Repositories/MarketValueRepository.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -745,7 +746,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJGFjY291bnRzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1003,10 +1004,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>namespace App\Http\GraphQL\Common\Scalar;</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>riskto</text>
+        <text>loadclientsto</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">JGNsYXNzID0gZ2V0X2NhbGxlZF9jbGFzcygpOwo=</text>
@@ -1045,40 +1046,40 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJGFjY291bnRzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJiRzb3J0ZWRBY2NvdW50cywK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJGFjY291bnRzOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQHZhciAkbGlzdFRyYW5zYWN0aW9ucyBDb2xsZWN0aW9uICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gYXJyYXkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBDbGllbnQgJGNsaWVudAo=</text>
+        <text encoding="base64">ICAgICAgICB9KS0+cGx1Y2soJ2lkJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBDb2xsZWN0aW9uICRhY2NvdW50cwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICRhY2NvdW50Wyd0ZXJtX2RlcG9zaXQnXSAmJiAkYWNjb3VudFsnYWN0aXZlJ107Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>155</text>
       </register>
     </registers>
     <search>
-      <last-search>riskto</last-search>
+      <last-search>loadclientsto</last-search>
       <last-offset />
-      <last-pattern>riskto</last-pattern>
+      <last-pattern>loadclientsto</last-pattern>
       <last-replace>tax_slip</last-replace>
       <last-substitute>password_changed</last-substitute>
       <last-dir>1</last-dir>
@@ -1086,7 +1087,6 @@
     </search>
     <history>
       <history-search>
-        <entry>addser</entry>
         <entry>addsel</entry>
         <entry encoding="base64">PT4=</entry>
         <entry>v-for</entry>
@@ -1106,9 +1106,9 @@
         <entry>risk</entry>
         <entry>risk_to</entry>
         <entry>riskto</entry>
+        <entry>loadclientsto</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2F1dGgoKS0+dXNlcigpLyRmcm9tVXNlci9n</entry>
         <entry>474</entry>
         <entry>%s/linkedclient/linkedUser/g</entry>
         <entry>sw</entry>
@@ -1128,6 +1128,7 @@
         <entry>59</entry>
         <entry>moh</entry>
         <entry>noh</entry>
+        <entry>155</entry>
       </history-cmd>
       <history-expr />
       <history-input />
