@@ -424,12 +424,12 @@
         <mark key="^" line="21" column="53" />
         <mark key="." line="21" column="53" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/accounts/Account.vue" timestamp="1504702176743">
-        <mark key="'" line="17" column="54" />
-        <mark key="[" line="143" column="75" />
-        <mark key="]" line="143" column="48" />
-        <mark key="." line="143" column="48" />
-        <mark key="^" line="143" column="48" />
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/accounts/Account.vue" timestamp="1504708042066">
+        <mark key="'" line="229" column="8" />
+        <mark key="[" line="61" column="51" />
+        <mark key="]" line="64" column="27" />
+        <mark key="." line="64" column="27" />
+        <mark key="^" line="64" column="27" />
       </file>
       <file name="$USER_HOME$/code/mica/database/migrations/2017_07_20_131654_create_client_links_table.php" timestamp="1502110028900">
         <mark key="[" line="6" column="10" />
@@ -567,7 +567,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="714" column="27" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
       <jump line="30" column="18" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
       <jump line="131" column="18" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
       <jump line="288" column="78" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
@@ -667,6 +666,7 @@
       <jump line="58" column="16" filename="$USER_HOME$/code/mica/resources/views/pdf/accounts/statement.blade.php" />
       <jump line="173" column="42" filename="$USER_HOME$/code/mica/resources/views/pdf/accounts/statement.blade.php" />
       <jump line="186" column="48" filename="$USER_HOME$/code/mica/resources/views/pdf/accounts/statement.blade.php" />
+      <jump line="228" column="8" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/accounts/Account.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -723,8 +723,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKEZ1bmRSaXNrOjphbGwoKVtGdW5kUmlzazo6VkVSWV9MT1ddKTsK</text>
+      <register name="&quot;" type="4">
+        <text>market</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -982,10 +982,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">e3sgJGZ1bmQtPnRvdGFsX3VuaXRzIH19</text>
+        <text>market</text>
       </register>
       <register name="/" type="4">
-        <text>funds</text>
+        <text>market</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkcmlza3MgPSBGdW5kUmlzazo6YWxsKCktPnBsdWNrKCdTaG9ydE5hbWUnIC4gc3RydG91cHBlcihhdXRoKCktPnVzZXIoKS0+bGFuZyksICdDb2RlJyk7CgogICAgICAgICAgICAgICAgICAgIHJldHVybiAkcmlza3NbJHNhbGUtPlJpc2tdID8/ICRyaXNrc1swXTs=</text>
@@ -1055,9 +1055,9 @@
       </register>
     </registers>
     <search>
-      <last-search>funds</last-search>
+      <last-search>market</last-search>
       <last-offset />
-      <last-pattern>funds</last-pattern>
+      <last-pattern>market</last-pattern>
       <last-replace>tax_slip</last-replace>
       <last-substitute>password_changed</last-substitute>
       <last-dir>1</last-dir>
@@ -1065,7 +1065,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isself</entry>
         <entry>public function fun</entry>
         <entry>Equity_S</entry>
         <entry>tot</entry>
@@ -1085,6 +1084,7 @@
         <entry>risk</entry>
         <entry>Risk</entry>
         <entry>funds</entry>
+        <entry>market</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2F1dGgoKS0+dXNlcigpLyRmcm9tVXNlci9n</entry>
