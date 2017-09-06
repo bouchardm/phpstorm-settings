@@ -526,12 +526,12 @@
         <mark key="^" line="272" column="49" />
         <mark key="." line="272" column="49" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Repositories/Queries/WinfundQueryBuilder.php" timestamp="1504720798819">
-        <mark key="'" line="11" column="6" />
-        <mark key="[" line="34" column="75" />
-        <mark key="]" line="36" column="20" />
-        <mark key="." line="36" column="20" />
-        <mark key="^" line="36" column="20" />
+      <file name="$USER_HOME$/code/mica/app/Repositories/Queries/WinfundQueryBuilder.php" timestamp="1504723653599">
+        <mark key="'" line="12" column="6" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="^" line="94" column="31" />
+        <mark key="." line="109" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Providers/AppServiceProvider.php" timestamp="1501868515911">
         <mark key="[" line="47" column="0" />
@@ -1004,7 +1004,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>loadclientsto</text>
@@ -1049,28 +1049,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICcpLCAndHJ1c3RBY2NvdW50UXVlcnkuUGxhbl9Db2RlJywgJz0nLCAnQ2xpZW50X0FjY291bnRzLkNvZGUnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJGFjY291bnRzOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBHUk9VUCBCWSAiVHJ1c3RfQWNjb3VudCIuIlBsYW5fQ29kZSIKLy8gICAgICAgICkgYXMgdHJ1c3RBY2NvdW50UXVlcnkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBGUk9NICJUcnVzdF9BY2NvdW50IgovLyAgICAgICAgICAgIFdIRVJFICJUcnVzdF9BY2NvdW50Ii4iVHJhbnNhY3Rpb25fU3RhdHVzIiBpbiAoPywgPyApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICgKLy8gICAgICAgICAgICBTRUxFQ1Qgc3VtKFRydXN0X0FjY291bnQuQW1vdW50KSBhcyBtYXJrZXRWYWx1ZSwgVHJ1c3RfQWNjb3VudC5QbGFuX0NvZGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGRkKCR0aGlzLT5xdWVyeS0+dG9TcWwoKSk7Ci8vICAgICAgICAkdGhpcy0+cXVlcnktPmxlZnRKb2luKERCOjpyYXcoJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGR1bXAoIih7JHF1ZXJ5fSkgYXMgdHJ1c3RBY2NvdW50UXVlcnkiLCAnKFNFTEVDVCBzdW0oVHJ1c3RfQWNjb3VudC5BbW91bnQpIGFzIG1hcmtldFZhbHVlLCBUcnVzdF9BY2NvdW50LlBsYW5fQ29kZSBGUk9NIFRydXN0X0FjY291bnQgV0hFUkUgVHJ1c3RfQWNjb3VudC5UcmFuc2FjdGlvbl9TdGF0dXMgaW4gKD8sID8pIEdST1VQIEJZIFRydXN0X0FjY291bnQuUGxhbl9Db2RlKSBhcyB0cnVzdEFjY291bnRRdWVyeScpOwoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9KS0+cGx1Y2soJ2lkJyk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGRkKCR0aGlzLT5xdWVyeS0+Z2V0KCkpOwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICRhY2NvdW50Wyd0ZXJtX2RlcG9zaXQnXSAmJiAkYWNjb3VudFsnYWN0aXZlJ107Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAtPmFkZFNlbGVjdCgnVHJ1c3RfQWNjb3VudC5QbGFuX0NvZGUnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>155</text>
