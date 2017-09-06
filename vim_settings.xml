@@ -62,6 +62,11 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
       </file>
+      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Common/Scalar/DateType.php" timestamp="1504712485960">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Type/Notification/NotificationTypeType.php" timestamp="1502379207502">
         <mark key="[" line="32" column="14" />
         <mark key="]" line="34" column="40" />
@@ -219,7 +224,7 @@
         <mark key="^" line="160" column="39" />
         <mark key="." line="181" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1504704767302">
+      <file name="/GraphQL.result.json" timestamp="1504711804001">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.php" timestamp="1501766236245">
@@ -237,11 +242,11 @@
         <mark key="^" line="114" column="39" />
         <mark key="." line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Common/Scalar/RiskNameType.php" timestamp="1504703537947">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="26" column="4" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Common/Scalar/RiskNameType.php" timestamp="1504712009874">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="6" column="35" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Policies/WinfundClientPolicyTest.php" timestamp="1501791249605">
         <mark key="[" line="58" column="72" />
@@ -375,6 +380,12 @@
         <mark key="]" line="281" column="0" />
         <mark key="." line="281" column="0" />
       </file>
+      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Common/Scalar/ScalarType.php" timestamp="1504712611898">
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="8" column="34" />
+        <mark key="." line="8" column="34" />
+        <mark key="^" line="8" column="34" />
+      </file>
       <file name="$USER_HOME$/code/mica/.env" timestamp="1504619235860">
         <mark key="[" line="17" column="32" />
         <mark key="]" line="19" column="27" />
@@ -493,6 +504,11 @@
         <mark key="^" line="47" column="108" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Common/Scalar/DefWinfundType.php" timestamp="1504712141150">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/code/mica/resources/lang/en/profile.php" timestamp="1502110253264">
         <mark key="[" line="20" column="15" />
       </file>
@@ -529,7 +545,6 @@
         <mark key="^" line="21" column="48" />
         <mark key="." line="21" column="48" />
       </file>
-      <file name="$USER_HOME$/code/mica/vendor/barryvdh/laravel-ide-helper/src/Console/ModelsCommand.php" timestamp="1504701752632" />
       <file name="$USER_HOME$/code/mica/tests/features/documents/Documents.feature" timestamp="1502387589528">
         <mark key="[" line="13" column="49" />
         <mark key="]" line="13" column="48" />
@@ -723,8 +738,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>market</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkdW1wKHNlbGY6OiRpbnN0YW5jZSk7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -982,13 +997,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>market</text>
+        <text>namespace App\Http\GraphQL\Common\Scalar;</text>
       </register>
       <register name="/" type="4">
         <text>market</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkcmlza3MgPSBGdW5kUmlzazo6YWxsKCktPnBsdWNrKCdTaG9ydE5hbWUnIC4gc3RydG91cHBlcihhdXRoKCktPnVzZXIoKS0+bGFuZyksICdDb2RlJyk7CgogICAgICAgICAgICAgICAgICAgIHJldHVybiAkcmlza3NbJHNhbGUtPlJpc2tdID8/ICRyaXNrc1swXTs=</text>
+      <register name="0" type="2">
+        <text encoding="base64">JGNsYXNzID0gZ2V0X2NhbGxlZF9jbGFzcygpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1024,31 +1039,40 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKEZ1bmRSaXNrOjphbGwoKVtGdW5kUmlzazo6VkVSWV9MT1ddKTsK</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKHNlbGY6OiRpbnN0YW5jZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoIlNERlNERiIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gJFFXRVsncmlzayddOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdyZXNvbHZlJyA9PiBmdW5jdGlvbiAoJFFXRSkgewo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkPnt7ICR0cmRkdQo=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">c3RBY2NvdW50WydkZXNjcmlwdGlvbiddIH19PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkPi08L3RkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQ+LTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD4tPC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkPi08L3RkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQ+LTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD4tPC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkPi08L3RkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgJHRydXN0QWNjb3VudFsnbWFya2V0VmFsdWUnXSB9fTwvdGQ+Cgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkPnt7IGZvcm1hdF9tb25leSgkZnVuZC0+bWFya2V0VmFsdWUpIH19PC90ZD4K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">QGZvcmVhY2goJGFjY291bnRbJ2dyb3VwZWRUcnVzdEFjY291bnRzJ10gYXMgJHRydXN0QWNjb3VudCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD57eyAkdHJ1c3RBY2NvdW50WydkZXNjcmlwdGlvbiddIH19PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkPi08L3RkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQ+LTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD4tPC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkPi08L3RkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQ+LTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD4tPC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkPi08L3RkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgJHRydXN0QWNjb3VudFsnbWFya2V0VmFsdWUnXSB9fTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90cj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBlbmRmb3JlYWNoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBzdGF0aQo=</text>
+      </register>
+      <register name="5" type="4">
+        <text>c $instance = null;
+
+    public static function instance()
+    {
+        if (! self::$instance instanceof self) {
+            self::$instance = new self();
+        }
+
+        return self::$instance;
+    }</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBwYXJzZUxpdAo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ZXJhbCgkdmFsdWVOb2RlKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+cGFyc2VWYWx1ZSgkdmFsdWVOb2RlKTsKICAgIH0=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
