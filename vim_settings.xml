@@ -449,7 +449,7 @@
         <mark key="]" line="423" column="0" />
         <mark key="." line="423" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504808427603">
+      <file name="/Dummy.txt" timestamp="1504810106800">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Query/UserQueryTest.php" timestamp="1502112471153">
@@ -503,6 +503,11 @@
         <mark key="]" line="17" column="15" />
         <mark key="^" line="17" column="15" />
         <mark key="." line="17" column="15" />
+      </file>
+      <file name="$USER_HOME$/code/mica/tests/features/bootstrap/DocumentsContext.php" timestamp="1504810181865">
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="." line="151" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Database/Connections/ODBCConnection.php" timestamp="1501762679154">
         <mark key="[" line="69" column="51" />
@@ -686,7 +691,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIE9ubHkgbm90aWZ5IG9mIGNoYW5nZSBpZiBkb2N1bWVudCB3YXMgdW5yZWFkCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHNsZWVwKDEpOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -990,31 +995,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIE9ubHkgbm90aWZ5IG9mIGNoYW5nZSBpZiBkb2N1bWVudCB3YXMgdW5yZWFkCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHNsZWVwKDEpOwo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIE9ubHkgbm90aWZ5IG9mIGNoYW5nZSBpZiBkb2N1bWVudCB3YXMgdW5yZWFkCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIC8vbWF4LXdpZHRoOiAzMTBweDsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgICAgICAg</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">PC9zdHlsZT4K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIC8qfSovCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvKm1hcmdpbi1ib3R0b206IDIwcHg7Ki8K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qLmZvcm0tZ3JvdXAtbGFzdCB7Ki8K</text>
+        <text encoding="base64">ICAgICAgICAvKm1hcmdpbi1ib3R0b206IDIwcHg7Ki8K</text>
       </register>
       <register name=":" type="4">
         <text>155</text>
