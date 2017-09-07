@@ -220,6 +220,12 @@
         <mark key="^" line="15" column="36" />
         <mark key="." line="15" column="36" />
       </file>
+      <file name="$USER_HOME$/code/mica/integration/src/sass/modules/_alert.scss" timestamp="1504806536755">
+        <mark key="[" line="181" column="9" />
+        <mark key="]" line="182" column="26" />
+        <mark key="^" line="182" column="26" />
+        <mark key="." line="182" column="26" />
+      </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Winfund/Mutation/EditTaxSlipMutation.php" timestamp="1502391277468">
         <mark key="[" line="44" column="21" />
         <mark key="]" line="44" column="20" />
@@ -322,14 +328,23 @@
         <mark key="." line="10" column="32" />
         <mark key="^" line="10" column="32" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Document.php" timestamp="1502387189843">
-        <mark key="[" line="92" column="27" />
+      <file name="$USER_HOME$/code/mica/app/Document.php" timestamp="1504805550495">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="^" line="96" column="41" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Enums/UserStatus.php" timestamp="1501262094991">
         <mark key="[" line="16" column="30" />
         <mark key="]" line="17" column="3" />
         <mark key="." line="17" column="3" />
         <mark key="^" line="17" column="3" />
+      </file>
+      <file name="$USER_HOME$/code/mica/integration/src/sass/modules/_filters.scss" timestamp="1504806501186">
+        <mark key="[" line="199" column="1" />
+        <mark key="]" line="199" column="1" />
+        <mark key="^" line="199" column="1" />
+        <mark key="." line="199" column="1" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/integration/UserProfileTest.php" timestamp="1501791481848">
         <mark key="[" line="85" column="84" />
@@ -359,6 +374,12 @@
         <mark key="]" line="78" column="0" />
         <mark key="^" line="76" column="57" />
         <mark key="." line="78" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Mutation/EditTaxSlipTest.php" timestamp="1504806626053">
+        <mark key="[" line="31" column="21" />
+        <mark key="]" line="31" column="20" />
+        <mark key="^" line="31" column="20" />
+        <mark key="." line="31" column="20" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/Validators/ExpiredUserValidator.php" timestamp="1501510702171">
         <mark key="[" line="13" column="1" />
@@ -500,7 +521,7 @@
         <mark key="]" line="423" column="0" />
         <mark key="." line="423" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504798928641">
+      <file name="/Dummy.txt" timestamp="1504806636479">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Query/UserQueryTest.php" timestamp="1502112471153">
@@ -544,12 +565,12 @@
         <mark key="." line="12" column="10" />
         <mark key="^" line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/code/mica/tests/unit/Winfund/ClientTest.php" timestamp="1504798210948">
+      <file name="$USER_HOME$/code/mica/tests/unit/Winfund/ClientTest.php" timestamp="1504806641004">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="258" column="88" />
-        <mark key="]" line="259" column="60" />
-        <mark key="^" line="259" column="60" />
-        <mark key="." line="259" column="60" />
+        <mark key="[" line="255" column="21" />
+        <mark key="]" line="255" column="20" />
+        <mark key="^" line="255" column="20" />
+        <mark key="." line="255" column="20" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/features/documents/Notifications.feature" timestamp="1503929615506">
         <mark key="[" line="9" column="10" />
@@ -580,6 +601,11 @@
         <mark key="]" line="83" column="0" />
         <mark key="^" line="79" column="8" />
         <mark key="." line="83" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/client/information/EditAllClientEmail.vue" timestamp="1504806542468">
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="." line="122" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/lang/en/status.php" timestamp="1501511803250">
         <mark key="[" line="10" column="28" />
@@ -745,8 +771,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1050,31 +1076,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGFwcCgpLT5zZXRMb2NhbGUoJ2ZyJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhcHAoKS0+c2V0TG9jYWxlKCdmcicpOwo=</text>
+        <text encoding="base64">PC9zdHlsZT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRkZXNjcmlwdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgIC8qfSovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZGVzY3JpcHRpb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICAvKm1hcmdpbi1ib3R0b206IDIwcHg7Ki8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdHJ1c3RBY2NvdW50KTsK</text>
+        <text encoding="base64">ICAgIC8qLmZvcm0tZ3JvdXAtbGFzdCB7Ki8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">PHN0eWxlPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgJHRoaXMtPmNyZWF0ZVRydXN0QWNjb3VudCgkYWNjb3VudCwgWydBbW91bnQnID0+IDEyMywgJ1RyYW5zYWN0aW9uX1N0YXR1cycgPT4gMl0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkcGxhbiA9ICR0aGlzLT5jcmVhdGVDbGllbnRQbGFuKFsnQ2xpZW50Q29kZScgPT4gJGNsaWVudC0+Q29kZV0pOwogICAgICAgICRhY2NvdW50ID0gJHRoaXMtPmNyZWF0ZUFjY291bnQoWydDb2RlJyA9PiAkcGxhbi0+UGxhbkNvZGVdKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBuZXcgRG9jdW1lbnRBZGRlZCgkdGhpcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkY2xpZW50ID0gJHRoaXMtPmNyZWF0ZVdpbmZ1bmRDbGllbnQoKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBuZXcgRG9jdW1lbnRBZGRlZCgkdGhpcyk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>155</text>
