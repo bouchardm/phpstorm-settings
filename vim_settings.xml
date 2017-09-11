@@ -43,6 +43,8 @@
       <file name="/Dummy.txt" timestamp="1505144698964">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/MaxMiner/src/index.ejs" timestamp="1505149402638" />
+      <file name="$USER_HOME$/code/MaxMiner/appveyor.yml" timestamp="1505149425233" />
       <file name="$USER_HOME$/code/mica/resources/lang/fr/notifications.php" timestamp="1505133122852">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="104" column="5" />
@@ -58,6 +60,12 @@
       </file>
       <file name="$USER_HOME$/code/mica/resources/lang/en/profile.php" timestamp="1502110253264">
         <mark key="[" line="20" column="15" />
+      </file>
+      <file name="$USER_HOME$/code/MaxMiner/src/renderer/components/Home.vue" timestamp="1505149276717">
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Common/Scalar/RiskNameType.php" timestamp="1504797293931">
         <mark key="[" line="10" column="0" />
@@ -89,6 +97,7 @@
         <mark key="]" line="145" column="0" />
         <mark key="." line="145" column="0" />
       </file>
+      <file name="$USER_HOME$/code/MaxMiner/src/renderer/components/About.vue" timestamp="1505149297451" />
     </filemarks>
     <jumps>
       <jump line="127" column="22" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
@@ -248,7 +257,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -552,31 +561,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICBhbGlnbi1zZWxmOmNlbnRlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBmdW5kLmFjdGl2ZTsK</text>
+        <text encoding="base64">ICAgICAgICBhbGlnbi1pdGVtczogY2VudGVyOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNBY3RpdmUoZnVuZCkgewo=</text>
+        <text encoding="base64">ICAgICAgICBNYXhNaW5lciEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFVzZXJMaW5rOjp3aGVyZSgnZnJvbV9jbGllbnRfY29kZScsICR0aGlzLT5Db2RlKS0+ZGVsZXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiBibHVlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICBxd2Vxd2UK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6IGJsdWU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkaXYgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+anNvbigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>155</text>
