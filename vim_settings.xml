@@ -14,6 +14,7 @@
       <file name="/fragment.js" timestamp="1503931169956">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/mica/scripts/install.sh" timestamp="1505153688126" />
       <file name="$USER_HOME$/code/mica/integration/src/sass/modules/_notifications.scss" timestamp="1504897563362">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -38,7 +39,7 @@
         <mark key="]" line="0" column="194" />
         <mark key="." line="0" column="194" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Winfund/TrustAccount.php" timestamp="1505152641095">
+      <file name="$USER_HOME$/code/mica/app/Winfund/TrustAccount.php" timestamp="1505153640980">
         <mark key="[" line="92" column="34" />
         <mark key="]" line="106" column="4" />
         <mark key="." line="106" column="4" />
@@ -63,10 +64,6 @@
       <file name="/Dummy.txt" timestamp="1505152245804">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/lang/fr/notifications.php" timestamp="1505133122852">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="104" column="5" />
-      </file>
       <file name="$USER_HOME$/code/mica/package.json" timestamp="1502199944066">
         <mark key="[" line="57" column="35" />
       </file>
@@ -79,6 +76,7 @@
       <file name="/GraphQL.result.json" timestamp="1505150189221">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/mica/scripts/dependencies.sh" timestamp="1505153676665" />
       <file name="/fragment.php" timestamp="1501766236245">
         <mark key="[" line="0" column="0" />
       </file>
