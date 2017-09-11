@@ -3,40 +3,29 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/mica/resources/lang/en/notifications.php" timestamp="1505133116651">
-        <mark key="[" line="103" column="5" />
+      <file name="$USER_HOME$/code/mica/app/ClientLink.php" timestamp="1502109980445">
+        <mark key="[" line="30" column="12" />
       </file>
-      <file name="$USER_HOME$/code/mica/tests/integration/ClientsListTest.php" timestamp="1505131754585">
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="." line="145" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/mica/app/Console/Kernel.php" timestamp="1505137503705" />
       <file name="$USER_HOME$/code/mica/resources/lang/fr/validation.php" timestamp="1505136794150">
         <mark key="[" line="112" column="31" />
         <mark key="]" line="112" column="31" />
         <mark key="." line="112" column="31" />
       </file>
+      <file name="/fragment.js" timestamp="1503931169956">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/integration/src/sass/modules/_notifications.scss" timestamp="1504897563362">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="/a.sql" timestamp="1504191946093">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Console/Commands/ImportExpiredClient.php" timestamp="1504811299789" />
-      <file name="/GraphQL.result.json" timestamp="1504711804001">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.php" timestamp="1501766236245">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Common/Scalar/RiskNameType.php" timestamp="1504797293931">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/mica/app/ClientLink.php" timestamp="1502109980445">
-        <mark key="[" line="30" column="12" />
-      </file>
-      <file name="/fragment.js" timestamp="1503931169956">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/accounts/TrustAccount.vue" timestamp="1504730856532">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1505134649711">
         <mark key="[" line="0" column="194" />
@@ -48,25 +37,6 @@
         <mark key="]" line="106" column="0" />
         <mark key="." line="106" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/package.json" timestamp="1502199944066">
-        <mark key="[" line="57" column="35" />
-      </file>
-      <file name="$USER_HOME$/code/mica/resources/lang/en/passwords.php" timestamp="1503946054034">
-        <mark key="[" line="19" column="118" />
-      </file>
-      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/dashboard/Summary.vue" timestamp="1504203725471">
-        <mark key="[" line="93" column="42" />
-      </file>
-      <file name="$USER_HOME$/code/mica/integration/src/sass/modules/_notifications.scss" timestamp="1504897563362">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/accounts/TrustAccount.vue" timestamp="1504730856532">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-      </file>
       <file name="/dummy.sql" timestamp="1505135490124">
         <mark key="[" line="0" column="0" />
       </file>
@@ -77,13 +47,42 @@
         <mark key="'" line="1" column="0" />
         <mark key="[" line="104" column="5" />
       </file>
+      <file name="$USER_HOME$/code/mica/package.json" timestamp="1502199944066">
+        <mark key="[" line="57" column="35" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1504711804001">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.php" timestamp="1501766236245">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/mica/resources/lang/en/profile.php" timestamp="1502110253264">
         <mark key="[" line="20" column="15" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Common/Scalar/RiskNameType.php" timestamp="1504797293931">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/accounts/Fund.vue" timestamp="1505142679924" />
+      <file name="$USER_HOME$/code/mica/resources/lang/en/passwords.php" timestamp="1503946054034">
+        <mark key="[" line="19" column="118" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/dashboard/Summary.vue" timestamp="1504203725471">
+        <mark key="[" line="93" column="42" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/lang/en/notifications.php" timestamp="1505133116651">
+        <mark key="[" line="103" column="5" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/client/information/EditAllClientEmail.vue" timestamp="1504806542468">
         <mark key="[" line="122" column="0" />
         <mark key="]" line="122" column="0" />
         <mark key="." line="122" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/tests/integration/ClientsListTest.php" timestamp="1505131754585">
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="." line="145" column="0" />
       </file>
     </filemarks>
     <jumps>
