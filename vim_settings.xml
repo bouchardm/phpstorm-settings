@@ -51,11 +51,19 @@
         <mark key="]" line="0" column="194" />
         <mark key="." line="0" column="194" />
       </file>
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/accounts/Accounts.vue" timestamp="1505229212385" />
       <file name="$USER_HOME$/code/mica/app/Winfund/TrustAccount.php" timestamp="1505153640980">
         <mark key="[" line="92" column="34" />
         <mark key="]" line="106" column="4" />
         <mark key="." line="106" column="4" />
         <mark key="^" line="106" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/client/documents/Documents.vue" timestamp="1505230312646">
+        <mark key="'" line="111" column="36" />
+        <mark key="[" line="112" column="28" />
+        <mark key="]" line="112" column="35" />
+        <mark key="^" line="112" column="35" />
+        <mark key="." line="112" column="35" />
       </file>
       <file name="/dummy.sql" timestamp="1505225086210">
         <mark key="[" line="0" column="0" />
@@ -96,12 +104,6 @@
       </file>
       <file name="/fragment.php" timestamp="1501766236245">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/mica/resources/lang/en/profile.php" timestamp="1505226396672">
-        <mark key="[" line="32" column="76" />
-        <mark key="]" line="32" column="74" />
-        <mark key="^" line="32" column="74" />
-        <mark key="." line="32" column="74" />
       </file>
       <file name="$USER_HOME$/code/MaxMiner/src/renderer/components/Home.vue" timestamp="1505150195969">
         <mark key="[" line="0" column="8" />
@@ -172,20 +174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/code/mica/tests/unit/Winfund/ClientAccountTest.php" />
-      <jump line="43" column="48" filename="$USER_HOME$/code/mica/app/Repositories/MarketValueRepository.php" />
-      <jump line="726" column="36" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
-      <jump line="139" column="36" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
-      <jump line="59" column="35" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
-      <jump line="412" column="23" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
-      <jump line="104" column="31" filename="$USER_HOME$/code/mica/app/Http/GraphQL/Winfund/Type/Account/AccountType.php" />
-      <jump line="8" column="0" filename="$USER_HOME$/code/mica/app/Http/GraphQL/Winfund/Type/Account/AccountType.php" />
-      <jump line="60" column="16" filename="$USER_HOME$/code/mica/app/Http/GraphQL/Winfund/Type/Account/AccountType.php" />
-      <jump line="70" column="26" filename="$USER_HOME$/code/mica/app/Http/GraphQL/Winfund/Type/Account/AccountType.php" />
-      <jump line="10" column="13" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/accounts/Account.vue" />
-      <jump line="17" column="54" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/accounts/Account.vue" />
-      <jump line="418" column="50" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
-      <jump line="75" column="24" filename="$USER_HOME$/code/mica/app/Http/GraphQL/Winfund/Type/Account/AccountType.php" />
       <jump line="102" column="13" filename="$USER_HOME$/code/mica/app/Http/GraphQL/Winfund/Type/Account/AccountType.php" />
       <jump line="115" column="16" filename="$USER_HOME$/code/mica/app/Http/GraphQL/Winfund/Type/Account/AccountType.php" />
       <jump line="101" column="13" filename="$USER_HOME$/code/mica/app/Http/GraphQL/Winfund/Type/Account/AccountType.php" />
@@ -272,6 +260,20 @@
       <jump line="30" column="103" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
       <jump line="200" column="30" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
       <jump line="222" column="30" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
+      <jump line="97" column="129" filename="$USER_HOME$/code/mica/resources/assets/js/components/client/documents/Documents.vue" />
+      <jump line="108" column="34" filename="$USER_HOME$/code/mica/resources/assets/js/components/client/documents/Documents.vue" />
+      <jump line="109" column="33" filename="$USER_HOME$/code/mica/resources/assets/js/components/client/documents/Documents.vue" />
+      <jump line="150" column="12" filename="$USER_HOME$/code/mica/resources/assets/js/components/client/documents/Documents.vue" />
+      <jump line="5" column="133" filename="$USER_HOME$/code/mica/resources/assets/js/components/client/documents/Documents.vue" />
+      <jump line="71" column="12" filename="$USER_HOME$/code/mica/resources/assets/js/components/client/documents/Documents.vue" />
+      <jump line="85" column="17" filename="$USER_HOME$/code/mica/resources/assets/js/components/client/documents/Documents.vue" />
+      <jump line="95" column="43" filename="$USER_HOME$/code/mica/resources/assets/js/components/client/documents/Documents.vue" />
+      <jump line="98" column="136" filename="$USER_HOME$/code/mica/resources/assets/js/components/client/documents/Documents.vue" />
+      <jump line="99" column="44" filename="$USER_HOME$/code/mica/resources/assets/js/components/client/documents/Documents.vue" />
+      <jump line="101" column="116" filename="$USER_HOME$/code/mica/resources/assets/js/components/client/documents/Documents.vue" />
+      <jump line="112" column="36" filename="$USER_HOME$/code/mica/resources/assets/js/components/client/documents/Documents.vue" />
+      <jump line="110" column="41" filename="$USER_HOME$/code/mica/resources/assets/js/components/client/documents/Documents.vue" />
+      <jump line="111" column="36" filename="$USER_HOME$/code/mica/resources/assets/js/components/client/documents/Documents.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -329,7 +331,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>this.selected</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -587,86 +589,92 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>this.selected</text>
       </register>
       <register name="/" type="4">
-        <text>username</text>
+        <text>this.selected</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">JHRoaXMtPmF0dHJpYnV0ZXNbJ21hcmtldFZhbHVlJ10gPz8gJHRoaXMtPmF0dHJpYnV0ZXNbJ0Ftb3VudCddID8/IDA=</text>
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="99" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
           <key char="105" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="109" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="120" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlcm5hbWUK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlcm5hbWUK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhcHAoKS0+c2V0TG9jYWxlKCRub3RpZmlhYmxlLT5sYW5nKTsgLy8gVE9ETyBtZXR0cmUgY2V0dGUgbG9naXF1ZSBkYW5zIG1pY2FtZXNzYWdlCgogICAgICAgICRtZXNzYWdlID0gKG5ldyBNaWNhTWVzc2FnZSgpKQogICAgICAgICAgICAtPnN1YmplY3QodHJhbnMoJ25vdGlmaWNhdGlvbnMubmV3X2xpbmtlZF9jbGllbnQuc3ViamVjdCcpKQogICAgICAgICAgICAtPmxpbmUoCiAgICAgICAgICAgICAgICB0cmFucygKICAgICAgICAgICAgICAgICAgICAnbm90aWZpY2F0aW9ucy5uZXdfbGlua2VkX2NsaWVudC5saW5lJywKICAgICAgICAgICAgICAgICAgICBbJ3VzZXInID0+ICJ7JHRoaXMtPnVzZXItPmZpcnN0X25hbWV9IHskdGhpcy0+dXNlci0+bGFzdF9uYW1lfSAtIHskdGhpcy0+dXNlci0+dXNlcm5hbWV9Il0KICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgKS0+YWN0aW9uKHRyYW5zKCdub3RpZmljYXRpb25zLm5ld19saW5rZWRfY2xpZW50LmFjdGlvbicpLCByb3V0ZSgnZGFzaGJvYXJkJykpOwoKICAgICAgICBhcHAoKS0+c2V0TG9jYWxlKCR0aGlzLT5jdXJyZW50TG9jYWxlKTsKCiAgICAgICAgcmV0dXJuICRtZXNzYWdlOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1c2VybmFtZQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICd0eXBlJyA9PiBUeXBlOjpsaXN0T2YoR3JhcGhRTDo6dHlwZSgnVXNlcikpLAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAtPnNlbGVjdFJhdygiJ3skZGVzY3JpcHRpb259JyBhcyBkZXNjcmlwdGlvbiIpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgICAgIGNyZWF0ZWQoKSB7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICB0aGlzLnNlbGVjdGVkID0gcmVwbGFjZShsb2NhdGlvbi5oYXNoLCAvLipzZWxlY3RlZD0oXHcrKS4qL2csICckMScpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cobG9jYXRpb24uaGFzaCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBjb25zb2xlLmxvZyhsb2NhdGlvbi5oYXNoKTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRkZXNjcmlwdGlvbiA9IHRyYW5zKCdhY2NvdW50cy5hY2NvdW50LmZ1bmQuc2VsZi1kaXJlY3RlZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc2VsZWN0ZWQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZChDbGllbnRBY2NvdW50Ojp3aGVyZUNvZGUoJGFjY291bnRbJ2lkJ10pLT5maXJzdCgpLT5ncm91cGVkVHJ1c3RBY2NvdW50cyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>username</last-search>
+      <last-search>this.selected</last-search>
       <last-offset />
-      <last-pattern>username</last-pattern>
+      <last-pattern>this.selected</last-pattern>
       <last-replace>tax_slip</last-replace>
       <last-substitute>password_changed</last-substitute>
       <last-dir>1</last-dir>
@@ -674,8 +682,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getgroup</entry>
-        <entry>getisse</entry>
         <entry>const</entry>
         <entry>getissel</entry>
         <entry>Risque</entry>
@@ -694,6 +700,8 @@
         <entry>linkUser</entry>
         <entry>.username</entry>
         <entry>username</entry>
+        <entry>selected</entry>
+        <entry>this.selected</entry>
       </history-search>
       <history-cmd>
         <entry>474</entry>
