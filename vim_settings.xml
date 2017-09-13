@@ -62,11 +62,11 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Http/Middleware/HasActiveWinfundClient.php" timestamp="1505328218236">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="46" column="102" />
+      <file name="$USER_HOME$/code/mica/app/Http/Middleware/HasActiveWinfundClient.php" timestamp="1505328991317">
+        <mark key="[" line="45" column="72" />
+        <mark key="]" line="47" column="82" />
+        <mark key="." line="47" column="82" />
+        <mark key="^" line="47" column="82" />
       </file>
       <file name="$USER_HOME$/code/mica/package.json" timestamp="1502199944066">
         <mark key="[" line="57" column="35" />
@@ -226,7 +226,7 @@
         <mark key="^" line="44" column="59" />
         <mark key="." line="44" column="59" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505317778591">
+      <file name="/Dummy.txt" timestamp="1505328935528">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Query/UserQueryTest.php" timestamp="1505224406813">
@@ -246,10 +246,10 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/tests/integration/UserLinkSecurityTest.php" timestamp="1505327982673">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/code/mica/tests/integration/UserLinkSecurityTest.php" timestamp="1505328921420">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/lang/fr/notifications.php" timestamp="1505246905654">
         <mark key="[" line="98" column="71" />
@@ -762,7 +762,7 @@
         <text>return</text>
       </register>
       <register name="/" type="4">
-        <text>getcurre</text>
+        <text>refresh</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICR1c2VyLT51cGRhdGUoWwogICAgICAgICAgICAnY3VycmVudF9jbGllbnRfaWQnID0+ICRuZXh0Q2xpZW50LT5Db2RlLAogICAgICAgIF0p</text>
@@ -802,9 +802,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getcurre</last-search>
+      <last-search>refresh</last-search>
       <last-offset />
-      <last-pattern>getcurre</last-pattern>
+      <last-pattern>refresh</last-pattern>
       <last-replace>tax_slip</last-replace>
       <last-substitute>\.</last-substitute>
       <last-dir>1</last-dir>
@@ -812,7 +812,6 @@
     </search>
     <history>
       <history-search>
-        <entry>return [</entry>
         <entry>\.</entry>
         <entry>tax_</entry>
         <entry>work</entry>
@@ -832,6 +831,7 @@
         <entry>linkuser</entry>
         <entry>ismicause</entry>
         <entry>getcurre</entry>
+        <entry>refresh</entry>
       </history-search>
       <history-cmd>
         <entry>sw</entry>
