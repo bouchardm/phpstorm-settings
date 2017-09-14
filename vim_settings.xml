@@ -48,9 +48,6 @@
         <mark key="." line="106" column="4" />
         <mark key="^" line="106" column="4" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/assets/js/app.js" timestamp="1505242738975">
-        <mark key="'" line="6" column="28" />
-      </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/client/documents/Documents.vue" timestamp="1505243287142">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="92" column="0" />
@@ -71,17 +68,14 @@
       <file name="$USER_HOME$/code/mica/package.json" timestamp="1502199944066">
         <mark key="[" line="57" column="35" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Repositories/UserRepository.php" timestamp="1505323873311">
-        <mark key="'" line="11" column="6" />
-      </file>
       <file name="$USER_HOME$/code/mica/app/Notifications/NewLinkedUser.php" timestamp="1505225667983">
         <mark key="[" line="54" column="78" />
         <mark key="]" line="54" column="78" />
         <mark key="." line="54" column="78" />
         <mark key="^" line="38" column="84" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/User.php" timestamp="1505332724029">
-        <mark key="'" line="450" column="31" />
+      <file name="$USER_HOME$/code/mica/app/User.php" timestamp="1505399153057">
+        <mark key="'" line="114" column="9" />
         <mark key="[" line="146" column="0" />
         <mark key="]" line="146" column="0" />
         <mark key="." line="146" column="0" />
@@ -164,7 +158,7 @@
         <mark key="]" line="153" column="0" />
         <mark key="." line="153" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1504191946093">
+      <file name="/a.sql" timestamp="1505398175433">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Repositories/ClientRepositoryTest.php" timestamp="1505309908426">
@@ -197,7 +191,7 @@
         <mark key="]" line="320" column="0" />
         <mark key="." line="320" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1505314487678">
+      <file name="/dummy.sql" timestamp="1505398198763">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Mutation/User/ChangeMainClientMutation.php" timestamp="1505324306717">
@@ -305,6 +299,7 @@
         <mark key="." line="178" column="4" />
         <mark key="^" line="178" column="4" />
       </file>
+      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Winfund/Mutation/CreateUserFromClientMutation.php" timestamp="1505398785153" />
       <file name="$USER_HOME$/code/mica/tests/integration/ImportDocumentsTest.php" timestamp="1505243328202">
         <mark key="[" line="108" column="0" />
         <mark key="]" line="108" column="0" />
@@ -317,8 +312,11 @@
         <mark key="^" line="89" column="20" />
         <mark key="." line="89" column="20" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/Profile.vue" timestamp="1505225613685">
-        <mark key="'" line="167" column="32" />
+      <file name="$USER_HOME$/code/mica/routes/console.php" timestamp="1505399186003">
+        <mark key="[" line="60" column="7" />
+        <mark key="]" line="61" column="49" />
+        <mark key="." line="61" column="49" />
+        <mark key="^" line="61" column="49" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/client/information/EditAllClientEmail.vue" timestamp="1504806542468">
         <mark key="[" line="122" column="0" />
@@ -334,12 +332,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="32" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/Profile.vue" />
-      <jump line="30" column="103" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
-      <jump line="200" column="30" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
-      <jump line="222" column="30" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" />
-      <jump line="108" column="34" filename="$USER_HOME$/code/mica/resources/assets/js/components/client/documents/Documents.vue" />
-      <jump line="109" column="33" filename="$USER_HOME$/code/mica/resources/assets/js/components/client/documents/Documents.vue" />
       <jump line="85" column="17" filename="$USER_HOME$/code/mica/resources/assets/js/components/client/documents/Documents.vue" />
       <jump line="95" column="43" filename="$USER_HOME$/code/mica/resources/assets/js/components/client/documents/Documents.vue" />
       <jump line="99" column="44" filename="$USER_HOME$/code/mica/resources/assets/js/components/client/documents/Documents.vue" />
@@ -434,6 +426,12 @@
       <jump line="294" column="110" filename="$USER_HOME$/code/mica/app/User.php" />
       <jump line="338" column="4" filename="$USER_HOME$/code/mica/app/User.php" />
       <jump line="450" column="31" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="92" column="6" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="548" column="0" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="70" column="71" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="148" column="9" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="37" column="19" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="114" column="9" filename="$USER_HOME$/code/mica/app/User.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -490,8 +488,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>// TODO FIX ici? repository</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAndXNlcm5hbWUnID0+ICR0aGlzLT5hcmd1bWVudCgndXNlcm5hbWUnKSwK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -752,7 +750,7 @@
         <text>// TODO FIX ici? repository</text>
       </register>
       <register name="/" type="4">
-        <text>refresh</text>
+        <text>email_ve</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">bGlzdCgkdXNlciwgJGV4cGlyZWRDbGllbnQpID0gJHRoaXMtPmNyZWF0ZVVzZXJBbmRDbGllbnQoKTsKICAgICAgICBsaXN0KCRzZWNvbmRVc2VyLCAkc2Vjb25kQ2xpZW50KSA9ICR0aGlzLT5jcmVhdGVVc2VyQW5kQ2xpZW50KCk7CiAgICAgICAgYXBwKFVzZXJSZXBvc2l0b3J5OjpjbGFzcyktPmxpbmtVc2VyKCRzZWNvbmRVc2VyLCAkdXNlcik7CgogICAgICAgIEFydGlzYW46OmNhbGwoJ21pY2E6aW1wb3J0LWV4cGlyZWQtY2xpZW50JywgWydjbGllbnRJRCcgPT4gJGV4cGlyZWRDbGllbnQtPkNvZGVdKTsK</text>
@@ -761,40 +759,40 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICAndXNlcm5hbWUnID0+ICR0aGlzLT5hcmd1bWVudCgndXNlcm5hbWUnKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAkdXNlci0+bWFpbkNsaWVudCgpLT5kaXNzb2NpYXRlKCk7Cg==</text>
+        <text encoding="base64">awo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnZXhwaXJlZCcgPT4gJ2Jvb2wnLAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAnYWN0aXZlJyA9PiAnYm9vbCcsCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdXNlcik7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoIlNERlNERiIpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBjcmVhdGVVc2VyQW5kRXhwaXJlZENsaWVudChhcnJheSAkZGF0YSA9IFtdKTogYXJyYXkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">fSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICR0aGlzLT5jb21tZW50KEluc3BpcmluZzo6cXVvdGUoKSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZGRBcnRpc2FuOjpjb21tYW5kKCdpbnNwaXJlJywgZnVuY3Rpb24gKCkgewo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAkdXNlci0+bWFpbkNsaWVudCgpLT5kaXNzb2NpYXRlKCk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHVzZXItPnN5bmNPcmlnaW5hbCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAnZXhwaXJlZCcgPT4gJ2Jvb2wnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>refresh</last-search>
+      <last-search>email_ve</last-search>
       <last-offset />
-      <last-pattern>refresh</last-pattern>
+      <last-pattern>email_ve</last-pattern>
       <last-replace>tax_slip</last-replace>
       <last-substitute>\.</last-substitute>
       <last-dir>1</last-dir>
@@ -802,9 +800,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\.</entry>
-        <entry>tax_</entry>
-        <entry>work</entry>
         <entry>elec</entry>
         <entry encoding="base64">b2YgeW91ciA=</entry>
         <entry>of the mica account statement</entry>
@@ -822,6 +817,9 @@
         <entry>ismicause</entry>
         <entry>getcurre</entry>
         <entry>refresh</entry>
+        <entry>getsta</entry>
+        <entry>emailve</entry>
+        <entry>email_ve</entry>
       </history-search>
       <history-cmd>
         <entry>sw</entry>
