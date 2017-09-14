@@ -9,6 +9,13 @@
       <file name="/fragment.js" timestamp="1503931169956">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/client/documents/DocumentType.vue" timestamp="1505242506740">
+        <mark key="'" line="37" column="16" />
+        <mark key="[" line="1" column="74" />
+        <mark key="]" line="1" column="28" />
+        <mark key="." line="1" column="28" />
+        <mark key="^" line="1" column="28" />
+      </file>
       <file name="$USER_HOME$/code/mica/routes/web/client.php" timestamp="1505246523622">
         <mark key="[" line="19" column="58" />
         <mark key="]" line="19" column="56" />
@@ -226,7 +233,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Repositories/ClientRepository.php" timestamp="1505393388451">
+      <file name="$USER_HOME$/code/mica/app/Repositories/ClientRepository.php" timestamp="1505394297154">
         <mark key="'" line="13" column="6" />
         <mark key="[" line="68" column="68" />
         <mark key="]" line="60" column="62" />
