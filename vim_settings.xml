@@ -81,13 +81,6 @@
         <mark key="." line="146" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Command/GenerateNonMatchingClientEmailReportTest.php" timestamp="1505325582943" />
-      <file name="$USER_HOME$/code/mica/resources/lang/en/information.php" timestamp="1505306116602">
-        <mark key="'" line="52" column="57" />
-        <mark key="[" line="87" column="51" />
-        <mark key="]" line="87" column="19" />
-        <mark key="^" line="87" column="19" />
-        <mark key="." line="87" column="19" />
-      </file>
       <file name="$USER_HOME$/code/mica/resources/lang/en/passwords.php" timestamp="1503946054034">
         <mark key="[" line="19" column="118" />
       </file>
@@ -179,13 +172,6 @@
         <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/accounts/Accounts.vue" timestamp="1505229212385" />
-      <file name="$USER_HOME$/code/mica/tests/TestCase.php" timestamp="1505325359115">
-        <mark key="'" line="624" column="8" />
-        <mark key="[" line="194" column="52" />
-        <mark key="]" line="194" column="51" />
-        <mark key="^" line="194" column="51" />
-        <mark key="." line="194" column="51" />
-      </file>
       <file name="$USER_HOME$/code/mica/tests/integration/UserSecurityTest.php" timestamp="1505324358958">
         <mark key="[" line="320" column="0" />
         <mark key="]" line="320" column="0" />
@@ -206,14 +192,7 @@
         <mark key="^" line="359" column="10" />
         <mark key="." line="423" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/lang/fr/accounts.php" timestamp="1505152043781">
-        <mark key="'" line="33" column="26" />
-        <mark key="[" line="44" column="50" />
-        <mark key="]" line="44" column="59" />
-        <mark key="^" line="44" column="59" />
-        <mark key="." line="44" column="59" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1505417742884">
+      <file name="/Dummy.txt" timestamp="1505418385506">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Query/UserQueryTest.php" timestamp="1505224406813">
@@ -311,13 +290,6 @@
         <mark key="]" line="108" column="0" />
         <mark key="." line="108" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/lang/fr/information.php" timestamp="1505306222979">
-        <mark key="'" line="11" column="22" />
-        <mark key="[" line="89" column="50" />
-        <mark key="]" line="89" column="20" />
-        <mark key="^" line="89" column="20" />
-        <mark key="." line="89" column="20" />
-      </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/Profile.vue" timestamp="1505403971492">
         <mark key="'" line="266" column="16" />
         <mark key="[" line="78" column="34" />
@@ -335,13 +307,6 @@
         <mark key="[" line="122" column="0" />
         <mark key="]" line="122" column="0" />
         <mark key="." line="122" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/mica/resources/lang/en/accounts.php" timestamp="1505152068213">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="44" column="32" />
-        <mark key="]" line="44" column="68" />
-        <mark key="." line="44" column="68" />
-        <mark key="^" line="44" column="68" />
       </file>
     </filemarks>
     <jumps>
