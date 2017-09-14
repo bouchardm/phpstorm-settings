@@ -158,7 +158,7 @@
         <mark key="]" line="153" column="0" />
         <mark key="." line="153" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1505398175433">
+      <file name="/a.sql" timestamp="1505417765783">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Repositories/ClientRepositoryTest.php" timestamp="1505309908426">
@@ -191,7 +191,7 @@
         <mark key="]" line="320" column="0" />
         <mark key="." line="320" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1505398198763">
+      <file name="/dummy.sql" timestamp="1505417755842">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Mutation/User/ChangeMainClientMutation.php" timestamp="1505324306717">
@@ -213,7 +213,7 @@
         <mark key="^" line="44" column="59" />
         <mark key="." line="44" column="59" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505332500726">
+      <file name="/Dummy.txt" timestamp="1505417742884">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Query/UserQueryTest.php" timestamp="1505224406813">
