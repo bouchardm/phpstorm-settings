@@ -74,8 +74,8 @@
         <mark key="." line="54" column="78" />
         <mark key="^" line="38" column="84" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/User.php" timestamp="1505399153057">
-        <mark key="'" line="114" column="9" />
+      <file name="$USER_HOME$/code/mica/app/User.php" timestamp="1505403611656">
+        <mark key="'" line="148" column="9" />
         <mark key="[" line="146" column="0" />
         <mark key="]" line="146" column="0" />
         <mark key="." line="146" column="0" />
@@ -264,6 +264,12 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
+      <file name="$USER_HOME$/code/mica/resources/views/profile/index.blade.php" timestamp="1505403951035">
+        <mark key="[" line="11" column="81" />
+        <mark key="]" line="11" column="76" />
+        <mark key="." line="11" column="76" />
+        <mark key="^" line="11" column="76" />
+      </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Common/Scalar/RiskNameType.php" timestamp="1504797293931">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -312,6 +318,13 @@
         <mark key="^" line="89" column="20" />
         <mark key="." line="89" column="20" />
       </file>
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/Profile.vue" timestamp="1505403971492">
+        <mark key="'" line="266" column="16" />
+        <mark key="[" line="78" column="34" />
+        <mark key="]" line="78" column="33" />
+        <mark key="." line="78" column="33" />
+        <mark key="^" line="78" column="33" />
+      </file>
       <file name="$USER_HOME$/code/mica/routes/console.php" timestamp="1505399186003">
         <mark key="[" line="60" column="7" />
         <mark key="]" line="61" column="49" />
@@ -332,7 +345,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="17" filename="$USER_HOME$/code/mica/resources/assets/js/components/client/documents/Documents.vue" />
       <jump line="95" column="43" filename="$USER_HOME$/code/mica/resources/assets/js/components/client/documents/Documents.vue" />
       <jump line="99" column="44" filename="$USER_HOME$/code/mica/resources/assets/js/components/client/documents/Documents.vue" />
       <jump line="101" column="116" filename="$USER_HOME$/code/mica/resources/assets/js/components/client/documents/Documents.vue" />
@@ -429,9 +441,10 @@
       <jump line="92" column="6" filename="$USER_HOME$/code/mica/app/User.php" />
       <jump line="548" column="0" filename="$USER_HOME$/code/mica/app/User.php" />
       <jump line="70" column="71" filename="$USER_HOME$/code/mica/app/User.php" />
-      <jump line="148" column="9" filename="$USER_HOME$/code/mica/app/User.php" />
       <jump line="37" column="19" filename="$USER_HOME$/code/mica/app/User.php" />
       <jump line="114" column="9" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="148" column="9" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="265" column="16" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/Profile.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -489,7 +502,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAndXNlcm5hbWUnID0+ICR0aGlzLT5hcmd1bWVudCgndXNlcm5hbWUnKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHR5cGU6IEJvb2xlYW4sCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -750,7 +763,7 @@
         <text>// TODO FIX ici? repository</text>
       </register>
       <register name="/" type="4">
-        <text>email_ve</text>
+        <text>client</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">bGlzdCgkdXNlciwgJGV4cGlyZWRDbGllbnQpID0gJHRoaXMtPmNyZWF0ZVVzZXJBbmRDbGllbnQoKTsKICAgICAgICBsaXN0KCRzZWNvbmRVc2VyLCAkc2Vjb25kQ2xpZW50KSA9ICR0aGlzLT5jcmVhdGVVc2VyQW5kQ2xpZW50KCk7CiAgICAgICAgYXBwKFVzZXJSZXBvc2l0b3J5OjpjbGFzcyktPmxpbmtVc2VyKCRzZWNvbmRVc2VyLCAkdXNlcik7CgogICAgICAgIEFydGlzYW46OmNhbGwoJ21pY2E6aW1wb3J0LWV4cGlyZWQtY2xpZW50JywgWydjbGllbnRJRCcgPT4gJGV4cGlyZWRDbGllbnQtPkNvZGVdKTsK</text>
@@ -759,40 +772,40 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAndXNlcm5hbWUnID0+ICR0aGlzLT5hcmd1bWVudCgndXNlcm5hbWUnKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHR5cGU6IEJvb2xlYW4sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">awo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHR5cGU6IEJvb2xlYW4sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGFzQWN0aXZlTWFpbkNsaWVudDogewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICR0aGlzLT5jb21tZW50KEluc3BpcmluZzo6cXVvdGUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICA6aGFzLWFjdGl2ZS1tYWluLWNsaWVudD0ie3sgJHVzZXItPnBlcnNvbmFsX2NsaWVudHMtPmNvdW50KCkgPiAwIH19Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGRBcnRpc2FuOjpjb21tYW5kKCdpbnNwaXJlJywgZnVuY3Rpb24gKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICB3dGZkZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICB7ey0tIFRPRE8gRklYIElDSSAtLX19Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAkdXNlci0+bWFpbkNsaWVudCgpLT5kaXNzb2NpYXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAndXNlcm5hbWUnID0+ICR0aGlzLT5hcmd1bWVudCgndXNlcm5hbWUnKSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnZXhwaXJlZCcgPT4gJ2Jvb2wnLAo=</text>
+        <text encoding="base64">awo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>email_ve</last-search>
+      <last-search>client</last-search>
       <last-offset />
-      <last-pattern>email_ve</last-pattern>
+      <last-pattern>client</last-pattern>
       <last-replace>tax_slip</last-replace>
       <last-substitute>\.</last-substitute>
       <last-dir>1</last-dir>
@@ -800,8 +813,6 @@
     </search>
     <history>
       <history-search>
-        <entry>elec</entry>
-        <entry encoding="base64">b2YgeW91ciA=</entry>
         <entry>of the mica account statement</entry>
         <entry>taxsli</entry>
         <entry>notexpi</entry>
@@ -820,6 +831,8 @@
         <entry>getsta</entry>
         <entry>emailve</entry>
         <entry>email_ve</entry>
+        <entry>mainclien</entry>
+        <entry>client</entry>
       </history-search>
       <history-cmd>
         <entry>sw</entry>
