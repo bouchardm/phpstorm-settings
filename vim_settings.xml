@@ -157,6 +157,7 @@
         <mark key="." line="153" column="0" />
       </file>
       <file name="$USER_HOME$/code/dashboard/site/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php" timestamp="1505478787920" />
+      <file name="$USER_HOME$/code/dashboard/site/resources/examples/static-board.xml" timestamp="1505484843557" />
       <file name="/a.sql" timestamp="1505484037106">
         <mark key="[" line="0" column="0" />
       </file>
@@ -183,7 +184,7 @@
         <mark key="]" line="320" column="0" />
         <mark key="." line="320" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1505484075495">
+      <file name="/dummy.sql" timestamp="1505484893486">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Mutation/User/ChangeMainClientMutation.php" timestamp="1505324306717">
@@ -197,6 +198,11 @@
         <mark key="]" line="423" column="0" />
         <mark key="^" line="359" column="10" />
         <mark key="." line="423" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/dashboard/site/resources/assets/js/components/ClockingModal.vue" timestamp="1505486420514">
+        <mark key="[" line="61" column="84" />
+        <mark key="]" line="61" column="84" />
+        <mark key="." line="61" column="84" />
       </file>
       <file name="/Dummy.txt" timestamp="1505479238164">
         <mark key="[" line="0" column="0" />
@@ -255,6 +261,7 @@
         <mark key="." line="11" column="76" />
         <mark key="^" line="11" column="76" />
       </file>
+      <file name="$USER_HOME$/code/dashboard/site/resources/examples/dynamic-board.xml" timestamp="1505485867590" />
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Common/Scalar/RiskNameType.php" timestamp="1504797293931">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -316,7 +323,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="43" filename="$USER_HOME$/code/mica/resources/assets/js/components/client/documents/Documents.vue" />
       <jump line="99" column="44" filename="$USER_HOME$/code/mica/resources/assets/js/components/client/documents/Documents.vue" />
       <jump line="101" column="116" filename="$USER_HOME$/code/mica/resources/assets/js/components/client/documents/Documents.vue" />
       <jump line="112" column="36" filename="$USER_HOME$/code/mica/resources/assets/js/components/client/documents/Documents.vue" />
@@ -416,6 +422,7 @@
       <jump line="114" column="9" filename="$USER_HOME$/code/mica/app/User.php" />
       <jump line="148" column="9" filename="$USER_HOME$/code/mica/app/User.php" />
       <jump line="265" column="16" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/Profile.vue" />
+      <jump line="96" column="0" filename="$USER_HOME$/code/dashboard/site/resources/assets/js/components/ClockingModal.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -472,8 +479,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcXVlcnktPmdldCgpKTtkZAo=</text>
+      <register name="&quot;" type="4">
+        <text>v-model=&quot;&quot;</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -731,7 +738,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>// TODO FIX ici? repository</text>
+        <text>v-model=&quot;&quot;</text>
       </register>
       <register name="/" type="4">
         <text>client</text>
@@ -743,34 +750,34 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcXVlcnktPmdldCgpKTtkZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJwcm9ncmVzcy1pc3N1ZS1lc3RpbWF0ZWQiPnt7dGFza0RvbmV9fS97e2N1cnJlbnRJc3N1ZUVzdGltYXRpb259fSBoZXVyZShzKTwvc3Bhbj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+anNvbl9jb25maWcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHR5cGU6IEJvb2xlYW4sCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGQK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">YXRhOiAoKSA9PiAoewovLyAgICAgICAgICAgIHRpbWVUb2RvOiAnJywKLy8gICAgICAgICAgICBjb21tZW50OiAnJywKLy8gICAgICAgICAgICBob3VyU3RhcnQ6ICcnLAovLyAgICAgICAgICAgIGhvdXJFbmQ6ICcnLAovLyAgICAgICAgICAgIGRhdGU6IGZvcm1hdChuZXcgRGF0ZSgpLCAnWVlZWS1NTS1ERCcpLAovLyAgICAgICAgICAgIHRlc3Q6ICcnCi8vICAgICAgICB9KSwKLy8KLy8gICAgICAgIHByb3BzOiBbJ21lc3NhZ2UnLCAnY3VycmVudElzc3VlJywgJ2N1cnJlbnRQcm9qZWN0JywgJ2N1cnJlbnRUYXNrJ10sCi8vCi8vICAgICAgICBjb21wdXRlZDogewovLyAgICAgICAgICAgIHByb2plY3RUaW1lRG9uZSgpIHsKLy8gICAgICAgICAgICAgICAgcmV0dXJuIHRoaXMuY3VycmVudFByb2plY3QubWF4X3RpbWUgLSB0aGlzLmN1cnJlbnRQcm9qZWN0LnJlbWFpbmluZ190aW1lOwovLyAgICAgICAgICAgIH0sCi8vICAgICAgICAgICAgcHJvamVjdFRpbWVEb25lUGVyY2VudCgpIHsKLy8gICAgICAgICAgICAgICAgcmV0dXJuICgoKHRoaXMuY3VycmVudFByb2plY3QubWF4X3RpbWUgLSB0aGlzLmN1cnJlbnRQcm9qZWN0LnJlbWFpbmluZ190aW1lKSAvIHRoaXMuY3VycmVudFByb2plY3QubWF4X3RpbWUpICogMTAwKS50b0ZpeGVkKDIpOwovLyAgICAgICAgICAgIH0sCi8vICAgICAgICAgICAgdGFza0VzdGltYXRlZCgpIHsKLy8gICAgICAgICAgICAgICAgcmV0dXJuICh0aGlzLmN1cnJlbnRUYXNrLmVzdGltYXRpb24gLyA2MCkudG9GaXhlZCgyKTsKLy8gICAgICAgICAgICB9LAovLyAgICAgICAgICAgIHRhc2tEb25lKCkgewovLyAgICAgICAgICAgICAgICByZXR1cm4gKHRoaXMuY3VycmVudFRhc2subG9nZ2VkX3RpbWUgLyA2MCkudG9GaXhlZCgyKTsKLy8gICAgICAgICAgICB9LAovLyAgICAgICAgICAgIGN1cnJlbnRJc3N1ZUVzdGltYXRpb24oKSB7Ci8vICAgICAgICAgICAgICAgIHJldHVybiB0aGlzLmN1cnJlbnRJc3N1ZS5lc3RpbWF0ZWRfaG91cnM7Ci8vICAgICAgICAgICAgfQovLyAgICAgICAgfSwKLy8KLy8gICAgICAgIG1ldGhvZHM6IHsKLy8gICAgICAgICAgICBzYXZlKCkgewovLyAgICAgICAgICAgICAgICB0aGlzLiRlbWl0KCdzYXZlQ2xvY2tpbmcnLCB7Ci8vICAgICAgICAgICAgICAgICAgICAnaG91clN0YXJ0JzogdGhpcy5ob3VyU3RhcnQsCi8vICAgICAgICAgICAgICAgICAgICAnaG91ckVuZCc6IHRoaXMuaG91ckVuZCwKLy8gICAgICAgICAgICAgICAgICAgICdkYXRlJzogdGhpcy5kYXRlLAovLyAgICAgICAgICAgICAgICAgICAgJ2NvbW1lbnQnOiB0aGlzLmNvbW1lbnQKLy8gICAgICAgICAgICAgICAgfSk7Ci8vICAgICAgICAgICAgICAgIC8vIFRPRE8gOiBFbnZveWVyIHRpbWVUb2RvIMOgIGxhIHTDomNoZSBSZWRtaW5lCi8vICAgICAgICAgICAgfSwKLy8gICAgICAgICAgICBjYW5jZWwoKSB7Ci8vICAgICAgICAgICAgICAgIHRoaXMuJGVtaXQoJ2NhbmNlbENsb2NraW5nJyk7Ci8vICAgICAgICAgICAgfQovLyAgICAgICAgfSw=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHR5cGU6IEJvb2xlYW4sCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcXVlcnktPmdldCgpKTtkZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGFzQWN0aXZlTWFpbkNsaWVudDogewo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+anNvbl9jb25maWcpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICA6aGFzLWFjdGl2ZS1tYWluLWNsaWVudD0ie3sgJHVzZXItPnBlcnNvbmFsX2NsaWVudHMtPmNvdW50KCkgPiAwIH19Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHR5cGU6IEJvb2xlYW4sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3dGZkZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7ey0tIFRPRE8gRklYIElDSSAtLX19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHR5cGU6IEJvb2xlYW4sCg==</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>241</text>
       </register>
     </registers>
     <search>
@@ -806,8 +813,6 @@
         <entry>client</entry>
       </history-search>
       <history-cmd>
-        <entry>sw</entry>
-        <entry>286</entry>
         <entry encoding="base64">JzwsJz5zL2NsaWVudFRvVW5saW5rL3VzZXJUb1VubGluay9n</entry>
         <entry>%s/password_changed/tax_slip/g</entry>
         <entry>325</entry>
@@ -826,6 +831,8 @@
         <entry>w</entry>
         <entry>323</entry>
         <entry>reg</entry>
+        <entry>141</entry>
+        <entry>241</entry>
       </history-cmd>
       <history-expr />
       <history-input />
