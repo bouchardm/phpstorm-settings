@@ -195,11 +195,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Repositories/ClientRepository.php" timestamp="1505762288633">
+      <file name="$USER_HOME$/code/mica/app/Repositories/ClientRepository.php" timestamp="1505763992313">
         <mark key="'" line="13" column="6" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/integration/UserLinkSecurityTest.php" timestamp="1505331278407">
         <mark key="[" line="52" column="0" />
@@ -419,7 +419,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoIlNERlNERiIpO2RkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -689,31 +689,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoIlNERlNERiIpO2RkCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIHRlc3QK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdG9Vc2VyLT5zaGFyZWRfY2xpZW50cy0+Y291bnQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoIlNERlNERiIpO2RkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+c2hhcmVkX2NsaWVudHMtPmNvdW50KCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdG9Vc2VyLT5zaGFyZWRfY2xpZW50cy0+Y291bnQoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkc2hhcmVkQ2xpZW50cy0+Y291bnQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+c2hhcmVkX2NsaWVudHMtPmNvdW50KCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZnJvbUNsaWVudFJlbGF0ZWQtPmlzSW5kaXZpZHVhbCgpKTsK</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRvQ2xpZW50LT5Db2RlLAo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkc2hhcmVkQ2xpZW50cy0+Y291bnQoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGZyb21DbGllbnQtPkNvZGUsCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZnJvbUNsaWVudFJlbGF0ZWQtPmlzSW5kaXZpZHVhbCgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
