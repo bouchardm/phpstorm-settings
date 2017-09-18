@@ -12,13 +12,6 @@
       <file name="/fragment.js" timestamp="1503931169956">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/assets/js/components/client/documents/DocumentType.vue" timestamp="1505242506740">
-        <mark key="'" line="37" column="16" />
-        <mark key="[" line="1" column="74" />
-        <mark key="]" line="1" column="28" />
-        <mark key="." line="1" column="28" />
-        <mark key="^" line="1" column="28" />
-      </file>
       <file name="$USER_HOME$/code/mica/routes/web/client.php" timestamp="1505246523622">
         <mark key="[" line="19" column="58" />
         <mark key="]" line="19" column="56" />
@@ -69,11 +62,11 @@
         <mark key="." line="54" column="78" />
         <mark key="^" line="38" column="84" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/User.php" timestamp="1505760342740">
+      <file name="$USER_HOME$/code/mica/app/User.php" timestamp="1505762307172">
         <mark key="'" line="58" column="24" />
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="146" column="0" />
-        <mark key="." line="146" column="0" />
+        <mark key="[" line="282" column="0" />
+        <mark key="]" line="282" column="0" />
+        <mark key="." line="282" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Command/ImportExpiredClientTest.php" timestamp="1505758291391">
         <mark key="[" line="179" column="57" />
@@ -151,6 +144,12 @@
       <file name="/a.sql" timestamp="1505484037106">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/mica/tests/unit/Repositories/ClientRepositoryTest.php" timestamp="1505762410776">
+        <mark key="[" line="179" column="77" />
+        <mark key="]" line="179" column="76" />
+        <mark key="." line="179" column="76" />
+        <mark key="^" line="179" column="76" />
+      </file>
       <file name="$USER_HOME$/code/mica/tests/integration/UserLinkSecurity.php" timestamp="1505325216820">
         <mark key="[" line="8" column="18" />
         <mark key="]" line="8" column="18" />
@@ -163,12 +162,18 @@
         <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/accounts/Accounts.vue" timestamp="1505229212385" />
+      <file name="$USER_HOME$/code/mica/tests/TestCase.php" timestamp="1505762585475">
+        <mark key="'" line="631" column="8" />
+        <mark key="[" line="486" column="103" />
+        <mark key="]" line="486" column="0" />
+        <mark key="." line="486" column="0" />
+      </file>
       <file name="$USER_HOME$/code/mica/tests/integration/UserSecurityTest.php" timestamp="1505324358958">
         <mark key="[" line="320" column="0" />
         <mark key="]" line="320" column="0" />
         <mark key="." line="320" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1505741138068">
+      <file name="/dummy.sql" timestamp="1505762588785">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/dashboard/site/resources/assets/js/components/ClockingModal.vue" timestamp="1505486420514">
@@ -176,7 +181,7 @@
         <mark key="]" line="61" column="84" />
         <mark key="." line="61" column="84" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505760120992">
+      <file name="/Dummy.txt" timestamp="1505761884616">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Query/UserQueryTest.php" timestamp="1505224406813">
@@ -190,12 +195,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Repositories/ClientRepository.php" timestamp="1505760811498">
+      <file name="$USER_HOME$/code/mica/app/Repositories/ClientRepository.php" timestamp="1505762288633">
         <mark key="'" line="13" column="6" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="43" column="19" />
-        <mark key="." line="43" column="19" />
-        <mark key="^" line="43" column="19" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/integration/UserLinkSecurityTest.php" timestamp="1505331278407">
         <mark key="[" line="52" column="0" />
@@ -250,13 +254,6 @@
         <mark key="[" line="108" column="0" />
         <mark key="]" line="108" column="0" />
         <mark key="." line="108" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/Profile.vue" timestamp="1505403971492">
-        <mark key="'" line="266" column="16" />
-        <mark key="[" line="78" column="34" />
-        <mark key="]" line="78" column="33" />
-        <mark key="." line="78" column="33" />
-        <mark key="^" line="78" column="33" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/client/information/EditAllClientEmail.vue" timestamp="1504806542468">
         <mark key="[" line="122" column="0" />
@@ -422,7 +419,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoIlNERlNERiIpO2RkCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -680,7 +677,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getSharedClientsWithoutCurrentClient</text>
+        <text encoding="base64">WydTSU5fTnVtYmVyJyA9PiAkY2xpZW50LT5zaW4sICdEYXRlX29mX0JpcnRoJyA9PiAkY2xpZW50LT5iaXJ0aERhdGVd</text>
       </register>
       <register name="/" type="4">
         <text>getclientsnot</text>
@@ -692,31 +689,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoIlNERlNERiIpO2RkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkY2xpZW50c0xpc3QgPSAkY2xpZW50c0xpc3QtPm1lcmdlKCR0aGlzLT5nZXRTb2xvQ2xpZW50KCR1c2VyLT5jdXJyZW50X2NsaWVudCwgJHVzZXItPmdldFNoYXJlZENsaWVudHNXaXRob3V0Q3VycmVudENsaWVudCgpKSk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgkdGhpcy0+bWFya2V0VmFsdWVSZXBvc2l0b3J5LT5nZXRUb3RhbEludmVzdG1lbnRDbGllbnQoJGNsaWVudCkpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCR1c2VyLT5jbGllbnRzLT5wbHVjaygnQ29kZScpKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkdG9Vc2VyLT5zaGFyZWRfY2xpZW50cy0+Y291bnQoKSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+c2hhcmVkX2NsaWVudHMtPmNvdW50KCkpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgiU0VGU0RGU0QiKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkc2hhcmVkQ2xpZW50cy0+Y291bnQoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgKCEgJHVzZXItPnNoYXJlZF9jbGllbnRzLT5wbHVjaygnQ29kZScpLT5jb250YWlucygkbmV4dENsaWVudC0+Q29kZSkpIHsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZnJvbUNsaWVudFJlbGF0ZWQtPmlzSW5kaXZpZHVhbCgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ci8vICAgICAgICBkdW1wKCJXV1dXV1dXV1dUVFRUVFRUVFRUVEZGRkZGRkZGRkYiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRvQ2xpZW50LT5Db2RlLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGR1bXAoaW5fYXJyYXkoJG5leHRDbGllbnQtPkNvZGUsICR1c2VyLT5zaGFyZWRfY2xpZW50cy0+cGx1Y2soJ0NvZGUnKS0+dG9BcnJheSgpKSk7Ci8vCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGZyb21DbGllbnQtPkNvZGUsCg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
