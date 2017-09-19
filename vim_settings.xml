@@ -12,6 +12,13 @@
       <file name="/fragment.js" timestamp="1503931169956">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/client/documents/DocumentType.vue" timestamp="1505242506740">
+        <mark key="'" line="37" column="16" />
+        <mark key="[" line="1" column="74" />
+        <mark key="]" line="1" column="28" />
+        <mark key="." line="1" column="28" />
+        <mark key="^" line="1" column="28" />
+      </file>
       <file name="$USER_HOME$/code/mica/routes/web/client.php" timestamp="1505246523622">
         <mark key="[" line="19" column="58" />
         <mark key="]" line="19" column="56" />
@@ -128,11 +135,6 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/integration/src/sass/modules/_notifications.scss" timestamp="1504897563362">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Type/User/UserType.php" timestamp="1505309605663">
         <mark key="'" line="29" column="26" />
         <mark key="[" line="153" column="0" />
@@ -181,7 +183,7 @@
         <mark key="]" line="61" column="84" />
         <mark key="." line="61" column="84" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505761884616">
+      <file name="/Dummy.txt" timestamp="1505824096700">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Query/UserQueryTest.php" timestamp="1505224406813">
@@ -194,12 +196,6 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/mica/app/Repositories/ClientRepository.php" timestamp="1505763992313">
-        <mark key="'" line="13" column="6" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/integration/UserLinkSecurityTest.php" timestamp="1505331278407">
         <mark key="[" line="52" column="0" />
@@ -231,6 +227,13 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/navigation/Notifications.vue" timestamp="1505824229236">
+        <mark key="'" line="15" column="17" />
+        <mark key="[" line="9" column="69" />
+        <mark key="]" line="9" column="60" />
+        <mark key="^" line="9" column="60" />
+        <mark key="." line="9" column="60" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e0b99914-3b22-42fa-a202-b85bc0811dc8/console.sql" timestamp="1505315722254">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="14" column="0" />
@@ -255,6 +258,13 @@
         <mark key="]" line="108" column="0" />
         <mark key="." line="108" column="0" />
       </file>
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/Profile.vue" timestamp="1505403971492">
+        <mark key="'" line="266" column="16" />
+        <mark key="[" line="78" column="34" />
+        <mark key="]" line="78" column="33" />
+        <mark key="." line="78" column="33" />
+        <mark key="^" line="78" column="33" />
+      </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/client/information/EditAllClientEmail.vue" timestamp="1504806542468">
         <mark key="[" line="122" column="0" />
         <mark key="]" line="122" column="0" />
@@ -262,7 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="32" filename="$USER_HOME$/code/mica/resources/assets/js/components/client/documents/Documents.vue" />
       <jump line="5" column="135" filename="$USER_HOME$/code/mica/resources/assets/js/components/client/documents/Documents.vue" />
       <jump line="73" column="24" filename="$USER_HOME$/code/mica/resources/assets/js/components/client/documents/Documents.vue" />
       <jump line="154" column="36" filename="$USER_HOME$/code/mica/resources/assets/js/components/client/documents/Documents.vue" />
@@ -362,6 +371,7 @@
       <jump line="60" column="24" filename="$USER_HOME$/code/mica/app/User.php" />
       <jump line="58" column="24" filename="$USER_HOME$/code/mica/app/User.php" />
       <jump line="13" column="6" filename="$USER_HOME$/code/mica/app/Repositories/ClientRepository.php" />
+      <jump line="15" column="17" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/navigation/Notifications.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -419,7 +429,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vfQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -680,7 +690,7 @@
         <text encoding="base64">WydTSU5fTnVtYmVyJyA9PiAkY2xpZW50LT5zaW4sICdEYXRlX29mX0JpcnRoJyA9PiAkY2xpZW50LT5iaXJ0aERhdGVd</text>
       </register>
       <register name="/" type="4">
-        <text>getclientsnot</text>
+        <text>is-open</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">JHVzZXItPmdldFNoYXJlZENsaWVudHNXaXRob3V0Q3VycmVudENsaWVudCgp</text>
@@ -689,40 +699,40 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIHRlc3QK</text>
+        <text encoding="base64">ICAgIC8vJi5pcy1vcGVuIHsKICAgIC8vICAgIGRpc3BsYXk6IGJsb2NrOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoIlNERlNERiIpO2RkCg==</text>
+        <text encoding="base64">ICAgIC8vZGlzcGxheTogbm9uZTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdG9Vc2VyLT5zaGFyZWRfY2xpZW50cy0+Y291bnQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIHRlc3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+c2hhcmVkX2NsaWVudHMtPmNvdW50KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoIlNERlNERiIpO2RkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkc2hhcmVkQ2xpZW50cy0+Y291bnQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdG9Vc2VyLT5zaGFyZWRfY2xpZW50cy0+Y291bnQoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZnJvbUNsaWVudFJlbGF0ZWQtPmlzSW5kaXZpZHVhbCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+c2hhcmVkX2NsaWVudHMtPmNvdW50KCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>getclientsnot</last-search>
+      <last-search>is-open</last-search>
       <last-offset />
-      <last-pattern>getclientsnot</last-pattern>
+      <last-pattern>is-open</last-pattern>
       <last-replace>tax_slip</last-replace>
       <last-substitute>\.</last-substitute>
       <last-dir>1</last-dir>
@@ -730,7 +740,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ismicause</entry>
         <entry>getcurre</entry>
         <entry>refresh</entry>
         <entry>getsta</entry>
@@ -750,6 +759,7 @@
         <entry>getsha</entry>
         <entry>getperso</entry>
         <entry>getclientsnot</entry>
+        <entry>is-open</entry>
       </history-search>
       <history-cmd>
         <entry>%s/password_changed/tax_slip/g</entry>
