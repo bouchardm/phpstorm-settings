@@ -6,9 +6,6 @@
       <file name="$USER_HOME$/code/mica/app/ClientLink.php" timestamp="1502109980445">
         <mark key="[" line="30" column="12" />
       </file>
-      <file name="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Support/Collection.php" timestamp="1505759067378">
-        <mark key="'" line="34" column="27" />
-      </file>
       <file name="/fragment.js" timestamp="1503931169956">
         <mark key="[" line="0" column="0" />
       </file>
@@ -38,9 +35,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="194" />
         <mark key="." line="0" column="194" />
-      </file>
-      <file name="$USER_HOME$/code/mica/resources/assets/js/app.js" timestamp="1505242738975">
-        <mark key="'" line="6" column="28" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/Controllers/HomeController.php" timestamp="1505739558069">
         <mark key="[" line="28" column="0" />
@@ -117,6 +111,10 @@
         <mark key="^" line="23" column="111" />
         <mark key="." line="23" column="111" />
       </file>
+      <file name="$USER_HOME$/code/mica/app/Winfund/Client.php" timestamp="1506085237049">
+        <mark key="'" line="753" column="22" />
+        <mark key="[" line="411" column="63" />
+      </file>
       <file name="$USER_HOME$/code/mica/tests/features/users/Advisors.feature" timestamp="1505910939987">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -176,9 +174,6 @@
         <mark key="^" line="103" column="57" />
         <mark key="." line="103" column="57" />
       </file>
-      <file name="$USER_HOME$/code/mica/tests/TestCase.php" timestamp="1505762585475">
-        <mark key="'" line="623" column="8" />
-      </file>
       <file name="$USER_HOME$/code/mica/tests/integration/UserSecurityTest.php" timestamp="1505324358958">
         <mark key="[" line="320" column="0" />
         <mark key="]" line="320" column="0" />
@@ -199,7 +194,7 @@
         <mark key="]" line="61" column="84" />
         <mark key="." line="61" column="84" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506083887833">
+      <file name="/Dummy.txt" timestamp="1506085146490">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Query/UserQueryTest.php" timestamp="1505224406813">
@@ -319,7 +314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/code/mica/tests/unit/Http/Controllers/DocumentControllerTest.php" />
       <jump line="11" column="0" filename="$USER_HOME$/code/mica/tests/unit/Http/Controllers/DocumentControllerTest.php" />
       <jump line="474" column="23" filename="$USER_HOME$/code/mica/tests/TestCase.php" />
       <jump line="499" column="8" filename="$USER_HOME$/code/mica/tests/TestCase.php" />
@@ -419,6 +413,7 @@
       <jump line="30" column="19" filename="$USER_HOME$/code/mica/app/User.php" />
       <jump line="66" column="71" filename="$USER_HOME$/code/mica/app/User.php" />
       <jump line="106" column="9" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="753" column="22" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
