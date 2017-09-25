@@ -25,6 +25,9 @@
         <mark key="^" line="429" column="60" />
         <mark key="." line="429" column="60" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5055f813-3fb1-4bbd-a46b-d08038f1154a/console.sql" timestamp="1506364293266">
+        <mark key="[" line="726" column="38" />
+      </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Winfund/Query/Client/InformationClientQuery.php" timestamp="1505747424484" />
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Type/Advisor/AdvisorRecordType.php" timestamp="1506083722857">
         <mark key="[" line="35" column="47" />
@@ -34,6 +37,9 @@
         <mark key="]" line="54" column="78" />
         <mark key="." line="54" column="78" />
         <mark key="^" line="38" column="84" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/86eee6cc-3a14-406f-a3ca-c6b7ce31fcd3/console.sql" timestamp="1506363904118">
+        <mark key="[" line="124" column="51" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/lang/en/notifications.php" timestamp="1505246914851">
         <mark key="[" line="97" column="98" />
@@ -308,7 +314,7 @@
         <mark key="]" line="320" column="0" />
         <mark key="." line="320" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1506353718709">
+      <file name="/dummy.sql" timestamp="1506364215187">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Mutation/User/ChangeMainClientMutation.php" timestamp="1505324306717">
@@ -322,7 +328,7 @@
         <mark key="]" line="61" column="84" />
         <mark key="." line="61" column="84" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506361163474">
+      <file name="/Dummy.txt" timestamp="1506363838858">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Query/UserQueryTest.php" timestamp="1505224406813">
