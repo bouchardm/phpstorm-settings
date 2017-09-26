@@ -91,11 +91,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Repositories/WinfundRepository.php" timestamp="1506438724078">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/code/mica/app/Repositories/WinfundRepository.php" timestamp="1506440046303">
+        <mark key="[" line="10" column="56" />
+        <mark key="]" line="10" column="60" />
+        <mark key="^" line="10" column="60" />
+        <mark key="." line="10" column="60" />
       </file>
       <file name="$USER_HOME$/code/mica/database/seeds/QASeeder.php" timestamp="1505911745781">
         <mark key="[" line="90" column="0" />
@@ -383,12 +383,12 @@
         <mark key="^" line="178" column="4" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Winfund/Mutation/CreateUserFromClientMutation.php" timestamp="1505398785153" />
-      <file name="$USER_HOME$/code/mica/tests/unit/Repositories/WinfundRepositoryTest.php" timestamp="1506438553426">
-        <mark key="'" line="49" column="74" />
-        <mark key="[" line="16" column="6" />
-        <mark key="]" line="16" column="5" />
-        <mark key="." line="16" column="5" />
-        <mark key="^" line="16" column="5" />
+      <file name="$USER_HOME$/code/mica/tests/unit/Repositories/WinfundRepositoryTest.php" timestamp="1506439971661">
+        <mark key="'" line="50" column="74" />
+        <mark key="[" line="90" column="70" />
+        <mark key="]" line="92" column="72" />
+        <mark key="." line="92" column="72" />
+        <mark key="^" line="92" column="72" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/Profile.vue" timestamp="1505403971492">
         <mark key="'" line="266" column="16" />
@@ -563,8 +563,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>string</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -822,7 +822,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>WinfundRepositoryTest</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text>getconnection</text>
@@ -837,28 +837,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZChVc2VyOjpmaW5kKCR1c2VyLT5pZCktPmVtYWlsKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgLyoqIEB2YXIgV2luZnVuZFF1ZXJ5QnVpbGRlciAkd2luZnVuZFF1ZXJ5QnVpbGRlciAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGRkKCRxdWVyeSk7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGRkKENsaWVudDo6bGlua2VkQ2xpZW50KCRjbGllbnQpLT5nZXQoKWprKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGNsaWVudCk7ZGRrCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGRkKCRxdWVyeSk7Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGRkKENsaWVudDo6bGlua2VkQ2xpZW50KCRjbGllbnQpLT5nZXQoKWprKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAkcXVlcnktPmdldFF1ZXJ5KCkKICAgICAgICAgICAgLT5nZXRDb25uZWN0aW9uKCkKICAgICAgICAgICAgLT5nZXRQZG8oKQogICAgICAgICAgICAtPnByZXBhcmUoIkVYRUNVVEUgZGJvLldOVXBkYXRlQ2xpZW50RW1haWxBZGRyZXNzIDIsIDpjb2RlLCAnOmVtYWlsJyIpCiAgICAgICAgICAgIC0+ZXhlY3V0ZShbJzpjb2RlJyA9PiAkY2xpZW50LT5Db2RlLCAnOmVtYWlsJyA9PiAkc3RyaW5nXSk7Cg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>248</text>
