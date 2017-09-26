@@ -73,8 +73,8 @@
         <mark key="]" line="145" column="0" />
         <mark key="." line="145" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Winfund/Client.php" timestamp="1506368601923">
-        <mark key="'" line="290" column="89" />
+      <file name="$USER_HOME$/code/mica/app/Winfund/Client.php" timestamp="1506440501987">
+        <mark key="'" line="457" column="27" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/features/bootstrap/FeatureContext.php" timestamp="1505828866119">
         <mark key="[" line="129" column="0" />
@@ -407,7 +407,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="21" filename="$USER_HOME$/code/mica/tests/integration/UserLinkSecurity.php" />
       <jump line="325" column="0" filename="$USER_HOME$/code/mica/tests/integration/UserLinkSecurity.php" />
       <jump line="20" column="0" filename="$USER_HOME$/code/mica/tests/integration/UserLinkSecurity.php" />
       <jump line="338" column="4" filename="$USER_HOME$/code/mica/app/User.php" />
@@ -507,6 +506,7 @@
       <jump line="254" column="26" filename="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
       <jump line="1045" column="26" filename="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
       <jump line="40" column="74" filename="$USER_HOME$/code/mica/tests/unit/Repositories/WinfundRepositoryTest.php" />
+      <jump line="457" column="27" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -825,7 +825,7 @@
         <text>string</text>
       </register>
       <register name="/" type="4">
-        <text>getconnection</text>
+        <text>setemail</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">JHRoaXMtPmFwcC0+bWFrZShXaW5mdW5kUXVlcnlCdWlsZGVyOjpjbGFzcyktPmdldFF1ZXJ5KCk=</text>
@@ -865,9 +865,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getconnection</last-search>
+      <last-search>setemail</last-search>
       <last-offset />
-      <last-pattern>getconnection</last-pattern>
+      <last-pattern>setemail</last-pattern>
       <last-replace>tax_slip</last-replace>
       <last-substitute>\.</last-substitute>
       <last-dir>1</last-dir>
@@ -875,7 +875,6 @@
     </search>
     <history>
       <history-search>
-        <entry>app(</entry>
         <entry>reload</entry>
         <entry>getperson</entry>
         <entry>getexpi</entry>
@@ -895,6 +894,7 @@
         <entry>public function</entry>
         <entry>public</entry>
         <entry>getconnection</entry>
+        <entry>setemail</entry>
       </history-search>
       <history-cmd>
         <entry>325</entry>
