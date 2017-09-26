@@ -203,12 +203,12 @@
       <file name="/a.sql" timestamp="1505484037106">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/tests/unit/Repositories/ClientRepositoryTest.php" timestamp="1505827157591">
-        <mark key="'" line="233" column="4" />
-        <mark key="[" line="70" column="78" />
-        <mark key="]" line="71" column="31" />
-        <mark key="^" line="71" column="31" />
-        <mark key="." line="71" column="31" />
+      <file name="$USER_HOME$/code/mica/tests/unit/Repositories/ClientRepositoryTest.php" timestamp="1506448459637">
+        <mark key="'" line="237" column="4" />
+        <mark key="[" line="91" column="5" />
+        <mark key="]" line="93" column="7" />
+        <mark key="^" line="93" column="7" />
+        <mark key="." line="93" column="7" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/integration/UserLinkSecurity.php" timestamp="1505325216820">
         <mark key="[" line="8" column="18" />
@@ -272,7 +272,7 @@
         <mark key="]" line="61" column="84" />
         <mark key="." line="61" column="84" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506447338052">
+      <file name="/Dummy.txt" timestamp="1506448450801">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Query/UserQueryTest.php" timestamp="1505224406813">
