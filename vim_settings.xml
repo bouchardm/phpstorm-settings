@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Support/Collection.php" timestamp="1505759067378">
@@ -51,6 +51,18 @@
       </file>
       <file name="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1506368803161">
         <mark key="'" line="829" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/mica/tests/unit/UserUnitTest.php" timestamp="1506456104711">
+        <mark key="[" line="322" column="5" />
+        <mark key="]" line="322" column="4" />
+        <mark key="^" line="322" column="4" />
+        <mark key="." line="322" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/mica/tests/integration/UserTest.php" timestamp="1506456410796">
+        <mark key="[" line="249" column="78" />
+        <mark key="]" line="249" column="77" />
+        <mark key="^" line="249" column="77" />
+        <mark key="." line="249" column="77" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/86eee6cc-3a14-406f-a3ca-c6b7ce31fcd3/console.sql" timestamp="1506363904118">
         <mark key="[" line="124" column="51" />
@@ -260,12 +272,12 @@
         <mark key="." line="79" column="11" />
         <mark key="^" line="79" column="11" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/User.php" timestamp="1505827924385">
+      <file name="$USER_HOME$/code/mica/app/User.php" timestamp="1506456442078">
         <mark key="'" line="106" column="9" />
-        <mark key="[" line="292" column="111" />
-        <mark key="]" line="292" column="76" />
-        <mark key="." line="292" column="76" />
-        <mark key="^" line="292" column="76" />
+        <mark key="[" line="401" column="17" />
+        <mark key="]" line="401" column="29" />
+        <mark key="." line="401" column="29" />
+        <mark key="^" line="401" column="29" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/lang/en/information.php" timestamp="1505306116602">
         <mark key="'" line="52" column="57" />
@@ -306,6 +318,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/client/information/EditEmail.vue" timestamp="1506456013194" />
       <file name="$USER_HOME$/code/mica/app/Http/Middleware/ShadowAccessClient.php" timestamp="1505739642597">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -367,7 +380,7 @@
         <mark key="]" line="61" column="84" />
         <mark key="." line="61" column="84" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506452492294">
+      <file name="/Dummy.txt" timestamp="1506455852698">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Query/UserQueryTest.php" timestamp="1505224406813">
@@ -392,6 +405,9 @@
         <mark key="]" line="107" column="41" />
         <mark key="^" line="107" column="41" />
         <mark key="." line="107" column="41" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/admin/clients/record/dashboard/ClientInformation.vue" timestamp="1506455788906">
+        <mark key="'" line="171" column="51" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Policies/UserPolicy.php" timestamp="1506351821186">
         <mark key="[" line="130" column="16" />
@@ -453,7 +469,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="325" column="0" filename="$USER_HOME$/code/mica/tests/integration/UserLinkSecurity.php" />
       <jump line="20" column="0" filename="$USER_HOME$/code/mica/tests/integration/UserLinkSecurity.php" />
       <jump line="338" column="4" filename="$USER_HOME$/code/mica/app/User.php" />
       <jump line="548" column="0" filename="$USER_HOME$/code/mica/app/User.php" />
@@ -553,6 +568,7 @@
       <jump line="1045" column="26" filename="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
       <jump line="40" column="74" filename="$USER_HOME$/code/mica/tests/unit/Repositories/WinfundRepositoryTest.php" />
       <jump line="457" column="27" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
+      <jump line="171" column="51" filename="$USER_HOME$/code/mica/resources/assets/js/components/admin/clients/record/dashboard/ClientInformation.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -610,7 +626,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>new</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -868,10 +884,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>new</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>setemail</text>
+        <text>email</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">JHRoaXMtPmFwcC0+bWFrZShXaW5mdW5kUXVlcnlCdWlsZGVyOjpjbGFzcyktPmdldFF1ZXJ5KCk=</text>
@@ -880,28 +896,28 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRjbGllbnQtPkVsZWN0cm9uaWNEZWxpdmVyeSA9IDE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGljaT8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRjbGllbnQtPmVsZWN0cm9uaWNfZGVsaXZlcnkpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICRjbGllbnQtPkVsZWN0cm9uaWNEZWxpdmVyeSA9IDE7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRjbGllbnQtPmVsZWN0cm9uaWNfZGVsaXZlcnkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+Z2VuZXJhdG9yLT5jbGllbnRzKCR0aGlzLT5vdXRwdXQpLT5maXJzdCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRjbGllbnQtPmVsZWN0cm9uaWNfZGVsaXZlcnkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+Z2VuZXJhdG9yLT5jbGllbnRzKCR0aGlzLT5vdXRwdXQpLT5maXJzdCgpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKDEsIENsaWVudDo6Y291bnQoWyd3aW5mdW5kX2lkJyA9PiAkY2xpZW50LT5Db2RlXSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkY2xpZW50LT5lbWFpbEFkZHJlc3MgPSAibmV3IjsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKDEsIENsaWVudDo6Y291bnQoWyd3aW5mdW5kX2lkJyA9PiAkY2xpZW50LT5Db2RlXSkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY2xpZW50LT5lbWFpbEFkZHJlc3MgPSAibmV3IjsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -911,9 +927,9 @@
       </register>
     </registers>
     <search>
-      <last-search>setemail</last-search>
+      <last-search>email</last-search>
       <last-offset />
-      <last-pattern>setemail</last-pattern>
+      <last-pattern>email</last-pattern>
       <last-replace>tax_slip</last-replace>
       <last-substitute>\.</last-substitute>
       <last-dir>1</last-dir>
@@ -921,7 +937,6 @@
     </search>
     <history>
       <history-search>
-        <entry>reload</entry>
         <entry>getperson</entry>
         <entry>getexpi</entry>
         <entry>static</entry>
@@ -941,6 +956,7 @@
         <entry>public</entry>
         <entry>getconnection</entry>
         <entry>setemail</entry>
+        <entry>email</entry>
       </history-search>
       <history-cmd>
         <entry>325</entry>
