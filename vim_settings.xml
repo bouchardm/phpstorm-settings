@@ -91,11 +91,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Repositories/WinfundRepository.php" timestamp="1506435164146">
-        <mark key="[" line="13" column="56" />
-        <mark key="]" line="14" column="18" />
-        <mark key="." line="14" column="18" />
-        <mark key="^" line="14" column="18" />
+      <file name="$USER_HOME$/code/mica/app/Repositories/WinfundRepository.php" timestamp="1506438724078">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/database/seeds/QASeeder.php" timestamp="1505911745781">
         <mark key="[" line="90" column="0" />
@@ -113,6 +113,7 @@
         <mark key="." line="103" column="57" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/accounts/Accounts.vue" timestamp="1505229212385" />
+      <file name="$USER_HOME$/code/mica/vendor/phpunit/phpunit-mock-objects/src/Framework/MockObject/MockBuilder.php" timestamp="1506438097918" />
       <file name="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Container/Container.php" timestamp="1506435346909">
         <mark key="[" line="247" column="0" />
         <mark key="]" line="247" column="0" />
@@ -382,11 +383,12 @@
         <mark key="^" line="178" column="4" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Winfund/Mutation/CreateUserFromClientMutation.php" timestamp="1505398785153" />
-      <file name="$USER_HOME$/code/mica/tests/unit/Repositories/WinfundRepositoryTest.php" timestamp="1506436093338">
-        <mark key="[" line="47" column="62" />
-        <mark key="]" line="57" column="32" />
-        <mark key="." line="57" column="32" />
-        <mark key="^" line="57" column="32" />
+      <file name="$USER_HOME$/code/mica/tests/unit/Repositories/WinfundRepositoryTest.php" timestamp="1506438553426">
+        <mark key="'" line="49" column="74" />
+        <mark key="[" line="16" column="6" />
+        <mark key="]" line="16" column="5" />
+        <mark key="." line="16" column="5" />
+        <mark key="^" line="16" column="5" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/Profile.vue" timestamp="1505403971492">
         <mark key="'" line="266" column="16" />
@@ -405,7 +407,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="6" filename="$USER_HOME$/code/mica/app/Repositories/UserRepository.php" />
       <jump line="34" column="21" filename="$USER_HOME$/code/mica/tests/integration/UserLinkSecurity.php" />
       <jump line="325" column="0" filename="$USER_HOME$/code/mica/tests/integration/UserLinkSecurity.php" />
       <jump line="20" column="0" filename="$USER_HOME$/code/mica/tests/integration/UserLinkSecurity.php" />
@@ -505,6 +506,7 @@
       <jump line="70" column="56" filename="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
       <jump line="254" column="26" filename="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
       <jump line="1045" column="26" filename="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
+      <jump line="40" column="74" filename="$USER_HOME$/code/mica/tests/unit/Repositories/WinfundRepositoryTest.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -561,8 +563,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">JHRoaXMtPmFwcC0+bWFrZShXaW5mdW5kUXVlcnlCdWlsZGVyOjpjbGFzcyktPmdldFF1ZXJ5KCk=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -820,7 +822,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>WinfundRepositoryTest</text>
       </register>
       <register name="/" type="4">
         <text>getconnection</text>
@@ -832,31 +834,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgkY29uY3JldGUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGNvbmNyZXRlKCR0aGlzLCAkdGhpcy0+Z2V0TGFzdFBhcmFtZXRlck92ZXJyaWRlKCkpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY29uY3JldGUpO2RkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAtPndpdGgoJ29kYmMtbW9jaycpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGRkKCRxdWVyeSk7Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGRkKGdldF9jbGFzcyhEQjo6Y29ubmVjdGlvbigpKSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGRkKENsaWVudDo6bGlua2VkQ2xpZW50KCRjbGllbnQpLT5nZXQoKWprKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGNsaWVudCk7ZGRrCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5hbmRSZXR1cm4oREI6OmdldFNjaGVtYUJ1aWxkZXIoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBEQjo6c2hvdWxkUmVjZWl2ZSgnZ2V0U2NoZW1hQnVpbGRlcicpCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAkcXVlcnktPmdldFF1ZXJ5KCkKICAgICAgICAgICAgLT5nZXRDb25uZWN0aW9uKCkKICAgICAgICAgICAgLT5nZXRQZG8oKQogICAgICAgICAgICAtPnByZXBhcmUoIkVYRUNVVEUgZGJvLldOVXBkYXRlQ2xpZW50RW1haWxBZGRyZXNzIDIsIDpjb2RlLCAnOmVtYWlsJyIpCiAgICAgICAgICAgIC0+ZXhlY3V0ZShbJzpjb2RlJyA9PiAkY2xpZW50LT5Db2RlLCAnOmVtYWlsJyA9PiAkc3RyaW5nXSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>248</text>
