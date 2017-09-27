@@ -193,6 +193,9 @@
       <file name="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Session/SessionManager.php" timestamp="1506533442495">
         <mark key="'" line="206" column="42" />
       </file>
+      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Winfund/Mutation/EditClientEmailMutation.php" timestamp="1506538794812">
+        <mark key="[" line="10" column="1" />
+      </file>
       <file name="$USER_HOME$/code/mica/app/Http/Controllers/NotificationController.php" timestamp="1505307889406">
         <mark key="[" line="22" column="61" />
         <mark key="]" line="23" column="111" />
@@ -231,7 +234,7 @@
         <mark key="^" line="29" column="110" />
         <mark key="." line="29" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506534590653">
+      <file name="/Dummy.txt" timestamp="1506538755830">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Query/UserQueryTest.php" timestamp="1505224406813">
