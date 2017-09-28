@@ -95,6 +95,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/code/mica/tests/integration/InscriptionTest.php" timestamp="1506601935507">
+        <mark key="[" line="330" column="5" />
+        <mark key="]" line="332" column="7" />
+        <mark key="^" line="332" column="7" />
+        <mark key="." line="332" column="7" />
+      </file>
       <file name="$USER_HOME$/code/mica/app/Repositories/WinfundRepository.php" timestamp="1506518476163">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -329,7 +335,7 @@
         <mark key="]" line="61" column="84" />
         <mark key="." line="61" column="84" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506542519040">
+      <file name="/Dummy.txt" timestamp="1506601922845">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Query/UserQueryTest.php" timestamp="1505224406813">
