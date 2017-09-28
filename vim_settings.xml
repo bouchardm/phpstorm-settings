@@ -39,11 +39,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5055f813-3fb1-4bbd-a46b-d08038f1154a/console.sql" timestamp="1506366474559">
         <mark key="[" line="726" column="38" />
       </file>
-      <file name="$USER_HOME$/code/mica/tests/unit/Repositories/LogRepositoryTest.php" timestamp="1506604960814">
-        <mark key="[" line="20" column="8" />
-        <mark key="]" line="18" column="51" />
-        <mark key="." line="18" column="51" />
-        <mark key="^" line="18" column="51" />
+      <file name="$USER_HOME$/code/mica/tests/unit/Repositories/LogRepositoryTest.php" timestamp="1506606616615">
+        <mark key="[" line="28" column="7" />
+        <mark key="]" line="28" column="7" />
+        <mark key="." line="28" column="7" />
+        <mark key="^" line="28" column="7" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1506353730285">
         <mark key="[" line="0" column="1" />
