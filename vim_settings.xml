@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/mica/app/ClientLink.php" timestamp="1502109980445">
+        <mark key="[" line="30" column="12" />
+      </file>
+      <file name="/fragment.js" timestamp="1503931169956">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/mica/routes/web/client.php" timestamp="1506352910116">
         <mark key="[" line="19" column="58" />
         <mark key="]" line="19" column="56" />
@@ -12,24 +18,60 @@
       <file name="/a.dummy" timestamp="1505323251550">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/mica/app/Repositories/LogRepository.php" timestamp="1506602728382">
+        <mark key="[" line="5" column="1" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="18" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Query/AccountsQueryTest.php" timestamp="1505151867242">
         <mark key="[" line="429" column="29" />
         <mark key="]" line="429" column="60" />
         <mark key="^" line="429" column="60" />
         <mark key="." line="429" column="60" />
       </file>
+      <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Mutation/ChangeMainClientMutationTest.php" timestamp="1505324296588">
+        <mark key="[" line="22" column="65" />
+        <mark key="]" line="23" column="7" />
+        <mark key="^" line="23" column="7" />
+        <mark key="." line="23" column="7" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5055f813-3fb1-4bbd-a46b-d08038f1154a/console.sql" timestamp="1506366474559">
         <mark key="[" line="726" column="38" />
       </file>
-      <file name="$USER_HOME$/backup/marcabm/code/promutuel/soumission/src/src/Promutuel/AgentConsoleBundle/Form/NouveauStatutType.php" timestamp="1506536276524" />
-      <file name="$USER_HOME$/code/mica/tests/unit/Repositories/LogRepositoryTest.php" timestamp="1506602969579">
-        <mark key="[" line="10" column="6" />
-        <mark key="]" line="10" column="6" />
-        <mark key="." line="10" column="6" />
+      <file name="$USER_HOME$/code/mica/tests/unit/Repositories/LogRepositoryTest.php" timestamp="1506604960814">
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="18" column="51" />
+        <mark key="." line="18" column="51" />
+        <mark key="^" line="18" column="51" />
       </file>
-      <file name="$USER_HOME$/backup/marcabm/code/promutuel/soumission/src/src/Promutuel/SoumissionVehiculeBundle/Resources/config/promutuel-soumission-vehicule-forms.xml" timestamp="1506536617664" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1506353730285">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="194" />
+        <mark key="." line="0" column="194" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Winfund/TrustAccount.php" timestamp="1505153640980">
+        <mark key="[" line="92" column="34" />
+        <mark key="]" line="106" column="4" />
+        <mark key="." line="106" column="4" />
+        <mark key="^" line="106" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Http/Controllers/HomeController.php" timestamp="1505739558069">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Type/Advisor/AdvisorRecordType.php" timestamp="1506083722857">
         <mark key="[" line="35" column="47" />
+      </file>
+      <file name="$USER_HOME$/code/mica/tests/unit/Http/Controllers/Auth/RegisterControllerTest.php" timestamp="1506534511335">
+        <mark key="[" line="85" column="100" />
+        <mark key="]" line="85" column="99" />
+        <mark key="." line="85" column="99" />
+        <mark key="^" line="85" column="99" />
+      </file>
+      <file name="$USER_HOME$/code/mica/package.json" timestamp="1502199944066">
+        <mark key="[" line="57" column="35" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Command/GenerateClientWithSameAdnasAndDifferentEmailReportTest.php" timestamp="1506452411506">
         <mark key="[" line="38" column="5" />
@@ -49,10 +91,26 @@
         <mark key="^" line="322" column="4" />
         <mark key="." line="322" column="4" />
       </file>
+      <file name="$USER_HOME$/code/mica/tests/integration/InscriptionImportedUserTest.php" timestamp="1506514039144">
+        <mark key="[" line="27" column="29" />
+        <mark key="]" line="29" column="37" />
+        <mark key="." line="29" column="37" />
+        <mark key="^" line="29" column="37" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/lang/en/passwords.php" timestamp="1503946054034">
+        <mark key="[" line="19" column="118" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/dashboard/Summary.vue" timestamp="1504203725471">
+        <mark key="[" line="93" column="42" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/86eee6cc-3a14-406f-a3ca-c6b7ce31fcd3/console.sql" timestamp="1506363904118">
         <mark key="[" line="124" column="51" />
       </file>
-      <file name="$USER_HOME$/backup/marcabm/code/promutuel/soumission/src/src/Promutuel/DataBundle/Entity/Contact.php" timestamp="1506537295162" />
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" timestamp="1505225628088">
+        <mark key="[" line="222" column="0" />
+        <mark key="]" line="222" column="0" />
+        <mark key="." line="222" column="0" />
+      </file>
       <file name="$USER_HOME$/code/mica/resources/lang/en/notifications.php" timestamp="1505246914851">
         <mark key="[" line="97" column="98" />
         <mark key="]" line="100" column="0" />
@@ -64,11 +122,29 @@
         <mark key="]" line="144" column="0" />
         <mark key="." line="144" column="0" />
       </file>
-      <file name="$USER_HOME$/backup/marcabm/code/promutuel/soumission/src/src/Promutuel/SoumissionVehiculeBundle/Form/ModeleType.php" timestamp="1506536659427" />
+      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Winfund/Type/Account/AccountType.php" timestamp="1505152288514">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Winfund/Mutation/EditClientEmailMutation.php" timestamp="1506538794812">
+        <mark key="[" line="10" column="1" />
+      </file>
       <file name="$USER_HOME$/code/mica/tests/integration/ClientsListTest.php" timestamp="1505131754585">
         <mark key="[" line="145" column="0" />
         <mark key="]" line="145" column="0" />
         <mark key="." line="145" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Http/Controllers/NotificationController.php" timestamp="1505307889406">
+        <mark key="[" line="22" column="61" />
+        <mark key="]" line="23" column="111" />
+        <mark key="^" line="23" column="111" />
+        <mark key="." line="23" column="111" />
+      </file>
+      <file name="$USER_HOME$/code/mica/tests/features/users/Advisors.feature" timestamp="1505910939987">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/features/bootstrap/FeatureContext.php" timestamp="1505828866119">
         <mark key="[" line="129" column="0" />
@@ -85,6 +161,17 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/code/mica/app/Http/Middleware/ShadowAccessClient.php" timestamp="1505739642597">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/scripts/install.sh" timestamp="1505156661643">
+        <mark key="[" line="19" column="9" />
+        <mark key="]" line="19" column="8" />
+        <mark key="^" line="19" column="8" />
+        <mark key="." line="19" column="8" />
+      </file>
       <file name="$USER_HOME$/code/mica/tests/integration/InscriptionTest.php" timestamp="1506601935507">
         <mark key="[" line="330" column="5" />
         <mark key="]" line="332" column="7" />
@@ -96,19 +183,80 @@
         <mark key="]" line="90" column="105" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/backup/marcabm/code/promutuel/soumission/src/app/config/config_local_libeo.yml" timestamp="1506535582889" />
       <file name="/a.sql" timestamp="1505484037106">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/tests/integration/UserLinkSecurity.php" timestamp="1505325216820">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="8" column="18" />
+        <mark key="." line="8" column="18" />
+        <mark key="^" line="31" column="29" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Http/Controllers/Client/DocumentController.php" timestamp="1506350881208">
+        <mark key="[" line="37" column="54" />
+        <mark key="]" line="37" column="76" />
+        <mark key="." line="37" column="76" />
+        <mark key="^" line="37" column="76" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/accounts/TrustAccount.vue" timestamp="1506353677902">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Mutation/EditClientEmailMutationTest.php" timestamp="1506541549803">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/code/mica/tests/integration/UserSecurityTest.php" timestamp="1505324358958">
+        <mark key="[" line="320" column="0" />
+        <mark key="]" line="320" column="0" />
+        <mark key="." line="320" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1506534718875">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Mutation/User/ChangeMainClientMutation.php" timestamp="1505324306717">
+        <mark key="[" line="29" column="42" />
+        <mark key="]" line="29" column="42" />
+        <mark key="^" line="29" column="110" />
+        <mark key="." line="29" column="42" />
+      </file>
       <file name="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Container/Container.php" timestamp="1506435346909">
         <mark key="[" line="247" column="0" />
         <mark key="]" line="247" column="0" />
         <mark key="." line="247" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/dashboard/site/resources/assets/js/components/ClockingModal.vue" timestamp="1505486420514">
+        <mark key="[" line="61" column="84" />
+        <mark key="]" line="61" column="84" />
+        <mark key="." line="61" column="84" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1506601922845">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Query/UserQueryTest.php" timestamp="1505224406813">
+        <mark key="[" line="49" column="28" />
+        <mark key="]" line="51" column="75" />
+        <mark key="^" line="51" column="75" />
+        <mark key="." line="51" column="75" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Policies/WinfundClientPolicy.php" timestamp="1505326818120">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/tests/integration/UserLinkSecurityTest.php" timestamp="1505331278407">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="38" column="46" />
+        <mark key="." line="52" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/lang/fr/notifications.php" timestamp="1506083910102">
+        <mark key="[" line="107" column="28" />
+        <mark key="]" line="107" column="41" />
+        <mark key="^" line="107" column="41" />
+        <mark key="." line="107" column="41" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Winfund/ClientAccountTest.php" timestamp="1505151735002">
         <mark key="[" line="532" column="34" />
@@ -140,205 +288,16 @@
         <mark key="." line="11" column="76" />
         <mark key="^" line="11" column="76" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Common/Scalar/RiskNameType.php" timestamp="1504797293931">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e0b99914-3b22-42fa-a202-b85bc0811dc8/console.sql" timestamp="1505315722254">
-        <mark key="[" line="7" column="13" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/mica/app/Notifications/TaxSlipAdded.php" timestamp="1505246806001">
-        <mark key="[" line="54" column="77" />
-        <mark key="]" line="55" column="24" />
-        <mark key="." line="55" column="24" />
-        <mark key="^" line="55" column="24" />
-      </file>
-      <file name="$USER_HOME$/code/mica/resources/lang/fr/profile.php" timestamp="1506352192007">
-        <mark key="[" line="29" column="101" />
-        <mark key="]" line="29" column="258" />
-        <mark key="^" line="29" column="258" />
-        <mark key="." line="29" column="258" />
-      </file>
-      <file name="$USER_HOME$/code/mica/tests/integration/ImportDocumentsTest.php" timestamp="1505243328202">
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/mica/routes/console.php" timestamp="1505399186003">
-        <mark key="[" line="60" column="7" />
-        <mark key="]" line="61" column="49" />
-        <mark key="." line="61" column="49" />
-        <mark key="^" line="61" column="49" />
-      </file>
-      <file name="$USER_HOME$/code/mica/tests/unit/Http/Controllers/LoginControllerTest.php" timestamp="1506532878490" />
-      <file name="$USER_HOME$/code/mica/app/ClientLink.php" timestamp="1502109980445">
-        <mark key="[" line="30" column="12" />
-      </file>
-      <file name="/fragment.js" timestamp="1503931169956">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/backup/marcabm/code/promutuel/soumission/src/src/Promutuel/SoumissionVR/CyclomoteurBundle/Resources/config/promutuel-soumission-vr-cyclomoteur-flow.xml" timestamp="1506536905369" />
-      <file name="$USER_HOME$/code/mica/app/Repositories/LogRepository.php" timestamp="1506602728382">
-        <mark key="[" line="5" column="1" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="18" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Mutation/ChangeMainClientMutationTest.php" timestamp="1505324296588">
-        <mark key="[" line="22" column="65" />
-        <mark key="]" line="23" column="7" />
-        <mark key="^" line="23" column="7" />
-        <mark key="." line="23" column="7" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1506353730285">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="194" />
-        <mark key="." line="0" column="194" />
-      </file>
-      <file name="$USER_HOME$/code/mica/app/Winfund/TrustAccount.php" timestamp="1505153640980">
-        <mark key="[" line="92" column="34" />
-        <mark key="]" line="106" column="4" />
-        <mark key="." line="106" column="4" />
-        <mark key="^" line="106" column="4" />
-      </file>
-      <file name="$USER_HOME$/code/mica/app/Http/Controllers/HomeController.php" timestamp="1505739558069">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/mica/tests/unit/Http/Controllers/Auth/RegisterControllerTest.php" timestamp="1506534511335">
-        <mark key="[" line="85" column="100" />
-        <mark key="]" line="85" column="99" />
-        <mark key="." line="85" column="99" />
-        <mark key="^" line="85" column="99" />
-      </file>
-      <file name="$USER_HOME$/code/mica/package.json" timestamp="1502199944066">
-        <mark key="[" line="57" column="35" />
-      </file>
-      <file name="$USER_HOME$/code/mica/tests/integration/InscriptionImportedUserTest.php" timestamp="1506514039144">
-        <mark key="[" line="27" column="29" />
-        <mark key="]" line="29" column="37" />
-        <mark key="." line="29" column="37" />
-        <mark key="^" line="29" column="37" />
-      </file>
-      <file name="$USER_HOME$/code/mica/resources/lang/en/passwords.php" timestamp="1503946054034">
-        <mark key="[" line="19" column="118" />
-      </file>
-      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/dashboard/Summary.vue" timestamp="1504203725471">
-        <mark key="[" line="93" column="42" />
-      </file>
-      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" timestamp="1505225628088">
-        <mark key="[" line="222" column="0" />
-        <mark key="]" line="222" column="0" />
-        <mark key="." line="222" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Winfund/Type/Account/AccountType.php" timestamp="1505152288514">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Winfund/Mutation/EditClientEmailMutation.php" timestamp="1506538794812">
-        <mark key="[" line="10" column="1" />
-      </file>
-      <file name="$USER_HOME$/code/mica/app/Http/Controllers/NotificationController.php" timestamp="1505307889406">
-        <mark key="[" line="22" column="61" />
-        <mark key="]" line="23" column="111" />
-        <mark key="^" line="23" column="111" />
-        <mark key="." line="23" column="111" />
-      </file>
-      <file name="$USER_HOME$/code/mica/tests/features/users/Advisors.feature" timestamp="1505910939987">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/backup/marcabm/code/promutuel/soumission/src/doc/Test.md" timestamp="1506535701791" />
-      <file name="$USER_HOME$/backup/marcabm/code/promutuel/soumission/src/src/Promutuel/UIBundle/Form/Type/BooleanChoiceType.php" timestamp="1506536727646" />
-      <file name="$USER_HOME$/code/mica/resources/assets/js/components/client/information/EditEmail.vue" timestamp="1506456013194" />
-      <file name="$USER_HOME$/code/mica/app/Http/Middleware/ShadowAccessClient.php" timestamp="1505739642597">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/mica/scripts/install.sh" timestamp="1505156661643">
-        <mark key="[" line="19" column="9" />
-        <mark key="]" line="19" column="8" />
-        <mark key="^" line="19" column="8" />
-        <mark key="." line="19" column="8" />
-      </file>
-      <file name="$USER_HOME$/backup/marcabm/code/promutuel/soumission/src/src/Promutuel/SoumissionVehiculeBundle/Steps/MarqueAnneeStep.php" timestamp="1506536818153" />
-      <file name="$USER_HOME$/code/mica/tests/integration/UserLinkSecurity.php" timestamp="1505325216820">
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="8" column="18" />
-        <mark key="." line="8" column="18" />
-        <mark key="^" line="31" column="29" />
-      </file>
-      <file name="$USER_HOME$/code/mica/app/Http/Controllers/Client/DocumentController.php" timestamp="1506350881208">
-        <mark key="[" line="37" column="54" />
-        <mark key="]" line="37" column="76" />
-        <mark key="." line="37" column="76" />
-        <mark key="^" line="37" column="76" />
-      </file>
-      <file name="$USER_HOME$/backup/marcabm/code/promutuel/soumission/src/bin/regenerate_soap_services" timestamp="1506535871009" />
-      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/accounts/TrustAccount.vue" timestamp="1506353677902">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/mica/tests/integration/UserSecurityTest.php" timestamp="1505324358958">
-        <mark key="[" line="320" column="0" />
-        <mark key="]" line="320" column="0" />
-        <mark key="." line="320" column="0" />
-      </file>
-      <file name="/dummy.sql" timestamp="1506534718875">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Mutation/User/ChangeMainClientMutation.php" timestamp="1505324306717">
-        <mark key="[" line="29" column="42" />
-        <mark key="]" line="29" column="42" />
-        <mark key="^" line="29" column="110" />
-        <mark key="." line="29" column="42" />
-      </file>
-      <file name="$USER_HOME$/code/dashboard/site/resources/assets/js/components/ClockingModal.vue" timestamp="1505486420514">
-        <mark key="[" line="61" column="84" />
-        <mark key="]" line="61" column="84" />
-        <mark key="." line="61" column="84" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1506601922845">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Query/UserQueryTest.php" timestamp="1505224406813">
-        <mark key="[" line="49" column="28" />
-        <mark key="]" line="51" column="75" />
-        <mark key="^" line="51" column="75" />
-        <mark key="." line="51" column="75" />
-      </file>
-      <file name="$USER_HOME$/code/mica/app/Policies/WinfundClientPolicy.php" timestamp="1505326818120">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/mica/tests/integration/UserLinkSecurityTest.php" timestamp="1505331278407">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="38" column="46" />
-        <mark key="." line="52" column="0" />
-      </file>
-      <file name="$USER_HOME$/backup/marcabm/code/promutuel/soumission/src/src/Promutuel/SoumissionVehiculeBundle/Steps/ModeleStep.php" timestamp="1506536837181" />
-      <file name="$USER_HOME$/code/mica/resources/lang/fr/notifications.php" timestamp="1506083910102">
-        <mark key="[" line="107" column="28" />
-        <mark key="]" line="107" column="41" />
-        <mark key="^" line="107" column="41" />
-        <mark key="." line="107" column="41" />
-      </file>
       <file name="$USER_HOME$/code/mica/app/Policies/UserPolicy.php" timestamp="1506351821186">
         <mark key="[" line="130" column="16" />
         <mark key="]" line="129" column="4" />
         <mark key="^" line="129" column="4" />
         <mark key="." line="129" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Common/Scalar/RiskNameType.php" timestamp="1504797293931">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Console/Commands/GenerateClientWithSameAdnasAndDifferentEmailReport.php" timestamp="1505827202724">
         <mark key="[" line="46" column="50" />
@@ -354,12 +313,29 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="9" column="44" />
       </file>
-      <file name="$USER_HOME$/backup/marcabm/code/promutuel/soumission/src/src/Promutuel/UIBundle/Form/Type/ButtonsType.php" timestamp="1506536677119" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e0b99914-3b22-42fa-a202-b85bc0811dc8/console.sql" timestamp="1505315722254">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Notifications/TaxSlipAdded.php" timestamp="1505246806001">
+        <mark key="[" line="54" column="77" />
+        <mark key="]" line="55" column="24" />
+        <mark key="." line="55" column="24" />
+        <mark key="^" line="55" column="24" />
+      </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Winfund/ClientTest.php" timestamp="1506447064749">
         <mark key="[" line="155" column="5" />
         <mark key="]" line="156" column="39" />
         <mark key="^" line="156" column="39" />
         <mark key="." line="156" column="39" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/lang/fr/profile.php" timestamp="1506352192007">
+        <mark key="[" line="29" column="101" />
+        <mark key="]" line="29" column="258" />
+        <mark key="^" line="29" column="258" />
+        <mark key="." line="29" column="258" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/features/bootstrap/DocumentsContext.php" timestamp="1505245838650">
         <mark key="[" line="178" column="5" />
@@ -367,12 +343,22 @@
         <mark key="." line="178" column="4" />
         <mark key="^" line="178" column="4" />
       </file>
-      <file name="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" timestamp="1506533412317" />
+      <file name="$USER_HOME$/code/mica/tests/integration/ImportDocumentsTest.php" timestamp="1505243328202">
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
+      </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Repositories/WinfundRepositoryTest.php" timestamp="1506602843905">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="60" column="4" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/routes/console.php" timestamp="1505399186003">
+        <mark key="[" line="60" column="7" />
+        <mark key="]" line="61" column="49" />
+        <mark key="." line="61" column="49" />
+        <mark key="^" line="61" column="49" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/client/information/EditAllClientEmail.vue" timestamp="1504806542468">
         <mark key="[" line="122" column="0" />
@@ -381,7 +367,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="548" column="0" filename="$USER_HOME$/code/mica/app/User.php" />
       <jump line="37" column="19" filename="$USER_HOME$/code/mica/app/User.php" />
       <jump line="114" column="9" filename="$USER_HOME$/code/mica/app/User.php" />
       <jump line="148" column="9" filename="$USER_HOME$/code/mica/app/User.php" />
@@ -481,6 +466,7 @@
       <jump line="171" column="51" filename="$USER_HOME$/code/mica/resources/assets/js/components/admin/clients/record/dashboard/ClientInformation.vue" />
       <jump line="23" column="46" filename="$USER_HOME$/code/mica/app/Repositories/WinfundRepository.php" />
       <jump line="206" column="42" filename="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Session/SessionManager.php" />
+      <jump line="45" column="4" filename="$USER_HOME$/code/mica/tests/unit/Repositories/LogRepositoryTest.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -538,7 +524,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>WinfundRepositoryTest</text>
+        <text>c function i_can ()</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -796,7 +782,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>WinfundRepositoryTest</text>
+        <text>c function i_can ()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbWFpbFw+</text>
@@ -808,28 +794,28 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEFwcFxSZXBvc2l0b3JpZXNcVGVybURlcG9zaXRSZXBvc2l0b3J5Owo=</text>
+        <text encoding="base64">dXNlIEFwcFxVc2VyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEFwcFxSZXBvc2l0b3JpZXNcVGVybURlcG9zaXRSZXBvc2l0b3J5Owp1c2UgQXBwXFVzZXI7Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxXaW5mdW5kXENsaWVudDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIEFwcFxSZXBvc2l0b3JpZXNcUXVlcmllc1xXaW5mdW5kUXVlcnlCdWlsZGVyOwo=</text>
+        <text encoding="base64">ICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIFBIUFVuaXRfRnJhbWV3b3JrX01vY2tPYmplY3RfTW9ja09iamVjdDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">dXNlIFBIUFVuaXRfRnJhbWV3b3JrX01vY2tPYmplY3RfTW9ja09iamVjdDsKdXNlIFRlc3RzXFRlc3RDYXNlOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIC8qKiBAdGVzdCAqLwogICAgcHVibGljIGZ1bmN0aW9uIGlfY2FuX2NoYW5nZV90aGVfZW1haWxfb2ZfYV9jbGllbnQoKQogICAgewogICAgICAgICR0aGlzLT5tb2NrV2luZnVuZFVwZGF0ZUVtYWlsKCk7CiAgICAgICAgJGNsaWVudCA9ICR0aGlzLT5jcmVhdGVXaW5mdW5kQ2xpZW50KFsnRW1haWxfQWRkcmVzcycgPT4gJ3F3ZUBxd2UuY29tJ10pOwoKICAgICAgICAkdGhpcy0+d2luZnVuZFJlcG9zaXRvcnktPnVwZGF0ZUVtYWlsKCRjbGllbnQsICJuZXdAcXdlLmNvbSIpOwoKICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCJuZXdAcXdlLmNvbSIsIENsaWVudDo6ZmluZCgkY2xpZW50LT5Db2RlKS0+Z2V0QXR0cmlidXRlcygpWydFbWFpbF9BZGRyZXNzJ10pOwogICAgfQoKICAgIC8qKiBAdGVzdCAqLwogICAgcHVibGljIGZ1bmN0aW9uIHdoZW5faV9jaGFuZ2VfdGhlX2VtYWlsX29mX2FfY2xpZW50X3RoZV9lbWFpbF9vZl9hbGxfaGlzX2xpbmtlZF9jbGllbnRfaXNfY2hhbmdlZCgpCiAgICB7CiAgICAgICAgJHRoaXMtPm1vY2tXaW5mdW5kVXBkYXRlRW1haWwoKTsKICAgICAgICAkY2xpZW50ID0gJHRoaXMtPmNyZWF0ZVdpbmZ1bmRDbGllbnQoWydFbWFpbF9BZGRyZXNzJyA9PiAncXdlQHF3ZS5jb20nXSk7CiAgICAgICAgJHNlY29uZENsaWVudCA9ICR0aGlzLT5jcmVhdGVSZWxhdGVkV2luZnVuZENsaWVudCgkY2xpZW50LCBbJ0VtYWlsX0FkZHJlc3MnID0+ICdxd2Vxd2VAcXdlLmNvbSddKTsKCiAgICAgICAgJHRoaXMtPndpbmZ1bmRSZXBvc2l0b3J5LT51cGRhdGVFbWFpbCgkY2xpZW50LCAnbmV3QHF3ZS5jb20nKTsKCiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygibmV3QHF3ZS5jb20iLCBDbGllbnQ6OmZpbmQoJGNsaWVudC0+Q29kZSktPmdldEF0dHJpYnV0ZXMoKVsnRW1haWxfQWRkcmVzcyddKTsKICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCJuZXdAcXdlLmNvbSIsIENsaWVudDo6ZmluZCgkc2Vjb25kQ2xpZW50LT5Db2RlKS0+Z2V0QXR0cmlidXRlcygpWydFbWFpbF9BZGRyZXNzJ10pOwogICAgfQoKICAgIC8qKiBAdGVzdCAqLwogICAgcHVibGljIGZ1bmN0aW9uIHdoZW5fYV9jbGllbnRfd2l0aF9hX3VzZXJfY2hhbmdlX2hpc19jbGllbnRfZW1haWxfdGhlX3VzZXJfZW1haWxfaXNfY2hhbmdlZF90b28oKQogICAgewogICAgICAgICR0aGlzLT5tb2NrV2luZnVuZFVwZGF0ZUVtYWlsKCk7CgogICAgICAgIGxpc3QoJHVzZXIsICRjbGllbnQpID0gJHRoaXMtPmNyZWF0ZVVzZXJBbmRDbGllbnQoWydFbWFpbF9BZGRyZXNzJyA9PiAicXdlQHF3ZS5jb20iXSk7CiAgICAgICAgJHVzZXItPnVwZGF0ZShbJ2VtYWlsJyA9PiAicXdlcXdlQHF3ZS5jb20iXSk7CgogICAgICAgICR0aGlzLT53aW5mdW5kUmVwb3NpdG9yeS0+dXBkYXRlRW1haWwoJGNsaWVudCwgIm5ld0Bxd2UuY29tIik7CgogICAgICAgICR0aGlzLT5hc3NlcnRFcXVhbHMoIm5ld0Bxd2UuY29tIiwgVXNlcjo6ZmluZCgkdXNlci0+aWQpLT5lbWFpbCk7CiA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRGF0YWJhc2VcU1FMaXRlQ29ubmVjdGlvbjsK</text>
+        <text encoding="base64">dXNlIEFwcFxSZXBvc2l0b3JpZXNcV2luZnVuZFJlcG9zaXRvcnk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcQnVpbGRlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIERvY3RyaW5lXERCQUxcRHJpdmVyXFBET0Nvbm5lY3Rpb247CnVzZSBEb2N0cmluZVxEQkFMXERyaXZlclxQRE9TdGF0ZW1lbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+d2luZnVuZFJlcG9zaXRvcnkgPSAkdGhpcy0+YXBwLT5tYWtlKFdpbmZ1bmRSZXBvc2l0b3J5OjpjbGFzcyk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
