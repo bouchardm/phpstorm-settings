@@ -15,11 +15,11 @@
         <mark key="^" line="19" column="56" />
         <mark key="." line="19" column="56" />
       </file>
-      <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Query/LogQueryTest.php" timestamp="1506621073312">
-        <mark key="[" line="28" column="19" />
-        <mark key="]" line="23" column="76" />
-        <mark key="^" line="23" column="76" />
-        <mark key="." line="23" column="76" />
+      <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Query/LogQueryTest.php" timestamp="1506694235391">
+        <mark key="[" line="27" column="41" />
+        <mark key="]" line="27" column="96" />
+        <mark key="^" line="27" column="96" />
+        <mark key="." line="27" column="96" />
       </file>
       <file name="/a.dummy" timestamp="1505323251550">
         <mark key="[" line="0" column="0" />
@@ -60,6 +60,11 @@
         <mark key="]" line="106" column="4" />
         <mark key="." line="106" column="4" />
         <mark key="^" line="106" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Type/Log/LogType.php" timestamp="1506694200558">
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/Controllers/HomeController.php" timestamp="1505739558069">
         <mark key="[" line="28" column="0" />
@@ -173,6 +178,11 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/config/graphql.php" timestamp="1506694091349">
+        <mark key="[" line="107" column="21" />
+        <mark key="]" line="107" column="72" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/features/bootstrap/FeatureContext.php" timestamp="1505828866119">
         <mark key="[" line="129" column="0" />
@@ -566,7 +576,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFsndHlwZScgPT4gVHlwZTo6c3RyaW5nKCldLAo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -824,7 +834,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>UserQuery</text>
+        <text>Document</text>
       </register>
       <register name="/" type="4">
         <text>registerpass</text>
@@ -849,31 +859,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFsndHlwZScgPT4gVHlwZTo6c3RyaW5nKCldLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEFwcFxSZXBvc2l0b3JpZXNcVXNlclJlcG9zaXRvcnk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3R5cGVfbmFtZScgPT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIFJvbGVUYWJsZVNlZWRlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFsndHlwZScgPT4gRGF0ZVR5cGU6Omluc3RhbmNlKCldLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ29wZW5lZF9hdCcgPT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3NoYXJlZF9vbicgPT4KICAgICAgICAgICAgICAgIFsndHlwZScgPT4gRGF0ZVR5cGU6Omluc3RhbmNlKCldLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCRmcm9tQ2xpZW50LT5Db2RlLCAkdGhpcy0+ZGVjb2RlUmVzcG9uc2VKc29uKClbJ2RhdGEnXVsndXNlciddWydsaW5rZWRDbGllbnRzJ11bMF1bJ0NvZGUnXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2FyY2hpdmVkJyA9PgogICAgICAgICAgICAgICAgWyd0eXBlJyA9PiBUeXBlOjpib29sZWFuKCldLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2NsaWVudF9pZCcgPT4KICAgICAgICAgICAgICAgIFsndHlwZScgPT4gVHlwZTo6aW50KCldLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBdKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3BhdGgnID0+CiAgICAgICAgICAgICAgICBbJ3R5cGUnID0+IFR5cGU6OnN0cmluZygpXSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdpZCcgPT4gJHRvVXNlci0+aWQsCiAgICAgICAgICAgIF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3R5cGUnID0+CiAgICAgICAgICAgICAgICBbJ3R5cGUnID0+IFR5cGU6OnN0cmluZygpXSwK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
