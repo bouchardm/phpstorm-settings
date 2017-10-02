@@ -87,8 +87,11 @@
         <mark key="]" line="177" column="0" />
         <mark key="." line="177" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Type/Advisor/AdvisorRecordType.php" timestamp="1506083722857">
-        <mark key="[" line="35" column="47" />
+      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Type/Advisor/AdvisorRecordType.php" timestamp="1506957994969">
+        <mark key="[" line="32" column="40" />
+        <mark key="]" line="35" column="38" />
+        <mark key="^" line="35" column="38" />
+        <mark key="." line="35" column="38" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Http/Controllers/Auth/RegisterControllerTest.php" timestamp="1506534511335">
         <mark key="[" line="85" column="100" />
@@ -96,6 +99,7 @@
         <mark key="." line="85" column="99" />
         <mark key="^" line="85" column="99" />
       </file>
+      <file name="$USER_HOME$/code/mica/vendor/behat/mink-extension/src/Behat/MinkExtension/Context/MinkContext.php" timestamp="1506958338730" />
       <file name="$USER_HOME$/code/mica/package.json" timestamp="1502199944066">
         <mark key="[" line="57" column="35" />
       </file>
@@ -196,10 +200,10 @@
         <mark key="." line="183" column="20" />
         <mark key="^" line="183" column="20" />
       </file>
-      <file name="$USER_HOME$/code/mica/tests/features/bootstrap/FeatureContext.php" timestamp="1505828866119">
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="0" />
-        <mark key="." line="129" column="0" />
+      <file name="$USER_HOME$/code/mica/tests/features/bootstrap/FeatureContext.php" timestamp="1506959826518">
+        <mark key="[" line="324" column="0" />
+        <mark key="]" line="324" column="0" />
+        <mark key="." line="324" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/lang/fr/validation.php" timestamp="1505136794150">
         <mark key="[" line="112" column="31" />
@@ -292,6 +296,12 @@
         <mark key="^" line="29" column="110" />
         <mark key="." line="29" column="42" />
       </file>
+      <file name="$USER_HOME$/code/mica/tests/features/bootstrap/UsersContext.php" timestamp="1506959734472">
+        <mark key="[" line="126" column="47" />
+        <mark key="]" line="126" column="46" />
+        <mark key="^" line="126" column="46" />
+        <mark key="." line="126" column="46" />
+      </file>
       <file name="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Container/Container.php" timestamp="1506435346909">
         <mark key="[" line="247" column="0" />
         <mark key="]" line="247" column="0" />
@@ -302,7 +312,7 @@
         <mark key="]" line="61" column="84" />
         <mark key="." line="61" column="84" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506613006801">
+      <file name="/Dummy.txt" timestamp="1506958895546">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Query/UserQueryTest.php" timestamp="1505224406813">
@@ -606,7 +616,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRwZG9TdGF0ZW1lbnQgPSAkdGhpcy0+Z2V0TW9ja0J1aWxkZXIoUERPU3RhdGVtZW50OjpjbGFzcyktPmRpc2FibGVPcmlnaW5hbENvbnN0cnVjdG9yKCktPmdldE1vY2soKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBkdW1wKCR0aGlzLT5nZXRTZXNzaW9uKCktPmdldFBhZ2UoKS0+ZmluZCgnY3NzJywgJHNlbGVjdG9yKSk7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -901,31 +911,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRwZG9TdGF0ZW1lbnQgPSAkdGhpcy0+Z2V0TW9ja0J1aWxkZXIoUERPU3RhdGVtZW50OjpjbGFzcyktPmRpc2FibGVPcmlnaW5hbENvbnN0cnVjdG9yKCktPmdldE1vY2soKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBkdW1wKCR0aGlzLT5nZXRTZXNzaW9uKCktPmdldFBhZ2UoKS0+ZmluZCgnY3NzJywgJHNlbGVjdG9yKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRwZG9Db25uZWN0aW9uID0gJHRoaXMtPmdldE1vY2tCdWlsZGVyKFBET0Nvbm5lY3Rpb246OmNsYXNzKS0+ZGlzYWJsZU9yaWdpbmFsQ29uc3RydWN0b3IoKS0+Z2V0TW9jaygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgkc2VsZWN0b3IpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRwZG9Db25uZWN0aW9uLT5tZXRob2QoJ3ByZXBhcmUnKS0+d2lsbFJldHVybigkcGRvU3RhdGVtZW50KTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT53YWl0Rm9yRWxlbWVudCgnLmFsZXJ0LXdyYXBwZXInKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRzcWxpdGVDb25uZWN0aW9uLT5tZXRob2QoJ2dldFBkbycpLT53aWxsUmV0dXJuKCRwZG9Db25uZWN0aW9uKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIHNsZWVwKDQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC0+cHJlcGFyZSgiVVBEQVRFIENsaWVudHMgU0VUIEVtYWlsX0FkZHJlc3MgPSA6ZW1haWwgV0hFUkUgQ29kZSA9IDpjb2RlIiktPmV4ZWN1dGUoJGFyZ3MpKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0U2Vzc2lvbigpLT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC0+Z2V0UGRvKCkK</text>
+        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5hc3NlcnRTZXNzaW9uKCktPnBhZ2VUZXh0Q29udGFpbnMoJHRleHQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC0+Z2V0Q29ubmVjdGlvbigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmFzc2VydFBhZ2VDb250YWluc1RleHQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC0+Z2V0UXVlcnkoKQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICRwZG9TdGF0ZW1lbnQgPSAkdGhpcy0+Z2V0TW9ja0J1aWxkZXIoUERPU3RhdGVtZW50OjpjbGFzcyktPmRpc2FibGVPcmlnaW5hbENvbnN0cnVjdG9yKCktPmdldE1vY2soKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgZGQoJHdpbmZ1bmRRdWVyeUJ1aWxkZXIK</text>
+        <text encoding="base64">Ly8gICAgICAgICRwZG9Db25uZWN0aW9uID0gJHRoaXMtPmdldE1vY2tCdWlsZGVyKFBET0Nvbm5lY3Rpb246OmNsYXNzKS0+ZGlzYWJsZU9yaWdpbmFsQ29uc3RydWN0b3IoKS0+Z2V0TW9jaygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
