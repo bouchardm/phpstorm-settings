@@ -33,9 +33,12 @@
         <mark key="]" line="145" column="0" />
         <mark key="." line="145" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Winfund/Client.php" timestamp="1507033296929">
+      <file name="$USER_HOME$/code/mica/app/Winfund/Client.php" timestamp="1507037910724">
         <mark key="'" line="72" column="20" />
-        <mark key="[" line="836" column="13" />
+        <mark key="[" line="842" column="0" />
+        <mark key="]" line="842" column="0" />
+        <mark key="." line="842" column="0" />
+        <mark key="^" line="841" column="66" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Console/Kernel.php" timestamp="1506970986005" />
       <file name="$USER_HOME$/code/mica/tests/features/bootstrap/FeatureContext.php" timestamp="1506965399328">
@@ -190,13 +193,6 @@
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Query/LogQuery.php" timestamp="1506701503024">
-        <mark key="'" line="16" column="28" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="24" column="13" />
-      </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Winfund/Mutation/EditClientEmailMutation.php" timestamp="1506538794812">
         <mark key="[" line="10" column="1" />
       </file>
@@ -264,12 +260,12 @@
       <file name="$USER_HOME$/code/mica/app/Repositories/Queries/WinfundQueryBuilder.php" timestamp="1506518120007">
         <mark key="[" line="125" column="23" />
       </file>
-      <file name="$USER_HOME$/code/mica/tests/unit/Winfund/ClientTest.php" timestamp="1507035336135">
+      <file name="$USER_HOME$/code/mica/tests/unit/Winfund/ClientTest.php" timestamp="1507038007388">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="163" column="5" />
-        <mark key="]" line="156" column="39" />
-        <mark key="^" line="156" column="39" />
-        <mark key="." line="156" column="39" />
+        <mark key="[" line="189" column="16" />
+        <mark key="]" line="178" column="69" />
+        <mark key="." line="178" column="69" />
+        <mark key="^" line="178" column="69" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Repositories/WinfundRepositoryTest.php" timestamp="1506954846380">
         <mark key="[" line="4" column="0" />
@@ -446,8 +442,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+bW9ja1dpbmZ1bmRVcGRhdGVFbWFpbCh0cnVlKTsKICAgICAgICAkY2xpZW50ID0gJHRoaXMtPmNyZWF0ZVdpbmZ1bmRDbGllbnQoWydFbWFpbF9BZGRyZXNzJyA9PiAncXdlQHF3ZS5jb20nXSk7CiAgICAgICAgJHJlbGF0ZWRDbGllbnQgPSAkdGhpcy0+Y3JlYXRlUmVsYXRlZFdpbmZ1bmRDbGllbnQoJGNsaWVudCwgWydFbWFpbF9BZGRyZXNzJyA9PiAncXdlcXdlQHF3ZS5jb20nXSk7CgogICAgICAgICRjbGllbnQtPkxhc3RfTW9kaWZpZWRfRGF0ZSA9IG5ldyBDYXJib24oJ25leHQgaG91cicpOwogICAgICAgICRjbGllbnQtPkVtYWlsX0FkZHJlc3MgPSAnbmV3QHF3ZS5jb20nOwogICAgICAgICRjbGllbnQtPnNhdmUoKTsKCiAgICAgICAgJHRoaXMtPm1vY2tXaW5mdW5kVXBkYXRlRW1haWwoKTsKCiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygnbmV3QHF3ZS5jb20nLCBXaW5mdW5kQ2xpZW50OjpmaW5kKCRjbGllbnQtPkNvZGUpLT5FbWFpbF9BZGRyZXNzKTsKICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCdxd2Vxd2VAcXdlLmNvbScsIFdpbmZ1bmRDbGllbnQ6OmZpbmQoJHJlbGF0ZWRDbGllbnQtPkNvZGUpLT5FbWFpbF9BZGRyZXNzKTs=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkY2xpZW50LT5FbWFpbF9BZGRyZXNzID0gCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -742,31 +738,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY2xpZW50LT5FbWFpbF9BZGRyZXNzID0gCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCduZXdAcXdlLmNvbScsIFdpbmZ1bmRDbGllbnQ6OmZpbmQoJHJlbGF0ZWRDbGllbnQtPkNvZGUpLT5FbWFpbF9BZGRyZXNzKTsK</text>
+        <text encoding="base64">ICAgICAgICBDYXJib246OnNldFRlc3ROb3cobmV3IENhZGRyYm9uKCduZXh0IGhvdXInKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBpZl9hX2NsaWVudF9pc19ub3RfZWRpdGVkX2JlZm9yZV9hX3VzZXJfdGhlX3RoZV9lbWFpbF9vZl90aGlzX2NsaWVudF9pc250X3VwZGF0ZWQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAkY2xpZW50LT5zYXZlKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBpZl9hX2NsaWVudF9pc19ub3RfZWRpdGVkX2JlZm9yZV9hX3VzZXJfdGhlX3RoZV9lbWFpbF9vZl90aGlzX2NsaWVudF9pc250X3VwZGF0ZWQoKQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICRjbGllbnQtPmVtYWlsID0gJGVtYWlsOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIENhcmJvblxDYXJib247Cg==</text>
+        <text encoding="base64">ICAgIC8vIHRvZG8gdXBkYXRlIGVtYWlsID0gdXBkYXRlIG1pY2EgY2xpZW50Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCduZXdAcXdlLmNvbScsIFdpbmZ1bmRDbGllbnQ6OmZpbmQoJHJlbGF0ZWRDbGllbnQtPkNvZGUpLT5FbWFpbF9BZGRyZXNzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBpZl9hX2NsaWVudF9pc19ub3RfZWRpdGVkX2JlZm9yZV9hX3VzZXJfdGhlX3RoZV9lbWFpbF9vZl90aGlzX2NsaWVudF9pc250X3VwZGF0ZWQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkdW1wKCJTREZTREYiKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBpZl9hX2NsaWVudF9pc19ub3RfZWRpdGVkX2JlZm9yZV9hX3VzZXJfdGhlX3RoZV9lbWFpbF9vZl90aGlzX2NsaWVudF9pc250X3VwZGF0ZWQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>1043</text>
