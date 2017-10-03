@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1505323251550">
+      <file name="/a.dummy" timestamp="1507033343216">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5055f813-3fb1-4bbd-a46b-d08038f1154a/console.sql" timestamp="1506953224691">
@@ -33,7 +33,7 @@
         <mark key="]" line="145" column="0" />
         <mark key="." line="145" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Winfund/Client.php" timestamp="1506974568653">
+      <file name="$USER_HOME$/code/mica/app/Winfund/Client.php" timestamp="1507033296929">
         <mark key="'" line="72" column="20" />
         <mark key="[" line="836" column="13" />
       </file>
@@ -109,12 +109,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/tests/unit/Command/SyncWinfundClientTest.php" timestamp="1506974216590">
+      <file name="$USER_HOME$/code/mica/tests/unit/Command/SyncWinfundClientTest.php" timestamp="1507035302807">
         <mark key="'" line="26" column="47" />
-        <mark key="[" line="40" column="24" />
-        <mark key="]" line="44" column="39" />
-        <mark key="." line="44" column="39" />
-        <mark key="^" line="44" column="39" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="82" column="32" />
+        <mark key="." line="82" column="32" />
+        <mark key="^" line="82" column="32" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/lang/fr/profile.php" timestamp="1506967385383">
         <mark key="[" line="4" column="15" />
@@ -138,11 +138,10 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Console/Commands/SyncWinfundClient.php" timestamp="1506974574555">
-        <mark key="[" line="16" column="113" />
-        <mark key="]" line="16" column="77" />
-        <mark key="." line="16" column="77" />
-        <mark key="^" line="16" column="77" />
+      <file name="$USER_HOME$/code/mica/app/Console/Commands/SyncWinfundClient.php" timestamp="1507034630592">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/sqlsrv/sqlsrv.php" timestamp="1506951804870" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1506700624327">
@@ -191,6 +190,13 @@
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
       </file>
+      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Query/LogQuery.php" timestamp="1506701503024">
+        <mark key="'" line="16" column="28" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="24" column="13" />
+      </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Winfund/Mutation/EditClientEmailMutation.php" timestamp="1506538794812">
         <mark key="[" line="10" column="1" />
       </file>
@@ -205,6 +211,7 @@
         <mark key="." line="34" column="0" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/Core/Core.php" timestamp="1506972416986" />
+      <file name="$USER_HOME$/code/mica/_ide_helper.php" timestamp="1507034103232" />
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/accounts/TrustAccount.vue" timestamp="1506353677902">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -257,6 +264,13 @@
       <file name="$USER_HOME$/code/mica/app/Repositories/Queries/WinfundQueryBuilder.php" timestamp="1506518120007">
         <mark key="[" line="125" column="23" />
       </file>
+      <file name="$USER_HOME$/code/mica/tests/unit/Winfund/ClientTest.php" timestamp="1507035336135">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="163" column="5" />
+        <mark key="]" line="156" column="39" />
+        <mark key="^" line="156" column="39" />
+        <mark key="." line="156" column="39" />
+      </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Repositories/WinfundRepositoryTest.php" timestamp="1506954846380">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -276,7 +290,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="17" filename="$USER_HOME$/code/mica/app/User.php" />
       <jump line="163" column="17" filename="$USER_HOME$/code/mica/app/User.php" />
       <jump line="166" column="11" filename="$USER_HOME$/code/mica/app/User.php" />
       <jump line="0" column="0" filename="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Support/Collection.php" />
@@ -376,6 +389,7 @@
       <jump line="818" column="40" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/PDO/PDO.php" />
       <jump line="72" column="20" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
       <jump line="22" column="47" filename="$USER_HOME$/code/mica/tests/unit/Command/SyncWinfundClientTest.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/mica/tests/unit/Winfund/ClientTest.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -432,8 +446,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkY2xpZW50ID0gJHRoaXMtPmNyZWF0ZVdpbmZ1bmRDbGllbnQoWydFbWFpbF9BZGRyZXNzJyA9PiAncXdlQHF3ZS5jb20nXSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+bW9ja1dpbmZ1bmRVcGRhdGVFbWFpbCh0cnVlKTsKICAgICAgICAkY2xpZW50ID0gJHRoaXMtPmNyZWF0ZVdpbmZ1bmRDbGllbnQoWydFbWFpbF9BZGRyZXNzJyA9PiAncXdlQHF3ZS5jb20nXSk7CiAgICAgICAgJHJlbGF0ZWRDbGllbnQgPSAkdGhpcy0+Y3JlYXRlUmVsYXRlZFdpbmZ1bmRDbGllbnQoJGNsaWVudCwgWydFbWFpbF9BZGRyZXNzJyA9PiAncXdlcXdlQHF3ZS5jb20nXSk7CgogICAgICAgICRjbGllbnQtPkxhc3RfTW9kaWZpZWRfRGF0ZSA9IG5ldyBDYXJib24oJ25leHQgaG91cicpOwogICAgICAgICRjbGllbnQtPkVtYWlsX0FkZHJlc3MgPSAnbmV3QHF3ZS5jb20nOwogICAgICAgICRjbGllbnQtPnNhdmUoKTsKCiAgICAgICAgJHRoaXMtPm1vY2tXaW5mdW5kVXBkYXRlRW1haWwoKTsKCiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygnbmV3QHF3ZS5jb20nLCBXaW5mdW5kQ2xpZW50OjpmaW5kKCRjbGllbnQtPkNvZGUpLT5FbWFpbF9BZGRyZXNzKTsKICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCdxd2Vxd2VAcXdlLmNvbScsIFdpbmZ1bmRDbGllbnQ6OmZpbmQoJHJlbGF0ZWRDbGllbnQtPkNvZGUpLT5FbWFpbF9BZGRyZXNzKTs=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -691,13 +705,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ImportExpiredClientTest</text>
+        <text>if_a_client_is_not_edited_before_a_user_the_the_email_of_this_client_isnt_updated</text>
       </register>
       <register name="/" type="4">
-        <text>setemai</text>
+        <text>email</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">JGJpbmRpbmdzID0gJHRoaXMtPmNhc3RCaW5kaW5ncygkYmluZGluZ3MpOwogICAgICAgICRxdWVyeSA9IHByZWdfcmVwbGFjZV9hcnJheSgnL1w/LycsICRiaW5kaW5ncywgJHF1ZXJ5KTsKCiAgICAgICAgJGJpbmRpbmdzID0gW107CgogICAgICAgIHJldHVybiBwYXJlbnQ6OnNlbGVjdCgkcXVlcnksICRiaW5kaW5ncywgJHVzZVJlYWRQZG8pOw==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+bW9ja1dpbmZ1bmRVcGRhdGVFbWFpbCh0cnVlKTsKICAgICAgICAkY2xpZW50ID0gJHRoaXMtPmNyZWF0ZVdpbmZ1bmRDbGllbnQoWydFbWFpbF9BZGRyZXNzJyA9PiAncXdlQHF3ZS5jb20nXSk7CiAgICAgICAgJHJlbGF0ZWRDbGllbnQgPSAkdGhpcy0+Y3JlYXRlUmVsYXRlZFdpbmZ1bmRDbGllbnQoJGNsaWVudCwgWydFbWFpbF9BZGRyZXNzJyA9PiAncXdlcXdlQHF3ZS5jb20nXSk7CgogICAgICAgICRjbGllbnQtPkxhc3RfTW9kaWZpZWRfRGF0ZSA9IG5ldyBDYXJib24oJ25leHQgaG91cicpOwogICAgICAgICRjbGllbnQtPkVtYWlsX0FkZHJlc3MgPSAnbmV3QHF3ZS5jb20nOwogICAgICAgICRjbGllbnQtPnNhdmUoKTsKCiAgICAgICAgJHRoaXMtPm1vY2tXaW5mdW5kVXBkYXRlRW1haWwoKTsKCiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygnbmV3QHF3ZS5jb20nLCBXaW5mdW5kQ2xpZW50OjpmaW5kKCRjbGllbnQtPkNvZGUpLT5FbWFpbF9BZGRyZXNzKTsKICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCdxd2Vxd2VAcXdlLmNvbScsIFdpbmZ1bmRDbGllbnQ6OmZpbmQoJHJlbGF0ZWRDbGllbnQtPkNvZGUpLT5FbWFpbF9BZGRyZXNzKTs=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -728,40 +742,40 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkY2xpZW50ID0gJHRoaXMtPmNyZWF0ZVdpbmZ1bmRDbGllbnQoWydFbWFpbF9BZGRyZXNzJyA9PiAncXdlQHF3ZS5jb20nXSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRjbGllbnQtPkVtYWlsX0FkZHJlc3MgPSAnJzsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCduZXdAcXdlLmNvbScsIFdpbmZ1bmRDbGllbnQ6OmZpbmQoJHJlbGF0ZWRDbGllbnQtPkNvZGUpLT5FbWFpbF9BZGRyZXNzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZChXaW5mdW5kQ2xpZW50OjpmaW5kKCRjbGllbnQtPkNvZGUpLT5MYXN0X01vZGlmaWVkX0RhdGUpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBpZl9hX2NsaWVudF9pc19ub3RfZWRpdGVkX2JlZm9yZV9hX3VzZXJfdGhlX3RoZV9lbWFpbF9vZl90aGlzX2NsaWVudF9pc250X3VwZGF0ZWQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIEFwcFxDbGllbnQ7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBpZl9hX2NsaWVudF9pc19ub3RfZWRpdGVkX2JlZm9yZV9hX3VzZXJfdGhlX3RoZV9lbWFpbF9vZl90aGlzX2NsaWVudF9pc250X3VwZGF0ZWQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXERhdGFiYXNlTWlncmF0aW9uczsKdXNlIFRlc3RzXFRlc3RDYXNlOwo=</text>
+        <text encoding="base64">dXNlIENhcmJvblxDYXJib247Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIEFwcFxSZXBvc2l0b3JpZXNcQ2xpZW50UmVwb3NpdG9yeTsKdXNlIENhcmJvblxDYXJib247Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIEFwcFxXaW5mdW5kXENsaWVudFN0YXR1czsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIEFwcFxSZXBvc2l0b3JpZXNcVXNlclJlcG9zaXRvcnk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIEFwcFxDb25zb2xlXENvbW1hbmRzXEltcG9ydEV4cGlyZWRDbGllbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkdW1wKCJTREZTREYiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>1043</text>
       </register>
     </registers>
     <search>
-      <last-search>setemai</last-search>
+      <last-search>email</last-search>
       <last-offset />
-      <last-pattern>setemai</last-pattern>
+      <last-pattern>email</last-pattern>
       <last-replace>tax_slip</last-replace>
       <last-substitute>\.</last-substitute>
       <last-dir>1</last-dir>
@@ -780,7 +794,6 @@
         <entry>public</entry>
         <entry>getconnection</entry>
         <entry>setemail</entry>
-        <entry>email</entry>
         <entry encoding="base64">XDxlbWFpbFw+</entry>
         <entry encoding="base64">PT4g</entry>
         <entry>public function</entry>
@@ -789,6 +802,7 @@
         <entry>this</entry>
         <entry>execute</entry>
         <entry>setemai</entry>
+        <entry>email</entry>
       </history-search>
       <history-cmd>
         <entry>nohj</entry>
