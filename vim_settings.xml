@@ -33,11 +33,11 @@
         <mark key="]" line="145" column="0" />
         <mark key="." line="145" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Winfund/Client.php" timestamp="1507037910724">
+      <file name="$USER_HOME$/code/mica/app/Winfund/Client.php" timestamp="1507038661781">
         <mark key="'" line="72" column="20" />
-        <mark key="[" line="842" column="0" />
-        <mark key="]" line="842" column="0" />
-        <mark key="." line="842" column="0" />
+        <mark key="[" line="841" column="8" />
+        <mark key="]" line="843" column="0" />
+        <mark key="." line="843" column="0" />
         <mark key="^" line="841" column="66" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Console/Kernel.php" timestamp="1506970986005" />
@@ -238,7 +238,7 @@
         <mark key="]" line="61" column="84" />
         <mark key="." line="61" column="84" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506973777390">
+      <file name="/Dummy.txt" timestamp="1507038627483">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Policies/WinfundClientPolicy.php" timestamp="1505326818120">
