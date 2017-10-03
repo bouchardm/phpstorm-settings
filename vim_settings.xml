@@ -38,7 +38,9 @@
         <mark key="]" line="842" column="0" />
         <mark key="." line="842" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Console/Kernel.php" timestamp="1506970986005" />
+      <file name="$USER_HOME$/code/mica/app/Console/Kernel.php" timestamp="1507042202514">
+        <mark key="[" line="26" column="75" />
+      </file>
       <file name="$USER_HOME$/code/mica/tests/features/bootstrap/FeatureContext.php" timestamp="1506965399328">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
@@ -110,12 +112,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/tests/unit/Command/SyncWinfundClientTest.php" timestamp="1507035302807">
-        <mark key="'" line="26" column="47" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="82" column="32" />
-        <mark key="." line="82" column="32" />
-        <mark key="^" line="82" column="32" />
+      <file name="$USER_HOME$/code/mica/tests/unit/Command/SyncWinfundClientTest.php" timestamp="1507043208577">
+        <mark key="'" line="84" column="4" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="26" column="61" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/lang/fr/profile.php" timestamp="1506967385383">
         <mark key="[" line="4" column="15" />
@@ -139,14 +141,15 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Console/Commands/SyncWinfundClient.php" timestamp="1507034630592">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/code/mica/app/Console/Commands/SyncWinfundClient.php" timestamp="1507043062645">
+        <mark key="[" line="45" column="30" />
+        <mark key="]" line="45" column="36" />
+        <mark key="." line="45" column="36" />
+        <mark key="^" line="45" column="36" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/sqlsrv/sqlsrv.php" timestamp="1506951804870" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1506700624327">
-        <mark key="[" line="0" column="1" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1507042715313">
+        <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="194" />
         <mark key="." line="0" column="194" />
       </file>
@@ -173,6 +176,11 @@
         <mark key="[" line="406" column="0" />
         <mark key="]" line="406" column="0" />
         <mark key="." line="406" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/tests/unit/Command/GenerateNonMatchingClientEmailReportTest.php" timestamp="1507043195809">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/.env" timestamp="1506970914383" />
       <file name="$USER_HOME$/code/mica/resources/lang/en/passwords.php" timestamp="1503946054034">
@@ -218,19 +226,19 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/tests/TestCase.php" timestamp="1507040225301">
-        <mark key="'" line="521" column="30" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="521" column="30" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/code/mica/tests/TestCase.php" timestamp="1507043185599">
+        <mark key="'" line="137" column="4" />
+        <mark key="[" line="428" column="80" />
+        <mark key="]" line="426" column="36" />
+        <mark key="^" line="426" column="36" />
+        <mark key="." line="426" column="36" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/integration/UserSecurityTest.php" timestamp="1505324358958">
         <mark key="[" line="320" column="0" />
         <mark key="]" line="320" column="0" />
         <mark key="." line="320" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1506970869192">
+      <file name="/dummy.sql" timestamp="1507043529093">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/features/bootstrap/UsersContext.php" timestamp="1506959734472">
@@ -292,8 +300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="24" filename="$USER_HOME$/code/mica/app/User.php" />
-      <jump line="58" column="24" filename="$USER_HOME$/code/mica/app/User.php" />
       <jump line="13" column="6" filename="$USER_HOME$/code/mica/app/Repositories/ClientRepository.php" />
       <jump line="15" column="17" filename="$USER_HOME$/code/mica/resources/assets/js/components/common/navigation/Notifications.vue" />
       <jump line="292" column="68" filename="$USER_HOME$/code/mica/app/User.php" />
@@ -392,6 +398,8 @@
       <jump line="842" column="53" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
       <jump line="522" column="30" filename="$USER_HOME$/code/mica/tests/TestCase.php" />
       <jump line="96" column="16" filename="$USER_HOME$/code/mica/tests/unit/Repositories/ClientRepositoryTest.php" />
+      <jump line="84" column="4" filename="$USER_HOME$/code/mica/tests/unit/Command/SyncWinfundClientTest.php" />
+      <jump line="134" column="4" filename="$USER_HOME$/code/mica/tests/TestCase.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -449,7 +457,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRjbGllbnQtPnNhdmUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -707,10 +715,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ClientRepositoryTest</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>setexpi</text>
+        <text>mock</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+bW9ja1dpbmZ1bmRVcGRhdGVFbWFpbCh0cnVlKTsKICAgICAgICAkY2xpZW50ID0gJHRoaXMtPmNyZWF0ZVdpbmZ1bmRDbGllbnQoWydFbWFpbF9BZGRyZXNzJyA9PiAncXdlQHF3ZS5jb20nXSk7CiAgICAgICAgJHJlbGF0ZWRDbGllbnQgPSAkdGhpcy0+Y3JlYXRlUmVsYXRlZFdpbmZ1bmRDbGllbnQoJGNsaWVudCwgWydFbWFpbF9BZGRyZXNzJyA9PiAncXdlcXdlQHF3ZS5jb20nXSk7CgogICAgICAgICRjbGllbnQtPkxhc3RfTW9kaWZpZWRfRGF0ZSA9IG5ldyBDYXJib24oJ25leHQgaG91cicpOwogICAgICAgICRjbGllbnQtPkVtYWlsX0FkZHJlc3MgPSAnbmV3QHF3ZS5jb20nOwogICAgICAgICRjbGllbnQtPnNhdmUoKTsKCiAgICAgICAgJHRoaXMtPm1vY2tXaW5mdW5kVXBkYXRlRW1haWwoKTsKCiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygnbmV3QHF3ZS5jb20nLCBXaW5mdW5kQ2xpZW50OjpmaW5kKCRjbGllbnQtPkNvZGUpLT5FbWFpbF9BZGRyZXNzKTsKICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCdxd2Vxd2VAcXdlLmNvbScsIFdpbmZ1bmRDbGllbnQ6OmZpbmQoJHJlbGF0ZWRDbGllbnQtPkNvZGUpLT5FbWFpbF9BZGRyZXNzKTs=</text>
@@ -744,40 +752,40 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRjbGllbnQtPnNhdmUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGR1bXAoJGNsaWVudC0+ZXhpc3RzKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5tb2NrV2luZnVuZFVwZGF0ZUVtYWlsKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRjbGllbnQtPmVtYWlsID0gJGVtYWlsOwo=</text>
+        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XENvbnNvbGVcSGVscGVyXFByb2dyZXNzQmFyOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIEFwcFxSZXBvc2l0b3JpZXNcQ2xpZW50UmVwb3NpdG9yeTsK</text>
+        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XENvbnNvbGVcRm9ybWF0dGVyXE91dHB1dEZvcm1hdHRlckludGVyZmFjZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRjbGllbnQtPkNvZGUpOwo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCR0aGlzLT5Db2RlKTsK</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRjbGllbnQtPkNvZGUpOwo=</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gXFBIUFVuaXRfRnJhbWV3b3JrX01vY2tPYmplY3RfTW9ja09iamVjdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCR0aGlzLT5Db2RlKTsK</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkY2xpZW50LT5FbWFpbF9BZGRyZXNzID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>1043</text>
       </register>
     </registers>
     <search>
-      <last-search>setexpi</last-search>
+      <last-search>mock</last-search>
       <last-offset />
-      <last-pattern>setexpi</last-pattern>
+      <last-pattern>mock</last-pattern>
       <last-replace>tax_slip</last-replace>
       <last-substitute>\.</last-substitute>
       <last-dir>1</last-dir>
@@ -785,7 +793,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getper</entry>
         <entry>active</entry>
         <entry>mark</entry>
         <entry>account</entry>
@@ -805,6 +812,7 @@
         <entry>email</entry>
         <entry>setem</entry>
         <entry>setexpi</entry>
+        <entry>mock</entry>
       </history-search>
       <history-cmd>
         <entry>nohj</entry>
