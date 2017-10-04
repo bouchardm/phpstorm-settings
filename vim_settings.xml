@@ -113,12 +113,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/tests/unit/Command/SyncWinfundClientTest.php" timestamp="1507127811599">
-        <mark key="'" line="84" column="4" />
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="0" />
-        <mark key="." line="132" column="0" />
-        <mark key="^" line="127" column="77" />
+      <file name="$USER_HOME$/code/mica/tests/unit/Command/SyncWinfundClientTest.php" timestamp="1507129174174">
+        <mark key="'" line="85" column="4" />
+        <mark key="[" line="36" column="57" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="30" column="63" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/integration/ImportDocumentsTest.php" timestamp="1505243328202">
         <mark key="[" line="108" column="0" />
@@ -137,8 +137,8 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Console/Commands/SyncWinfundClient.php" timestamp="1507127513001">
-        <mark key="[" line="67" column="18" />
+      <file name="$USER_HOME$/code/mica/app/Console/Commands/SyncWinfundClient.php" timestamp="1507129694485">
+        <mark key="[" line="47" column="79" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
@@ -194,6 +194,13 @@
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Query/LogQuery.php" timestamp="1506701503024">
+        <mark key="'" line="16" column="28" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="24" column="13" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Winfund/Mutation/EditClientEmailMutation.php" timestamp="1506538794812">
         <mark key="[" line="10" column="1" />
@@ -439,7 +446,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGR1bXAoVXNlcjo6ZmluZCgkdXNlci0+aWQpLT5lbWFpbCwgXEFwcFxXaW5mdW5kXENsaWVudDo6ZmluZCgkY2xpZW50LT5Db2RlKS0+RW1haWxfQWRkcmVzcywgXEFwcFxXaW5mdW5kXENsaWVudDo6ZmluZCgkcmVsYXRlZENsaWVudC0+Q29kZSktPkVtYWlsX0FkZHJlc3MpOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -734,31 +741,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGR1bXAoVXNlcjo6ZmluZCgkdXNlci0+aWQpLT5lbWFpbCwgXEFwcFxXaW5mdW5kXENsaWVudDo6ZmluZCgkY2xpZW50LT5Db2RlKS0+RW1haWxfQWRkcmVzcywgXEFwcFxXaW5mdW5kXENsaWVudDo6ZmluZCgkcmVsYXRlZENsaWVudC0+Q29kZSktPkVtYWlsX0FkZHJlc3MpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRtaWNhQ2xpZW50ID0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJG1pY2FDbGllbnQ7Cg==</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQHZhciBNaWNhQ2xpZW50ICRtaWNhQ2xpZW50ICovCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiAoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgIC8qKiBAdGVzdCAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gTWljYUNsaWVudAo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGRkKCR3dGYpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSAkbWljYUNsaWVudHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
