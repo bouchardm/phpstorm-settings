@@ -80,7 +80,7 @@
         <mark key="]" line="90" column="105" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1507055943133">
+      <file name="/a.sql" timestamp="1507141610460">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/release/deploy.php" timestamp="1506967380547" />
@@ -149,10 +149,8 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Console/Commands/SyncWinfundClient.php" timestamp="1507140288708">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
+      <file name="$USER_HOME$/code/mica/app/Console/Commands/SyncWinfundClient.php" timestamp="1507142875124">
+        <mark key="[" line="67" column="112" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/sqlsrv/sqlsrv.php" timestamp="1506951804870" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1507120599755">
@@ -261,7 +259,8 @@
         <mark key="]" line="320" column="0" />
         <mark key="." line="320" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1507140266977">
+      <file name="/dummy.sql" timestamp="1507142943485">
+        <mark key="'" line="0" column="11" />
         <mark key="i" line="0" column="12" />
         <mark key="[" line="0" column="0" />
       </file>
@@ -329,7 +328,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="292" column="68" filename="$USER_HOME$/code/mica/app/User.php" />
       <jump line="267" column="33" filename="$USER_HOME$/code/mica/app/User.php" />
       <jump line="158" column="7" filename="$USER_HOME$/code/mica/tests/unit/Command/ImportExpiredClientTest.php" />
       <jump line="49" column="0" filename="$USER_HOME$/code/mica/tests/unit/Command/ImportExpiredClientTest.php" />
@@ -429,6 +427,7 @@
       <jump line="134" column="4" filename="$USER_HOME$/code/mica/tests/TestCase.php" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
       <jump line="52" column="26" filename="$USER_HOME$/code/mica/app/Console/Commands/SyncWinfundClient.php" />
+      <jump line="0" column="11" filename="/dummy.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -486,7 +485,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGR1bXAoInF3ZSIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -747,7 +746,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb250YWluc1w+</text>
+        <text encoding="base64">XDwyODg5NVw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">JHRoaXMtPmF0dHJpYnV0ZXNbJ3N5bmNlZF9hdCdd</text>
@@ -781,40 +780,40 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGR1bXAoInF3ZSIpOwo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text encoding="base64">aWYgKGVtcHR5KHRyaW0oJGNsaWVudC0+RW1haWxfQWRkcmVzcykpKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9Cg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGR1bXAoInF3ZSIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiAkbWljYUNsaWVudHMtPndoZXJlKCd3aW5mdW5kX2lkJywgJz0nLCAkY2xpZW50LT5Db2RlKS0+Zmlyc3QoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIH0KLy8K</text>
+        <text encoding="base64">CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICByZXR1cm4gTWljYUNsaWVudDo6dXBkYXRlT3JDcmVhdGUoWyd3aW5mdW5kX2lkJyA9PiAkY2xpZW50LT5Db2RlLCAnc3luY2VkX2F0JyA9PiBDYXJib246Om5vdygpXSk7Ci8vICAgICAgICAgICAgJG1pY2FDbGllbnRzLT5wdXNoKE1pY2FDbGllbnQ6OnVwZGF0ZU9yQ3JlYXRlKFsnd2luZnVuZF9pZCcgPT4gJGNsaWVudC0+Q29kZV0pKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiAkbWljYUNsaWVudHMtPndoZXJlKCd3aW5mdW5kX2lkJywgJz0nLCAkY2xpZW50LT5Db2RlKS0+Zmlyc3QoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiAkbWljYUNsaWVudHNbJGNsaWVudC0+Q29kZV07Ci8vICAgICAgICBpZiAoJG1pY2FDbGllbnRzLT53aGVyZSgnd2luZnVuZF9pZCcsICRjbGllbnQtPkNvZGUpLT5pc0VtcHR5KCkpIHsK</text>
+        <text encoding="base64">Ly8gICAgICAgIH0KLy8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGRkKCRtaWNhQ2xpZW50c1skY2xpZW50LT5Db2RlXSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICByZXR1cm4gTWljYUNsaWVudDo6dXBkYXRlT3JDcmVhdGUoWyd3aW5mdW5kX2lkJyA9PiAkY2xpZW50LT5Db2RlLCAnc3luY2VkX2F0JyA9PiBDYXJib246Om5vdygpXSk7Ci8vICAgICAgICAgICAgJG1pY2FDbGllbnRzLT5wdXNoKE1pY2FDbGllbnQ6OnVwZGF0ZU9yQ3JlYXRlKFsnd2luZnVuZF9pZCcgPT4gJGNsaWVudC0+Q29kZV0pKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAtPmFsbCgpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiAkbWljYUNsaWVudHNbJGNsaWVudC0+Q29kZV07Ci8vICAgICAgICBpZiAoJG1pY2FDbGllbnRzLT53aGVyZSgnd2luZnVuZF9pZCcsICRjbGllbnQtPkNvZGUpLT5pc0VtcHR5KCkpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb250YWluc1w+</last-search>
+      <last-search encoding="base64">XDwyODg5NVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb250YWluc1w+</last-pattern>
+      <last-pattern encoding="base64">XDwyODg5NVw+</last-pattern>
       <last-replace>tax_slip</last-replace>
       <last-substitute>\.</last-substitute>
       <last-dir>-1</last-dir>
@@ -822,7 +821,6 @@
     </search>
     <history>
       <history-search>
-        <entry>account['type</entry>
         <entry>setEmail</entry>
         <entry>public</entry>
         <entry>getconnection</entry>
@@ -842,6 +840,7 @@
         <entry>find</entry>
         <entry encoding="base64">XDxjbGllbnRcPg==</entry>
         <entry encoding="base64">XDxjb250YWluc1w+</entry>
+        <entry encoding="base64">XDwyODg5NVw+</entry>
       </history-search>
       <history-cmd>
         <entry>nohj</entry>
