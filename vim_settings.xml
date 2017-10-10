@@ -117,7 +117,7 @@
         <mark key="]" line="145" column="0" />
         <mark key="." line="145" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Winfund/Client.php" timestamp="1507643016267">
+      <file name="$USER_HOME$/code/mica/app/Winfund/Client.php" timestamp="1507660954027">
         <mark key="[" line="854" column="54" />
         <mark key="]" line="850" column="0" />
         <mark key="." line="850" column="0" />
@@ -166,6 +166,13 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/tests/integration/InscriptionTest.php" timestamp="1507661495662">
+        <mark key="'" line="180" column="4" />
+        <mark key="[" line="420" column="104" />
+        <mark key="]" line="420" column="76" />
+        <mark key="." line="420" column="76" />
+        <mark key="^" line="420" column="76" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Repositories/WinfundRepository.php" timestamp="1507656472738">
         <mark key="[" line="34" column="58" />
@@ -235,7 +242,7 @@
         <mark key="]" line="61" column="84" />
         <mark key="." line="61" column="84" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507658960179">
+      <file name="/Dummy.txt" timestamp="1507661623836">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Policies/WinfundClientPolicy.php" timestamp="1505326818120">
@@ -269,12 +276,12 @@
         <mark key="[" line="125" column="23" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/PDO/PDO.php" timestamp="1507650998834" />
-      <file name="$USER_HOME$/code/mica/tests/unit/Command/SyncWinfundClientTest.php" timestamp="1507644783332">
+      <file name="$USER_HOME$/code/mica/tests/unit/Command/SyncWinfundClientTest.php" timestamp="1507661632169">
         <mark key="'" line="82" column="4" />
-        <mark key="[" line="35" column="166" />
-        <mark key="]" line="132" column="46" />
-        <mark key="^" line="132" column="46" />
-        <mark key="." line="132" column="46" />
+        <mark key="[" line="49" column="39" />
+        <mark key="]" line="85" column="20" />
+        <mark key="^" line="85" column="20" />
+        <mark key="." line="85" column="20" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/lang/fr/profile.php" timestamp="1506967385383">
         <mark key="[" line="4" column="15" />
