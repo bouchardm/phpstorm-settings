@@ -79,8 +79,12 @@
       <file name="$USER_HOME$/code/mica/package.json" timestamp="1502199944066">
         <mark key="[" line="57" column="35" />
       </file>
-      <file name="$USER_HOME$/code/mica/tests/unit/Command/GenerateClientWithSameAdnasAndDifferentEmailReportTest.php" timestamp="1507644592642">
-        <mark key="[" line="39" column="42" />
+      <file name="$USER_HOME$/code/mica/tests/unit/Command/GenerateClientWithSameAdnasAndDifferentEmailReportTest.php" timestamp="1507736317751">
+        <mark key="'" line="66" column="70" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="66" column="59" />
       </file>
       <file name="$USER_HOME$/code/mica/scripts/dependencies.sh" timestamp="1507730174919" />
       <file name="$USER_HOME$/code/mica/tests/unit/Command/GenerateNonMatchingClientEmailReportTest.php" timestamp="1507043195809">
@@ -139,11 +143,12 @@
         <mark key="]" line="145" column="0" />
         <mark key="." line="145" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Winfund/Client.php" timestamp="1507660954027">
-        <mark key="[" line="854" column="54" />
-        <mark key="]" line="850" column="0" />
-        <mark key="." line="850" column="0" />
-        <mark key="^" line="850" column="0" />
+      <file name="$USER_HOME$/code/mica/app/Winfund/Client.php" timestamp="1507736141914">
+        <mark key="'" line="410" column="6" />
+        <mark key="[" line="734" column="0" />
+        <mark key="]" line="736" column="73" />
+        <mark key="." line="736" column="73" />
+        <mark key="^" line="736" column="73" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/admin/clients/record/accounts/Accounts.vue" timestamp="1507659434531" />
       <file name="$USER_HOME$/code/mica/app/Console/Kernel.php" timestamp="1507641843461">
@@ -281,10 +286,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Console/Commands/GenerateClientWithSameAdnasAndDifferentEmailReport.php" timestamp="1505827202724">
-        <mark key="[" line="46" column="50" />
-        <mark key="]" line="46" column="50" />
-        <mark key="." line="46" column="50" />
+      <file name="$USER_HOME$/code/mica/app/Console/Commands/GenerateClientWithSameAdnasAndDifferentEmailReport.php" timestamp="1507736192050">
+        <mark key="[" line="84" column="32" />
+        <mark key="]" line="85" column="43" />
+        <mark key="." line="85" column="43" />
+        <mark key="^" line="85" column="43" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Repositories/Queries/WinfundQueryBuilder.php" timestamp="1506518120007">
         <mark key="[" line="125" column="23" />
@@ -297,12 +303,12 @@
         <mark key="^" line="85" column="20" />
         <mark key="." line="85" column="20" />
       </file>
-      <file name="$USER_HOME$/code/mica/tests/unit/Winfund/ClientTest.php" timestamp="1507202383093">
+      <file name="$USER_HOME$/code/mica/tests/unit/Winfund/ClientTest.php" timestamp="1507736055832">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="189" column="82" />
-        <mark key="]" line="189" column="108" />
-        <mark key="." line="189" column="108" />
-        <mark key="^" line="189" column="108" />
+        <mark key="[" line="263" column="46" />
+        <mark key="]" line="263" column="38" />
+        <mark key="^" line="263" column="38" />
+        <mark key="." line="263" column="38" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/lang/fr/profile.php" timestamp="1506967385383">
         <mark key="[" line="4" column="15" />
@@ -347,11 +353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="71" filename="$USER_HOME$/code/mica/app/User.php" />
-      <jump line="106" column="9" filename="$USER_HOME$/code/mica/app/User.php" />
-      <jump line="753" column="22" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
-      <jump line="64" column="18" filename="$USER_HOME$/code/mica/tests/unit/Policies/UserPolicyTest.php" />
-      <jump line="73" column="39" filename="$USER_HOME$/code/mica/tests/unit/Policies/UserPolicyTest.php" />
       <jump line="62" column="27" filename="$USER_HOME$/code/mica/tests/unit/Policies/UserPolicyTest.php" />
       <jump line="27" column="31" filename="$USER_HOME$/code/mica/resources/views/pdf/accounts/statement.blade.php" />
       <jump line="95" column="38" filename="$USER_HOME$/code/mica/resources/views/pdf/accounts/statement.blade.php" />
@@ -447,6 +448,11 @@
       <jump line="96" column="25" filename="$USER_HOME$/code/mica/app/Winfund/EquitySale.php" />
       <jump line="223" column="37" filename="$USER_HOME$/code/mica/app/Winfund/EquitySale.php" />
       <jump line="296" column="4" filename="$USER_HOME$/code/mica/app/Winfund/EquitySale.php" />
+      <jump line="417" column="32" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
+      <jump line="410" column="6" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
+      <jump line="51" column="59" filename="$USER_HOME$/code/mica/tests/unit/Command/GenerateClientWithSameAdnasAndDifferentEmailReportTest.php" />
+      <jump line="58" column="22" filename="$USER_HOME$/code/mica/tests/unit/Command/GenerateClientWithSameAdnasAndDifferentEmailReportTest.php" />
+      <jump line="67" column="70" filename="$USER_HOME$/code/mica/tests/unit/Command/GenerateClientWithSameAdnasAndDifferentEmailReportTest.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -762,10 +768,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Q2xpZW50Ojp1cGRhdGVPckNyZWF0ZShbJ3dpbmZ1bmRfaWQnID0+ICRjbGllbnQtPkNvZGVdLCAkZGF0YSk7</text>
+        <text encoding="base64">aW5fYXJyYXkoJGNsaWVudC0+Q2xpZW50VHlwZSwgQ2xpZW50VHlwZTo6Q09SUE9SQVRJT05fVFlQRVMp</text>
       </register>
       <register name="/" type="4">
-        <text>getrisk</text>
+        <text>in_a</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">JHRoaXMtPmF0dHJpYnV0ZXNbJ3N5bmNlZF9hdCdd</text>
@@ -773,66 +779,73 @@
       <register name="q" type="4">
         <keys>
           <key char="47" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="104" code="0" mods="0" />
           <key char="105" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="104" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="104" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
           <key char="97" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
           <key char="65535" code="10" mods="0" />
-          <key char="65535" code="8" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="45" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9LAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgImh0dHBzOi8vcmVnaXN0cnkuYm93ZXIuaW8iCiAgICBdCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAicmVnaXN0cnkiOiB7CiAgICAic2VhcmNoIjogWwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgImh0dHA6Ly9sb2NhbGhvc3Q6ODAwMCIsCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">dXNlIEFwcFxSZXBvc2l0b3JpZXNcV2luZnVuZFJlcG9zaXRvcnk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkYmluZGluZ3MgYXMgJGtleSApCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnQ2xpZW50VHlwZScgPT4gaW5fYXJyYXkoJGNsaWVudC0+Q2xpZW50VHlwZSwgQ2xpZW50VHlwZTo6Q09SUE9SQVRJT05fVFlQRVMpID8gdHJhbnMoJ2FjY291bnRzLmFjY291bnQuY29ycG8nKSA6IHRyYW5zKCdhY2NvdW50cy5hY2NvdW50LmluZGl2aWR1YWwnKSwK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">dXNlIEFwcFxDbGllbnQ7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkY2xpZW50cyBhcyAkY2xpZW50KSB7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmFzc2VydFRydWUoJGNsaWVudC0+aXNDb3Jwb3JhdGlvbigpKTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+d2FpdEZvckNvbnRlbnQoJHRleHQpOwo=</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIEFwcFxIdHRwXEdyYXBoUUxcQ29tbW9uXFNjYWxhclxEYXRlVHlwZTsK</text>
+        <text encoding="base64">ICAgICAgImh0dHBzOi8vcmVnaXN0cnkuYm93ZXIuaW8iCiAgICBdCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>getrisk</last-search>
+      <last-search>in_a</last-search>
       <last-offset />
-      <last-pattern>getrisk</last-pattern>
+      <last-pattern>in_a</last-pattern>
       <last-replace>tax_slip</last-replace>
       <last-substitute>\.</last-substitute>
       <last-dir>1</last-dir>
@@ -840,12 +853,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">PT4g</entry>
-        <entry>public function</entry>
-        <entry>registerpass</entry>
-        <entry encoding="base64">XDxHcmFwaFFMXD4=</entry>
-        <entry>this</entry>
-        <entry>execute</entry>
         <entry>email</entry>
         <entry>setem</entry>
         <entry>setexpi</entry>
@@ -860,6 +867,12 @@
         <entry>riskattr</entry>
         <entry>risk</entry>
         <entry>getrisk</entry>
+        <entry>isindi</entry>
+        <entry>isIndi</entry>
+        <entry>isindijjjj</entry>
+        <entry>isin</entry>
+        <entry>in_arr</entry>
+        <entry>in_a</entry>
       </history-search>
       <history-cmd>
         <entry>nohj</entry>
