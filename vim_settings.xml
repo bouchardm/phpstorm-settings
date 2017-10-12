@@ -108,7 +108,7 @@
         <mark key="]" line="90" column="105" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1507749195136">
+      <file name="/a.sql" timestamp="1507839843169">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0036229d-20c7-48b6-8562-77fdc4b28ee3/console.sql" timestamp="1507748709672">
@@ -153,16 +153,20 @@
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Console/Commands/ImportExpiredClient.php" timestamp="1507835517063">
-        <mark key="[" line="58" column="73" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
+      <file name="$USER_HOME$/code/mica/app/Console/Commands/ImportExpiredClient.php" timestamp="1507840502767">
+        <mark key="'" line="50" column="48" />
+        <mark key="[" line="53" column="14" />
+        <mark key="]" line="53" column="15" />
+        <mark key="." line="53" column="15" />
+        <mark key="^" line="53" column="15" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1505150189221">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Database/Eloquent/Model.php" timestamp="1507831158235">
-        <mark key="[" line="128" column="5" />
+      <file name="$USER_HOME$/code/mica/app/Database/Eloquent/Model.php" timestamp="1507840009141">
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="." line="129" column="0" />
       </file>
       <file name="/fragment.php" timestamp="1501766236245">
         <mark key="[" line="0" column="0" />
@@ -371,8 +375,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="254" column="26" filename="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
-      <jump line="1045" column="26" filename="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
       <jump line="40" column="74" filename="$USER_HOME$/code/mica/tests/unit/Repositories/WinfundRepositoryTest.php" />
       <jump line="457" column="27" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
       <jump line="171" column="51" filename="$USER_HOME$/code/mica/resources/assets/js/components/admin/clients/record/dashboard/ClientInformation.vue" />
@@ -471,6 +473,8 @@
       <jump line="89" column="71" filename="$USER_HOME$/code/mica/app/Repositories/ClientRepository.php" />
       <jump line="215" column="23" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
       <jump line="210" column="19" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
+      <jump line="130" column="0" filename="$USER_HOME$/code/mica/app/Console/Commands/ImportExpiredClient.php" />
+      <jump line="50" column="48" filename="$USER_HOME$/code/mica/app/Console/Commands/ImportExpiredClient.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -786,10 +790,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>getexpi</text>
+        <text>client::</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">JHRoaXMtPmF0dHJpYnV0ZXNbJ3N5bmNlZF9hdCdd</text>
@@ -833,37 +837,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0KCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuICR0aGlzOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPiRwcm9wZXJ0eSA9ICR2YWx1ZTsKICAgICAgICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgKCR2YWx1ZSA+PSAwKSB7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgICAkcHJvcGVydHkgPSAkdGhpcy0+dW5pb25zID8gJ3VuaW9uTGltaXQnIDogJ2xpbWl0JzsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gbGltaXQoJHZhbHVlKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0KCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuICR0aGlzOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPiRwcm9wZXJ0eSA9ICR2YWx1ZTsKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CiAgICAgICAgaWYgKCR2YWx1ZSA+PSAwKSB7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHsKICAgICAgICAkcHJvcGVydHkgPSAkdGhpcy0+dW5pb25zID8gJ3VuaW9uTGltaXQnIDogJ2xpbWl0JzsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ci8vICAgIH0K</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gbGltaXQoJHZhbHVlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>getexpi</last-search>
+      <last-search>client::</last-search>
       <last-offset />
-      <last-pattern>getexpi</last-pattern>
+      <last-pattern>client::</last-pattern>
       <last-replace>tax_slip</last-replace>
       <last-substitute>\.</last-substitute>
       <last-dir>1</last-dir>
@@ -871,7 +875,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setemai</entry>
         <entry>constru</entry>
         <entry>setemail</entry>
         <entry>riskattr</entry>
@@ -891,6 +894,7 @@
         <entry>expir</entry>
         <entry>getuser</entry>
         <entry>getexpi</entry>
+        <entry>client::</entry>
       </history-search>
       <history-cmd>
         <entry>nohj</entry>
