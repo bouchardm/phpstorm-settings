@@ -84,12 +84,6 @@
         <mark key="]" line="145" column="0" />
         <mark key="." line="145" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Winfund/Client.php" timestamp="1507834492994">
-        <mark key="'" line="210" column="19" />
-        <mark key="[" line="710" column="5" />
-        <mark key="]" line="710" column="5" />
-        <mark key="." line="710" column="5" />
-      </file>
       <file name="$USER_HOME$/code/mica/app/Console/Kernel.php" timestamp="1508174848917">
         <mark key="^" line="26" column="16" />
       </file>
@@ -224,18 +218,32 @@
         <mark key="]" line="108" column="0" />
         <mark key="." line="108" column="0" />
       </file>
+      <file name="$USER_HOME$/code/mica/app/Winfund/EquitySale.php" timestamp="1507724423153">
+        <mark key="'" line="296" column="4" />
+        <mark key="[" line="94" column="23" />
+        <mark key="]" line="94" column="21" />
+        <mark key="^" line="94" column="21" />
+        <mark key="." line="94" column="21" />
+      </file>
       <file name="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" timestamp="1507831383773" />
+      <file name="$USER_HOME$/code/mica/resources/lang/en/accounts.php" timestamp="1508176287810">
+        <mark key="[" line="29" column="69" />
+        <mark key="]" line="29" column="68" />
+        <mark key="^" line="29" column="68" />
+        <mark key="." line="29" column="68" />
+      </file>
       <file name="$USER_HOME$/code/mica/app/ClientLink.php" timestamp="1502109980445">
         <mark key="[" line="30" column="12" />
       </file>
       <file name="/fragment.js" timestamp="1503931169956">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/tests/integration/ImportExpiredClientIntegrationTest.php" timestamp="1507834683269">
-        <mark key="'" line="49" column="0" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Query/LogQueryTest.php" timestamp="1507724557547">
+        <mark key="'" line="80" column="46" />
+        <mark key="[" line="109" column="47" />
+        <mark key="]" line="110" column="7" />
+        <mark key="." line="110" column="7" />
+        <mark key="^" line="110" column="7" />
       </file>
       <file name="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Console/Command.php" timestamp="1507832266899" />
       <file name="$USER_HOME$/code/mica/app/Repositories/LogRepository.php" timestamp="1507656866098">
@@ -255,12 +263,6 @@
         <mark key="." line="12" column="0" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/sqlsrv/sqlsrv.php" timestamp="1507649885558" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1507749216511">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="194" />
-        <mark key="." line="0" column="194" />
-      </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Type/Log/LogType.php" timestamp="1507641940044">
         <mark key="[" line="26" column="46" />
         <mark key="]" line="28" column="43" />
@@ -362,6 +364,13 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/code/mica/tests/unit/Repositories/ClientRepositoryTest.php" timestamp="1507644581129">
+        <mark key="'" line="96" column="16" />
+        <mark key="[" line="159" column="42" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/code/mica/_ide_helper.php" timestamp="1507130679288">
         <mark key="[" line="12819" column="16" />
         <mark key="]" line="12820" column="11" />
@@ -396,7 +405,14 @@
         <mark key="]" line="61" column="84" />
         <mark key="." line="61" column="84" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507901444738">
+      <file name="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" timestamp="1508176270970">
+        <mark key="'" line="623" column="19" />
+        <mark key="[" line="623" column="49" />
+        <mark key="]" line="623" column="48" />
+        <mark key="." line="623" column="48" />
+        <mark key="^" line="623" column="48" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1508176399262">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Policies/WinfundClientPolicy.php" timestamp="1505326818120">
@@ -426,6 +442,13 @@
         <mark key="^" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/code/mica/app/Client.php" timestamp="1507641659353">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="42" column="16" />
+        <mark key="]" line="42" column="17" />
+        <mark key="^" line="42" column="17" />
+        <mark key="." line="42" column="17" />
+      </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Repositories/WinfundRepositoryTest.php" timestamp="1507724830790">
         <mark key="[" line="38" column="55" />
         <mark key="]" line="38" column="90" />
@@ -444,9 +467,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="74" filename="$USER_HOME$/code/mica/tests/unit/Repositories/WinfundRepositoryTest.php" />
-      <jump line="457" column="27" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
-      <jump line="171" column="51" filename="$USER_HOME$/code/mica/resources/assets/js/components/admin/clients/record/dashboard/ClientInformation.vue" />
       <jump line="23" column="46" filename="$USER_HOME$/code/mica/app/Repositories/WinfundRepository.php" />
       <jump line="206" column="42" filename="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Session/SessionManager.php" />
       <jump line="45" column="4" filename="$USER_HOME$/code/mica/tests/unit/Repositories/LogRepositoryTest.php" />
@@ -544,6 +564,9 @@
       <jump line="210" column="19" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
       <jump line="130" column="0" filename="$USER_HOME$/code/mica/app/Console/Commands/ImportExpiredClient.php" />
       <jump line="50" column="48" filename="$USER_HOME$/code/mica/app/Console/Commands/ImportExpiredClient.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
+      <jump line="470" column="0" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
+      <jump line="623" column="19" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -859,10 +882,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>client::</text>
+        <text>isSelf</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">JHRoaXMtPmF0dHJpYnV0ZXNbJ3N5bmNlZF9hdCdd</text>
@@ -905,38 +928,38 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkYmFyLT5maW5pc2goKTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">Y3RlZCAmJiAkdGhpcy0+bWFya2V0X3ZhbHVlID4gMCkgewogICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICB9CgogICAgICAgIHJldHVybiAoJHRoaXMtPmhhc1RyYW5zYWN0aW9ucygpIHx8ICR0aGlzLT5tYXJrZXRfdmFsdWUgPiAwKSAmJiBlbXB0eSgkdGhpcy0+RW5kX0RhdGUpOwogICAgfQoKICAgIHB1YmxpYyBmdW5jdGlvbiBjbGllbnQoKSA6IEJlbG9uZ3NUbwogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+YmVsb25nc1RvKENsaWVudDo6Y2xhc3MsICdDbGllbnRfQ29kZScpOwogICAgfQoKICAgIHB1YmxpYyBmdW5jdGlvbiBwbGFuVHlwZSgpIDogQmVsb25nc1RvCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5iZWxvbmdzVG8oUGxhblR5cGU6OmNsYXNzLCAnVHlwZScpOwogICAgfQoKICAgIHB1YmxpYyBmdW5jdGlvbiBreWMoKSA6IEJlbG9uZ3NUbwogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+YmVsb25nc1RvKFBsYW5LeWM6OmNsYXNzLCAnQ29kZScsICdQbGFuQ29kZScpOwogICAgfQoKICAgIHB1YmxpYyBmdW5jdGlvbiBzZXRUcmFuc2FjdGlvbnMoQ29sbGVjdGlvbiAkdHJhbnNhY3Rpb24pCiAgICB7CiAgICAgICAgc3RhdGljOjokc3RhdGljVHJhbnNhY3Rpb25zWyR0aGlzLT5Db2RlXSA9ICR0cmFuc2FjdGlvbjsKICAgIH0KCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0VHJhbnNhY3Rpb25zQXR0cmlidXRlKCkKICAgIHsKICAgICAgICBpZiAoZW1wdHkoc3RhdGljOjokc3RhdGljVHJhbnNhY3Rpb25zWyR0aGlzLT5Db2RlXSkpIHsKICAgICAgICAgICAgc3RhdGljOjokc3RhdGljVHJhbnNhY3Rpb25zWyR0aGlzLT5Db2RlXSA9ICR0aGlzCiAgICAgICAgICAgICAgICAtPmhhc01hbnlUaHJvdWdoKFRyYW5zYWN0aW9uOjpjbGFzcywgRXF1aXR5U2FsZTo6Y2xhc3MsICdQbGFuX0NvZGUnLCAnQWNjb3VudF9Db2RlJywgJ0NvZGUnKQogICAgICAgICAgICAgICAgLT5vcmRlckJ5KCdEYXRlJywgJ2FzYycpCiAgICAgICAgICAgICAgICAtPmdldFJlc3VsdHMoKTsKICAgICAgICB9CgogICAgICAgIHJldHVybiBzdGF0aWM6OiRzdGF0aWNUcmFuc2FjdGlvbnNbJHRoaXMtPkNvZGVdOwogICAgfQoKICAgIHB1YmxpYyBmdW5jdGlvbiBoYXNUcmFuc2FjdGlvbnMoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+dHJhbnNhY3Rpb25zLT5pc05vdEVtcHR5KCk7CiAgICB9CgogICAgcHVibGljIGZ1bmN0aW9uIGhhc0FjdGl2ZUdJQ0FjY291bnQoKQogICAgewogICAgICAgIHJldHVybiAoYm9vbCkgJHRoaXMtPnRlcm1EZXBvc2l0cygpLT53aGVyZSgnQWNjb3VudF9TdGF0dXMnLCAnIT0nLCBHSUNBY2NvdW50OjpJTkFDVElWRV9BQ0NPVU5UX1NUQVRVUyktPmdldCgpLT5jb3VudCgpOwogICAgfQoKICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRNYXJrZXRWYWx1ZUF0dHJpYnV0ZSgpCiAgICB7CiAgICAgICAgaWYgKGVtcHR5KHN0YXRpYzo6JHN0YXRpY01hcmtldFZhbHVlWyR0aGlzLT5Db2RlXSkpIHsKICAgICAgICAgICAgc3RhdGljOjokc3RhdGljTWFya2V0VmFsdWVbJHRoaXMtPkNvZGVdID0gYXBwKCktPm1ha2UoTWFya2V0VmFsdWVSZXBvc2l0b3J5OjpjbGFzcyktPmdldE1hcmtldFZhbHVlQ2xpZW50QWNjb3VudCgkdGhpcyk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gc3RhdGljOjokc3RhdGljTWFya2V0VmFsdWVbJHRoaXMtPkNvZGVdOwogICAgfQoKICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXJtRGVwb3NpdHMoKSA6IEhhc01hbnkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPmhhc01hbnkoR0lDQWNjb3VudDo6Y2xhc3MsICdQbGFuX0NvZGUnKQogICAgICAgICAgICAtPm9yZGVyQnkoJ1N0b3BfRGF0ZScpCiAgICAgICAgICAgIC0+b3JkZXJCeSgnRnVuZF9TdXBwbGllcicpCiAgICAgICAgICAgIC0+b3JkZXJCeSgnRnVuZF9Db2RlJykKICAgICAgICAgICAgLT5vcmRlckJ5KCdTdGFydF9EYXRlJyk7CiAgICB9CgogICAgcHVibGljIGZ1bmN0aW9uIGdldFJlcHJlc2VudGF0aXZlc0F0dHJpYnV0ZSgpCiAgICB7CiAgICAgICAgcmV0dXJuIFJlcHJlc2VudGF0aXZlOjp3aGVyZUNvZGUoJHRoaXMtPlJlcF9Db2RlKS0+d2hlcmVEZWFsZXJfQ29kZSgkdGhpcy0+RGVhbGVyX0NvZGUpLT5nZXQoKTsKICAgIH0KCiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gZ2V0RGVhbGVyQ29kZUF0dHJpYnV0ZSgpCiAgICB7CiAgICAgICAgcmV0dXJuIHRyaW0oJHRoaXMtPmF0dHJpYnV0ZXNbJ0RlYWxlcl9Db2RlJ10pOwogICAgfQoKICAgIHByb3RlY3RlZCBmdW5jdGlvbiBnZXRSZXByZXNlbnRhdGl2ZUNvZGVBdHRyaWJ1dGUoKQogICAgewogICAgICAgIHJldHVybiB0cmltKCR0aGlzLT5hdHRyaWJ1dGVzWydSZXBfQ29kZSddKTsKICAgIH0KCiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gZ2V0RGVhbGVyQWNjb3VudENvZGVBdHRyaWJ1dGUoKQogICAgewogICAgICAgIHJldHVybiB0cmltKCR0aGlzLT5hdHRyaWJ1dGVzWydEZWFsZXJfQWNjb3VudF9Db2RlJ10pOwogICAgfQoKICAgIHByb3RlY3RlZCBmdW5jdGlvbiBnZXRJZEF0dHJpYnV0ZSgpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5nZXRLZXkoKTsKICAgIH0KCiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gZ2V0SXNJbmRpdmlkdWFsQXR0cmlidXRlKCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPmF0dHJpYnV0ZXNbJ1JlY2lwaWVudF9Db2RlJ10gPT0gc2VsZjo6UkVDSVBJRU5UX0lORElWSURVQUw7CiAgICB9CgogICAgcHJvdGVjdGVkIGZ1bmN0aW9uIGdldElzSm9pbnRBdHRyaWJ1dGUoKQogICAgewogICAgICAgIHJldHVybiBpbl9hcnJheSgkdGhpcy0+YXR0cmlidXRlc1snUmVjaXBpZW50X0NvZGUnXSwgW3NlbGY6OlJFQ0lQSUVOVF9KT0lOVF9TUE9VU0UsIHNlbGY6OlJFQ0lQSUVOVF9KT0lOVF9OT05fU1BPVVNFXSk7CiAgICB9CgogICAgcHJvdGVjdGVkIGZ1bmN0aW9uIGdldElzVGVybURlcG9zaXRBdHRyaWJ1dGUoKQogICAgewogICAgICAgIGlmICghaXNzZXQoc3RhdGljOjokc3RhdGljSXNUZXJtRGVwb3NpdFskdGhpcy0+Q29kZV0pKSB7CiAgICAgICAgICAgIHN0YXRpYzo6JHN0YXRpY0lzVGVybURlcG9zaXRbJHRoaXMtPkNvZGVdID0gJHRoaXMtPnRlcm1EZXBvc2l0cygpLT5leGlzdHMoKTsKICAgICAgICB9CgogICAgICAgIHJldHVybiBzdGF0aWM6OiRzdGF0aWNJc1Rlcm1EZXBvc2l0WyR0aGlzLT5Db2RlXTsKICAgIH0KCiAgICBwdWJsaWMgZnVuY3Rpb24gc2V0SXNUZXJtRGVwb3NpdCgkaXNUZXJtRGVwb3NpdCkKICAgIHsKICAgICAgICBzdGF0aWM6OiRzdGF0aWNJc1Rlcm1EZXBvc2l0WyR0aGlzLT5Db2RlXSA9ICRpc1Rlcm1EZXBvc2l0OwogICAgfQoKICAgIHByb3RlY3RlZCBmdW5jdGlvbiBnZXRUeXBlTmFtZUF0dHJpYnV0ZSgpCiAgICB7CiAgICAgICAgaWYgKHRyaW0oJHRoaXMtPkxvY2tlZEluX1Byb3ZpbmNlKSkgewogICAgICAgICAgICByZXR1cm4gJ2xvY2tlZF9pbic7CiAgICAgICAgfQoKICAgICAgICAkdHlwZXMgPSBbCiAgICAgICAgICAgIHNlbGY6OlJFQ0lQSUVOVF9JTkRJVklEVUFMID0+ICdpbmRpdmlkdWFsJywKICAgICAgICAgICAgc2VsZjo6UkVDSVBJRU5UX1NQT1VTRSA9PiAnc3BvdXNlJywKICAgICAgICAgICAgc2VsZjo6UkVDSVBJRU5UX0pPSU5UX1NQT1VTRSA9PiAnam9pbnRfc3BvdXNlJywKICAgICAgICAgICAgc2VsZjo6UkVDSVBJRU5UX0pPSU5UX05PTl9TUE9VU0UgPT4gJ2pvaW50X25vbl9zcG91c2UnLAogICAgICAgIF07CgogICAgICAgIHJldHVybiAkdHlwZXNbJHRoaXMtPlJlY2lwaWVudF9Db2RlXTsKICAgIH0KCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0T3duZXJzQXR0cmlidXRlKCRjbGllbnQgPSBudWxsKSA6IENvbGxlY3Rpb24KICAgIHsKICAgICAgICAkb3duZXJzID0gY29sbGVjdChbXSk7CgogICAgICAgIGlmICgkY2xpZW50IGluc3RhbmNlb2YgQ2xpZW50ICYmICRjbGllbnQtPkNvZGUgPT0gJHRoaXMtPkNsaWVudF9Db2RlKSB7CiAgICAgICAgICAgICR0aGlzLT5jbGllbnQgPSAkY2xpZW50OwogICAgICAgIH0KCiAgICAgICAgaWYgKGluX2FycmF5KCR0aGlzLT5jbGllbnQtPkNsaWVudFR5cGUsIENsaWVudFR5cGU6OklORElWSURVQUxfVFlQRSkpIHsKICAgICAgICAgICAgJG93bmVyc1tdID0gInskdGhpcy0+Y2xpZW50LT5OYW1lfSB7JHRoaXMtPmNsaWVudC0+U3VybmFtZX0iOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICRvd25lcnNbXSA9ICJ7JHRoaXMtPmNsaWVudC0+U3BvdXNhbF9OYW1lfSB7JHRoaXMtPmNsaWVudC0+U3BvdXNhbF9TdXJuYW1lfSI7CiAgICAgICAgfQoKICAgICAgICAkam9pbnROYW1lID0gInskdGhpcy0+Sm9pbnRfTmFtZX0geyR0aGlzLT5Kb2ludF9TdXJuYW1lfSI7CiAgICAgICAgaWYgKCR0aGlzLT5pc0pvaW50ICYmIHRyaW0oJGpvaW50TmFtZSkpIHsKICAgICAgICAgICAgJG93bmVyc1tdID0gInskdGhpcy0+Sm9pbnRfTmFtZX0geyR0aGlzLT5Kb2ludF9TdXJuYW1lfSI7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gJG93bmVyczsKICAgIH0KCiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gZ2V0UmVnaXN0ZXJVbmRlckF0dHJpYnV0ZSgpCiAgICB7CiAgICAgICAgaWYgKCR0aGlzLT4=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSk7CiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBpZiAoJHRoaXMtPmlzRXhwaXJlZCgkY2xpZW50KSB8fCAhICRjbGllbnQtPmV4cGlyZWQpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGNsaWVudHMtPmVhY2goZnVuY3Rpb24gKENsaWVudCAkY2xpZW50KSB1c2UgKCRiYXIsICYkcmVhY3RpdmF0ZWQpIHsKICAgICAgICAgICAgICAgICRiYXItPmFkdmFuY2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBDbGllbnQ6OmNodW5rKDEwMDAsIGZ1bmN0aW9uIChDb2xsZWN0aW9uICRjbGllbnRzKSB1c2UgKCRiYXIsICYkcmVhY3RpdmF0ZWQpIHsK</text>
+        <text encoding="base64">ICAgICAgICAkYmFyLT5maW5pc2goKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkYmFyID0gJHRoaXMtPm91dHB1dC0+Y3JlYXRlUHJvZ3Jlc3NCYXIoQ2xpZW50Ojpjb3VudCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSk7CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>client::</last-search>
+      <last-search>isSelf</last-search>
       <last-offset />
-      <last-pattern>client::</last-pattern>
+      <last-pattern>isSelf</last-pattern>
       <last-replace>tax_slip</last-replace>
       <last-substitute>\.</last-substitute>
       <last-dir>1</last-dir>
@@ -944,8 +967,6 @@
     </search>
     <history>
       <history-search>
-        <entry>constru</entry>
-        <entry>setemail</entry>
         <entry>riskattr</entry>
         <entry>risk</entry>
         <entry>getrisk</entry>
@@ -964,6 +985,8 @@
         <entry>getuser</entry>
         <entry>getexpi</entry>
         <entry>client::</entry>
+        <entry>getact</entry>
+        <entry>isSelf</entry>
       </history-search>
       <history-cmd>
         <entry>nohj</entry>
