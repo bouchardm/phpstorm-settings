@@ -57,6 +57,12 @@
         <mark key="]" line="710" column="5" />
         <mark key="." line="710" column="5" />
       </file>
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/client/navigation/ClientSelector.vue" timestamp="1508270191955">
+        <mark key="[" line="8" column="47" />
+        <mark key="]" line="8" column="46" />
+        <mark key="^" line="8" column="46" />
+        <mark key="." line="8" column="46" />
+      </file>
       <file name="$USER_HOME$/code/mica/tests/features/bootstrap/FeatureContext.php" timestamp="1507659109665">
         <mark key="[" line="149" column="37" />
         <mark key="]" line="149" column="36" />
@@ -84,6 +90,7 @@
       <file name="/a.sql" timestamp="1507839843169">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/mica/release/deploy.php" timestamp="1508269676604" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0036229d-20c7-48b6-8562-77fdc4b28ee3/console.sql" timestamp="1507748709672">
         <mark key="[" line="0" column="0" />
       </file>
@@ -218,6 +225,12 @@
         <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/vendor/symfony/console/Output/OutputInterface.php" timestamp="1507832276796" />
+      <file name="$USER_HOME$/code/mica/integration/src/sass/modules/_linked-client.scss" timestamp="1508270446129">
+        <mark key="[" line="42" column="17" />
+        <mark key="]" line="42" column="16" />
+        <mark key="^" line="42" column="16" />
+        <mark key="." line="42" column="16" />
+      </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Query/LogQuery.php" timestamp="1507656769568">
         <mark key="[" line="40" column="9" />
         <mark key="]" line="42" column="43" />
@@ -230,7 +243,7 @@
         <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/admin/clients/record/accounts/Accounts.vue" timestamp="1507659434531" />
-      <file name="$USER_HOME$/code/mica/resources/assets/js/components/admin/clients/record/ClientSelector.vue" timestamp="1508267911425" />
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/admin/clients/record/ClientSelector.vue" timestamp="1508269153709" />
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/accounts/Account.vue" timestamp="1508183145687">
         <mark key="[" line="6" column="98" />
       </file>
@@ -264,11 +277,6 @@
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1508248643443">
-        <mark key="'" line="0" column="11" />
-        <mark key="i" line="0" column="12" />
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/mica/tests/features/bootstrap/UsersContext.php" timestamp="1506959734472">
         <mark key="[" line="126" column="47" />
         <mark key="]" line="126" column="46" />
@@ -282,7 +290,7 @@
         <mark key="n" line="184" column="72" />
         <mark key="." line="425" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508266017255">
+      <file name="/Dummy.txt" timestamp="1508270217019">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/lang/en/profile.php" timestamp="1508184877658">
