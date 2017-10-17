@@ -87,6 +87,7 @@
         <mark key="." line="33" column="67" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Repositories/AccountRepository.php" timestamp="1508254491814" />
+      <file name="$USER_HOME$/code/mica/integration/src/sass/styles.json" timestamp="1508272953449" />
       <file name="/a.sql" timestamp="1507839843169">
         <mark key="[" line="0" column="0" />
       </file>
@@ -225,7 +226,7 @@
         <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/vendor/symfony/console/Output/OutputInterface.php" timestamp="1507832276796" />
-      <file name="$USER_HOME$/code/mica/integration/src/sass/modules/_linked-client.scss" timestamp="1508270446129">
+      <file name="$USER_HOME$/code/mica/integration/src/sass/modules/_linked-client.scss" timestamp="1508272932380">
         <mark key="[" line="42" column="17" />
         <mark key="]" line="42" column="16" />
         <mark key="^" line="42" column="16" />
@@ -290,7 +291,7 @@
         <mark key="n" line="184" column="72" />
         <mark key="." line="425" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508270217019">
+      <file name="/Dummy.txt" timestamp="1508272937949">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/lang/en/profile.php" timestamp="1508184877658">
