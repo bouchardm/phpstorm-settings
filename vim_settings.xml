@@ -294,19 +294,14 @@
       <file name="/Dummy.txt" timestamp="1508272937949">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/mica/tests/js/test-main.js" timestamp="1508274448059">
+        <mark key="[" line="27" column="10" />
+      </file>
       <file name="$USER_HOME$/code/mica/resources/lang/en/profile.php" timestamp="1508184877658">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="^" line="4" column="81" />
         <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/mica/database/seeds/WinfundDBMockSeeder.php" timestamp="1508248698969">
-        <mark key="'" line="511" column="55" />
-        <mark key="[" line="273" column="47" />
-        <mark key="]" line="273" column="36" />
-        <mark key="." line="273" column="36" />
-        <mark key="^" line="273" column="36" />
-        <mark key="n" line="511" column="55" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Console/Commands/GenerateClientWithSameAdnasAndDifferentEmailReport.php" timestamp="1507744125693">
         <mark key="[" line="9" column="0" />
