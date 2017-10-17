@@ -87,6 +87,7 @@
         <mark key="^" line="33" column="67" />
         <mark key="." line="33" column="67" />
       </file>
+      <file name="$USER_HOME$/code/mica/app/Repositories/AccountRepository.php" timestamp="1508254491814" />
       <file name="/a.sql" timestamp="1507839843169">
         <mark key="[" line="0" column="0" />
       </file>
@@ -118,11 +119,11 @@
         <mark key="^" line="39" column="21" />
         <mark key="." line="39" column="21" />
       </file>
-      <file name="$USER_HOME$/code/mica/tests/unit/Winfund/ClientAccountTest.php" timestamp="1508248706743">
-        <mark key="[" line="201" column="46" />
-        <mark key="]" line="201" column="42" />
-        <mark key="^" line="201" column="42" />
-        <mark key="." line="201" column="42" />
+      <file name="$USER_HOME$/code/mica/tests/unit/Winfund/ClientAccountTest.php" timestamp="1508255069243">
+        <mark key="[" line="159" column="32" />
+        <mark key="]" line="202" column="42" />
+        <mark key="^" line="202" column="42" />
+        <mark key="." line="202" column="42" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1508154437105">
         <mark key="[" line="0" column="0" />
@@ -202,8 +203,11 @@
         <mark key="." line="104" column="32" />
         <mark key="^" line="104" column="32" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Winfund/Type/Account/TransactionType.php" timestamp="1508249932865">
-        <mark key="[" line="42" column="40" />
+      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Winfund/Type/Account/TransactionType.php" timestamp="1508254560220">
+        <mark key="[" line="45" column="47" />
+        <mark key="]" line="34" column="24" />
+        <mark key="." line="34" column="24" />
+        <mark key="^" line="34" column="24" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/Controllers/Auth/RegisterController.php" timestamp="1506614339509">
         <mark key="'" line="21" column="6" />
@@ -265,7 +269,7 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/tests/TestCase.php" timestamp="1508247186971">
+      <file name="$USER_HOME$/code/mica/tests/TestCase.php" timestamp="1508255066108">
         <mark key="'" line="137" column="4" />
         <mark key="[" line="586" column="57" />
         <mark key="]" line="584" column="0" />
@@ -284,14 +288,14 @@
         <mark key="i" line="0" column="12" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" timestamp="1508248168488">
-        <mark key="'" line="422" column="40" />
+      <file name="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" timestamp="1508254327514">
+        <mark key="'" line="522" column="49" />
         <mark key="[" line="425" column="0" />
         <mark key="]" line="425" column="0" />
         <mark key="n" line="184" column="72" />
         <mark key="." line="425" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508249817756">
+      <file name="/Dummy.txt" timestamp="1508255066253">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/database/seeds/WinfundDBMockSeeder.php" timestamp="1508248698969">
@@ -418,9 +422,6 @@
       <jump line="392" column="28" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
       <jump line="400" column="23" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
       <jump line="516" column="23" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
-      <jump line="518" column="33" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
-      <jump line="519" column="100" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
-      <jump line="522" column="30" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
       <jump line="727" column="36" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
       <jump line="733" column="23" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
       <jump line="38" column="20" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
@@ -441,6 +442,9 @@
       <jump line="37" column="13" filename="$USER_HOME$/code/mica/database/seeds/WinfundDBMockSeeder.php" />
       <jump line="318" column="60" filename="$USER_HOME$/code/mica/database/seeds/WinfundDBMockSeeder.php" />
       <jump line="511" column="55" filename="$USER_HOME$/code/mica/database/seeds/WinfundDBMockSeeder.php" />
+      <jump line="518" column="52" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
+      <jump line="519" column="46" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
+      <jump line="522" column="49" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -759,7 +763,7 @@
         <text>Currency</text>
       </register>
       <register name="/" type="4">
-        <text>currency_T</text>
+        <text>code</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">JHRoaXMtPmF0dHJpYnV0ZXNbJ3N5bmNlZF9hdCdd</text>
@@ -800,40 +804,40 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcXVlcnktPmdldCgpLT5wbHVjaygncGxhbklkJykpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBkdW1wKCRxd2UtPnNhbGUtPmFjY291bnQtPmdldEF0dHJpYnV0ZXMoKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcXVlcnktPmdldCgpWzBdKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcXVlcnktPmdldCgpLT5wbHVjaygncGxhbklkJykpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcXVlcnktPmdldCgpWzBdKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkZXhjaGFuZ2VSYXRlID0gJHRoaXMtPkN1cnJlbmN5ID09PSBDdXJyZW5jeVR5cGU6OlVTID8gRXhjaGFuZ2VSYXRlczo6bGF0ZXN0VVMoKS0+cmF0ZSA6IDE7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkZXhjaGFuZ2VSYXRlID0gJHRoaXMtPkN1cnJlbmN5ID09PSBDdXJyZW5jeVR5cGU6OlVTID8gRXhjaGFuZ2VSYXRlczo6bGF0ZXN0VVMoKS0+cmF0ZSA6IDE7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCR2YWx1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRxdWVyeS0+Z2V0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCR2YWx1ZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgiU0RGU0RGIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCRxdWVyeS0+Z2V0KCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcXVlcnktPmdldCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgiU0RGU0RGIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>currency_T</last-search>
+      <last-search>code</last-search>
       <last-offset />
-      <last-pattern>currency_T</last-pattern>
+      <last-pattern>code</last-pattern>
       <last-replace>tax_slip</last-replace>
       <last-substitute>\.</last-substitute>
       <last-dir>1</last-dir>
@@ -841,7 +845,6 @@
     </search>
     <history>
       <history-search>
-        <entry>loos</entry>
         <entry>getCurren</entry>
         <entry>getcurrentclient</entry>
         <entry>expired</entry>
@@ -861,6 +864,7 @@
         <entry>groupedtru</entry>
         <entry>marketvalue</entry>
         <entry>currency_T</entry>
+        <entry>code</entry>
       </history-search>
       <history-cmd>
         <entry>nohj</entry>
