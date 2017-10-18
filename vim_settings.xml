@@ -95,8 +95,8 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0036229d-20c7-48b6-8562-77fdc4b28ee3/console.sql" timestamp="1507748709672">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/lang/fr/accounts.php" timestamp="1508183219216">
-        <mark key="[" line="31" column="63" />
+      <file name="$USER_HOME$/code/mica/resources/lang/fr/accounts.php" timestamp="1508329061472">
+        <mark key="[" line="31" column="64" />
         <mark key="]" line="45" column="59" />
         <mark key="^" line="45" column="59" />
         <mark key="." line="45" column="59" />
@@ -284,14 +284,14 @@
         <mark key="^" line="126" column="46" />
         <mark key="." line="126" column="46" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" timestamp="1508254327514">
+      <file name="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" timestamp="1508329070694">
         <mark key="'" line="522" column="49" />
-        <mark key="[" line="425" column="0" />
+        <mark key="[" line="627" column="102" />
         <mark key="]" line="425" column="0" />
         <mark key="n" line="184" column="72" />
         <mark key="." line="425" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508272937949">
+      <file name="/Dummy.txt" timestamp="1508329109933">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/js/test-main.js" timestamp="1508274448059">
