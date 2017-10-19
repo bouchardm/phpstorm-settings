@@ -193,10 +193,10 @@
         <mark key="^" line="45" column="59" />
         <mark key="." line="45" column="59" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Winfund/Type/Account/GroupedTrustAccountType.php" timestamp="1508412270862">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Winfund/Type/Account/GroupedTrustAccountType.php" timestamp="1508413758311">
+        <mark key="[" line="30" column="38" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Console/Commands/ImportExpiredClient.php" timestamp="1508243016703">
         <mark key="[" line="37" column="9" />
@@ -404,11 +404,11 @@
         <mark key="^" line="12820" column="11" />
         <mark key="." line="12820" column="11" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/accounts/TrustAccount.vue" timestamp="1508412377196">
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/accounts/TrustAccount.vue" timestamp="1508414425800">
         <mark key="[" line="11" column="28" />
-        <mark key="]" line="11" column="31" />
-        <mark key="." line="11" column="31" />
-        <mark key="^" line="11" column="31" />
+        <mark key="]" line="13" column="26" />
+        <mark key="." line="13" column="26" />
+        <mark key="^" line="13" column="26" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/integration/UserSecurityTest.php" timestamp="1505324358958">
         <mark key="[" line="320" column="0" />
@@ -959,31 +959,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGZ1bmQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdyZXNvbHZlJyA9PiBmdW5jdGlvbiAoJFFXRSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgkUVdFKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdyZXNvbHZlJyA9PiBmdW5jdGlvbiAoJFFXRSkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHByb2R1Y3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgkUVdFKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHByb2R1Y3QpOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHByb2R1Y3QpOwo=</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAKCiAgICAgICAgICAgICAgICAKCiAgICAgICAgICAgICAgICAKCiAgICAgICAgICAgICAgICAKCiAgICAgICAgICAgICAgICA=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICBkdW1wKCRxd2UtPnNhbGUtPmFjY291bnQtPmdldEF0dHJpYnV0ZXMoKSk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcXVlcnktPmdldCgpLT5wbHVjaygncGxhbklkJykpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcXVlcnktPmdldCgpWzBdKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcXVlcnktPmdldCgpLT5wbHVjaygncGxhbklkJykpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
