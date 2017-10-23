@@ -55,7 +55,6 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="66" column="59" />
       </file>
-      <file name="$USER_HOME$/code/mica/scripts/dependencies.sh" timestamp="1507730174919" />
       <file name="$USER_HOME$/code/mica/tests/unit/Command/ImportExpiredClientTest.php" timestamp="1507835166449">
         <mark key="'" line="54" column="4" />
         <mark key="[" line="173" column="34" />
@@ -85,7 +84,6 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/integration/bower_components/svg4everybody/package.json" timestamp="1507730120536" />
       <file name="$USER_HOME$/code/mica/app/Http/Controllers/ProfileController.php" timestamp="1507901563887">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
@@ -121,7 +119,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/docker/php-fpm/Dockerfile" timestamp="1507649354845" />
       <file name="$USER_HOME$/code/mica/tests/integration/InscriptionTest.php" timestamp="1507661495662">
         <mark key="'" line="180" column="4" />
         <mark key="[" line="420" column="104" />
@@ -140,12 +137,9 @@
         <mark key="]" line="90" column="105" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Repositories/AccountRepository.php" timestamp="1508254491814" />
-      <file name="$USER_HOME$/code/mica/integration/src/sass/styles.json" timestamp="1508272953449" />
       <file name="/a.sql" timestamp="1507839843169">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/release/deploy.php" timestamp="1508269676604" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0036229d-20c7-48b6-8562-77fdc4b28ee3/console.sql" timestamp="1507748709672">
         <mark key="[" line="0" column="0" />
       </file>
@@ -193,10 +187,10 @@
         <mark key="^" line="45" column="59" />
         <mark key="." line="45" column="59" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Winfund/Type/Account/GroupedTrustAccountType.php" timestamp="1508413758311">
-        <mark key="[" line="30" column="38" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Winfund/Type/Account/GroupedTrustAccountType.php" timestamp="1508765209466">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Console/Commands/ImportExpiredClient.php" timestamp="1508243016703">
         <mark key="[" line="37" column="9" />
@@ -226,7 +220,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Winfund/Transaction.php" timestamp="1508252436163" />
       <file name="$USER_HOME$/code/mica/tests/unit/Command/SyncWinfundClientTest.php" timestamp="1507661632169">
         <mark key="'" line="82" column="4" />
         <mark key="[" line="49" column="39" />
@@ -240,7 +233,6 @@
         <mark key="^" line="29" column="258" />
         <mark key="." line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/code/mica/routes/web/password.php" timestamp="1507901543704" />
       <file name="$USER_HOME$/code/mica/tests/integration/ImportDocumentsTest.php" timestamp="1505243328202">
         <mark key="[" line="108" column="0" />
         <mark key="]" line="108" column="0" />
@@ -256,7 +248,6 @@
         <mark key="^" line="94" column="21" />
         <mark key="." line="94" column="21" />
       </file>
-      <file name="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" timestamp="1507831383773" />
       <file name="$USER_HOME$/code/mica/resources/lang/en/accounts.php" timestamp="1508183024157">
         <mark key="[" line="45" column="69" />
         <mark key="]" line="45" column="68" />
@@ -269,7 +260,6 @@
       <file name="/fragment.js" timestamp="1503931169956">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Console/Command.php" timestamp="1507832266899" />
       <file name="$USER_HOME$/code/mica/app/Repositories/LogRepository.php" timestamp="1507656866098">
         <mark key="[" line="10" column="5" />
         <mark key="]" line="11" column="0" />
@@ -286,7 +276,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/sqlsrv/sqlsrv.php" timestamp="1507649885558" />
       <file name="$USER_HOME$/code/mica/resources/lang/en/fields.php" timestamp="1508266102095">
         <mark key="[" line="69" column="25" />
         <mark key="]" line="69" column="36" />
@@ -352,7 +341,6 @@
         <mark key="]" line="222" column="0" />
         <mark key="." line="222" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/vendor/symfony/console/Output/OutputInterface.php" timestamp="1507832276796" />
       <file name="$USER_HOME$/code/mica/integration/src/sass/modules/_linked-client.scss" timestamp="1508272932380">
         <mark key="[" line="42" column="17" />
         <mark key="]" line="42" column="16" />
@@ -383,7 +371,6 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/assets/js/components/admin/clients/record/ClientSelector.vue" timestamp="1508269153709" />
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/accounts/Account.vue" timestamp="1508412425382">
         <mark key="[" line="180" column="37" />
         <mark key="]" line="181" column="43" />
@@ -465,7 +452,6 @@
         <mark key="^" line="99" column="50" />
         <mark key="." line="99" column="50" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/PDO/PDO.php" timestamp="1507650998834" />
       <file name="$USER_HOME$/code/mica/.env.example" timestamp="1507900126559">
         <mark key="[" line="42" column="39" />
         <mark key="]" line="43" column="0" />
@@ -959,31 +945,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGZ1bmQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdyZXNvbHZlJyA9PiBmdW5jdGlvbiAoJFFXRSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICogCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgkUVdFKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICogCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHByb2R1Y3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHByb2R1Y3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGZ1bmQpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAKCiAgICAgICAgICAgICAgICAKCiAgICAgICAgICAgICAgICAKCiAgICAgICAgICAgICAgICAKCiAgICAgICAgICAgICAgICA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBkdW1wKCRxd2UtPnNhbGUtPmFjY291bnQtPmdldEF0dHJpYnV0ZXMoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdyZXNvbHZlJyA9PiBmdW5jdGlvbiAoJFFXRSkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcXVlcnktPmdldCgpLT5wbHVjaygncGxhbklkJykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgkUVdFKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
