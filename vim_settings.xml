@@ -62,7 +62,7 @@
         <mark key="." line="173" column="64" />
         <mark key="^" line="173" column="64" />
       </file>
-      <file name="$USER_HOME$/code/mica/config/auth.php" timestamp="1508952813518" />
+      <file name="$USER_HOME$/code/mica/config/auth.php" timestamp="1508954512788" />
       <file name="$USER_HOME$/code/mica/resources/lang/fr/fields.php" timestamp="1508265999430">
         <mark key="[" line="71" column="31" />
       </file>
@@ -464,6 +464,11 @@
         <mark key="]" line="32" column="27" />
         <mark key="." line="32" column="27" />
         <mark key="^" line="32" column="27" />
+      </file>
+      <file name="$USER_HOME$/code/mica/qwe.xml" timestamp="1508954724341">
+        <mark key="[" line="16" column="23" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SqlServerGrammar.php" timestamp="1507831400366">
         <mark key="[" line="63" column="48" />
@@ -947,31 +952,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhY3Rpb24+CiAgICAgICAgICAgIDwvc3RlcD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L3J1bGVzPgogICAgICAgICAgICAgICAgPC9hY3Rpb24+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICogCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cnVsZXM+CiAgICAgICAgICAgICAgICAgICAgICAgIDxydWxlIG5hbWU9IiIgLz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICogCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHF1ZXN0aW9uIG5hbWU9IiIgY2xhc3M9IiIgLz4KICAgICAgICAgICAgICAgICAgICA8L3F1ZXN0aW9ucz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cXVlc3Rpb25zPgogICAgICAgICAgICAgICAgICAgICAgICA8cXVlc3Rpb24gbmFtZT0iIiBjbGFzcz0iIiAvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGZ1bmQpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8L3N0ZXA+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICA8c3RlcD4KICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdyZXNvbHZlJyA9PiBmdW5jdGlvbiAoJFFXRSkgewo=</text>
+        <text encoding="base64">PC9mb3JtPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgkUVdFKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
