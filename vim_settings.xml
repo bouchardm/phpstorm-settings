@@ -3,32 +3,1128 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/Neoclocking/api/database/seeds/LogEntrySeeder.php" timestamp="1455827142337">
-        <mark key="[" line="21" column="54" />
-        <mark key="]" line="21" column="53" />
-        <mark key="^" line="21" column="53" />
-        <mark key="." line="21" column="53" />
+      <file name="/a.dummy" timestamp="1507033343216">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/promutuel/soumission/src/src/Promutuel/AgentConsoleBundle/Controller/DemandeSoumissionController.php" timestamp="1462193650942" />
-      <file name="$USER_HOME$/code/Neoclocking/api/app/Http/Controllers/Api/CurrentUserController.php" timestamp="1457702546680">
-        <mark key="[" line="118" column="28" />
-        <mark key="]" line="118" column="27" />
-        <mark key="^" line="118" column="27" />
-        <mark key="." line="118" column="27" />
+      <file name="$USER_HOME$/code/mica/app/Http/Controllers/Auth/LoginController.php" timestamp="1507749781873">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Query/AccountsQueryTest.php" timestamp="1508412212874">
+        <mark key="'" line="85" column="34" />
+        <mark key="[" line="486" column="34" />
+        <mark key="]" line="487" column="26" />
+        <mark key="^" line="487" column="26" />
+        <mark key="." line="487" column="26" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5055f813-3fb1-4bbd-a46b-d08038f1154a/console.sql" timestamp="1507831350473">
+        <mark key="'" line="726" column="39" />
+        <mark key="[" line="726" column="84" />
+        <mark key="]" line="726" column="58" />
+        <mark key="." line="726" column="58" />
+        <mark key="^" line="726" column="58" />
+      </file>
+      <file name="$USER_HOME$/code/mica/tests/unit/Winfund/TrustAccountTest.php" timestamp="1508248763669">
+        <mark key="[" line="23" column="39" />
+        <mark key="]" line="23" column="35" />
+        <mark key="^" line="23" column="35" />
+        <mark key="." line="23" column="35" />
+      </file>
+      <file name="$USER_HOME$/code/mica/tests/unit/Repositories/LogRepositoryTest.php" timestamp="1507724807214">
+        <mark key="[" line="21" column="48" />
+        <mark key="]" line="21" column="50" />
+        <mark key="." line="21" column="50" />
+        <mark key="^" line="21" column="50" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Common/Scalar/DateType.php" timestamp="1506699736058">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Type/Advisor/AdvisorRecordType.php" timestamp="1507658600559">
+        <mark key="[" line="35" column="40" />
+        <mark key="]" line="34" column="21" />
+        <mark key="." line="34" column="21" />
+        <mark key="^" line="34" column="21" />
+      </file>
+      <file name="$USER_HOME$/code/mica/tests/unit/Command/GenerateClientWithSameAdnasAndDifferentEmailReportTest.php" timestamp="1507736317751">
+        <mark key="'" line="66" column="70" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="66" column="59" />
+      </file>
+      <file name="$USER_HOME$/code/mica/tests/unit/Command/ImportExpiredClientTest.php" timestamp="1507835166449">
+        <mark key="'" line="54" column="4" />
+        <mark key="[" line="173" column="34" />
+        <mark key="]" line="173" column="64" />
+        <mark key="." line="173" column="64" />
+        <mark key="^" line="173" column="64" />
+      </file>
+      <file name="$USER_HOME$/code/mica/config/auth.php" timestamp="1508952813518" />
+      <file name="$USER_HOME$/code/mica/resources/lang/fr/fields.php" timestamp="1508265999430">
+        <mark key="[" line="71" column="31" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/client/Transactions.vue" timestamp="1508183725606">
+        <mark key="[" line="251" column="39" />
+        <mark key="]" line="251" column="38" />
+        <mark key="^" line="251" column="38" />
+        <mark key="." line="251" column="38" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/86eee6cc-3a14-406f-a3ca-c6b7ce31fcd3/console.sql" timestamp="1506363904118">
+        <mark key="[" line="124" column="51" />
+      </file>
+      <file name="$USER_HOME$/code/dashboard/site/app/Models/Board.php" timestamp="1505479465017">
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="." line="144" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/database/migrations/2017_09_28_100322_create_logs_table.php" timestamp="1507643034275">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Http/Controllers/ProfileController.php" timestamp="1507901563887">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/views/pdf/accounts/statement.blade.php" timestamp="1508183591501">
+        <mark key="[" line="128" column="40" />
+      </file>
+      <file name="$USER_HOME$/code/mica/tests/integration/ClientsListTest.php" timestamp="1505131754585">
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="." line="145" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/client/navigation/ClientSelector.vue" timestamp="1508270191955">
+        <mark key="[" line="8" column="47" />
+        <mark key="]" line="8" column="46" />
+        <mark key="^" line="8" column="46" />
+        <mark key="." line="8" column="46" />
+      </file>
+      <file name="$USER_HOME$/code/mica/tests/features/bootstrap/FeatureContext.php" timestamp="1507659109665">
+        <mark key="[" line="149" column="37" />
+        <mark key="]" line="149" column="36" />
+        <mark key="." line="149" column="36" />
+        <mark key="^" line="149" column="36" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/lang/fr/validation.php" timestamp="1505136794150">
+        <mark key="[" line="112" column="31" />
+        <mark key="]" line="112" column="31" />
+        <mark key="." line="112" column="31" />
+      </file>
+      <file name="$USER_HOME$/code/mica/tests/unit/Http/Controllers/DocumentControllerTest.php" timestamp="1506367017083">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/tests/integration/InscriptionTest.php" timestamp="1507661495662">
+        <mark key="'" line="180" column="4" />
+        <mark key="[" line="420" column="104" />
+        <mark key="]" line="420" column="76" />
+        <mark key="." line="420" column="76" />
+        <mark key="^" line="420" column="76" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Repositories/WinfundRepository.php" timestamp="1507733072746">
+        <mark key="[" line="33" column="68" />
+        <mark key="]" line="33" column="67" />
+        <mark key="^" line="33" column="67" />
+        <mark key="." line="33" column="67" />
+      </file>
+      <file name="$USER_HOME$/code/mica/database/seeds/QASeeder.php" timestamp="1505911745781">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="105" />
+        <mark key="." line="90" column="0" />
+      </file>
+      <file name="/a.sql" timestamp="1507839843169">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0036229d-20c7-48b6-8562-77fdc4b28ee3/console.sql" timestamp="1507748709672">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/tests/unit/Repositories/UserRepositoryTest.php" timestamp="1507817059151">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="125" column="33" />
+        <mark key="]" line="125" column="34" />
+        <mark key="." line="125" column="34" />
+        <mark key="^" line="125" column="34" />
+      </file>
+      <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Mutation/EditClientEmailMutationTest.php" timestamp="1507723828010">
+        <mark key="[" line="18" column="57" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/config/database.php" timestamp="1507749790790">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/accounts/Accounts.vue" timestamp="1508412389624">
+        <mark key="[" line="100" column="47" />
+        <mark key="]" line="101" column="43" />
+        <mark key="^" line="101" column="43" />
+        <mark key="." line="101" column="43" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Database/Connectors/ODBCConnector.php" timestamp="1507655833612">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/views/mail/mica.blade.php" timestamp="1507901414043">
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="." line="151" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Container/Container.php" timestamp="1506965109523">
+        <mark key="[" line="1042" column="0" />
+        <mark key="]" line="1042" column="0" />
+        <mark key="." line="1042" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/lang/fr/accounts.php" timestamp="1508329061472">
+        <mark key="[" line="31" column="64" />
+        <mark key="]" line="45" column="59" />
+        <mark key="^" line="45" column="59" />
+        <mark key="." line="45" column="59" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Winfund/Type/Account/GroupedTrustAccountType.php" timestamp="1508765209466">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Console/Commands/ImportExpiredClient.php" timestamp="1508243016703">
+        <mark key="[" line="37" column="9" />
+        <mark key="]" line="39" column="21" />
+        <mark key="^" line="39" column="21" />
+        <mark key="." line="39" column="21" />
+      </file>
+      <file name="$USER_HOME$/code/mica/tests/unit/Winfund/ClientAccountTest.php" timestamp="1508255069243">
+        <mark key="[" line="159" column="32" />
+        <mark key="]" line="202" column="42" />
+        <mark key="^" line="202" column="42" />
+        <mark key="." line="202" column="42" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1508154437105">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Database/Eloquent/Model.php" timestamp="1507840009141">
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="." line="129" column="0" />
+      </file>
+      <file name="/fragment.php" timestamp="1501766236245">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Common/Scalar/RiskNameType.php" timestamp="1504797293931">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/tests/unit/Command/SyncWinfundClientTest.php" timestamp="1507661632169">
+        <mark key="'" line="82" column="4" />
+        <mark key="[" line="49" column="39" />
+        <mark key="]" line="85" column="20" />
+        <mark key="^" line="85" column="20" />
+        <mark key="." line="85" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/lang/fr/profile.php" timestamp="1508184584286">
+        <mark key="[" line="29" column="96" />
+        <mark key="]" line="4" column="15" />
+        <mark key="^" line="29" column="258" />
+        <mark key="." line="4" column="15" />
+      </file>
+      <file name="$USER_HOME$/code/mica/tests/integration/ImportDocumentsTest.php" timestamp="1505243328202">
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/dashboard/Account.vue" timestamp="1508182457613">
+        <mark key="[" line="15" column="30" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Winfund/EquitySale.php" timestamp="1508247369665">
+        <mark key="'" line="296" column="4" />
+        <mark key="[" line="94" column="23" />
+        <mark key="]" line="94" column="21" />
+        <mark key="^" line="94" column="21" />
+        <mark key="." line="94" column="21" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/lang/en/accounts.php" timestamp="1508183024157">
+        <mark key="[" line="45" column="69" />
+        <mark key="]" line="45" column="68" />
+        <mark key="^" line="45" column="68" />
+        <mark key="." line="45" column="68" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/ClientLink.php" timestamp="1502109980445">
+        <mark key="[" line="30" column="12" />
+      </file>
+      <file name="/fragment.js" timestamp="1503931169956">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Repositories/LogRepository.php" timestamp="1507656866098">
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Console/Commands/SyncWinfundClient.php" timestamp="1507657352039">
+        <mark key="[" line="71" column="90" />
+        <mark key="]" line="71" column="0" />
+        <mark key="^" line="69" column="45" />
+        <mark key="." line="71" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/integration/bower.json" timestamp="1507731568223">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/lang/en/fields.php" timestamp="1508266102095">
+        <mark key="[" line="69" column="25" />
+        <mark key="]" line="69" column="36" />
+        <mark key="^" line="69" column="36" />
+        <mark key="." line="69" column="36" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Type/Log/LogType.php" timestamp="1507641940044">
+        <mark key="[" line="26" column="46" />
+        <mark key="]" line="28" column="43" />
+        <mark key="." line="28" column="43" />
+        <mark key="^" line="28" column="43" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Database/Query/Builder.php" timestamp="1507835047266">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Winfund/Type/Account/TransactionType.php" timestamp="1508255911555">
+        <mark key="[" line="44" column="16" />
+        <mark key="]" line="44" column="16" />
+        <mark key="." line="44" column="16" />
+        <mark key="^" line="44" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Http/Controllers/HomeController.php" timestamp="1505739558069">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/tests/unit/Http/Controllers/Auth/RegisterControllerTest.php" timestamp="1507645034786">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/package.json" timestamp="1502199944066">
+        <mark key="[" line="57" column="35" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/lang/fr/record.php" timestamp="1508182386972">
+        <mark key="[" line="9" column="38" />
+        <mark key="]" line="13" column="47" />
+        <mark key="^" line="13" column="47" />
+        <mark key="." line="13" column="47" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/User.php" timestamp="1507814870645">
+        <mark key="'" line="486" column="20" />
+        <mark key="[" line="480" column="78" />
+        <mark key="]" line="480" column="65" />
+        <mark key="." line="480" column="65" />
+        <mark key="^" line="480" column="65" />
+      </file>
+      <file name="$USER_HOME$/code/mica/tests/unit/Command/GenerateNonMatchingClientEmailReportTest.php" timestamp="1507043195809">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/lang/en/passwords.php" timestamp="1503946054034">
+        <mark key="[" line="19" column="118" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/dashboard/Summary.vue" timestamp="1504203725471">
+        <mark key="[" line="93" column="42" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/LinkedClients.vue" timestamp="1505225628088">
+        <mark key="[" line="222" column="0" />
+        <mark key="]" line="222" column="0" />
+        <mark key="." line="222" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/integration/src/sass/modules/_linked-client.scss" timestamp="1508272932380">
+        <mark key="[" line="42" column="17" />
+        <mark key="]" line="42" column="16" />
+        <mark key="^" line="42" column="16" />
+        <mark key="." line="42" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Winfund/Type/Account/AccountType.php" timestamp="1505152288514">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Query/LogQuery.php" timestamp="1507656769568">
+        <mark key="[" line="40" column="9" />
+        <mark key="]" line="42" column="43" />
+        <mark key="^" line="42" column="43" />
+        <mark key="." line="42" column="43" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Winfund/Mutation/EditClientEmailMutation.php" timestamp="1507641967326">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/admin/clients/record/accounts/Accounts.vue" timestamp="1508412479742">
+        <mark key="[" line="72" column="47" />
+      </file>
+      <file name="$USER_HOME$/code/mica/database/migrations/2017_10_03_152434_add_synced_column_for_client.php" timestamp="1507643041935">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/accounts/Account.vue" timestamp="1508412425382">
+        <mark key="[" line="180" column="37" />
+        <mark key="]" line="181" column="43" />
+        <mark key="^" line="181" column="43" />
+        <mark key="." line="181" column="43" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Http/Middleware/ShadowAccessClient.php" timestamp="1505739642597">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/admin/navigation/rep/DealerRepCodeSelector.vue" timestamp="1508265990812">
+        <mark key="[" line="22" column="107" />
+      </file>
+      <file name="$USER_HOME$/code/mica/_ide_helper.php" timestamp="1507130679288">
+        <mark key="[" line="12819" column="16" />
+        <mark key="]" line="12820" column="11" />
+        <mark key="^" line="12820" column="11" />
+        <mark key="." line="12820" column="11" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/accounts/TrustAccount.vue" timestamp="1508414425800">
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="13" column="26" />
+        <mark key="." line="13" column="26" />
+        <mark key="^" line="13" column="26" />
+      </file>
+      <file name="$USER_HOME$/code/mica/tests/integration/UserSecurityTest.php" timestamp="1505324358958">
+        <mark key="[" line="320" column="0" />
+        <mark key="]" line="320" column="0" />
+        <mark key="." line="320" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/lang/en/record.php" timestamp="1508182195114">
+        <mark key="[" line="9" column="30" />
+      </file>
+      <file name="$USER_HOME$/code/mica/tests/features/bootstrap/UsersContext.php" timestamp="1506959734472">
+        <mark key="[" line="126" column="47" />
+        <mark key="]" line="126" column="46" />
+        <mark key="^" line="126" column="46" />
+        <mark key="." line="126" column="46" />
+      </file>
+      <file name="$USER_HOME$/code/dashboard/site/resources/assets/js/components/ClockingModal.vue" timestamp="1505486420514">
+        <mark key="[" line="61" column="84" />
+        <mark key="]" line="61" column="84" />
+        <mark key="." line="61" column="84" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" timestamp="1508329070694">
+        <mark key="'" line="522" column="49" />
+        <mark key="[" line="627" column="102" />
+        <mark key="]" line="425" column="0" />
+        <mark key="n" line="184" column="72" />
+        <mark key="." line="425" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1508412465263">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Policies/WinfundClientPolicy.php" timestamp="1505326818120">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/tests/js/test-main.js" timestamp="1508274448059">
+        <mark key="[" line="27" column="10" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/lang/en/profile.php" timestamp="1508184877658">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="4" column="81" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Console/Commands/GenerateClientWithSameAdnasAndDifferentEmailReport.php" timestamp="1507744125693">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="84" column="43" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Repositories/Queries/WinfundQueryBuilder.php" timestamp="1508248682871">
+        <mark key="[" line="99" column="52" />
+        <mark key="]" line="99" column="50" />
+        <mark key="^" line="99" column="50" />
+        <mark key="." line="99" column="50" />
+      </file>
+      <file name="$USER_HOME$/code/mica/.env.example" timestamp="1507900126559">
+        <mark key="[" line="42" column="39" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/accounts/Fund.vue" timestamp="1508412351089">
+        <mark key="[" line="32" column="23" />
+        <mark key="]" line="32" column="27" />
+        <mark key="." line="32" column="27" />
+        <mark key="^" line="32" column="27" />
+      </file>
+      <file name="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SqlServerGrammar.php" timestamp="1507831400366">
+        <mark key="[" line="63" column="48" />
+      </file>
+      <file name="$USER_HOME$/code/mica/tests/unit/Repositories/WinfundRepositoryTest.php" timestamp="1507724830790">
+        <mark key="[" line="38" column="55" />
+        <mark key="]" line="38" column="90" />
+        <mark key="^" line="38" column="90" />
+        <mark key="." line="38" column="90" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/client/information/EditAllClientEmail.vue" timestamp="1504806542468">
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="." line="122" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/admin/clients/Clients.vue" timestamp="1508771509286" />
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/fields/AccountPicker.vue" timestamp="1508249760102">
+        <mark key="[" line="14" column="81" />
+        <mark key="]" line="14" column="79" />
+        <mark key="^" line="14" column="79" />
+        <mark key="." line="14" column="79" />
       </file>
     </filemarks>
-    <jumps />
-    <registers />
+    <jumps>
+      <jump line="522" column="30" filename="$USER_HOME$/code/mica/tests/TestCase.php" />
+      <jump line="96" column="16" filename="$USER_HOME$/code/mica/tests/unit/Repositories/ClientRepositoryTest.php" />
+      <jump line="84" column="4" filename="$USER_HOME$/code/mica/tests/unit/Command/SyncWinfundClientTest.php" />
+      <jump line="134" column="4" filename="$USER_HOME$/code/mica/tests/TestCase.php" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+      <jump line="52" column="26" filename="$USER_HOME$/code/mica/app/Console/Commands/SyncWinfundClient.php" />
+      <jump line="0" column="11" filename="/dummy.sql" />
+      <jump line="57" column="0" filename="$USER_HOME$/code/mica/app/Client.php" />
+      <jump line="19" column="0" filename="$USER_HOME$/code/mica/tests/unit/MicaClientTest.php" />
+      <jump line="38" column="32" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="404" column="55" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="438" column="8" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="21" column="38" filename="$USER_HOME$/code/mica/app/Winfund/EquitySale.php" />
+      <jump line="26" column="34" filename="$USER_HOME$/code/mica/app/Winfund/EquitySale.php" />
+      <jump line="96" column="25" filename="$USER_HOME$/code/mica/app/Winfund/EquitySale.php" />
+      <jump line="223" column="37" filename="$USER_HOME$/code/mica/app/Winfund/EquitySale.php" />
+      <jump line="296" column="4" filename="$USER_HOME$/code/mica/app/Winfund/EquitySale.php" />
+      <jump line="417" column="32" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
+      <jump line="410" column="6" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
+      <jump line="51" column="59" filename="$USER_HOME$/code/mica/tests/unit/Command/GenerateClientWithSameAdnasAndDifferentEmailReportTest.php" />
+      <jump line="58" column="22" filename="$USER_HOME$/code/mica/tests/unit/Command/GenerateClientWithSameAdnasAndDifferentEmailReportTest.php" />
+      <jump line="67" column="70" filename="$USER_HOME$/code/mica/tests/unit/Command/GenerateClientWithSameAdnasAndDifferentEmailReportTest.php" />
+      <jump line="182" column="7" filename="$USER_HOME$/code/mica/tests/unit/Command/ImportExpiredClientTest.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="47" column="18" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="71" column="71" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="109" column="9" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="147" column="9" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="257" column="34" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="301" column="34" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="382" column="41" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="384" column="27" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="386" column="40" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="54" column="4" filename="$USER_HOME$/code/mica/tests/unit/Command/ImportExpiredClientTest.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/mica/tests/unit/Repositories/UserRepositoryTest.php" />
+      <jump line="556" column="35" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="480" column="82" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="486" column="20" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="738" column="0" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
+      <jump line="448" column="22" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
+      <jump line="698" column="23" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
+      <jump line="48" column="0" filename="$USER_HOME$/code/mica/tests/integration/ImportExpiredClientIntegrationTest.php" />
+      <jump line="56" column="4" filename="$USER_HOME$/code/mica/app/Repositories/ClientRepository.php" />
+      <jump line="72" column="27" filename="$USER_HOME$/code/mica/app/Repositories/ClientRepository.php" />
+      <jump line="77" column="30" filename="$USER_HOME$/code/mica/app/Repositories/ClientRepository.php" />
+      <jump line="81" column="33" filename="$USER_HOME$/code/mica/app/Repositories/ClientRepository.php" />
+      <jump line="85" column="9" filename="$USER_HOME$/code/mica/app/Repositories/ClientRepository.php" />
+      <jump line="86" column="21" filename="$USER_HOME$/code/mica/app/Repositories/ClientRepository.php" />
+      <jump line="89" column="71" filename="$USER_HOME$/code/mica/app/Repositories/ClientRepository.php" />
+      <jump line="215" column="23" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
+      <jump line="210" column="19" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
+      <jump line="130" column="0" filename="$USER_HOME$/code/mica/app/Console/Commands/ImportExpiredClient.php" />
+      <jump line="50" column="48" filename="$USER_HOME$/code/mica/app/Console/Commands/ImportExpiredClient.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
+      <jump line="470" column="0" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
+      <jump line="623" column="19" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
+      <jump line="98" column="28" filename="$USER_HOME$/code/mica/app/Winfund/TrustAccount.php" />
+      <jump line="26" column="15" filename="$USER_HOME$/code/mica/tests/unit/Winfund/TrustAccountTest.php" />
+      <jump line="694" column="4" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
+      <jump line="184" column="88" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
+      <jump line="273" column="36" filename="$USER_HOME$/code/mica/database/seeds/WinfundDBMockSeeder.php" />
+      <jump line="34" column="13" filename="$USER_HOME$/code/mica/database/seeds/WinfundDBMockSeeder.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/mica/database/factories/ModelFactory.php" />
+      <jump line="25" column="16" filename="$USER_HOME$/code/mica/database/factories/ModelFactory.php" />
+      <jump line="267" column="60" filename="$USER_HOME$/code/mica/database/seeds/WinfundDBMockSeeder.php" />
+      <jump line="323" column="27" filename="$USER_HOME$/code/mica/database/seeds/WinfundDBMockSeeder.php" />
+      <jump line="335" column="33" filename="$USER_HOME$/code/mica/database/seeds/WinfundDBMockSeeder.php" />
+      <jump line="350" column="60" filename="$USER_HOME$/code/mica/database/seeds/WinfundDBMockSeeder.php" />
+      <jump line="516" column="13" filename="$USER_HOME$/code/mica/database/seeds/WinfundDBMockSeeder.php" />
+      <jump line="524" column="13" filename="$USER_HOME$/code/mica/database/seeds/WinfundDBMockSeeder.php" />
+      <jump line="298" column="93" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
+      <jump line="166" column="33" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
+      <jump line="375" column="12" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
+      <jump line="392" column="28" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
+      <jump line="400" column="23" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
+      <jump line="516" column="23" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
+      <jump line="727" column="36" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
+      <jump line="733" column="23" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
+      <jump line="38" column="20" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
+      <jump line="39" column="23" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
+      <jump line="40" column="23" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
+      <jump line="41" column="23" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
+      <jump line="42" column="23" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
+      <jump line="43" column="20" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
+      <jump line="120" column="20" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
+      <jump line="127" column="22" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
+      <jump line="128" column="22" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
+      <jump line="775" column="0" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
+      <jump line="424" column="0" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
+      <jump line="419" column="24" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
+      <jump line="422" column="40" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
+      <jump line="560" column="27" filename="$USER_HOME$/code/mica/database/seeds/WinfundDBMockSeeder.php" />
+      <jump line="519" column="55" filename="$USER_HOME$/code/mica/database/seeds/WinfundDBMockSeeder.php" />
+      <jump line="37" column="13" filename="$USER_HOME$/code/mica/database/seeds/WinfundDBMockSeeder.php" />
+      <jump line="318" column="60" filename="$USER_HOME$/code/mica/database/seeds/WinfundDBMockSeeder.php" />
+      <jump line="511" column="55" filename="$USER_HOME$/code/mica/database/seeds/WinfundDBMockSeeder.php" />
+      <jump line="518" column="52" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
+      <jump line="519" column="46" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
+      <jump line="522" column="49" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
+      <jump line="85" column="34" filename="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Query/AccountsQueryTest.php" />
+    </jumps>
+    <registers>
+      <register name="a" type="4">
+        <keys>
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="35" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="64" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="126" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="64" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+        </keys>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgkY2xpZW50LT5Db2RlKTsK</text>
+      </register>
+      <register name="j" type="4">
+        <keys>
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="82" mods="130" />
+          <key char="65535" code="82" mods="130" />
+          <key char="65535" code="82" mods="130" />
+          <key char="65535" code="82" mods="130" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="37" mods="130" />
+          <key char="65535" code="40" mods="65" />
+          <key char="65535" code="40" mods="65" />
+          <key char="65535" code="38" mods="65" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="35" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="65535" code="78" mods="130" />
+          <key char="65535" code="78" mods="130" />
+          <key char="65535" code="78" mods="130" />
+          <key char="65535" code="78" mods="130" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="77" mods="130" />
+          <key char="65535" code="27" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="33" code="0" mods="0" />
+          <key char="33" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="33" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="45" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="10" mods="0" />
+        </keys>
+      </register>
+      <register name="-" type="4">
+        <text>product</text>
+      </register>
+      <register name="/" type="4">
+        <text>trust</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">JHRoaXMtPmF0dHJpYnV0ZXNbJ3N5bmNlZF9hdCdd</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="47" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="45" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICovCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICogCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICogCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLyoK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGZ1bmQpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdyZXNvbHZlJyA9PiBmdW5jdGlvbiAoJFFXRSkgewo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgkUVdFKTsK</text>
+      </register>
+      <register name=":" type="4">
+        <text>q</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
-      <show-last>true</show-last>
+      <last-search>trust</last-search>
+      <last-offset />
+      <last-pattern>trust</last-pattern>
+      <last-replace>tax_slip</last-replace>
+      <last-substitute>\.</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry>getCurren</entry>
+        <entry>getcurrentclient</entry>
+        <entry>expired</entry>
+        <entry>setex</entry>
+        <entry>expir</entry>
+        <entry>getuser</entry>
+        <entry>getexpi</entry>
+        <entry>client::</entry>
+        <entry>getact</entry>
+        <entry>isSelf</entry>
+        <entry>trustaccount</entry>
+        <entry>trust_Account</entry>
+        <entry>trustacc</entry>
+        <entry>Exchange</entry>
+        <entry>curre</entry>
+        <entry>groupedtru</entry>
+        <entry>marketvalue</entry>
+        <entry>currency_T</entry>
+        <entry>code</entry>
+        <entry>trust</entry>
+      </history-search>
+      <history-cmd>
+        <entry>nohj</entry>
+        <entry>wq</entry>
+        <entry>547</entry>
+        <entry encoding="base64">c291cmNlIH4vLnZpbXJjIA==</entry>
+        <entry>risk</entry>
+        <entry>603</entry>
+        <entry>59</entry>
+        <entry>moh</entry>
+        <entry>noh</entry>
+        <entry>155</entry>
+        <entry>w</entry>
+        <entry>323</entry>
+        <entry>141</entry>
+        <entry>241</entry>
+        <entry>100</entry>
+        <entry>reg</entry>
+        <entry>248</entry>
+        <entry>175</entry>
+        <entry>1043</entry>
+        <entry>q</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed L</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>

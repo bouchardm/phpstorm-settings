@@ -2,6 +2,40 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*Te.php</mask>
+      <mask>*(.php</mask>
+      <mask>*().php</mask>
+      <mask>*(Te).php</mask>
+      <mask>*(Test).php</mask>
+      <mask>*(?Test).php</mask>
+      <mask>*(?!Test).php</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*((?!my string).).php</mask>
+      <mask>*\.php</mask>
+      <mask>*!test.php</mask>
+      <mask>*!tes.php</mask>
+      <mask>*!te.php</mask>
+      <mask>*!t.php</mask>
+      <mask>*!T.php</mask>
+      <mask>*!Te.php</mask>
+      <mask>*!Test.php</mask>
+      <mask>*!.php</mask>
+      <mask>|*.php</mask>
+      <mask>!*.php</mask>
+      <mask>!T*.php</mask>
+      <mask>!Te*.php</mask>
+      <mask>!Test*.php</mask>
+      <mask>!Test.php</mask>
+      <mask>!*Test.php</mask>
+      <mask>*Test.php</mask>
+      <mask>*.php</mask>
+    </recentFileMasks>
   </component>
 </application>
