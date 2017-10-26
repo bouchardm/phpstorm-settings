@@ -77,6 +77,12 @@
         <mark key="^" line="251" column="38" />
         <mark key="." line="251" column="38" />
       </file>
+      <file name="$USER_HOME$/code/workflow-engine/composer.json" timestamp="1509031806762">
+        <mark key="[" line="25" column="15" />
+        <mark key="]" line="25" column="27" />
+        <mark key="^" line="25" column="27" />
+        <mark key="." line="25" column="27" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/86eee6cc-3a14-406f-a3ca-c6b7ce31fcd3/console.sql" timestamp="1506363904118">
         <mark key="[" line="124" column="51" />
       </file>
@@ -322,6 +328,7 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/code/workflow-engine/vendor/laravel/tinker/composer.json" timestamp="1509031147179" />
       <file name="$USER_HOME$/code/mica/tests/unit/Http/Controllers/Auth/RegisterControllerTest.php" timestamp="1507645034786">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -429,6 +436,11 @@
       <file name="$USER_HOME$/code/mica/resources/lang/en/record.php" timestamp="1508182195114">
         <mark key="[" line="9" column="30" />
       </file>
+      <file name="$USER_HOME$/code/workflow-engine/packages/libeo/workflow/composer.json" timestamp="1509031317844">
+        <mark key="[" line="21" column="26" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/code/mica/tests/features/bootstrap/UsersContext.php" timestamp="1506959734472">
         <mark key="[" line="126" column="47" />
         <mark key="]" line="126" column="46" />
@@ -440,14 +452,7 @@
         <mark key="]" line="61" column="84" />
         <mark key="." line="61" column="84" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" timestamp="1508329070694">
-        <mark key="'" line="522" column="49" />
-        <mark key="[" line="627" column="102" />
-        <mark key="]" line="425" column="0" />
-        <mark key="n" line="184" column="72" />
-        <mark key="." line="425" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1508412465263">
+      <file name="/Dummy.txt" timestamp="1509031356305">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Policies/WinfundClientPolicy.php" timestamp="1505326818120">
@@ -501,6 +506,11 @@
         <mark key="]" line="10" column="27" />
         <mark key="^" line="10" column="27" />
         <mark key="." line="10" column="27" />
+      </file>
+      <file name="$USER_HOME$/code/workflow-engine/config/app.php" timestamp="1509031712924">
+        <mark key="[" line="178" column="0" />
+        <mark key="]" line="178" column="0" />
+        <mark key="." line="178" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Repositories/WinfundRepositoryTest.php" timestamp="1507724830790">
         <mark key="[" line="38" column="55" />
@@ -981,31 +991,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqCiAgICAgKiBAcmV0dXJuIHZvaWQK</text>
+        <text encoding="base64">ICAgICAgICBcTGliZW9cV29ya2Zsb3dcV29ya2Zsb3dTZXJ2aWNlUHJvdmlkZXI6OmNsYXNzLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogUmVnaXN0ZXIgdGhlIGFwcGxpY2F0aW9uIHNlcnZpY2VzLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJMaWJlb1xcV29ya2Zsb3dcXFdvcmtmbG93U2VydmljZVByb3ZpZGVyIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICJsaWNlbnNlIjogIiIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqCiAgICAgKiBAcmV0dXJuIHZvaWQK</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQm9vdHN0cmFwIHRoZSBhcHBsaWNhdGlvbiBzZXJ2aWNlcy4K</text>
+        <text encoding="base64">ICAgICAqCiAgICAgKiBAcmV0dXJuIHZvaWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ21pZGRsZXdhcmUnID0+IGNvbmZpZygnaG9yaXpvbi5taWRkbGV3YXJlJywgJ3dlYicpLAo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogUmVnaXN0ZXIgdGhlIGFwcGxpY2F0aW9uIHNlcnZpY2VzLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ21pZGRsZXdhcmUnID0+IGNvbmZpZygnaG9yaXpvbi5taWRkbGV3YXJlJywgJ3dlYicpLAo=</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqCiAgICAgKiBAcmV0dXJuIHZvaWQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
