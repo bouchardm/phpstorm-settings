@@ -75,6 +75,13 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/86eee6cc-3a14-406f-a3ca-c6b7ce31fcd3/console.sql" timestamp="1506363904118">
         <mark key="[" line="124" column="51" />
       </file>
+      <file name="$USER_HOME$/code/workflow-engine/resources/views/welcome.blade.php" timestamp="1509026938708">
+        <mark key="'" line="89" column="48" />
+        <mark key="[" line="81" column="25" />
+        <mark key="]" line="81" column="24" />
+        <mark key="^" line="81" column="24" />
+        <mark key="." line="81" column="24" />
+      </file>
       <file name="$USER_HOME$/code/dashboard/site/app/Models/Board.php" timestamp="1505479465017">
         <mark key="[" line="144" column="0" />
         <mark key="]" line="144" column="0" />
@@ -493,13 +500,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="522" column="30" filename="$USER_HOME$/code/mica/tests/TestCase.php" />
-      <jump line="96" column="16" filename="$USER_HOME$/code/mica/tests/unit/Repositories/ClientRepositoryTest.php" />
-      <jump line="84" column="4" filename="$USER_HOME$/code/mica/tests/unit/Command/SyncWinfundClientTest.php" />
-      <jump line="134" column="4" filename="$USER_HOME$/code/mica/tests/TestCase.php" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
-      <jump line="52" column="26" filename="$USER_HOME$/code/mica/app/Console/Commands/SyncWinfundClient.php" />
-      <jump line="0" column="11" filename="/dummy.sql" />
       <jump line="57" column="0" filename="$USER_HOME$/code/mica/app/Client.php" />
       <jump line="19" column="0" filename="$USER_HOME$/code/mica/tests/unit/MicaClientTest.php" />
       <jump line="38" column="32" filename="$USER_HOME$/code/mica/app/User.php" />
@@ -593,6 +593,13 @@
       <jump line="519" column="46" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
       <jump line="522" column="49" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
       <jump line="85" column="34" filename="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Query/AccountsQueryTest.php" />
+      <jump line="71" column="56" filename="$USER_HOME$/code/workflow-engine/resources/views/welcome.blade.php" />
+      <jump line="81" column="24" filename="$USER_HOME$/code/workflow-engine/resources/views/welcome.blade.php" />
+      <jump line="7" column="15" filename="$USER_HOME$/code/workflow-engine/resources/views/welcome.blade.php" />
+      <jump line="85" column="37" filename="$USER_HOME$/code/workflow-engine/resources/views/welcome.blade.php" />
+      <jump line="87" column="37" filename="$USER_HOME$/code/workflow-engine/resources/views/welcome.blade.php" />
+      <jump line="88" column="43" filename="$USER_HOME$/code/workflow-engine/resources/views/welcome.blade.php" />
+      <jump line="89" column="48" filename="$USER_HOME$/code/workflow-engine/resources/views/welcome.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -911,7 +918,7 @@
         <text>product</text>
       </register>
       <register name="/" type="4">
-        <text>trust</text>
+        <text>laravel</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">JHRoaXMtPmF0dHJpYnV0ZXNbJ3N5bmNlZF9hdCdd</text>
@@ -983,9 +990,9 @@
       </register>
     </registers>
     <search>
-      <last-search>trust</last-search>
+      <last-search>laravel</last-search>
       <last-offset />
-      <last-pattern>trust</last-pattern>
+      <last-pattern>laravel</last-pattern>
       <last-replace>tax_slip</last-replace>
       <last-substitute>\.</last-substitute>
       <last-dir>1</last-dir>
@@ -993,8 +1000,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getCurren</entry>
-        <entry>getcurrentclient</entry>
         <entry>expired</entry>
         <entry>setex</entry>
         <entry>expir</entry>
@@ -1013,6 +1018,8 @@
         <entry>currency_T</entry>
         <entry>code</entry>
         <entry>trust</entry>
+        <entry>lara</entry>
+        <entry>laravel</entry>
       </history-search>
       <history-cmd>
         <entry>nohj</entry>
