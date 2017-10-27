@@ -289,7 +289,7 @@
         <mark key="^" line="29" column="258" />
         <mark key="." line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/tests/WorkflowSubscriberTest.php" timestamp="1509044713165">
+      <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/tests/WorkflowSubscriberTest.php" timestamp="1509111784629">
         <mark key="[" line="7" column="10" />
         <mark key="]" line="7" column="10" />
         <mark key="." line="7" column="10" />
@@ -376,6 +376,11 @@
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/tests/WorkflowRegistryTest.php" timestamp="1509111984504">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Http/Controllers/Auth/RegisterControllerTest.php" timestamp="1507645034786">
         <mark key="[" line="4" column="0" />
@@ -551,8 +556,16 @@
         <mark key="." line="32" column="27" />
         <mark key="^" line="32" column="27" />
       </file>
-      <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/tests/WorkflowDumpCommandTest.php" timestamp="1509044695947">
-        <mark key="[" line="7" column="28" />
+      <file name="$USER_HOME$/code/mica/qwe.xml" timestamp="1508954724341">
+        <mark key="[" line="16" column="23" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/tests/WorkflowDumpCommandTest.php" timestamp="1509112470045">
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SqlServerGrammar.php" timestamp="1507831400366">
         <mark key="[" line="63" column="48" />
@@ -1046,31 +1059,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEJyZXhpc1xMYXJhdmVsV29ya2Zsb3dcRXZlbnRzXExlYXZlRXZlbnQ7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIExpYmVvXFdvcmtmbG93XFRlc3RzXFVuaXRUZXN0Owo=</text>
+        <text encoding="base64">ZHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogVGltZTogMTo0MSBQTQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogRGF0ZTogMjYvMTAvMTcK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZmFpbCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogVXNlcjogbWFyY2FibQo=</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBQaHBTdG9ybS4K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBmYWlscXdlKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgIC8qKiBAdGVzdCAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
