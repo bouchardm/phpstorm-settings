@@ -48,11 +48,14 @@
         <mark key="." line="34" column="21" />
         <mark key="^" line="34" column="21" />
       </file>
+      <file name="$USER_HOME$/code/mica/config/auth.php" timestamp="1508954512788" />
       <file name="$USER_HOME$/code/mica/resources/lang/fr/fields.php" timestamp="1508265999430">
         <mark key="[" line="71" column="31" />
       </file>
-      <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Facades/WorkflowFacade.php" timestamp="1509044155555">
-        <mark key="[" line="2" column="16" />
+      <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Facades/WorkflowFacade.php" timestamp="1509124815870">
+        <mark key="[" line="15" column="26" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/client/Transactions.vue" timestamp="1508183725606">
         <mark key="[" line="251" column="39" />
@@ -100,6 +103,7 @@
         <mark key="]" line="145" column="0" />
         <mark key="." line="145" column="0" />
       </file>
+      <file name="$USER_HOME$/code/workflow-engine/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" timestamp="1509125143308" />
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/client/navigation/ClientSelector.vue" timestamp="1508270191955">
         <mark key="[" line="8" column="47" />
         <mark key="]" line="8" column="46" />
@@ -125,10 +129,10 @@
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Events/EnterEvent.php" timestamp="1509044126419">
         <mark key="[" line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Commands/WorkflowDumpCommand.php" timestamp="1509116532089">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Commands/WorkflowDumpCommand.php" timestamp="1509125074325">
+        <mark key="[" line="44" column="50" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Repositories/WinfundRepository.php" timestamp="1507733072746">
         <mark key="[" line="33" column="68" />
@@ -195,6 +199,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/code/workflow-engine/.gitignore" timestamp="1509038708265" />
       <file name="$USER_HOME$/code/mica/app/Console/Commands/ImportExpiredClient.php" timestamp="1508243016703">
         <mark key="[" line="37" column="9" />
         <mark key="]" line="39" column="21" />
@@ -330,6 +335,7 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/code/workflow-engine/vendor/laravel/tinker/composer.json" timestamp="1509031147179" />
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/tests/WorkflowRegistryTest.php" timestamp="1509111984504">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -500,15 +506,17 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/tests/WorkflowDumpCommandTest.php" timestamp="1509119169781">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/tests/WorkflowDumpCommandTest.php" timestamp="1509125145358">
+        <mark key="[" line="26" column="21" />
+        <mark key="]" line="26" column="15" />
+        <mark key="." line="26" column="15" />
+        <mark key="^" line="26" column="15" />
       </file>
-      <file name="$USER_HOME$/code/workflow-engine/vendor/symfony/workflow/Workflow.php" timestamp="1509119199745">
-        <mark key="[" line="308" column="5" />
-        <mark key="]" line="314" column="0" />
-        <mark key="." line="314" column="0" />
+      <file name="$USER_HOME$/code/workflow-engine/vendor/symfony/workflow/Workflow.php" timestamp="1509124390322">
+        <mark key="'" line="183" column="20" />
+        <mark key="[" line="309" column="0" />
+        <mark key="]" line="309" column="0" />
+        <mark key="." line="309" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SqlServerGrammar.php" timestamp="1507831400366">
         <mark key="[" line="63" column="48" />
@@ -538,6 +546,7 @@
         <mark key="]" line="122" column="0" />
         <mark key="." line="122" column="0" />
       </file>
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/admin/clients/Clients.vue" timestamp="1508771509286" />
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/fields/AccountPicker.vue" timestamp="1508249760102">
         <mark key="[" line="14" column="81" />
         <mark key="]" line="14" column="79" />
@@ -546,26 +555,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="70" filename="$USER_HOME$/code/mica/tests/unit/Command/GenerateClientWithSameAdnasAndDifferentEmailReportTest.php" />
-      <jump line="182" column="7" filename="$USER_HOME$/code/mica/tests/unit/Command/ImportExpiredClientTest.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/mica/app/User.php" />
-      <jump line="47" column="18" filename="$USER_HOME$/code/mica/app/User.php" />
-      <jump line="71" column="71" filename="$USER_HOME$/code/mica/app/User.php" />
-      <jump line="109" column="9" filename="$USER_HOME$/code/mica/app/User.php" />
-      <jump line="147" column="9" filename="$USER_HOME$/code/mica/app/User.php" />
-      <jump line="257" column="34" filename="$USER_HOME$/code/mica/app/User.php" />
-      <jump line="301" column="34" filename="$USER_HOME$/code/mica/app/User.php" />
-      <jump line="382" column="41" filename="$USER_HOME$/code/mica/app/User.php" />
-      <jump line="384" column="27" filename="$USER_HOME$/code/mica/app/User.php" />
-      <jump line="386" column="40" filename="$USER_HOME$/code/mica/app/User.php" />
-      <jump line="54" column="4" filename="$USER_HOME$/code/mica/tests/unit/Command/ImportExpiredClientTest.php" />
-      <jump line="1" column="0" filename="$USER_HOME$/code/mica/tests/unit/Repositories/UserRepositoryTest.php" />
-      <jump line="556" column="35" filename="$USER_HOME$/code/mica/app/User.php" />
-      <jump line="480" column="82" filename="$USER_HOME$/code/mica/app/User.php" />
-      <jump line="486" column="20" filename="$USER_HOME$/code/mica/app/User.php" />
-      <jump line="738" column="0" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
-      <jump line="448" column="22" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
-      <jump line="698" column="23" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
       <jump line="48" column="0" filename="$USER_HOME$/code/mica/tests/integration/ImportExpiredClientIntegrationTest.php" />
       <jump line="56" column="4" filename="$USER_HOME$/code/mica/app/Repositories/ClientRepository.php" />
       <jump line="72" column="27" filename="$USER_HOME$/code/mica/app/Repositories/ClientRepository.php" />
@@ -646,6 +635,26 @@
       <jump line="194" column="11" filename="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/vendor/symfony/workflow/Workflow.php" />
       <jump line="202" column="11" filename="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/vendor/symfony/workflow/Workflow.php" />
       <jump line="11" column="4" filename="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/WorkflowRegistry.php" />
+      <jump line="309" column="0" filename="$USER_HOME$/code/workflow-engine/vendor/symfony/workflow/Workflow.php" />
+      <jump line="49" column="20" filename="$USER_HOME$/code/workflow-engine/vendor/symfony/workflow/Workflow.php" />
+      <jump line="51" column="40" filename="$USER_HOME$/code/workflow-engine/vendor/symfony/workflow/Workflow.php" />
+      <jump line="58" column="23" filename="$USER_HOME$/code/workflow-engine/vendor/symfony/workflow/Workflow.php" />
+      <jump line="59" column="36" filename="$USER_HOME$/code/workflow-engine/vendor/symfony/workflow/Workflow.php" />
+      <jump line="62" column="46" filename="$USER_HOME$/code/workflow-engine/vendor/symfony/workflow/Workflow.php" />
+      <jump line="69" column="37" filename="$USER_HOME$/code/workflow-engine/vendor/symfony/workflow/Workflow.php" />
+      <jump line="70" column="27" filename="$USER_HOME$/code/workflow-engine/vendor/symfony/workflow/Workflow.php" />
+      <jump line="94" column="30" filename="$USER_HOME$/code/workflow-engine/vendor/symfony/workflow/Workflow.php" />
+      <jump line="97" column="49" filename="$USER_HOME$/code/workflow-engine/vendor/symfony/workflow/Workflow.php" />
+      <jump line="118" column="30" filename="$USER_HOME$/code/workflow-engine/vendor/symfony/workflow/Workflow.php" />
+      <jump line="120" column="31" filename="$USER_HOME$/code/workflow-engine/vendor/symfony/workflow/Workflow.php" />
+      <jump line="121" column="22" filename="$USER_HOME$/code/workflow-engine/vendor/symfony/workflow/Workflow.php" />
+      <jump line="123" column="40" filename="$USER_HOME$/code/workflow-engine/vendor/symfony/workflow/Workflow.php" />
+      <jump line="128" column="49" filename="$USER_HOME$/code/workflow-engine/vendor/symfony/workflow/Workflow.php" />
+      <jump line="161" column="20" filename="$USER_HOME$/code/workflow-engine/vendor/symfony/workflow/Workflow.php" />
+      <jump line="164" column="26" filename="$USER_HOME$/code/workflow-engine/vendor/symfony/workflow/Workflow.php" />
+      <jump line="166" column="36" filename="$USER_HOME$/code/workflow-engine/vendor/symfony/workflow/Workflow.php" />
+      <jump line="175" column="20" filename="$USER_HOME$/code/workflow-engine/vendor/symfony/workflow/Workflow.php" />
+      <jump line="183" column="20" filename="$USER_HOME$/code/workflow-engine/vendor/symfony/workflow/Workflow.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -961,13 +970,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>static</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTeW1mb255XD4=</text>
+        <text>get</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Um91dGU6Omdyb3VwKFsKICAgICAgICAgICAgJ3ByZWZpeCcgPT4gJ3dvcmtmbG93JywKICAgICAgICAgICAgJ25hbWVzcGFjZScgPT4gJ0xpYmVvXFdvcmtmbG93XEh0dHBcQ29udHJvbGxlcnMnLAogICAgICAgIF0sIGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgJHRoaXMtPmxvYWRSb3V0ZXNGcm9tKF9fRElSX18uJy8uLi9yb3V0ZXMvd2ViLnBocCcpOwogICAgICAgIH0pOw==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB9IAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1008,40 +1017,40 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgXAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gZ2V0KCRvYmplY3QsICRuYW1lKXsKICAgICAgICBkZCgiU0RGU0RGIik7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">Q29uZmlnOjpzd2FwKG5ldyBjbGFzcyB7CiAgICAgICAgICAgICAgICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIGdldCgkbmFtZSkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAgICAgICAgICAgICAnc3RyYWlnaHQnICAgPT4gWwogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3N1cHBvcnRzJyAgICAgID0+IFsnVGVzdHNcRml4dHVyZXNcVGVzdE9iamVjdCddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3BsYWNlcycgICAgICAgID0+IFsnYScsICdiJywgJ2MnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICd0cmFuc2l0aW9ucycgICA9PiBbCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3QxJyA9PiBbCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdmcm9tJyA9PiAnYScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICd0bycgICA9PiAnYicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAndDInID0+IFsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2Zyb20nID0+ICdiJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3RvJyAgID0+ICdjJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICAgICAgXTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk7</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVzZSBJbGx1bWluYXRlXFN1cHBvcnRcRmFjYWRlc1xDb25maWc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgTW9ja2VyeTo6bW9jayhcQ29uZmlnOjpjbGFzcyktPm1ha2VQYXJ0aWFsKCktPnNob3VsZFJlY2VpdmUoJ2dldCcpLT5hbmRSZXR1cm4oWydxd2UnXSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgiU0RGU0RGIik7Cg==</text>
+        <text encoding="base64">dXNlIFdvcmtmbG93Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gZ2V0KCRxd2UsICRxd2UpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAvKioK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0KCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiAnd29ya2Zsb3cnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTeW1mb255XD4=</last-search>
+      <last-search>get</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTeW1mb255XD4=</last-pattern>
+      <last-pattern>get</last-pattern>
       <last-replace>tax_slip</last-replace>
       <last-substitute>\.</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -1063,9 +1072,9 @@
         <entry>trust</entry>
         <entry>lara</entry>
         <entry>laravel</entry>
-        <entry>get</entry>
         <entry>function get</entry>
         <entry encoding="base64">XDxTeW1mb255XD4=</entry>
+        <entry>get</entry>
       </history-search>
       <history-cmd>
         <entry>nohj</entry>
