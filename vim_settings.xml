@@ -19,6 +19,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/tests/Fixtures/TestObject.php" timestamp="1509364232216">
+        <mark key="[" line="6" column="1" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Winfund/TrustAccountTest.php" timestamp="1508248763669">
         <mark key="[" line="23" column="39" />
         <mark key="]" line="23" column="35" />
@@ -52,10 +58,10 @@
       <file name="$USER_HOME$/code/mica/resources/lang/fr/fields.php" timestamp="1508265999430">
         <mark key="[" line="71" column="31" />
       </file>
-      <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Facades/WorkflowFacade.php" timestamp="1509133806538">
-        <mark key="[" line="19" column="58" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Facades/WorkflowFacade.php" timestamp="1509363481409">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/client/Transactions.vue" timestamp="1508183725606">
         <mark key="[" line="251" column="39" />
@@ -63,8 +69,11 @@
         <mark key="^" line="251" column="38" />
         <mark key="." line="251" column="38" />
       </file>
-      <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Traits/WorkflowTrait.php" timestamp="1509118990298">
-        <mark key="[" line="2" column="16" />
+      <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Traits/WorkflowTrait.php" timestamp="1509364169185">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="18" column="28" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/composer.json" timestamp="1509116460614">
         <mark key="[" line="11" column="35" />
@@ -129,7 +138,7 @@
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Events/EnterEvent.php" timestamp="1509044126419">
         <mark key="[" line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Commands/WorkflowDumpCommand.php" timestamp="1509133787741">
+      <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Commands/WorkflowDumpCommand.php" timestamp="1509363450332">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="^" line="41" column="36" />
@@ -236,10 +245,10 @@
         <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Events/WorkflowSubscriber.php" timestamp="1509133798733">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="18" column="24" />
-        <mark key="." line="14" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="20" column="24" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/composer.json" timestamp="1509116435616">
         <mark key="[" line="1" column="19" />
@@ -508,7 +517,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/tests/WorkflowDumpCommandTest.php" timestamp="1509131823539">
+      <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/tests/WorkflowDumpCommandTest.php" timestamp="1509363374979">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="^" line="6" column="0" />
@@ -987,31 +996,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGRkKFxJbGx1bWluYXRlXFN1cHBvcnRcRmFjYWRlc1xFdmVudDo6KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Ly91c2UgU3ltZm9ueVxDb21wb25lbnRcV29ya2Zsb3dcV29ya2Zsb3c7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly91c2UgU3ltZm9ueVxDb21wb25lbnRcV29ya2Zsb3dcV29ya2Zsb3cgYXMgU3luZm9ueVdvcmtmbG93Owo=</text>
+        <text encoding="base64">Ly91c2UgV29ya2Zsb3c7Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly91c2UgSWxsdW1pbmF0ZVxTdXBwb3J0XEZhY2FkZXNcQ29uZmlnOwo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly91c2UgQ29uZmlnOwo=</text>
+        <text encoding="base64">LyoqCiAqIEBhdXRob3IgQm9yaXMgS291bW9uZGppIDxMaWJlb0B5YWhvby5mcj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGRkKGdldF9jbGFzc19tZXRob2RzKFdvcmtmbG93OjpjbGFzcykpOwo=</text>
+        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XFdvcmtmbG93XFdvcmtmbG93Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkb3JkZXIK</text>
+        <text encoding="base64">Ly8gICAgICAgIGRkKFxJbGx1bWluYXRlXFN1cHBvcnRcRmFjYWRlc1xFdmVudDo6KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly91c2UgU3ltZm9ueVxDb21wb25lbnRcV29ya2Zsb3dcV29ya2Zsb3c7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly91c2UgU3ltZm9ueVxDb21wb25lbnRcV29ya2Zsb3dcV29ya2Zsb3cgYXMgU3luZm9ueVdvcmtmbG93Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
