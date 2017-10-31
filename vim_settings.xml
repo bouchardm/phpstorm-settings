@@ -15,6 +15,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/code/mica/app/Http/Controllers/User/AccountController.php" timestamp="1509464332477">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="^" line="89" column="41" />
+        <mark key="." line="72" column="0" />
+      </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Winfund/TrustAccountTest.php" timestamp="1508248763669">
         <mark key="[" line="23" column="39" />
         <mark key="]" line="23" column="35" />
@@ -86,11 +92,11 @@
         <mark key="." line="10" column="15" />
         <mark key="^" line="10" column="15" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/views/pdf/accounts/statement.blade.php" timestamp="1509460283071">
-        <mark key="[" line="99" column="38" />
-        <mark key="]" line="211" column="62" />
-        <mark key="^" line="211" column="62" />
-        <mark key="." line="211" column="62" />
+      <file name="$USER_HOME$/code/mica/resources/views/pdf/accounts/statement.blade.php" timestamp="1509464596150">
+        <mark key="[" line="259" column="70" />
+        <mark key="]" line="261" column="61" />
+        <mark key="." line="261" column="61" />
+        <mark key="^" line="261" column="61" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" timestamp="1509125143308" />
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/client/navigation/ClientSelector.vue" timestamp="1508270191955">
@@ -218,6 +224,9 @@
         <mark key="^" line="13" column="4" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/code/mica/app/Winfund/EquityProduct.php" timestamp="1509462211386">
+        <mark key="'" line="55" column="21" />
+      </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/WorkflowServiceProvider.php" timestamp="1509377433376">
         <mark key="[" line="30" column="30" />
         <mark key="]" line="8" column="26" />
@@ -282,6 +291,9 @@
         <mark key="." line="13" column="47" />
       </file>
       <file name="$USER_HOME$/code/mica/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1509459732819" />
+      <file name="$USER_HOME$/code/workflow-engine/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php" timestamp="1509453668135">
+        <mark key="'" line="172" column="27" />
+      </file>
       <file name="$USER_HOME$/code/mica/resources/lang/en/passwords.php" timestamp="1503946054034">
         <mark key="[" line="19" column="118" />
       </file>
@@ -428,9 +440,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="9" filename="$USER_HOME$/code/mica/app/Repositories/ClientRepository.php" />
-      <jump line="86" column="21" filename="$USER_HOME$/code/mica/app/Repositories/ClientRepository.php" />
-      <jump line="89" column="71" filename="$USER_HOME$/code/mica/app/Repositories/ClientRepository.php" />
       <jump line="215" column="23" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
       <jump line="210" column="19" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
       <jump line="130" column="0" filename="$USER_HOME$/code/mica/app/Console/Commands/ImportExpiredClient.php" />
@@ -528,6 +537,9 @@
       <jump line="42" column="17" filename="$USER_HOME$/code/workflow-engine/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php" />
       <jump line="97" column="35" filename="$USER_HOME$/code/workflow-engine/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php" />
       <jump line="172" column="27" filename="$USER_HOME$/code/workflow-engine/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/mica/app/Winfund/EquityProduct.php" />
+      <jump line="29" column="19" filename="$USER_HOME$/code/mica/app/Winfund/EquityProduct.php" />
+      <jump line="55" column="21" filename="$USER_HOME$/code/mica/app/Winfund/EquityProduct.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -843,10 +855,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>key</text>
       </register>
       <register name="/" type="4">
-        <text>casts</text>
+        <text>is</text>
       </register>
       <register name="0" type="4">
         <text>t</text>
@@ -858,40 +870,40 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAkdGFibGUtPnJlbWVtYmVyVG9rZW4oKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkYWNjb3VudHMpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAkdGFibGUtPnN0cmluZygncGFzc3dvcmQnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAkdGFibGUtPnN0cmluZygnZW1haWwnKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkYWNjb3VudHMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAkdGFibGUtPnN0cmluZygndXNlcm5hbWUnKS0+dW5pcXVlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkYWNjb3VudFsnaXNVU0QnXSA9IHRydWU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGRkKCJTREZTREYiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRhY2NvdW50Wydpc1VTRCddID0gZmFsc2U7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkb2JqZWN0LT5tYXJraW5nKTtkZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGFjY291bnRzWyRrZXldWydxd2Vxd2UnXT0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkZmlsbGFibGUgPSBbJ21hcmtpbmcnXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGFjY291bnRbJ1FXRVFXRVFXRVFXRVFXRSddID0gJ1FXRVFXRVFXRVEnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXJyYXlfc2V0KCRhY2NvdW50LCAncXdlcXdlcXdlJywgJ3F3ZXF3ZXF3ZScpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>casts</last-search>
+      <last-search>is</last-search>
       <last-offset />
-      <last-pattern>casts</last-pattern>
+      <last-pattern>is</last-pattern>
       <last-replace>tax_slip</last-replace>
       <last-substitute>\.</last-substitute>
       <last-dir>1</last-dir>
@@ -899,8 +911,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getexpi</entry>
-        <entry>client::</entry>
         <entry>getact</entry>
         <entry>isSelf</entry>
         <entry>trustaccount</entry>
@@ -919,6 +929,8 @@
         <entry encoding="base64">XDxTeW1mb255XD4=</entry>
         <entry>get</entry>
         <entry>casts</entry>
+        <entry>usd</entry>
+        <entry>is</entry>
       </history-search>
       <history-cmd>
         <entry>nohj</entry>
