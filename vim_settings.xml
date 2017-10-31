@@ -161,8 +161,10 @@
         <mark key="]" line="145" column="0" />
         <mark key="." line="145" column="0" />
       </file>
-      <file name="$USER_HOME$/code/workflow-engine/app/User.php" timestamp="1509453810815">
-        <mark key="[" line="52" column="28" />
+      <file name="$USER_HOME$/code/workflow-engine/app/User.php" timestamp="1509454724947">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" timestamp="1509125143308" />
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/client/navigation/ClientSelector.vue" timestamp="1508270191955">
@@ -1125,31 +1127,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgXTsK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgICAgICdtYXJraW5nJyA9PiAnYXJyYXknCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgcHJvdGVjdGVkICRjYXN0cyA9IFsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBkZDsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text encoding="base64">aWYgKCR0aGlzLT5nZXRJbmNyZW1lbnRpbmcoKSkgewogICAgICAgICAgICByZXR1cm4gYXJyYXlfbWVyZ2UoWyR0aGlzLT5nZXRLZXlOYW1lKCkgPT4gJHRoaXMtPmdldEtleVR5cGUoKV0sICR0aGlzLT5jYXN0cyk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gJHRoaXMtPmNhc3Rz</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>public function __call($name, $arguments)
     {
         // TODO: Implement __call() method.
     }</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">aWYgKCR0aGlzLT5nZXRJbmNyZW1lbnRpbmcoKSkgewogICAgICAgICAgICByZXR1cm4gYXJyYXlfbWVyZ2UoWyR0aGlzLT5nZXRLZXlOYW1lKCkgPT4gJHRoaXMtPmdldEtleVR5cGUoKV0sICR0aGlzLT5jYXN0cyk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gJHRoaXMtPmNhc3RzOw==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
