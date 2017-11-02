@@ -49,8 +49,8 @@
         <mark key="^" line="89" column="41" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/tests/unit/Workflow/WorkflowRegistryTest.php" timestamp="1509559268907">
-        <mark key="[" line="8" column="0" />
+      <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/tests/unit/Workflow/WorkflowRegistryTest.php" timestamp="1509653123796">
+        <mark key="[" line="147" column="45" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="2" column="28" />
         <mark key="." line="8" column="0" />
