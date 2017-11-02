@@ -90,10 +90,10 @@
         <mark key="." line="34" column="21" />
         <mark key="^" line="34" column="21" />
       </file>
-      <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Models/Marking.php" timestamp="1509571137668">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Models/Marking.php" timestamp="1509651204572">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/tests/unit/WorkflowRegistryTest.php" timestamp="1509538937119">
         <mark key="[" line="6" column="0" />
@@ -1188,31 +1188,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICoge0Bpbmhlcml0ZG9jfQo=</text>
+        <text encoding="base64">Ly8gIHVzZSBJbGx1bWluYXRlXERhdGFiYXNlXEVsb3F1ZW50XE1vZGVsOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBzdHJpbmcK</text>
+        <text encoding="base64">Ly8gdXNlIElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcTW9kZWw7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGR1bXAoJHN1YmplY3QtPnskdGhpcy0+cHJvcGVydHl9KCktPmZpcnN0KCktPnZhbHVlID8/IG51bGwpOwo=</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICoge0Bpbmhlcml0ZG9jfQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAqLwo=</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBzdHJpbmcK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8gICAgICAgIGR1bXAoJHN1YmplY3QtPnskdGhpcy0+cHJvcGVydHl9KCktPmZpcnN0KCktPnZhbHVlID8/IG51bGwpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
