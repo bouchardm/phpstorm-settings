@@ -27,6 +27,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/vendor/symfony/workflow/Definition.php" timestamp="1509716393974" />
       <file name="$USER_HOME$/code/mica/config/auth.php" timestamp="1508954512788" />
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_8.php" timestamp="1509559135075" />
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/client/Transactions.vue" timestamp="1508183725606">
@@ -84,6 +85,9 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Workflow/Transition.php" timestamp="1509716832597">
+        <mark key="[" line="16" column="0" />
       </file>
       <file name="/a.sql" timestamp="1507839843169">
         <mark key="[" line="0" column="0" />
@@ -148,8 +152,8 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/vendor/symfony/workflow/Workflow.php" timestamp="1509711179481">
-        <mark key="'" line="202" column="11" />
+      <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/vendor/symfony/workflow/Workflow.php" timestamp="1509715769618">
+        <mark key="'" line="136" column="18" />
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
@@ -271,12 +275,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Workflow/WorkflowRegistry.php" timestamp="1509713417475">
-        <mark key="'" line="58" column="143" />
-        <mark key="[" line="66" column="9" />
-        <mark key="]" line="58" column="150" />
-        <mark key="." line="58" column="150" />
-        <mark key="^" line="58" column="150" />
+      <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Workflow/WorkflowRegistry.php" timestamp="1509716704780">
+        <mark key="'" line="66" column="143" />
+        <mark key="[" line="40" column="41" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/vendor/symfony/property-access/PropertyAccessor.php" timestamp="1509557522766" />
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" timestamp="1509570686872">
@@ -345,11 +348,11 @@
         <mark key="^" line="89" column="41" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/tests/unit/Workflow/WorkflowRegistryTest.php" timestamp="1509713387195">
-        <mark key="[" line="150" column="30" />
-        <mark key="]" line="150" column="34" />
-        <mark key="^" line="150" column="34" />
-        <mark key="." line="150" column="34" />
+      <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/tests/unit/Workflow/WorkflowRegistryTest.php" timestamp="1509716496743">
+        <mark key="[" line="150" column="53" />
+        <mark key="]" line="127" column="49" />
+        <mark key="^" line="127" column="49" />
+        <mark key="." line="127" column="49" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Winfund/TrustAccountTest.php" timestamp="1508248763669">
         <mark key="[" line="23" column="39" />
@@ -515,10 +518,10 @@
         <mark key="^" line="202" column="42" />
         <mark key="." line="202" column="42" />
       </file>
-      <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Workflow/DefinitionBuilder.php" timestamp="1509714139517">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Workflow/DefinitionBuilder.php" timestamp="1509716565827">
+        <mark key="[" line="20" column="5" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="/fragment.php" timestamp="1501766236245">
         <mark key="[" line="0" column="0" />
@@ -774,7 +777,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="267" column="60" filename="$USER_HOME$/code/mica/database/seeds/WinfundDBMockSeeder.php" />
       <jump line="323" column="27" filename="$USER_HOME$/code/mica/database/seeds/WinfundDBMockSeeder.php" />
       <jump line="335" column="33" filename="$USER_HOME$/code/mica/database/seeds/WinfundDBMockSeeder.php" />
       <jump line="350" column="60" filename="$USER_HOME$/code/mica/database/seeds/WinfundDBMockSeeder.php" />
@@ -874,6 +876,7 @@
       <jump line="701" column="4" filename="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
       <jump line="68" column="19" filename="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Workflow/WorkflowRegistry.php" />
       <jump line="58" column="143" filename="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Workflow/WorkflowRegistry.php" />
+      <jump line="136" column="18" filename="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/vendor/symfony/workflow/Workflow.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1192,7 +1195,7 @@
         <text>Workflow</text>
       </register>
       <register name="/" type="4">
-        <text>term</text>
+        <text encoding="base64">XDx0cmFuc2l0aW9uc1w+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">YXJyYXlfZmlsbF9rZXlzKCRzdWJqZWN0LT5tYXJraW5ncygpLT5nZXQoKS0+cGx1Y2soJ3ZhbHVlJyktPnRvQXJyYXkoKSwgMSk=</text>
@@ -1204,48 +1207,47 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PD9waHAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCR0cmFuc2l0aW9uKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogVGltZTogODo1NCBBTQogKi8K</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogVXNlcjogbWFyY2FibQogKiBEYXRlOiAwMy8xMS8xNwo=</text>
+        <text encoding="base64">ICogVGltZTogOTo0MyBBTQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgUGhwU3Rvcm0uCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkd29ya2Zsb3dEYXRhKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICogVGltZTogODoxNiBBTQogKi8K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICogVXNlcjogbWFyY2FibQogKiBEYXRlOiAwMy8xMS8xNwo=</text>
       </register>
-      <register name="9" type="2">
+      <register name="5" type="2">
         <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgUGhwU3Rvcm0uCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgiU0RGU0RGIik7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50OjphZGRUcmFuc2l0aW9ucygkdHJhbnNpdGlvbnMpOyAvLyBUT0RPOiBDaGFuZ2UgdGhlIGF1dG9nZW5lcmF0ZWQgc3R1YgogICAgfQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBhZGRUcmFuc2l0aW9ucyhhcnJheSAkdHJhbnNpdGlvbnMpCiAgICB7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>term</last-search>
+      <last-search encoding="base64">XDx0cmFuc2l0aW9uc1w+</last-search>
       <last-offset />
-      <last-pattern>term</last-pattern>
+      <last-pattern encoding="base64">XDx0cmFuc2l0aW9uc1w+</last-pattern>
       <last-replace>tax_slip</last-replace>
       <last-substitute>\.</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>isSelf</entry>
         <entry>trustaccount</entry>
         <entry>trust_Account</entry>
         <entry>trustacc</entry>
@@ -1265,6 +1267,7 @@
         <entry>usd</entry>
         <entry>is</entry>
         <entry>term</entry>
+        <entry encoding="base64">XDx0cmFuc2l0aW9uc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>nohj</entry>
