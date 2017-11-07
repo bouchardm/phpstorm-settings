@@ -15,9 +15,6 @@
         <mark key="." line="21" column="50" />
         <mark key="^" line="21" column="50" />
       </file>
-      <file name="/Client.php" timestamp="1510079538421">
-        <mark key="'" line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/code/mica/config/mica.php" timestamp="1510080100959">
         <mark key="[" line="24" column="16" />
         <mark key="]" line="24" column="16" />
@@ -59,9 +56,6 @@
         <mark key="]" line="10" column="15" />
         <mark key="." line="10" column="15" />
         <mark key="^" line="10" column="15" />
-      </file>
-      <file name="$USER_HOME$/code/mica/app/Winfund/Client.php" timestamp="1510079546210">
-        <mark key="'" line="33" column="33" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" timestamp="1509125143308" />
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/vendor/orchestra/testbench-core/laravel/config/database.php" timestamp="1509542972632">
@@ -125,9 +119,6 @@
         <mark key="]" line="40" column="51" />
         <mark key="." line="40" column="51" />
         <mark key="^" line="40" column="51" />
-      </file>
-      <file name="$USER_HOME$/code/mica/app/Winfund/EquityProduct.php" timestamp="1509462211386">
-        <mark key="'" line="55" column="21" />
       </file>
       <file name="$USER_HOME$/code/CSQ-Sitebuilder/public/index.php" timestamp="1510082985732">
         <mark key="[" line="0" column="0" />
@@ -395,7 +386,7 @@
         <mark key="^" line="6" column="6" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/start.sh" timestamp="1510064934464" />
-      <file name="$USER_HOME$/code/workflow-engine/Dockerfile" timestamp="1510064998384" />
+      <file name="$USER_HOME$/code/workflow-engine/Dockerfile" timestamp="1510087396345" />
       <file name="$USER_HOME$/code/mica/resources/lang/en/fields.php" timestamp="1508266102095">
         <mark key="[" line="69" column="25" />
         <mark key="]" line="69" column="36" />
@@ -415,9 +406,6 @@
         <mark key="[" line="57" column="35" />
       </file>
       <file name="$USER_HOME$/code/mica/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1509459732819" />
-      <file name="$USER_HOME$/code/workflow-engine/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php" timestamp="1509453668135">
-        <mark key="'" line="172" column="27" />
-      </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Workflow/Contracts/TransitionEvent.php" timestamp="1509998221240">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="12" column="0" />
