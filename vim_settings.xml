@@ -218,13 +218,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/WorkflowRegistry.php" timestamp="1509459342139">
-        <mark key="'" line="65" column="23" />
-        <mark key="[" line="76" column="36" />
-        <mark key="]" line="76" column="35" />
-        <mark key="." line="76" column="35" />
-        <mark key="^" line="76" column="35" />
-      </file>
       <file name="$USER_HOME$/code/workflow-engine/config/database.php" timestamp="1509451563087">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -283,12 +276,9 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Workflow/WorkflowRegistry.php" timestamp="1510066523817">
-        <mark key="'" line="58" column="143" />
-        <mark key="[" line="112" column="41" />
-        <mark key="]" line="112" column="49" />
-        <mark key="." line="112" column="49" />
-        <mark key="^" line="112" column="49" />
+      <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Workflow/WorkflowRegistry.php" timestamp="1510072190314">
+        <mark key="'" line="86" column="143" />
+        <mark key="[" line="56" column="5" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/vendor/symfony/property-access/PropertyAccessor.php" timestamp="1509557522766" />
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/vendor/orchestra/testbench-core/src/Traits/WithLoadMigrationsFrom.php" timestamp="1509455789518" />
@@ -597,13 +587,6 @@
         <mark key="]" line="69" column="36" />
         <mark key="^" line="69" column="36" />
         <mark key="." line="69" column="36" />
-      </file>
-      <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Workflow/MarkingStore/MultipleStateMarkingStore.php" timestamp="1509625637268">
-        <mark key="'" line="19" column="27" />
-        <mark key="[" line="17" column="40" />
-        <mark key="]" line="17" column="49" />
-        <mark key="^" line="17" column="49" />
-        <mark key="." line="17" column="49" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/vendor/laravel/tinker/composer.json" timestamp="1509031147179" />
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/tests/unit/WorkflowSubscriberTest.php" timestamp="1510071173902">
