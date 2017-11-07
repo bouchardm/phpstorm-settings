@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1509717956395">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Events/LeaveEvent.php" timestamp="1509364397027">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -23,10 +20,19 @@
         <mark key="." line="21" column="50" />
         <mark key="^" line="21" column="50" />
       </file>
+      <file name="/Client.php" timestamp="1510079538421">
+        <mark key="'" line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Common/Scalar/DateType.php" timestamp="1506699736058">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/config/mica.php" timestamp="1510080100959">
+        <mark key="[" line="24" column="16" />
+        <mark key="]" line="24" column="16" />
+        <mark key="^" line="24" column="16" />
+        <mark key="." line="24" column="16" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/vendor/symfony/workflow/Definition.php" timestamp="1509716393974" />
       <file name="$USER_HOME$/code/mica/config/auth.php" timestamp="1508954512788" />
@@ -74,6 +80,9 @@
         <mark key="[" line="261" column="0" />
         <mark key="]" line="261" column="0" />
         <mark key="." line="261" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Winfund/Client.php" timestamp="1510079546210">
+        <mark key="'" line="33" column="33" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" timestamp="1509125143308" />
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/vendor/orchestra/testbench-core/laravel/config/database.php" timestamp="1509542972632">
@@ -197,11 +206,19 @@
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/dashboard/Account.vue" timestamp="1508182457613">
         <mark key="[" line="15" column="30" />
       </file>
-      <file name="$USER_HOME$/code/mica/phpunit.xml" timestamp="1509455286052" />
+      <file name="$USER_HOME$/code/mica/phpunit.xml" timestamp="1510080263105">
+        <mark key="[" line="40" column="39" />
+        <mark key="]" line="40" column="51" />
+        <mark key="." line="40" column="51" />
+        <mark key="^" line="40" column="51" />
+      </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasRelationships.php" timestamp="1509549898292">
         <mark key="[" line="273" column="0" />
         <mark key="]" line="273" column="0" />
         <mark key="." line="273" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Winfund/EquityProduct.php" timestamp="1509462211386">
+        <mark key="'" line="55" column="21" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Events/BaseEvent.php" timestamp="1509377469553">
         <mark key="[" line="16" column="0" />
@@ -333,9 +350,6 @@
         <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/vendor/symfony/workflow/MarkingStore/SingleStateMarkingStore.php" timestamp="1509459438632" />
-      <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/tests/Fixtures/SecondTestObject.php" timestamp="1509548368442">
-        <mark key="[" line="10" column="29" />
-      </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Http/Controllers/User/AccountControllerTest.php" timestamp="1509471015460">
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="0" />
@@ -345,9 +359,6 @@
         <mark key="[" line="5" column="1" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/tests/Commands/WorkflowDumpCommandTest.php" timestamp="1509365058796">
-        <mark key="[" line="2" column="15" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/workflow/WorkflowServiceProvider.php" timestamp="1509030394586">
         <mark key="[" line="19" column="0" />
@@ -488,11 +499,11 @@
         <mark key="^" line="29" column="8" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Repositories/WinfundRepository.php" timestamp="1507733072746">
-        <mark key="[" line="33" column="68" />
-        <mark key="]" line="33" column="67" />
-        <mark key="^" line="33" column="67" />
-        <mark key="." line="33" column="67" />
+      <file name="$USER_HOME$/code/mica/app/Repositories/WinfundRepository.php" timestamp="1510080797560">
+        <mark key="[" line="29" column="71" />
+        <mark key="]" line="29" column="74" />
+        <mark key="." line="29" column="74" />
+        <mark key="^" line="29" column="74" />
       </file>
       <file name="$USER_HOME$/code/mica/database/seeds/QASeeder.php" timestamp="1505911745781">
         <mark key="[" line="90" column="0" />
@@ -539,7 +550,7 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1501766236245">
+      <file name="/fragment.php" timestamp="1510079543122">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/lang/fr/profile.php" timestamp="1508184584286">
@@ -626,6 +637,9 @@
         <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1509459732819" />
+      <file name="$USER_HOME$/code/workflow-engine/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php" timestamp="1509453668135">
+        <mark key="'" line="172" column="27" />
+      </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Workflow/Contracts/TransitionEvent.php" timestamp="1509998221240">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="12" column="0" />
@@ -799,14 +813,11 @@
         <mark key="^" line="14" column="32" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/vendor/symfony/workflow/MarkingStore/MultipleStateMarkingStore.php" timestamp="1509371830455" />
-      <file name="$USER_HOME$/code/mica/tests/unit/Repositories/WinfundRepositoryTest.php" timestamp="1507724830790">
-        <mark key="[" line="38" column="55" />
-        <mark key="]" line="38" column="90" />
-        <mark key="^" line="38" column="90" />
-        <mark key="." line="38" column="90" />
-      </file>
-      <file name="$USER_HOME$/code/workflow-engine/.env" timestamp="1509450861612">
-        <mark key="[" line="8" column="41" />
+      <file name="$USER_HOME$/code/mica/tests/unit/Repositories/WinfundRepositoryTest.php" timestamp="1510080741792">
+        <mark key="[" line="69" column="50" />
+        <mark key="]" line="70" column="66" />
+        <mark key="." line="70" column="66" />
+        <mark key="^" line="70" column="66" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/client/information/EditAllClientEmail.vue" timestamp="1504806542468">
         <mark key="[" line="122" column="0" />
@@ -821,8 +832,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="335" column="33" filename="$USER_HOME$/code/mica/database/seeds/WinfundDBMockSeeder.php" />
-      <jump line="350" column="60" filename="$USER_HOME$/code/mica/database/seeds/WinfundDBMockSeeder.php" />
       <jump line="516" column="13" filename="$USER_HOME$/code/mica/database/seeds/WinfundDBMockSeeder.php" />
       <jump line="524" column="13" filename="$USER_HOME$/code/mica/database/seeds/WinfundDBMockSeeder.php" />
       <jump line="298" column="93" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
@@ -921,6 +930,8 @@
       <jump line="58" column="143" filename="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Workflow/WorkflowRegistry.php" />
       <jump line="136" column="18" filename="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/vendor/symfony/workflow/Workflow.php" />
       <jump line="167" column="0" filename="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/tests/unit/WorkflowSubscriberTest.php" />
+      <jump line="33" column="33" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
+      <jump line="9" column="0" filename="/Client.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1236,10 +1247,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>transitionEvent</text>
+        <text>\Config::set('mica.features.update-email-winfund', false)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0cmFuc2l0aW9uc1w+</text>
+        <text>setemail</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">YXJyYXlfZmlsbF9rZXlzKCRzdWJqZWN0LT5tYXJraW5ncygpLT5nZXQoKS0+cGx1Y2soJ3ZhbHVlJyktPnRvQXJyYXkoKSwgMSk=</text>
@@ -1251,49 +1262,47 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWljYUNsaWVudDo6dXBkYXRlT3JDcmVhdGUoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkZXZlbnQtPnNldEJsb2NrZWQoZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZChjb25maWcoJ21pY2EuZmVhdHVyZXMudXBkYXRlLWVtYWlsLXdpbmZ1bmQnKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZW52IG5hbWU9IlJFUE9SVF9DT05UQUNUX0VNQUlMIiB2YWx1ZT0idW5pdEB0ZXN0LmxvY2FsIi8+Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZXZlbnQtPnNldEJsb2NrZWQoZmFsc2UpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkc3ViamVjdC0+c2F2ZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZChjbGFzc191c2VzKCRzdWJqZWN0KSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBkZCgkc3ViamVjdFsndmFsaWRhdG9yJ10tPmVycm9ycygpKTsKLy8gICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIH0gY2F0Y2ggKExvZ2ljRXhjZXB0aW9uICRleGNlcHRpb24pIHsK</text>
+        <text encoding="base64">ICAgICAgICAkc3ViamVjdC0+c2F2ZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0cmFuc2l0aW9uc1w+</last-search>
+      <last-search>setemail</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0cmFuc2l0aW9uc1w+</last-pattern>
+      <last-pattern>setemail</last-pattern>
       <last-replace>tax_slip</last-replace>
       <last-substitute>\.</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>trustaccount</entry>
-        <entry>trust_Account</entry>
         <entry>trustacc</entry>
         <entry>Exchange</entry>
         <entry>curre</entry>
@@ -1312,6 +1321,8 @@
         <entry>is</entry>
         <entry>term</entry>
         <entry encoding="base64">XDx0cmFuc2l0aW9uc1w+</entry>
+        <entry>setemai</entry>
+        <entry>setemail</entry>
       </history-search>
       <history-cmd>
         <entry>nohj</entry>
