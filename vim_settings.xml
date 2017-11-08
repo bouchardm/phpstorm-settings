@@ -352,7 +352,7 @@
         <mark key="]" line="61" column="84" />
         <mark key="." line="61" column="84" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509998631309">
+      <file name="/Dummy.txt" timestamp="1510158903247">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Database/SQLiteConnection.php" timestamp="1510154926742" />
@@ -555,6 +555,12 @@
         <mark key="^" line="29" column="8" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/code/mica/tests/integration/InscriptionTest.php" timestamp="1510159556931">
+        <mark key="'" line="180" column="4" />
+        <mark key="[" line="430" column="64" />
+        <mark key="]" line="429" column="0" />
+        <mark key="." line="429" column="0" />
+      </file>
       <file name="$USER_HOME$/code/mica/app/Repositories/WinfundRepository.php" timestamp="1510157990054">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
@@ -684,6 +690,18 @@
       </file>
       <file name="$USER_HOME$/code/mica/docker/volumes/data/Dockerfile" timestamp="1510081719153" />
       <file name="$USER_HOME$/code/workflow-engine/vendor/laravel/tinker/composer.json" timestamp="1509031147179" />
+      <file name="$USER_HOME$/code/mica/app/Http/Controllers/Auth/RegisterController.php" timestamp="1510159937434">
+        <mark key="'" line="41" column="6" />
+        <mark key="[" line="218" column="0" />
+        <mark key="]" line="218" column="0" />
+        <mark key="." line="218" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/tests/unit/WorkflowSubscriberTest.php" timestamp="1510071173902">
+        <mark key="'" line="203" column="0" />
+        <mark key="[" line="191" column="0" />
+        <mark key="]" line="191" column="0" />
+        <mark key="." line="191" column="0" />
+      </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Http/Controllers/Auth/RegisterControllerTest.php" timestamp="1507645034786">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -857,6 +875,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/code/workflow-engine/vendor/symfony/workflow/Workflow.php" timestamp="1509124390322">
+        <mark key="'" line="183" column="20" />
+        <mark key="[" line="309" column="0" />
+        <mark key="]" line="309" column="0" />
+        <mark key="." line="309" column="0" />
+      </file>
       <file name="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SqlServerGrammar.php" timestamp="1507831400366">
         <mark key="[" line="63" column="48" />
       </file>
@@ -891,7 +915,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="33" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
       <jump line="375" column="12" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
       <jump line="392" column="28" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
       <jump line="400" column="23" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
@@ -991,6 +1014,7 @@
       <jump line="112" column="0" filename="$USER_HOME$/code/CSQ-Sitebuilder/docker/docker-compose.yml" />
       <jump line="2" column="4" filename="$USER_HOME$/code/CSQ-Sitebuilder/docker/nginx/wordpress.conf" />
       <jump line="0" column="0" filename="$USER_HOME$/code/mica/app/User.php" />
+      <jump line="41" column="6" filename="$USER_HOME$/code/mica/app/Http/Controllers/Auth/RegisterController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1306,7 +1330,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>pushEmailWinfund</text>
+        <text>createUserAndClient</text>
       </register>
       <register name="/" type="4">
         <text>setemail</text>
@@ -1321,31 +1345,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGR1bXAoJGVtYWlsKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCR1c2VyLT5lbWFpbCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGRkKCRkYXRhWydlbWFpbCddKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRlbWFpbCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRjbGllbnQtPkVtYWlsX0FkZHJlc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZChVc2VyOjp3aGVyZSgnbWljYV9jbGllbnRfY29kZScsICRjbGllbnQtPkNvZGUpLT5maXJzdCgpLT5lbWFpbCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkdW1wKCRjbGllbnQtPkVtYWlsX0FkZHJlc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY2xpZW50LT51c2VyLT5lbWFpbCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2F2ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZChVc2VyOjpmaW5kKCR1c2VyLT5pZCktPmVtYWlsKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRlbWFpbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdXNlcik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRlbWFpbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdXNlcik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGR1bXAoJGVtYWlsKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
