@@ -89,7 +89,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/behat.yml" timestamp="1510602241425" />
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/tests/unit/Workflow/TransitionTest.php" timestamp="1509718976913">
         <mark key="[" line="44" column="6" />
         <mark key="]" line="48" column="19" />
@@ -144,13 +143,9 @@
         <mark key="." line="10" column="15" />
         <mark key="^" line="10" column="15" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/lang/en/notifications.php" timestamp="1510324934054">
+      <file name="$USER_HOME$/code/mica/resources/lang/en/notifications.php" timestamp="1510687952276">
         <mark key="[" line="96" column="5" />
-        <mark key="]" line="96" column="5" />
-        <mark key="^" line="96" column="5" />
-        <mark key="." line="96" column="5" />
       </file>
-      <file name="$USER_HOME$/code/mica/docker/docker-compose.yml" timestamp="1510602363972" />
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/vendor/orchestra/testbench-core/laravel/config/database.php" timestamp="1509542972632">
         <mark key="[" line="42" column="76" />
         <mark key="]" line="41" column="32" />
@@ -168,6 +163,11 @@
         <mark key="]" line="149" column="36" />
         <mark key="." line="149" column="36" />
         <mark key="^" line="149" column="36" />
+      </file>
+      <file name="$USER_HOME$/code/mica/tests/unit/Http/Controllers/DocumentControllerTest.php" timestamp="1510687887162">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Console/Commands/GenerateChangedClientsEmailReport.php" timestamp="1510257560467">
         <mark key="[" line="112" column="0" />
@@ -277,11 +277,6 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Console/Commands/ImportDocuments.php" timestamp="1510670001136">
-        <mark key="[" line="198" column="14" />
-        <mark key="]" line="198" column="14" />
-        <mark key="." line="198" column="14" />
-      </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/composer.json" timestamp="1509545929113">
         <mark key="[" line="35" column="37" />
         <mark key="]" line="33" column="10" />
@@ -349,11 +344,6 @@
         <mark key="]" line="25" column="55" />
         <mark key="^" line="25" column="55" />
         <mark key="." line="25" column="55" />
-      </file>
-      <file name="$USER_HOME$/code/mica/app/Document.php" timestamp="1510666310880">
-        <mark key="[" line="58" column="20" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/code/CSQ-Sitebuilder/public/index.php" timestamp="1510082985732">
         <mark key="[" line="0" column="0" />
@@ -549,17 +539,17 @@
         <mark key="^" line="20" column="49" />
         <mark key="." line="20" column="49" />
       </file>
+      <file name="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" timestamp="1510687227266">
+        <mark key="'" line="325" column="78" />
+      </file>
       <file name="/Dummy.txt" timestamp="1510685136370">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/js/test-main.js" timestamp="1508274448059">
         <mark key="[" line="27" column="10" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/lang/fr/notifications.php" timestamp="1510324944406">
+      <file name="$USER_HOME$/code/mica/resources/lang/fr/notifications.php" timestamp="1510687973334">
         <mark key="[" line="97" column="5" />
-        <mark key="]" line="97" column="5" />
-        <mark key="^" line="97" column="5" />
-        <mark key="." line="97" column="5" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/lang/en/profile.php" timestamp="1508184877658">
         <mark key="[" line="26" column="0" />
@@ -636,12 +626,6 @@
         <mark key="^" line="13" column="48" />
         <mark key="." line="13" column="48" />
       </file>
-      <file name="$USER_HOME$/code/mica/tests/features/bootstrap/DocumentsContext.php" timestamp="1510685160473">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="^" line="159" column="4" />
-        <mark key="." line="88" column="0" />
-      </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Repositories/WinfundRepositoryTest.php" timestamp="1510155647109">
         <mark key="[" line="67" column="71" />
         <mark key="]" line="74" column="31" />
@@ -654,12 +638,8 @@
         <mark key="^" line="14" column="79" />
         <mark key="." line="14" column="79" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Query/PaginatedDocumentsQuery.php" timestamp="1510667241913" />
     </filemarks>
     <jumps>
-      <jump line="128" column="22" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
-      <jump line="775" column="0" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
-      <jump line="424" column="0" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
       <jump line="419" column="24" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
       <jump line="422" column="40" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
       <jump line="560" column="27" filename="$USER_HOME$/code/mica/database/seeds/WinfundDBMockSeeder.php" />
@@ -757,6 +737,9 @@
       <jump line="76" column="4" filename="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Workflow/WorkflowRegistry.php" />
       <jump line="81" column="50" filename="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Workflow/WorkflowRegistry.php" />
       <jump line="77" column="16" filename="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Workflow/WorkflowRegistry.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
+      <jump line="59" column="18" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
+      <jump line="325" column="78" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1075,7 +1058,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>document</text>
+        <text>self_dire</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">JHRoaXMtPmdlbmVyYXRvci0+Z2V0Q2xpZW50cygkdGhpcy0+b3V0cHV0KQ==</text>
@@ -1087,40 +1070,40 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5jbGlja0xpbmsoJ01lcyBkb2N1bWVudHMnKTsK</text>
+        <text encoding="base64">dXNlIEFwcFxIdHRwXFJlcXVlc3RzXENsaWVudFxWaWV3Q2xpZW50UmVxdWVzdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxSZXBvc2l0b3JpZXNcVXNlclJlcG9zaXRvcnk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgid2FpdCIpOwo=</text>
+        <text encoding="base64">dXNlIENhcmJvblxDYXJib247Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2F2ZVNjcmVlbnNob3QobnVsbCwgc3RvcmFnZV9wYXRoKCcvbG9ncycpKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5jbGlja0xpbmsoJ01lcyBkb2N1bWVudHMnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5zYXZlU2NyZWVuc2hvdChudWxsLCBzdG9yYWdlX3BhdGgoJy9sb2dzJykpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+ZmluZEVsZW1lbnQoJy5kb2MtdGFibGUgdGJvZHkgdHIgLmRvYy1zdGF0dXMgLmRvYy1kYXRlLXJlYWQnKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgid2FpdCIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkc3RhdHVzKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2F2ZVNjcmVlbnNob3QobnVsbCwgc3RvcmFnZV9wYXRoKCcvbG9ncycpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCRkb2N1bWVudC0+aWQsICR0aGlzLT5kZWNvZGVSZXNwb25zZUpzb24oKVsnZGF0YSddWydwYWdpbmF0ZWREb2N1bWVudHMnXVsnZG9jdW1lbnQnXVswXVsnaWQnXSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5zYXZlU2NyZWVuc2hvdChudWxsLCBzdG9yYWdlX3BhdGgoJy9sb2dzJykpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZG9jdW1lbnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+ZmluZEVsZW1lbnQoJy5kb2MtdGFibGUgdGJvZHkgdHIgLmRvYy1zdGF0dXMgLmRvYy1kYXRlLXJlYWQnKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>document</last-search>
+      <last-search>self_dire</last-search>
       <last-offset />
-      <last-pattern>document</last-pattern>
+      <last-pattern>self_dire</last-pattern>
       <last-replace>tax_slip</last-replace>
       <last-substitute>\.</last-substitute>
       <last-dir>1</last-dir>
@@ -1128,7 +1111,6 @@
     </search>
     <history>
       <history-search>
-        <entry>code</entry>
         <entry>trust</entry>
         <entry>lara</entry>
         <entry>laravel</entry>
@@ -1148,6 +1130,7 @@
         <entry encoding="base64">XDxWYWxpZGF0b3JcPg==</entry>
         <entry encoding="base64">XDxlbXB0eVw+</entry>
         <entry>document</entry>
+        <entry>self_dire</entry>
       </history-search>
       <history-cmd>
         <entry>nohj</entry>
