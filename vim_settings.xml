@@ -549,7 +549,7 @@
         <mark key="^" line="20" column="49" />
         <mark key="." line="20" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510672494559">
+      <file name="/Dummy.txt" timestamp="1510685136370">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/js/test-main.js" timestamp="1508274448059">
@@ -636,11 +636,11 @@
         <mark key="^" line="13" column="48" />
         <mark key="." line="13" column="48" />
       </file>
-      <file name="$USER_HOME$/code/mica/tests/features/bootstrap/DocumentsContext.php" timestamp="1510672550414">
-        <mark key="[" line="88" column="41" />
-        <mark key="]" line="164" column="0" />
-        <mark key="^" line="160" column="4" />
-        <mark key="." line="164" column="0" />
+      <file name="$USER_HOME$/code/mica/tests/features/bootstrap/DocumentsContext.php" timestamp="1510685160473">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="^" line="159" column="4" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Repositories/WinfundRepositoryTest.php" timestamp="1510155647109">
         <mark key="[" line="67" column="71" />
@@ -1087,31 +1087,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5jbGlja0xpbmsoJ01lcyBkb2N1bWVudHMnKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgid2FpdCIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2F2ZVNjcmVlbnNob3QobnVsbCwgc3RvcmFnZV9wYXRoKCcvbG9ncycpKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgid2FpdCIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5zYXZlU2NyZWVuc2hvdChudWxsLCBzdG9yYWdlX3BhdGgoJy9sb2dzJykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2F2ZVNjcmVlbnNob3QobnVsbCwgc3RvcmFnZV9wYXRoKCcvbG9ncycpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+ZmluZEVsZW1lbnQoJy5kb2MtdGFibGUgdGJvZHkgdHIgLmRvYy1zdGF0dXMgLmRvYy1kYXRlLXJlYWQnKSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5zYXZlU2NyZWVuc2hvdChudWxsLCBzdG9yYWdlX3BhdGgoJy9sb2dzJykpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkc3RhdHVzKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+ZmluZEVsZW1lbnQoJy5kb2MtdGFibGUgdGJvZHkgdHIgLmRvYy1zdGF0dXMgLmRvYy1kYXRlLXJlYWQnKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCRkb2N1bWVudC0+aWQsICR0aGlzLT5kZWNvZGVSZXNwb25zZUpzb24oKVsnZGF0YSddWydwYWdpbmF0ZWREb2N1bWVudHMnXVsnZG9jdW1lbnQnXVswXVsnaWQnXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkc3RhdHVzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZG9jdW1lbnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCRkb2N1bWVudC0+aWQsICR0aGlzLT5kZWNvZGVSZXNwb25zZUpzb24oKVsnZGF0YSddWydwYWdpbmF0ZWREb2N1bWVudHMnXVsnZG9jdW1lbnQnXVswXVsnaWQnXSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZG9jdW1lbnQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
