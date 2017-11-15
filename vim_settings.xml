@@ -289,6 +289,12 @@
         <mark key="^" line="33" column="10" />
         <mark key="." line="33" column="10" />
       </file>
+      <file name="$USER_HOME$/code/mica/resources/lang/fr/profile.php" timestamp="1510755492630">
+        <mark key="[" line="4" column="69" />
+        <mark key="]" line="4" column="69" />
+        <mark key="^" line="4" column="69" />
+        <mark key="." line="4" column="69" />
+      </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/tests/WorkflowSubscriberTest.php" timestamp="1509132940664">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="7" />
@@ -549,7 +555,7 @@
       <file name="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" timestamp="1510687227266">
         <mark key="'" line="325" column="78" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510753323052">
+      <file name="/Dummy.txt" timestamp="1510755496915">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/js/test-main.js" timestamp="1508274448059">
@@ -558,11 +564,11 @@
       <file name="$USER_HOME$/code/mica/resources/lang/fr/notifications.php" timestamp="1510687973334">
         <mark key="[" line="97" column="5" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/lang/en/profile.php" timestamp="1508184877658">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="4" column="81" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/code/mica/resources/lang/en/profile.php" timestamp="1510755502033">
+        <mark key="[" line="4" column="78" />
+        <mark key="]" line="4" column="78" />
+        <mark key="^" line="4" column="78" />
+        <mark key="." line="4" column="78" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/tests/migrations/2014_12_12_123312_create_workflow_marking_test.php" timestamp="1509543866290">
         <mark key="[" line="6" column="27" />
@@ -1107,7 +1113,7 @@
         <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5jbGlja0xpbmsoJ01lcyBkb2N1bWVudHMnKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1143,7 +1149,6 @@
         <entry>setemai</entry>
       </history-search>
       <history-cmd>
-        <entry>nohj</entry>
         <entry>547</entry>
         <entry encoding="base64">c291cmNlIH4vLnZpbXJjIA==</entry>
         <entry>risk</entry>
@@ -1161,8 +1166,9 @@
         <entry>175</entry>
         <entry>1043</entry>
         <entry>w</entry>
-        <entry>wq</entry>
         <entry>q</entry>
+        <entry encoding="base64">dyA=</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
