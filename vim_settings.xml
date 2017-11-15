@@ -21,10 +21,9 @@
         <mark key="." line="22" column="4" />
         <mark key="^" line="22" column="4" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Console/Commands/GenerateNonMatchingClientEmailReport.php" timestamp="1510754096396">
+      <file name="$USER_HOME$/code/mica/app/Console/Commands/GenerateNonMatchingClientEmailReport.php" timestamp="1510771258906">
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="0" />
-        <mark key="^" line="34" column="122" />
         <mark key="." line="96" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/Controllers/User/AccountController.php" timestamp="1509464332477">
@@ -158,6 +157,7 @@
       <file name="$USER_HOME$/code/mica/resources/lang/en/notifications.php" timestamp="1510687952276">
         <mark key="[" line="96" column="5" />
       </file>
+      <file name="$USER_HOME$/code/mica/app/Winfund/Client.php" timestamp="1510770351326" />
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/vendor/orchestra/testbench-core/laravel/config/database.php" timestamp="1509542972632">
         <mark key="[" line="42" column="76" />
         <mark key="]" line="41" column="32" />
@@ -177,11 +177,16 @@
         <mark key="." line="149" column="36" />
         <mark key="^" line="149" column="36" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Console/Commands/GenerateChangedClientsEmailReport.php" timestamp="1510765271750">
-        <mark key="[" line="39" column="25" />
-        <mark key="]" line="112" column="0" />
-        <mark key="^" line="102" column="84" />
-        <mark key="." line="112" column="0" />
+      <file name="$USER_HOME$/code/mica/tests/unit/Http/Controllers/DocumentControllerTest.php" timestamp="1510751203675">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Console/Commands/GenerateChangedClientsEmailReport.php" timestamp="1510771589518">
+        <mark key="[" line="33" column="22" />
+        <mark key="]" line="13" column="15" />
+        <mark key="." line="13" column="15" />
+        <mark key="^" line="13" column="15" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Workflow/Transition.php" timestamp="1510584102957">
         <mark key="[" line="17" column="33" />
@@ -305,7 +310,7 @@
         <mark key="^" line="33" column="10" />
         <mark key="." line="33" column="10" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/lang/fr/profile.php" timestamp="1510761589884">
+      <file name="$USER_HOME$/code/mica/resources/lang/fr/profile.php" timestamp="1510772036275">
         <mark key="[" line="4" column="69" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/tests/WorkflowSubscriberTest.php" timestamp="1509132940664">
@@ -333,6 +338,12 @@
       </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/dashboard/Account.vue" timestamp="1508182457613">
         <mark key="[" line="15" column="30" />
+      </file>
+      <file name="$USER_HOME$/code/mica/tests/unit/Command/GenerateChangedClientsEmailReportTest.php" timestamp="1510771753769">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="^" line="80" column="31" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/phpunit.xml" timestamp="1510080263105">
         <mark key="[" line="40" column="39" />
@@ -403,8 +414,8 @@
         <mark key="." line="30" column="1" />
         <mark key="^" line="30" column="1" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1510155286096">
-        <mark key="[" line="0" column="1" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1510771226800">
+        <mark key="[" line="0" column="14" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Type/Log/LogType.php" timestamp="1507641940044">
         <mark key="[" line="26" column="46" />
@@ -563,7 +574,7 @@
         <mark key="^" line="126" column="46" />
         <mark key="." line="126" column="46" />
       </file>
-      <file name="/dummy.sql" timestamp="1510765170961">
+      <file name="/dummy.sql" timestamp="1510771223405">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1509453365904">
@@ -572,7 +583,7 @@
         <mark key="^" line="20" column="49" />
         <mark key="." line="20" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510765251717">
+      <file name="/Dummy.txt" timestamp="1510771901023">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/js/test-main.js" timestamp="1508274448059">
@@ -581,11 +592,8 @@
       <file name="$USER_HOME$/code/mica/resources/lang/fr/notifications.php" timestamp="1510687973334">
         <mark key="[" line="97" column="5" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/lang/en/profile.php" timestamp="1510761584111">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="4" column="78" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/code/mica/resources/lang/en/profile.php" timestamp="1510772018810">
+        <mark key="[" line="4" column="79" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/fields/Text.vue" timestamp="1510761400235">
         <mark key="[" line="19" column="0" />
@@ -604,6 +612,9 @@
         <mark key="]" line="99" column="50" />
         <mark key="^" line="99" column="50" />
         <mark key="." line="99" column="50" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Console/Commands/GenerateClientWithSameAdnasAndDifferentEmailReport.php" timestamp="1510770647745">
+        <mark key="[" line="41" column="9" />
       </file>
       <file name="$USER_HOME$/code/mica/.env.example" timestamp="1510164820419">
         <mark key="[" line="44" column="48" />
@@ -1100,7 +1111,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>!modificationMode || emailLocked</text>
+        <text>[EN] Ce courriel sera le point de contact «électronique» pour toutes les fonctionnalités reliées à la gestion de votre compte MICA et pour tous les clients liés automatiquement</text>
       </register>
       <register name="/" type="4">
         <text>setemai</text>
@@ -1115,38 +1126,28 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnbGlua19pZCcgPT4gJ1tFTl0gTGllciBjZSBjbGllbnQgSUQnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdwb3J0YWlsX2VsZWN0cm9uaWNfZGVsaXZlcnknLAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL21hcmdpbi1sZWZ0OiAyOHB4Owo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICRjbGllbnQtPndpbmZ1bmRfaWQsCiAkY2xpZW50LT53aW5mdW5kLT5OYW1lLAogJGNsaWVudC0+d2luZnVuZC0+U3VybmFtZSwKICRjbGllbnQtPndpbmZ1bmQtPnR5cGUtPk5hbWVFTiwKICRjbGllbnQtPmVtYWlsLAogJHVzZXJFbWFpbCwKICRjbGllbnRFbWFpbCwKIGlzc2V0KCR3aW5mdW5kRWxlY3Ryb25pY0RlbGl2ZXJ5KSA/IHJlbW92ZV9hY2NlbnRzKCR3aW5mdW5kRWxlY3Ryb25pY0RlbGl2ZXJ5LT5OYW1lKSA6ICcnLAogJGNsaWVudC0+d2luZnVuZC0+TGFzdF9Nb2RpZmllZF9EYXRlLAogJGNsaWVudC0+d2luZnVuZC0+RURlbGl2ZXJ5U3RhdHVzQ2hhbmdlRGF0ZSwKICRlbGVjdHJvbmljRGVsaXZlcnksCiAkY2xpZW50LT5leHBpcmVkID09IDEgPyAnZXhwaXJlZCcgOiAnbm90IGV4cGlyZWQnLAogJGNsaWVudC0+dXBkYXRlZF9hdCw=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZUNvZGUoMikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZUNvZGUoMilkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gWwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9yZGVyLWJvdHRvbTogc29saWQgMXB4IGNvbG9yKCJjLWdyZXkiKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ZGRkLAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAuZGlzY2xhaW1lciB7CiAgICAgICAgICAgIG1hcmdpbi1ib3R0b206IDEycHg7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgJ2NsaWVudF9pZCcsCiAgICAgICAgJ2NsaWVudF9maXJzdCcsCiAgICAgICAgJ2NsaWVudF9sYXN0X25hbWUnLAogICAgICAgICdhY2NvdW50X3R5cGUnLAogICAgICAgICd3aW5mdW5kX2VtYWlsJywKICAgICAgICAnZGVhbGVyX2NvZGUnLAogICAgICAgICdyZXBfY29kZScsCiAgICAgICAgJ3JlcHJlc2VudGF0aXZlX25hbWUnLAogICAgICAgICdyZXByZXNlbnRhdGl2ZV9tYWlsJywKICAgICAgICAnd2luZnVuZF91cGRhdGVkX2F0JywKICAgICAgICAncG9ydGFpbF91cGRhdGVkX2F0JywKICAgICAgICAnd2ViX2VtYWlsJywKICAgICAgICAnYWN0aXZlJywKICAgICAgICAnZW1haWxfdmFsaWRhdGVkJywKICAgICAgICAnaW1wb3J0ZWRfdXNlcic=</text>
       </register>
-      <register name="8" type="4">
-        <text>margin-top: 10px;
-            //margin-left: 28px;
-            padding: 10px 12px;
-            border-radius: 2px;
-            background: color(&quot;c-darkgrey&quot;);
-            p {
-                font-weight: 200;
-                font-weight: 400;
-                color: color(&quot;c-midgrey&quot;);
-                @include rem-typo(14, 18);
-            }</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
