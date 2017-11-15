@@ -436,6 +436,7 @@
         <mark key="^" line="10" column="20" />
         <mark key="." line="10" column="20" />
       </file>
+      <file name="$USER_HOME$/code/mica/.env" timestamp="1510753259090" />
       <file name="$USER_HOME$/code/mica/resources/lang/en/passwords.php" timestamp="1503946054034">
         <mark key="[" line="19" column="118" />
       </file>
@@ -499,11 +500,11 @@
         <mark key="^" line="181" column="43" />
         <mark key="." line="181" column="43" />
       </file>
-      <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Query/PaginatedDocumentsQueryTest.php" timestamp="1510669621932">
-        <mark key="[" line="43" column="37" />
-        <mark key="]" line="58" column="138" />
-        <mark key="." line="58" column="138" />
-        <mark key="^" line="58" column="138" />
+      <file name="$USER_HOME$/code/mica/tests/unit/Http/GraphQL/Query/PaginatedDocumentsQueryTest.php" timestamp="1510753210259">
+        <mark key="[" line="42" column="5" />
+        <mark key="]" line="43" column="37" />
+        <mark key="." line="43" column="37" />
+        <mark key="^" line="43" column="37" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/admin/navigation/rep/DealerRepCodeSelector.vue" timestamp="1508265990812">
         <mark key="[" line="22" column="107" />
@@ -547,7 +548,7 @@
       <file name="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" timestamp="1510687227266">
         <mark key="'" line="325" column="78" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510751193524">
+      <file name="/Dummy.txt" timestamp="1510753323052">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/js/test-main.js" timestamp="1508274448059">
@@ -598,6 +599,9 @@
         <mark key="^" line="33" column="1" />
         <mark key="." line="33" column="1" />
       </file>
+      <file name="$USER_HOME$/code/mica/tests/unit/Winfund/ClientTest.php" timestamp="1510752899919">
+        <mark key="[" line="322" column="5" />
+      </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/tests/WorkflowDumpCommandTest.php" timestamp="1509363374979">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -645,7 +649,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="419" column="24" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
       <jump line="422" column="40" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
       <jump line="560" column="27" filename="$USER_HOME$/code/mica/database/seeds/WinfundDBMockSeeder.php" />
       <jump line="519" column="55" filename="$USER_HOME$/code/mica/database/seeds/WinfundDBMockSeeder.php" />
@@ -745,6 +748,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
       <jump line="59" column="18" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
       <jump line="325" column="78" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
+      <jump line="50" column="29" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1063,7 +1067,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>self_dire</text>
+        <text>setemai</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">JHRoaXMtPmdlbmVyYXRvci0+Z2V0Q2xpZW50cygkdGhpcy0+b3V0cHV0KQ==</text>
@@ -1106,9 +1110,9 @@
       </register>
     </registers>
     <search>
-      <last-search>self_dire</last-search>
+      <last-search>setemai</last-search>
       <last-offset />
-      <last-pattern>self_dire</last-pattern>
+      <last-pattern>setemai</last-pattern>
       <last-replace>tax_slip</last-replace>
       <last-substitute>\.</last-substitute>
       <last-dir>1</last-dir>
@@ -1127,7 +1131,6 @@
         <entry>is</entry>
         <entry>term</entry>
         <entry encoding="base64">XDx0cmFuc2l0aW9uc1w+</entry>
-        <entry>setemai</entry>
         <entry encoding="base64">XDxzZXJ2ZXJfbmFtZVw+</entry>
         <entry>setemail</entry>
         <entry encoding="base64">XDxFWFBPU0VcPg==</entry>
@@ -1136,6 +1139,7 @@
         <entry encoding="base64">XDxlbXB0eVw+</entry>
         <entry>document</entry>
         <entry>self_dire</entry>
+        <entry>setemai</entry>
       </history-search>
       <history-cmd>
         <entry>nohj</entry>
