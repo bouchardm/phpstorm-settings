@@ -177,13 +177,8 @@
         <mark key="." line="149" column="36" />
         <mark key="^" line="149" column="36" />
       </file>
-      <file name="$USER_HOME$/code/mica/tests/unit/Http/Controllers/DocumentControllerTest.php" timestamp="1510751203675">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/mica/app/Console/Commands/GenerateChangedClientsEmailReport.php" timestamp="1510257560467">
-        <mark key="[" line="112" column="0" />
+      <file name="$USER_HOME$/code/mica/app/Console/Commands/GenerateChangedClientsEmailReport.php" timestamp="1510765271750">
+        <mark key="[" line="39" column="25" />
         <mark key="]" line="112" column="0" />
         <mark key="^" line="102" column="84" />
         <mark key="." line="112" column="0" />
@@ -568,7 +563,7 @@
         <mark key="^" line="126" column="46" />
         <mark key="." line="126" column="46" />
       </file>
-      <file name="/dummy.sql" timestamp="1510155279998">
+      <file name="/dummy.sql" timestamp="1510765170961">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1509453365904">
@@ -577,7 +572,7 @@
         <mark key="^" line="20" column="49" />
         <mark key="." line="20" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510763720214">
+      <file name="/Dummy.txt" timestamp="1510765251717">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/js/test-main.js" timestamp="1508274448059">
