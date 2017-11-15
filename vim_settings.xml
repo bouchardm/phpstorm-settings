@@ -170,7 +170,7 @@
         <mark key="^" line="8" column="46" />
         <mark key="." line="8" column="46" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Console/Kernel.php" timestamp="1510754319999" />
+      <file name="$USER_HOME$/code/mica/app/Console/Kernel.php" timestamp="1510774360202" />
       <file name="$USER_HOME$/code/mica/tests/features/bootstrap/FeatureContext.php" timestamp="1510671174329">
         <mark key="[" line="149" column="37" />
         <mark key="]" line="149" column="36" />
@@ -206,6 +206,7 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="44" column="53" />
       </file>
+      <file name="$USER_HOME$/code/mica/integration/src/sass/styles.json" timestamp="1510774154391" />
       <file name="/a.sql" timestamp="1507839843169">
         <mark key="[" line="0" column="0" />
       </file>
@@ -233,7 +234,7 @@
         <mark key="^" line="13" column="41" />
         <mark key="." line="13" column="41" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/views/auth/register/password.blade.php" timestamp="1510759895037">
+      <file name="$USER_HOME$/code/mica/resources/views/auth/register/password.blade.php" timestamp="1510774092253">
         <mark key="[" line="21" column="52" />
         <mark key="]" line="21" column="51" />
         <mark key="^" line="21" column="51" />
@@ -553,6 +554,12 @@
         <mark key="^" line="28" column="46" />
         <mark key="." line="28" column="46" />
       </file>
+      <file name="$USER_HOME$/code/mica/integration/src/sass/modules/_forms.scss" timestamp="1510774159712">
+        <mark key="[" line="330" column="29" />
+        <mark key="]" line="336" column="25" />
+        <mark key="^" line="336" column="25" />
+        <mark key="." line="336" column="25" />
+      </file>
       <file name="$USER_HOME$/code/mica/_ide_helper.php" timestamp="1507130679288">
         <mark key="[" line="12819" column="16" />
         <mark key="]" line="12820" column="11" />
@@ -583,7 +590,7 @@
         <mark key="^" line="20" column="49" />
         <mark key="." line="20" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510771901023">
+      <file name="/Dummy.txt" timestamp="1510774136638">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/js/test-main.js" timestamp="1508274448059">
@@ -592,7 +599,7 @@
       <file name="$USER_HOME$/code/mica/resources/lang/fr/notifications.php" timestamp="1510687973334">
         <mark key="[" line="97" column="5" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/lang/en/profile.php" timestamp="1510772018810">
+      <file name="$USER_HOME$/code/mica/resources/lang/en/profile.php" timestamp="1510774036723">
         <mark key="[" line="4" column="79" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/fields/Text.vue" timestamp="1510761400235">
