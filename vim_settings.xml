@@ -164,7 +164,7 @@
         <mark key="." line="149" column="36" />
         <mark key="^" line="149" column="36" />
       </file>
-      <file name="$USER_HOME$/code/mica/tests/unit/Http/Controllers/DocumentControllerTest.php" timestamp="1510687887162">
+      <file name="$USER_HOME$/code/mica/tests/unit/Http/Controllers/DocumentControllerTest.php" timestamp="1510751203675">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
@@ -276,6 +276,11 @@
         <mark key="]" line="0" column="18" />
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Console/Commands/ImportDocuments.php" timestamp="1510751019446">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/composer.json" timestamp="1509545929113">
         <mark key="[" line="35" column="37" />
@@ -542,7 +547,7 @@
       <file name="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" timestamp="1510687227266">
         <mark key="'" line="325" column="78" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510685136370">
+      <file name="/Dummy.txt" timestamp="1510751193524">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/js/test-main.js" timestamp="1508274448059">
@@ -1070,31 +1075,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEFwcFxIdHRwXFJlcXVlc3RzXENsaWVudFxWaWV3Q2xpZW50UmVxdWVzdDsK</text>
+        <text encoding="base64">dXNlIEFwcFxOb3RpZmljYXRpb25zXERvY3VtZW50QWRkZWQ7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEFwcFxSZXBvc2l0b3JpZXNcVXNlclJlcG9zaXRvcnk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIENhcmJvblxDYXJib247Cg==</text>
+        <text encoding="base64">Ly91c2UgQXBwXFdpbmZ1bmRcQ2xpZW50Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5jbGlja0xpbmsoJ01lcyBkb2N1bWVudHMnKTsK</text>
+        <text encoding="base64">Ly91c2UgQXBwXERvY3VtZW50Owo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgid2FpdCIpOwo=</text>
+        <text encoding="base64">dXNlIEFwcFxIdHRwXFJlcXVlc3RzXENsaWVudFxWaWV3Q2xpZW50UmVxdWVzdDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2F2ZVNjcmVlbnNob3QobnVsbCwgc3RvcmFnZV9wYXRoKCcvbG9ncycpKTsK</text>
+        <text encoding="base64">dXNlIEFwcFxSZXBvc2l0b3JpZXNcVXNlclJlcG9zaXRvcnk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5zYXZlU2NyZWVuc2hvdChudWxsLCBzdG9yYWdlX3BhdGgoJy9sb2dzJykpOwo=</text>
+        <text encoding="base64">dXNlIENhcmJvblxDYXJib247Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+ZmluZEVsZW1lbnQoJy5kb2MtdGFibGUgdGJvZHkgdHIgLmRvYy1zdGF0dXMgLmRvYy1kYXRlLXJlYWQnKSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5jbGlja0xpbmsoJ01lcyBkb2N1bWVudHMnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
