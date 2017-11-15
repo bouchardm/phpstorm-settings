@@ -89,6 +89,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/fields/Static.vue" timestamp="1510760622864">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/tests/unit/Workflow/TransitionTest.php" timestamp="1509718976913">
         <mark key="[" line="44" column="6" />
         <mark key="]" line="48" column="19" />
@@ -133,6 +138,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="15" column="54" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/integration/src/sass/modules/_form-field.scss" timestamp="1510761412405">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/86eee6cc-3a14-406f-a3ca-c6b7ce31fcd3/console.sql" timestamp="1506363904118">
         <mark key="[" line="124" column="51" />
@@ -218,6 +228,12 @@
         <mark key="^" line="13" column="41" />
         <mark key="." line="13" column="41" />
       </file>
+      <file name="$USER_HOME$/code/mica/resources/views/auth/register/password.blade.php" timestamp="1510759895037">
+        <mark key="[" line="21" column="52" />
+        <mark key="]" line="21" column="51" />
+        <mark key="^" line="21" column="51" />
+        <mark key="." line="21" column="51" />
+      </file>
       <file name="$USER_HOME$/code/workflow-engine/routes/web.php" timestamp="1510606909495">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -289,11 +305,8 @@
         <mark key="^" line="33" column="10" />
         <mark key="." line="33" column="10" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/lang/fr/profile.php" timestamp="1510755492630">
+      <file name="$USER_HOME$/code/mica/resources/lang/fr/profile.php" timestamp="1510761589884">
         <mark key="[" line="4" column="69" />
-        <mark key="]" line="4" column="69" />
-        <mark key="^" line="4" column="69" />
-        <mark key="." line="4" column="69" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/tests/WorkflowSubscriberTest.php" timestamp="1509132940664">
         <mark key="[" line="40" column="0" />
@@ -345,6 +358,7 @@
         <mark key="." line="20" column="7" />
         <mark key="^" line="20" column="7" />
       </file>
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/fields/Clients.vue" timestamp="1510758205251" />
       <file name="$USER_HOME$/code/mica/app/ClientLink.php" timestamp="1502109980445">
         <mark key="[" line="30" column="12" />
       </file>
@@ -424,6 +438,12 @@
       </file>
       <file name="$USER_HOME$/code/mica/package.json" timestamp="1502199944066">
         <mark key="[" line="57" column="35" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/client/information/Form.vue" timestamp="1510761566355">
+        <mark key="[" line="15" column="66" />
+        <mark key="]" line="13" column="74" />
+        <mark key="^" line="13" column="74" />
+        <mark key="." line="13" column="74" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Workflow/Contracts/TransitionEvent.php" timestamp="1510597488763">
         <mark key="[" line="1" column="0" />
@@ -552,10 +572,7 @@
         <mark key="^" line="20" column="49" />
         <mark key="." line="20" column="49" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" timestamp="1510687227266">
-        <mark key="'" line="325" column="78" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1510755496915">
+      <file name="/Dummy.txt" timestamp="1510760947852">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/js/test-main.js" timestamp="1508274448059">
@@ -564,11 +581,17 @@
       <file name="$USER_HOME$/code/mica/resources/lang/fr/notifications.php" timestamp="1510687973334">
         <mark key="[" line="97" column="5" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/lang/en/profile.php" timestamp="1510755502033">
-        <mark key="[" line="4" column="78" />
-        <mark key="]" line="4" column="78" />
+      <file name="$USER_HOME$/code/mica/resources/lang/en/profile.php" timestamp="1510761584111">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
         <mark key="^" line="4" column="78" />
-        <mark key="." line="4" column="78" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/fields/Text.vue" timestamp="1510761400235">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="3" column="36" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/tests/migrations/2014_12_12_123312_create_workflow_marking_test.php" timestamp="1509543866290">
         <mark key="[" line="6" column="27" />
@@ -647,6 +670,11 @@
         <mark key="]" line="74" column="31" />
         <mark key="." line="74" column="31" />
         <mark key="^" line="74" column="31" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/Profile.vue" timestamp="1510761039332">
+        <mark key="[" line="104" column="35" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/fields/AccountPicker.vue" timestamp="1508249760102">
         <mark key="[" line="14" column="81" />
@@ -1071,7 +1099,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>!modificationMode || emailLocked</text>
       </register>
       <register name="/" type="4">
         <text>setemai</text>
@@ -1086,31 +1114,41 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEFwcFxOb3RpZmljYXRpb25zXERvY3VtZW50QWRkZWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAnbGlua19pZCcgPT4gJ1tFTl0gTGllciBjZSBjbGllbnQgSUQnLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL21hcmdpbi1sZWZ0OiAyOHB4Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly91c2UgQXBwXFdpbmZ1bmRcQ2xpZW50Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly91c2UgQXBwXERvY3VtZW50Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIEFwcFxIdHRwXFJlcXVlc3RzXENsaWVudFxWaWV3Q2xpZW50UmVxdWVzdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9yZGVyLWJvdHRvbTogc29saWQgMXB4IGNvbG9yKCJjLWdyZXkiKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIEFwcFxSZXBvc2l0b3JpZXNcVXNlclJlcG9zaXRvcnk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAuZGlzY2xhaW1lciB7CiAgICAgICAgICAgIG1hcmdpbi1ib3R0b206IDEycHg7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">dXNlIENhcmJvblxDYXJib247Cg==</text>
+      <register name="8" type="4">
+        <text>margin-top: 10px;
+            //margin-left: 28px;
+            padding: 10px 12px;
+            border-radius: 2px;
+            background: color(&quot;c-darkgrey&quot;);
+            p {
+                font-weight: 200;
+                font-weight: 400;
+                color: color(&quot;c-midgrey&quot;);
+                @include rem-typo(14, 18);
+            }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5jbGlja0xpbmsoJ01lcyBkb2N1bWVudHMnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
