@@ -611,11 +611,11 @@
       <file name="$USER_HOME$/code/mica/resources/lang/fr/notifications.php" timestamp="1510687973334">
         <mark key="[" line="97" column="5" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Winfund/Type/Client/ClientType.php" timestamp="1510867603465">
-        <mark key="[" line="256" column="68" />
-        <mark key="]" line="255" column="0" />
-        <mark key="^" line="255" column="0" />
-        <mark key="." line="255" column="0" />
+      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Winfund/Type/Client/ClientType.php" timestamp="1510869230250">
+        <mark key="[" line="256" column="82" />
+        <mark key="]" line="256" column="81" />
+        <mark key="^" line="256" column="81" />
+        <mark key="." line="256" column="81" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/fields/Text.vue" timestamp="1510761400235">
         <mark key="[" line="19" column="0" />
