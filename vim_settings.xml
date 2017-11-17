@@ -21,6 +21,11 @@
         <mark key="." line="22" column="4" />
         <mark key="^" line="22" column="4" />
       </file>
+      <file name="$USER_HOME$/code/mica/app/Console/Commands/GenerateNonMatchingClientEmailReport.php" timestamp="1510771258906">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+      </file>
       <file name="$USER_HOME$/code/mica/app/Http/Controllers/User/AccountController.php" timestamp="1509464332477">
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="0" />
@@ -33,7 +38,7 @@
         <mark key="^" line="49" column="38" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5055f813-3fb1-4bbd-a46b-d08038f1154a/console.sql" timestamp="1510949939517">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5055f813-3fb1-4bbd-a46b-d08038f1154a/console.sql" timestamp="1510952120807">
         <mark key="[" line="760" column="41" />
         <mark key="]" line="760" column="9" />
         <mark key="^" line="760" column="9" />
@@ -366,8 +371,10 @@
         <mark key="." line="20" column="7" />
         <mark key="^" line="20" column="7" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Database/Eloquent/Builder.php" timestamp="1510950890368">
-        <mark key="[" line="18" column="0" />
+      <file name="$USER_HOME$/code/mica/app/Database/Eloquent/Builder.php" timestamp="1510952349658">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/fields/Clients.vue" timestamp="1510758205251" />
       <file name="$USER_HOME$/code/mica/app/ClientLink.php" timestamp="1502109980445">
@@ -557,11 +564,11 @@
         <mark key="." line="43" column="37" />
         <mark key="^" line="43" column="37" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Database/Grammars/SqlServerGrammar.php" timestamp="1510950809140">
+      <file name="$USER_HOME$/code/mica/app/Database/Grammars/SqlServerGrammar.php" timestamp="1510952018362">
         <mark key="[" line="45" column="5" />
-        <mark key="]" line="44" column="26" />
-        <mark key="^" line="44" column="26" />
-        <mark key="." line="44" column="26" />
+        <mark key="]" line="45" column="4" />
+        <mark key="^" line="45" column="4" />
+        <mark key="." line="45" column="4" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Winfund/Query/Client/ClientQuery.php" timestamp="1510865706987">
         <mark key="[" line="39" column="0" />
@@ -619,10 +626,7 @@
         <mark key="^" line="20" column="49" />
         <mark key="." line="20" column="49" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" timestamp="1510925401011">
-        <mark key="'" line="345" column="6" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1510950783735">
+      <file name="/Dummy.txt" timestamp="1510951974729">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Policies/WinfundClientPolicy.php" timestamp="1510865745266">
@@ -712,7 +716,7 @@
         <mark key="^" line="10" column="27" />
         <mark key="." line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SqlServerGrammar.php" timestamp="1510949530341">
+      <file name="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SqlServerGrammar.php" timestamp="1510951980597">
         <mark key="[" line="63" column="48" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/config/workflow.php" timestamp="1510606894972">
@@ -745,6 +749,7 @@
         <mark key="." line="10" column="41" />
         <mark key="^" line="10" column="41" />
       </file>
+      <file name="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" timestamp="1510951734556" />
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/fields/AccountPicker.vue" timestamp="1508249760102">
         <mark key="[" line="14" column="81" />
         <mark key="]" line="14" column="79" />
@@ -1196,31 +1201,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcGFnZSwgJHBlclBhZ2UpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gXElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcQnVpbGRlcnxzdGF0aWMK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdG90YWwpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0gIFxJbGx1bWluYXRlXERhdGFiYXNlXFF1ZXJ5XEJ1aWxkZXIgICRxdWVyeQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ3JlYXRlIGEgbmV3IEVsb3F1ZW50IHF1ZXJ5IGJ1aWxkZXIgZm9yIHRoZSBtb2RlbC4K</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0cyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgiTklDRSIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdGVzdCAqLwo=</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gSV9jYW5fZ2V0X3RoZV90YXhfc2xpcF9vZl9hX2NsaWVudCgpCiAgICB7CiAgICAgICAgJGNsaWVudCA9ICR0aGlzLT5jcmVhdGVXaW5mdW5kQ2xpZW50KCk7CgogICAgICAgICRjbGllbnQtPnRheFNsaXAgPSBmYWxzZTsKICAgICAgICAkY2xpZW50LT5zYXZlKCk7CgogICAgICAgICR0aGlzLT5hc3NlcnRFcXVhbHMoZmFsc2UsICRjbGllbnQtPnRheFNsaXApOwogICAgfQoKICAgIC8qKiBAdGVzdCAqLwogICAgcHVibGljIGZ1bmN0aW9uIHRheF9zbGlwX2RlZmF1bHRfdmFsdWVfaXNfZmFsc2UoKQogICAgewogICAgICAgICRjbGllbnQgPSAkdGhpcy0+Y3JlYXRlV2luZnVuZENsaWVudCgpOwoKICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKGZhbHNlLCAkY2xpZW50LT50YXhTbGlwKTsKICAgIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gXElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcQnVpbGRlcnxzdGF0aWMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0gIFxJbGx1bWluYXRlXERhdGFiYXNlXFF1ZXJ5XEJ1aWxkZXIgICRxdWVyeQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdGUK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQ3JlYXRlIGEgbmV3IEVsb3F1ZW50IHF1ZXJ5IGJ1aWxkZXIgZm9yIHRoZSBtb2RlbC4K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">cy8gPT4uKi8sLw==</text>
