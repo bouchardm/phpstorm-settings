@@ -443,11 +443,10 @@
       <file name="$USER_HOME$/code/mica/package.json" timestamp="1502199944066">
         <mark key="[" line="57" column="35" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/assets/js/components/client/information/Form.vue" timestamp="1510925544227">
-        <mark key="[" line="77" column="47" />
-        <mark key="]" line="77" column="53" />
-        <mark key="^" line="77" column="53" />
-        <mark key="." line="77" column="53" />
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/client/information/Form.vue" timestamp="1510933124960">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Workflow/Contracts/TransitionEvent.php" timestamp="1510597488763">
         <mark key="[" line="1" column="0" />
@@ -1184,31 +1183,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgkY2xpZW50LT5hY2NvdW50cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHYtaWY9Imhhc1NlbGZEaXJlY3RlZEFjY291bnQiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmhhc1NlbGZEaXJlY3RlZEFjY291bnQgPSByZXNwb25zZS5kYXRhLmRhdGEuY2xpZW50Lmhhc1NlbGZEaXJlY3RlZEFjY291bnQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGQoJGFjY291bnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoYXNTZWxmRGlyZWN0ZWRBY2NvdW50Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xpZW50KENvZGU6ICR7dGhpcy5jbGllbnQuQ29kZX0pIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZHVtcCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoYXNTZWxmRGlyZWN0ZWRBY2NvdW50Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xpZW50KENvZGU6ICR7dGhpcy5jbGllbnQuQ29kZX0pIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+SW50ZXJtZWRpYXJ5X0NvZGUgPT0gJ01JQ0EnICYmICR0aGlzLT5BY2NvdW50X0Rlc2lnbmF0aW9uID09IHNlbGY6OkRFU0lHTkFUSU9OX0JST0tFUl9OT01JTkVFX0FDQ09VTlQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHYtaWY9Imhhc1NlbGZEaXJlY3RlZEFjY291bnQiCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">cy8gPT4uKi8sLw==</text>
