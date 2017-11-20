@@ -115,6 +115,7 @@
         <mark key="." line="6" column="3" />
         <mark key="^" line="6" column="3" />
       </file>
+      <file name="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Database/README.md" timestamp="1511201562867" />
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/client/Transactions.vue" timestamp="1508183725606">
         <mark key="[" line="251" column="39" />
         <mark key="]" line="251" column="38" />
@@ -320,6 +321,9 @@
       </file>
       <file name="$USER_HOME$/code/mica/resources/lang/fr/profile.php" timestamp="1510772036275">
         <mark key="[" line="4" column="69" />
+      </file>
+      <file name="$USER_HOME$/code/mica/vendor/laravel/framework/README.md" timestamp="1511201519779">
+        <mark key="'" line="5" column="131" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/tests/WorkflowSubscriberTest.php" timestamp="1509132940664">
         <mark key="[" line="40" column="0" />
@@ -576,11 +580,10 @@
         <mark key="." line="43" column="37" />
         <mark key="^" line="43" column="37" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Database/Grammars/SqlServerGrammar.php" timestamp="1511187489164">
-        <mark key="[" line="45" column="27" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="47" column="0" />
+      <file name="$USER_HOME$/code/mica/app/Database/Grammars/SqlServerGrammar.php" timestamp="1511201451485">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Winfund/Query/Client/ClientQuery.php" timestamp="1510865706987">
         <mark key="[" line="39" column="0" />
@@ -685,6 +688,7 @@
       <file name="$USER_HOME$/code/mica/app/Console/Commands/GenerateClientWithSameAdnasAndDifferentEmailReport.php" timestamp="1510770647745">
         <mark key="[" line="41" column="9" />
       </file>
+      <file name="$USER_HOME$/code/mica/vendor/laravel/framework/composer.json" timestamp="1511201533289" />
       <file name="$USER_HOME$/code/mica/.env.example" timestamp="1510164820419">
         <mark key="[" line="44" column="48" />
         <mark key="]" line="43" column="0" />
@@ -762,6 +766,7 @@
         <mark key="." line="10" column="41" />
         <mark key="^" line="10" column="41" />
       </file>
+      <file name="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Database/DetectsDeadlocks.php" timestamp="1511201610177" />
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/fields/AccountPicker.vue" timestamp="1508249760102">
         <mark key="[" line="14" column="81" />
         <mark key="]" line="14" column="79" />
@@ -770,9 +775,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="46" filename="$USER_HOME$/code/workflow-engine/vendor/symfony/workflow/Workflow.php" />
-      <jump line="69" column="37" filename="$USER_HOME$/code/workflow-engine/vendor/symfony/workflow/Workflow.php" />
-      <jump line="70" column="27" filename="$USER_HOME$/code/workflow-engine/vendor/symfony/workflow/Workflow.php" />
       <jump line="94" column="30" filename="$USER_HOME$/code/workflow-engine/vendor/symfony/workflow/Workflow.php" />
       <jump line="97" column="49" filename="$USER_HOME$/code/workflow-engine/vendor/symfony/workflow/Workflow.php" />
       <jump line="118" column="30" filename="$USER_HOME$/code/workflow-engine/vendor/symfony/workflow/Workflow.php" />
@@ -870,6 +872,9 @@
       <jump line="197" column="61" filename="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
       <jump line="202" column="41" filename="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
       <jump line="569" column="49" filename="$USER_HOME$/code/mica/tests/TestCase.php" />
+      <jump line="29" column="0" filename="$USER_HOME$/code/mica/vendor/laravel/framework/README.md" />
+      <jump line="28" column="167" filename="$USER_HOME$/code/mica/vendor/laravel/framework/README.md" />
+      <jump line="5" column="131" filename="$USER_HOME$/code/mica/vendor/laravel/framework/README.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1188,7 +1193,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>mockwinfun</text>
+        <text>test</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">JHRoaXMtPmdlbmVyYXRvci0+Z2V0Q2xpZW50cygkdGhpcy0+b3V0cHV0KQ==</text>
@@ -1213,40 +1218,40 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEFwcFxEYXRhYmFzZVxHcmFtbWFyc1xTcWxTZXJ2ZXJHcmFtbWFyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRGF0YWJhc2VcUXVlcnlcR3JhbW1hcnNcU1FMaXRlR3JhbW1hcjsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">Ci8vCi8vICAgIC8qKgovLyAgICAgKiBDcmVhdGUgYSBmdWxsIEFOU0kgb2Zmc2V0IGNsYXVzZSBmb3IgdGhlIHF1ZXJ5LgovLyAgICAgKgovLyAgICAgKiBAcGFyYW0gIFxJbGx1bWluYXRlXERhdGFiYXNlXFF1ZXJ5XEJ1aWxkZXIgICRxdWVyeQovLyAgICAgKiBAcGFyYW0gIGFycmF5ICAkY29tcG9uZW50cwovLyAgICAgKiBAcmV0dXJuIHN0cmluZwovLyAgICAgKi8KLy8gICAgcHJvdGVjdGVkIGZ1bmN0aW9uIGNvbXBpbGVBbnNpT2Zmc2V0KEJ1aWxkZXIgJHF1ZXJ5LCAkY29tcG9uZW50cykKLy8gICAgewovLyAgICAgICAgLy8gQW4gT1JERVIgQlkgY2xhdXNlIGlzIHJlcXVpcmVkIHRvIG1ha2UgdGhpcyBvZmZzZXQgcXVlcnkgd29yaywgc28gaWYgb25lIGRvZXMKLy8gICAgICAgIC8vIG5vdCBleGlzdCB3ZSdsbCBqdXN0IGNyZWF0ZSBhIGR1bW15IGNsYXVzZSB0byB0cmljayB0aGUgZGF0YWJhc2UgYW5kIHNvIGl0Ci8vICAgICAgICAvLyBkb2VzIG5vdCBjb21wbGFpbiBhYm91dCB0aGUgcXVlcmllcyBmb3Igbm90IGhhdmluZyBhbiAib3JkZXIgYnkiIGNsYXVzZS4KLy8gICAgICAgIGlmIChlbXB0eSgkY29tcG9uZW50c1snb3JkZXJzJ10pKSB7Ci8vICAgICAgICAgICAgJGNvbXBvbmVudHNbJ29yZGVycyddID0gJ29yZGVyIGJ5IChzZWxlY3QgMCknOwovLyAgICAgICAgfQovLwovLyAgICAgICAgLy8gV2UgbmVlZCB0byBhZGQgdGhlIHJvdyBudW1iZXIgdG8gdGhlIHF1ZXJ5IHNvIHdlIGNhbiBjb21wYXJlIGl0IHRvIHRoZSBvZmZzZXQKLy8gICAgICAgIC8vIGFuZCBsaW1pdCB2YWx1ZXMgZ2l2ZW4gZm9yIHRoZSBzdGF0ZW1lbnRzLiBTbyB3ZSB3aWxsIGFkZCBhbiBleHByZXNzaW9uIHRvCi8vICAgICAgICAvLyB0aGUgInNlbGVjdCIgdGhhdCB3aWxsIGdpdmUgYmFjayB0aGUgcm93IG51bWJlcnMgb24gZWFjaCBvZiB0aGUgcmVjb3Jkcy4KLy8gICAgICAgICRjb21wb25lbnRzWydjb2x1bW5zJ10gLj0gJHRoaXMtPmNvbXBpbGVPdmVyKCRjb21wb25lbnRzWydvcmRlcnMnXSk7Ci8vCi8vICAgICAgICB1bnNldCgkY29tcG9uZW50c1snb3JkZXJzJ10pOwovLwovLyAgICAgICAgLy8gTmV4dCB3ZSBuZWVkIHRvIGNhbGN1bGF0ZSB0aGUgY29uc3RyYWludHMgdGhhdCBzaG91bGQgYmUgcGxhY2VkIG9uIHRoZSBxdWVyeQovLyAgICAgICAgLy8gdG8gZ2V0IHRoZSByaWdodCBvZmZzZXQgYW5kIGxpbWl0IGZyb20gb3VyIHF1ZXJ5IGJ1dCBpZiB0aGVyZSBpcyBubyBsaW1pdAovLyAgICAgICAgLy8gc2V0IHdlIHdpbGwganVzdCBoYW5kbGUgdGhlIG9mZnNldCBvbmx5IHNpbmNlIHRoYXQgaXMgYWxsIHRoYXQgbWF0dGVycy4KLy8gICAgICAgICRzcWwgPSAkdGhpcy0+Y29uY2F0ZW5hdGUoJGNvbXBvbmVudHMpOwovLwovLy8vICAgICAgICBkZCgkc3FsKTsKLy8KLy8gICAgICAgIHJldHVybiAkdGhpcy0+Y29tcGlsZVRhYmxlRXhwcmVzc2lvbigkc3FsLCAkcXVlcnkpOwovLyAgICB9Ci8vCi8vICAgIC8qKgovLyAgICAgKiBDb21waWxlIHRoZSBjb21wb25lbnRzIG5lY2Vzc2FyeSBmb3IgYSBzZWxlY3QgY2xhdXNlLgovLyAgICAgKgovLyAgICAgKiBAcGFyYW0gIFxJbGx1bWluYXRlXERhdGFiYXNlXFF1ZXJ5XEJ1aWxkZXIgICRxdWVyeQovLyAgICAgKiBAcmV0dXJuIGFycmF5Ci8vICAgICAqLwovLyAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gY29tcGlsZUNvbXBvbmVudHMoQnVpbGRlciAkcXVlcnkpCi8vICAgIHsKLy8gICAgICAgICRzcWwgPSBbXTsKLy8KLy8gICAgICAgIGZvcmVhY2ggKCR0aGlzLT5zZWxlY3RDb21wb25lbnRzIGFzICRjb21wb25lbnQpIHsKLy8gICAgICAgICAgICAvLyBUbyBjb21waWxlIHRoZSBxdWVyeSwgd2UnbGwgc3BpbiB0aHJvdWdoIGVhY2ggY29tcG9uZW50IG9mIHRoZSBxdWVyeSBhbmQKLy8gICAgICAgICAgICAvLyBzZWUgaWYgdGhhdCBjb21wb25lbnQgZXhpc3RzLiBJZiBpdCBkb2VzIHdlJ2xsIGp1c3QgY2FsbCB0aGUgY29tcGlsZXIKLy8gICAgICAgICAgICAvLyBmdW5jdGlvbiBmb3IgdGhlIGNvbXBvbmVudCB3aGljaCBpcyByZXNwb25zaWJsZSBmb3IgbWFraW5nIHRoZSBTUUwuCi8vICAgICAgICAgICAgaWYgKCEgaXNfbnVsbCgkcXVlcnktPiRjb21wb25lbnQpKSB7Ci8vICAgICAgICAgICAgICAgICRtZXRob2QgPSAnY29tcGlsZScudWNmaXJzdCgkY29tcG9uZW50KTsKLy8KLy8gICAgICAgICAgICAgICAgJHNxbFskY29tcG9uZW50XSA9ICR0aGlzLT4kbWV0aG9kKCRxdWVyeSwgJHF1ZXJ5LT4kY29tcG9uZW50KTsKLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9Ci8vCi8vICAgICAgICByZXR1cm4gJHNxbDsKLy8gICAgfQoKCgovLyAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gY29tcGlsZUFuc2lPZmZzZXQoQnVpbGRlciAkcXVlcnksICRjb21wb25lbnRzKQovLyAgICB7Ci8vLy8gICAgICAgIGRkKCJTREZTREYiKTsKLy8gICAgICAgIHJldHVybiBwYXJlbnQ6OmNvbXBpbGVBbnNpT2Zmc2V0KCRxdWVyeSwgJGNvbXBvbmVudHMpOyAvLyBUT0RPOiBDaGFuZ2UgdGhlIGF1dG9nZW5lcmF0ZWQgc3R1YgovLyAgICB9CgoKLy8KLy8gICAgLyoqCi8vICAgICAqIENvbXBpbGUgdGhlIG92ZXIgc3RhdGVtZW50IGZvciBhIHRhYmxlIGV4cHJlc3Npb24uCi8vICAgICAqCi8vICAgICAqIEBwYXJhbSAgc3RyaW5nICAkb3JkZXJpbmdzCi8vICAgICAqIEByZXR1cm4gc3RyaW5nCi8vICAgICAqLwovLyAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gY29tcGlsZU92ZXIoJG9yZGVyaW5ncykKLy8gICAgewovLy8vICAgICAgICBkdW1wKCJGVUNLIFlFQUgiKTsKLy8vLyAgICAgICAgZGQoJG9yZGVyaW5ncyk7Ci8vICAgICAgICByZXR1cm4gIiwgcm93X251bWJlcigpIG92ZXIgKHskb3JkZXJpbmdzfSkgYXMgcm93X251bSI7Ci8vICAgIH0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGRkKGdldF9jbGFzcygkZ3JhbW1hcikpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGR1bXAoIklDSSIpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGRkKCJTREZTREYiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBkZCgiU0RGU0RGIik7ZGQK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBkdW1wKHBhcmVudDo6Y29tcGlsZVNlbGVjdCgkcXVlcnkpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkc3FsKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICByZXR1cm4gJHRoaXMtPmNvbXBpbGVTZWxlY3QoKQovLyAgICAgICAgICAgIGR1bXAoIm5vcGUiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgka2V5LCAkaW5wdXQpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGR1bXAoJHF1ZXJ5LT5vZmZzZXQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZChnZXRfY2xhc3MoJGdyYW1tYXIpKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIGR1bXAoICEgJHF1ZXJ5LT5vZmZzZXQgPz8gMCk7Ci8vICAgICAgICBkZCgkcXVlcnktPm9mZnNldCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxEYXRhYmFzZVxHcmFtbWFyc1xTcWxTZXJ2ZXJHcmFtbWFyOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">cy8gPT4uKi8sLw==</text>
       </register>
     </registers>
     <search>
-      <last-search>mockwinfun</last-search>
+      <last-search>test</last-search>
       <last-offset />
-      <last-pattern>mockwinfun</last-pattern>
+      <last-pattern>test</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute encoding="base64">ID0+Lio=</last-substitute>
       <last-dir>1</last-dir>
@@ -1254,7 +1259,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXJ2ZXJfbmFtZVw+</entry>
         <entry>setemail</entry>
         <entry encoding="base64">XDxFWFBPU0VcPg==</entry>
         <entry encoding="base64">XDxBRERcPg==</entry>
@@ -1274,6 +1278,7 @@
         <entry encoding="base64">dGhpcy0+b2Zmc2V0</entry>
         <entry>grammar</entry>
         <entry>mockwinfun</entry>
+        <entry>test</entry>
       </history-search>
       <history-cmd>
         <entry>603</entry>
