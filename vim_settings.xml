@@ -164,6 +164,18 @@
       <file name="$USER_HOME$/code/mica/resources/lang/en/notifications.php" timestamp="1510687952276">
         <mark key="[" line="96" column="5" />
       </file>
+      <file name="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php" timestamp="1511183542362">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Winfund/Client.php" timestamp="1510860327354">
+        <mark key="'" line="562" column="43" />
+        <mark key="[" line="448" column="9" />
+        <mark key="]" line="448" column="33" />
+        <mark key="^" line="448" column="33" />
+        <mark key="." line="448" column="33" />
+      </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/vendor/orchestra/testbench-core/laravel/config/database.php" timestamp="1509542972632">
         <mark key="[" line="42" column="76" />
         <mark key="]" line="41" column="32" />
@@ -279,11 +291,10 @@
       <file name="/GraphQL.result.json" timestamp="1508154437105">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Database/Eloquent/Model.php" timestamp="1510950815367">
-        <mark key="[" line="95" column="26" />
-        <mark key="]" line="32" column="23" />
-        <mark key="^" line="32" column="38" />
-        <mark key="." line="32" column="23" />
+      <file name="$USER_HOME$/code/mica/app/Database/Eloquent/Model.php" timestamp="1511184710570">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/tests/migrations/2014_12_12_123312_create_workflow_marking.php" timestamp="1509459493397">
         <mark key="[" line="19" column="27" />
@@ -358,7 +369,14 @@
         <mark key="^" line="45" column="68" />
         <mark key="." line="45" column="68" />
       </file>
-      <file name="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" timestamp="1510950126029" />
+      <file name="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" timestamp="1511184568458">
+        <mark key="'" line="202" column="41" />
+        <mark key="[" line="1651" column="5" />
+        <mark key="]" line="1501" column="0" />
+        <mark key="^" line="1500" column="0" />
+        <mark key="." line="1501" column="0" />
+        <mark key="n" line="37" column="12" />
+      </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/README.md" timestamp="1509457793455">
         <mark key="[" line="82" column="0" />
         <mark key="]" line="22" column="0" />
@@ -371,10 +389,12 @@
         <mark key="." line="20" column="7" />
         <mark key="^" line="20" column="7" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Database/Eloquent/Builder.php" timestamp="1510952349658">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/code/mica/app/Database/Eloquent/Builder.php" timestamp="1511184533889">
+        <mark key="'" line="25" column="11" />
+        <mark key="[" line="25" column="11" />
+        <mark key="]" line="25" column="11" />
+        <mark key="." line="25" column="11" />
+        <mark key="^" line="25" column="35" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/fields/Clients.vue" timestamp="1510758205251" />
       <file name="$USER_HOME$/code/mica/app/ClientLink.php" timestamp="1502109980445">
@@ -436,11 +456,10 @@
         <mark key="." line="44" column="16" />
         <mark key="^" line="44" column="16" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Database/Query/Builder.php" timestamp="1510950139077">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="31" column="29" />
-        <mark key="^" line="31" column="29" />
-        <mark key="." line="31" column="29" />
+      <file name="$USER_HOME$/code/mica/app/Database/Query/Builder.php" timestamp="1511184726285">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Type/Document/DocumentType.php" timestamp="1510667879301">
         <mark key="[" line="32" column="43" />
@@ -564,11 +583,10 @@
         <mark key="." line="43" column="37" />
         <mark key="^" line="43" column="37" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Database/Grammars/SqlServerGrammar.php" timestamp="1510952018362">
-        <mark key="[" line="45" column="5" />
-        <mark key="]" line="45" column="4" />
-        <mark key="^" line="45" column="4" />
-        <mark key="." line="45" column="4" />
+      <file name="$USER_HOME$/code/mica/app/Database/Grammars/SqlServerGrammar.php" timestamp="1511184605097">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Winfund/Query/Client/ClientQuery.php" timestamp="1510865706987">
         <mark key="[" line="39" column="0" />
@@ -626,7 +644,7 @@
         <mark key="^" line="20" column="49" />
         <mark key="." line="20" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510951974729">
+      <file name="/Dummy.txt" timestamp="1511183970311">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Policies/WinfundClientPolicy.php" timestamp="1510865745266">
@@ -716,7 +734,7 @@
         <mark key="^" line="10" column="27" />
         <mark key="." line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SqlServerGrammar.php" timestamp="1510951980597">
+      <file name="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SqlServerGrammar.php" timestamp="1511184855584">
         <mark key="[" line="63" column="48" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/config/workflow.php" timestamp="1510606894972">
@@ -758,12 +776,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="202" column="11" filename="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/vendor/symfony/workflow/Workflow.php" />
-      <jump line="11" column="4" filename="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/WorkflowRegistry.php" />
-      <jump line="309" column="0" filename="$USER_HOME$/code/workflow-engine/vendor/symfony/workflow/Workflow.php" />
-      <jump line="49" column="20" filename="$USER_HOME$/code/workflow-engine/vendor/symfony/workflow/Workflow.php" />
-      <jump line="51" column="40" filename="$USER_HOME$/code/workflow-engine/vendor/symfony/workflow/Workflow.php" />
-      <jump line="58" column="23" filename="$USER_HOME$/code/workflow-engine/vendor/symfony/workflow/Workflow.php" />
       <jump line="59" column="36" filename="$USER_HOME$/code/workflow-engine/vendor/symfony/workflow/Workflow.php" />
       <jump line="62" column="46" filename="$USER_HOME$/code/workflow-engine/vendor/symfony/workflow/Workflow.php" />
       <jump line="69" column="37" filename="$USER_HOME$/code/workflow-engine/vendor/symfony/workflow/Workflow.php" />
@@ -858,6 +870,12 @@
       <jump line="184" column="87" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
       <jump line="185" column="88" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
       <jump line="345" column="6" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
+      <jump line="1499" column="57" filename="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
+      <jump line="1488" column="16" filename="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
+      <jump line="25" column="11" filename="$USER_HOME$/code/mica/app/Database/Eloquent/Builder.php" />
+      <jump line="37" column="12" filename="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
+      <jump line="197" column="61" filename="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
+      <jump line="202" column="41" filename="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1173,10 +1191,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>newBaseQueryBuiclder</text>
+        <text encoding="base64">JHRoaXMtPmdyYW1tYXItPmNvbXBpbGVTZWxlY3QoJHRoaXMp</text>
       </register>
       <register name="/" type="4">
-        <text>Client_C</text>
+        <text>grammar</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">JHRoaXMtPmdlbmVyYXRvci0+Z2V0Q2xpZW50cygkdGhpcy0+b3V0cHV0KQ==</text>
@@ -1201,40 +1219,40 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcGFnZSwgJHBlclBhZ2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZChnZXRfY2xhc3MoJGdyYW1tYXIpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdG90YWwpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0cyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgiTklDRSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+Z2V0R3JhbW1hcigpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gXElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcQnVpbGRlcnxzdGF0aWMK</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0gIFxJbGx1bWluYXRlXERhdGFiYXNlXFF1ZXJ5XEJ1aWxkZXIgICRxdWVyeQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAqIENyZWF0ZWQgYnkgUGhwU3Rvcm0uCiAqIFVzZXI6IG1hcmNhYm0KICogRGF0ZTogMTcvMTEvMTcKICogVGltZTogMzozMyBQTQogKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ3JlYXRlIGEgbmV3IEVsb3F1ZW50IHF1ZXJ5IGJ1aWxkZXIgZm9yIHRoZSBtb2RlbC4K</text>
+        <text encoding="base64">ICAgICAgICBkZCgiTklDQ0UiKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">cy8gPT4uKi8sLw==</text>
       </register>
     </registers>
     <search>
-      <last-search>Client_C</last-search>
+      <last-search>grammar</last-search>
       <last-offset />
-      <last-pattern>Client_C</last-pattern>
+      <last-pattern>grammar</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute encoding="base64">ID0+Lio=</last-substitute>
       <last-dir>1</last-dir>
@@ -1242,8 +1260,6 @@
     </search>
     <history>
       <history-search>
-        <entry>is</entry>
-        <entry>term</entry>
         <entry encoding="base64">XDx0cmFuc2l0aW9uc1w+</entry>
         <entry encoding="base64">XDxzZXJ2ZXJfbmFtZVw+</entry>
         <entry>setemail</entry>
@@ -1262,6 +1278,8 @@
         <entry>Trust_Acc</entry>
         <entry>trustAccount</entry>
         <entry>Client_C</entry>
+        <entry encoding="base64">dGhpcy0+b2Zmc2V0</entry>
+        <entry>grammar</entry>
       </history-search>
       <history-cmd>
         <entry>603</entry>
