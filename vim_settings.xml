@@ -474,11 +474,11 @@
       <file name="$USER_HOME$/code/mica/package.json" timestamp="1502199944066">
         <mark key="[" line="57" column="35" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/lang/en/information.php" timestamp="1510947780076">
-        <mark key="[" line="65" column="67" />
-        <mark key="]" line="65" column="40" />
-        <mark key="^" line="65" column="40" />
-        <mark key="." line="65" column="40" />
+      <file name="$USER_HOME$/code/mica/resources/lang/en/information.php" timestamp="1511214188953">
+        <mark key="[" line="65" column="26" />
+        <mark key="]" line="65" column="26" />
+        <mark key="^" line="65" column="57" />
+        <mark key="." line="65" column="26" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Workflow/Contracts/TransitionEvent.php" timestamp="1510597488763">
         <mark key="[" line="1" column="0" />
@@ -636,7 +636,7 @@
         <mark key="^" line="20" column="49" />
         <mark key="." line="20" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511195689437">
+      <file name="/Dummy.txt" timestamp="1511214080406">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Policies/WinfundClientPolicy.php" timestamp="1510865745266">
@@ -753,6 +753,11 @@
         <mark key="]" line="143" column="0" />
         <mark key="^" line="171" column="0" />
         <mark key="." line="143" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/lang/fr/information.php" timestamp="1511214197755">
+        <mark key="[" line="67" column="26" />
+        <mark key="]" line="67" column="26" />
+        <mark key="." line="67" column="26" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/Profile.vue" timestamp="1510763428012">
         <mark key="[" line="11" column="29" />
@@ -1184,7 +1189,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>Feuillets fiscaux comptes Simplicité MICA</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
