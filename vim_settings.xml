@@ -754,10 +754,11 @@
         <mark key="^" line="171" column="0" />
         <mark key="." line="143" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/lang/fr/information.php" timestamp="1511214197755">
+      <file name="$USER_HOME$/code/mica/resources/lang/fr/information.php" timestamp="1511269275175">
         <mark key="[" line="67" column="26" />
-        <mark key="]" line="67" column="26" />
-        <mark key="." line="67" column="26" />
+        <mark key="]" line="75" column="45" />
+        <mark key="." line="75" column="45" />
+        <mark key="^" line="75" column="45" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/Profile.vue" timestamp="1510763428012">
         <mark key="[" line="11" column="29" />
