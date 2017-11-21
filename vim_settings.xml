@@ -39,11 +39,11 @@
         <mark key="^" line="49" column="38" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5055f813-3fb1-4bbd-a46b-d08038f1154a/console.sql" timestamp="1511294091996">
-        <mark key="[" line="737" column="26" />
-        <mark key="]" line="737" column="25" />
-        <mark key="^" line="737" column="25" />
-        <mark key="." line="737" column="25" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5055f813-3fb1-4bbd-a46b-d08038f1154a/console.sql" timestamp="1511297192137">
+        <mark key="[" line="743" column="61" />
+        <mark key="]" line="743" column="61" />
+        <mark key="^" line="743" column="0" />
+        <mark key="." line="743" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Winfund/TrustAccountTest.php" timestamp="1508248763669">
         <mark key="[" line="23" column="39" />
@@ -145,8 +145,8 @@
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/86eee6cc-3a14-406f-a3ca-c6b7ce31fcd3/console.sql" timestamp="1506363904118">
-        <mark key="[" line="124" column="51" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/86eee6cc-3a14-406f-a3ca-c6b7ce31fcd3/console.sql" timestamp="1511296150738">
+        <mark key="[" line="127" column="0" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/resources/views/welcome.blade.php" timestamp="1509028171387">
         <mark key="[" line="9" column="10" />
@@ -363,14 +363,6 @@
         <mark key="^" line="45" column="68" />
         <mark key="." line="45" column="68" />
       </file>
-      <file name="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" timestamp="1511187153844">
-        <mark key="'" line="202" column="41" />
-        <mark key="[" line="1651" column="5" />
-        <mark key="]" line="1501" column="0" />
-        <mark key="^" line="1500" column="0" />
-        <mark key="." line="1501" column="0" />
-        <mark key="n" line="37" column="12" />
-      </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/README.md" timestamp="1509457793455">
         <mark key="[" line="82" column="0" />
         <mark key="]" line="22" column="0" />
@@ -432,8 +424,8 @@
         <mark key="." line="30" column="1" />
         <mark key="^" line="30" column="1" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1510771226800">
-        <mark key="[" line="0" column="14" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1511296647214">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Type/Log/LogType.php" timestamp="1507641940044">
         <mark key="[" line="26" column="46" />
@@ -628,8 +620,10 @@
         <mark key="^" line="126" column="46" />
         <mark key="." line="126" column="46" />
       </file>
-      <file name="/dummy.sql" timestamp="1511293847626">
+      <file name="/dummy.sql" timestamp="1511296441650">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1509453365904">
         <mark key="[" line="20" column="26" />
@@ -1189,13 +1183,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Feuillets fiscaux comptes Simplicité MICA</text>
+        <text>SystematicPlanType=1 a</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">JHRoaXMtPmdlbmVyYXRvci0+Z2V0Q2xpZW50cygkdGhpcy0+b3V0cHV0KQ==</text>
+        <text>INNER JOIN ClientPlan on ClientPlan.ClientCode = Clients.Code</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1244,7 +1238,7 @@
         <text encoding="base64">Ly8K</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">cy8gPT4uKi8sLw==</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -1294,12 +1288,12 @@
         <entry>175</entry>
         <entry>1043</entry>
         <entry>w</entry>
-        <entry>q</entry>
         <entry encoding="base64">dyA=</entry>
         <entry>wq</entry>
         <entry encoding="base64">cy89Pi4qLy8=</entry>
         <entry encoding="base64">cy89Pi4qLywv</entry>
         <entry encoding="base64">cy8gPT4uKi8sLw==</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
