@@ -15,6 +15,7 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/code/mica/scripts/test.sh" timestamp="1511290883967" />
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/tests/Fixtures/TestObject.php" timestamp="1510583023074">
         <mark key="[" line="10" column="38" />
         <mark key="]" line="22" column="4" />
@@ -38,11 +39,11 @@
         <mark key="^" line="49" column="38" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5055f813-3fb1-4bbd-a46b-d08038f1154a/console.sql" timestamp="1510952120807">
-        <mark key="[" line="760" column="41" />
-        <mark key="]" line="760" column="9" />
-        <mark key="^" line="760" column="9" />
-        <mark key="." line="760" column="9" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5055f813-3fb1-4bbd-a46b-d08038f1154a/console.sql" timestamp="1511294091996">
+        <mark key="[" line="737" column="26" />
+        <mark key="]" line="737" column="25" />
+        <mark key="^" line="737" column="25" />
+        <mark key="." line="737" column="25" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Winfund/TrustAccountTest.php" timestamp="1508248763669">
         <mark key="[" line="23" column="39" />
@@ -627,7 +628,7 @@
         <mark key="^" line="126" column="46" />
         <mark key="." line="126" column="46" />
       </file>
-      <file name="/dummy.sql" timestamp="1510771223405">
+      <file name="/dummy.sql" timestamp="1511293847626">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1509453365904">
@@ -636,7 +637,7 @@
         <mark key="^" line="20" column="49" />
         <mark key="." line="20" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511214080406">
+      <file name="/Dummy.txt" timestamp="1511292938120">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Policies/WinfundClientPolicy.php" timestamp="1510865745266">
@@ -1218,29 +1219,29 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGRkKCRxdWVyeS0+dG9TcWwoKSk7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ClNFTEVDVCAqCkZST00gKFNFTEVDVAogICAgICAgIENBU0UgV0hFTiBDbGllbnRUeXBlID0gMAogICAgICAgICAgVEhFTiBOYW1lCiAgICAgICAgRUxTRSBTdXJuYW1lIEVORCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgTmFtZSwKICAgICAgICBDQVNFIFdIRU4gQ2xpZW50VHlwZSA9IDAKICAgICAgICAgIFRIRU4gU3VybmFtZQogICAgICAgIEVMU0UgTmFtZSBFTkQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIFN1cm5hbWUsCiAgICAgICAgQ29kZSwKICAgICAgICBDaXR5LAogICAgICAgIEVtYWlsX0FkZHJlc3MsCiAgICAgICAgQ2xpZW50X1N0YXR1cywKICAgICAgICBTSU5fTnVtYmVyLAogICAgICAgIFNwb3VzYWxfU0lOLAogICAgICAgIERlYWxlcl9Db2RlLAogICAgICAgIFJlcF9Db2RlLAogICAgICAgIEhvbWVfUGhvbmUsCiAgICAgICAgQ2VsbF9QaG9uZSwKICAgICAgICBCdXNpbmVzc19QaG9uZSwKICAgICAgICBEZWxpdmVyeV9UeXBlLAogICAgICAgIHJvd19udW1iZXIoKSBPVkVSIChPUkRFUiBCWSBTdXJuYW1lIEFTQywgTmFtZSBBU0MsIENvZGUgQVNDICkgQVMgcm93X251bQogICAgICBGUk9NIFtDbGllbnRzXQogICAgICBXSEVSRSBSZXBfQ29kZSBJTiAoU0VMRUNUIFJlcHJlc2VudGF0aXZlcy5Db2RlCiAgICAgICAgICAgICAgICAgICAgICAgICBGUk9NIFJlcHJlc2VudGF0aXZlcwogICAgICAgICAgICAgICAgICAgICAgICAgV0hFUkUgUmVwX1N0YXR1cyA9IDApIEFORCAoW1JlcF9Db2RlXSBMSUtFIGNhc3QoJyUyMjM1JScgQVMgVkFSQ0hBUig2KSkpIEFORAogICAgICAgICAgICBbQ2xpZW50X1N0YXR1c10gSU4gKGNhc3QoJzAnIEFTIElOVCkpKSBBUyB0ZW1wX3RhYmxlCldIRVJFIHJvd19udW0gQkVUV0VFTiAxIEFORCA1MApPUkRFUiBCWSByb3dfbnVt</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBuZXcgRWxvcXVlbnRCdWlsZGVyKCRxdWVyeSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGRkKCRxdWVyeS0+dG9TcWwoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgcHVibGljIGZ1bmN0aW9uIG5ld0Vsb3F1ZW50QnVpbGRlcigkcXVlcnkpCg==</text>
+        <text encoding="base64">Ly8gICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgewo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBuZXcgRWxvcXVlbnRCdWlsZGVyKCRxdWVyeSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">Ly8gICAgcHVibGljIGZ1bmN0aW9uIG5ld0Vsb3F1ZW50QnVpbGRlcigkcXVlcnkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">Ly8gICAgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkcXVlcnktPnBhZ2luYXRlKDUwLCBbJyonXSwgJ3BhZ2UnLCAkZmllbGRzLT5nZXQoJ3BhZ2UnLCAxKSk7Cg==</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">cy8gPT4uKi8sLw==</text>
