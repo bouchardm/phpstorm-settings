@@ -109,7 +109,6 @@
         <mark key="." line="6" column="3" />
         <mark key="^" line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Database/README.md" timestamp="1511201562867" />
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/client/Transactions.vue" timestamp="1508183725606">
         <mark key="[" line="251" column="39" />
         <mark key="]" line="251" column="38" />
@@ -682,7 +681,6 @@
       <file name="$USER_HOME$/code/mica/app/Console/Commands/GenerateClientWithSameAdnasAndDifferentEmailReport.php" timestamp="1510770647745">
         <mark key="[" line="41" column="9" />
       </file>
-      <file name="$USER_HOME$/code/mica/vendor/laravel/framework/composer.json" timestamp="1511201533289" />
       <file name="$USER_HOME$/code/mica/.env.example" timestamp="1510164820419">
         <mark key="[" line="44" column="48" />
         <mark key="]" line="43" column="0" />
@@ -754,7 +752,7 @@
         <mark key="^" line="171" column="0" />
         <mark key="." line="143" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/lang/fr/information.php" timestamp="1511269275175">
+      <file name="$USER_HOME$/code/mica/resources/lang/fr/information.php" timestamp="1511282428415">
         <mark key="[" line="67" column="26" />
         <mark key="]" line="75" column="45" />
         <mark key="." line="75" column="45" />
@@ -766,7 +764,6 @@
         <mark key="." line="10" column="41" />
         <mark key="^" line="10" column="41" />
       </file>
-      <file name="$USER_HOME$/code/mica/vendor/laravel/framework/src/Illuminate/Database/DetectsDeadlocks.php" timestamp="1511201610177" />
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/fields/AccountPicker.vue" timestamp="1508249760102">
         <mark key="[" line="14" column="81" />
         <mark key="]" line="14" column="79" />
