@@ -670,7 +670,7 @@
         <mark key="^" line="126" column="46" />
         <mark key="." line="126" column="46" />
       </file>
-      <file name="/dummy.sql" timestamp="1511464345132">
+      <file name="/dummy.sql" timestamp="1511467244235">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1322,25 +1322,25 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEFwcFxEYXRhYmFzZVxFbG9xdWVudFxCdWlsZGVyIGFzIEVsb3F1ZW50QnVpbGRlcjsK</text>
+        <text encoding="base64">Q29kZT0zODgzOAo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">dXNlIEFwcFxEYXRhYmFzZVxFbG9xdWVudFxCdWlsZGVyIGFzIEVsb3F1ZW50QnVpbGRlcjsK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CgpTZWxlY3QgY291bnQoQ0FTRSBDbGllbnRzLkNsaWVudFR5cGUgV0hFTiAwIFRIRU4gQ2xpZW50cy5TZXggRUxTRSBDbGllbnRzLlNwb3VzYWxfU2V4IEVORCkgYXMgZ2VuZGVyCkZyb20gQ2xpZW50cwotLSB3aGVyZSBDQVNFIENsaWVudHMuQ2xpZW50VHlwZSBXSEVOIDAgVEhFTiBDbGllbnRzLlNleCBFTFNFIENsaWVudHMuU3BvdXNhbF9TZXggRU5EID0gMAp3aGVyZSBDbGllbnRzLkNsaWVudF9TdGF0dXMgPSAwCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CkRFQ0xBUkUgQHF3ZSBTTUFMTElOVApFWEVDVVRFIEBxd2UgPSBkYm8udWRmV0RFR2V0UEFDRnJlcXVlbmN5ICdNb250aGx5JwpTRUxFQ1QgQHF3ZQ==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ0RFRl9DbGllbnRzX0ludmVzdG1lbnRLbm93bGVkZ2UnLAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICovCg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1349,11 +1349,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAqIEFwcFxXaW5mdW5kXEdlbmRlcgogKgogKiBAcHJvcGVydHkgaW50ICRDb2RlCiAqIEBwcm9wZXJ0eSBzdHJpbmcgJE5hbWVFTgogKiBAcHJvcGVydHkgc3RyaW5nICROYW1lRlIKICogQHByb3BlcnR5IGludCAkVmFsdWVPcmRlcgogKiBAbWV0aG9kIHN0YXRpYyBcQXBwXERhdGFiYXNlXFF1ZXJ5XEJ1aWxkZXJ8XEFwcFxXaW5mdW5kXEdlbmRlciB3aGVyZUNvZGUoJHZhbHVlKQogKiBAbWV0aG9kIHN0YXRpYyBcQXBwXERhdGFiYXNlXFF1ZXJ5XEJ1aWxkZXJ8XEFwcFxXaW5mdW5kXEdlbmRlciB3aGVyZU5hbWVFTigkdmFsdWUpCiAqIEBtZXRob2Qgc3RhdGljIFxBcHBcRGF0YWJhc2VcUXVlcnlcQnVpbGRlcnxcQXBwXFdpbmZ1bmRcR2VuZGVyIHdoZXJlTmFtZUZSKCR2YWx1ZSkKICogQG1ldGhvZCBzdGF0aWMgXEFwcFxEYXRhYmFzZVxRdWVyeVxCdWlsZGVyfFxBcHBcV2luZnVuZFxHZW5kZXIgd2hlcmVWYWx1ZU9yZGVyKCR2YWx1ZSkKICogQG1peGluIFxFbG9xdWVudA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">LyoqCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAqIEFwcFxXaW5mdW5kXEdlbmRlcgogKgogKiBAcHJvcGVydHkgaW50ICRDb2RlCiAqIEBwcm9wZXJ0eSBzdHJpbmcgJE5hbWVFTgogKiBAcHJvcGVydHkgc3RyaW5nICROYW1lRlIKICogQHByb3BlcnR5IGludCAkVmFsdWVPcmRlcgogKiBAbWV0aG9kIHN0YXRpYyBcQXBwXERhdGFiYXNlXFF1ZXJ5XEJ1aWxkZXJ8XEFwcFxXaW5mdW5kXEdlbmRlciB3aGVyZUNvZGUoJHZhbHVlKQogKiBAbWV0aG9kIHN0YXRpYyBcQXBwXERhdGFiYXNlXFF1ZXJ5XEJ1aWxkZXJ8XEFwcFxXaW5mdW5kXEdlbmRlciB3aGVyZU5hbWVFTigkdmFsdWUpCiAqIEBtZXRob2Qgc3RhdGljIFxBcHBcRGF0YWJhc2VcUXVlcnlcQnVpbGRlcnxcQXBwXFdpbmZ1bmRcR2VuZGVyIHdoZXJlTmFtZUZSKCR2YWx1ZSkKICogQG1ldGhvZCBzdGF0aWMgXEFwcFxEYXRhYmFzZVxRdWVyeVxCdWlsZGVyfFxBcHBcV2luZnVuZFxHZW5kZXIgd2hlcmVWYWx1ZU9yZGVyKCR2YWx1ZSkKICogQG1peGluIFxFbG9xdWVudA==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
