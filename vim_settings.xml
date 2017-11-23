@@ -154,10 +154,11 @@
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/86eee6cc-3a14-406f-a3ca-c6b7ce31fcd3/console.sql" timestamp="1511468286159">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/86eee6cc-3a14-406f-a3ca-c6b7ce31fcd3/console.sql" timestamp="1511469594130">
         <mark key="[" line="134" column="31" />
-        <mark key="]" line="134" column="31" />
-        <mark key="." line="134" column="31" />
+        <mark key="]" line="122" column="24" />
+        <mark key="." line="122" column="24" />
+        <mark key="^" line="122" column="24" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/resources/views/welcome.blade.php" timestamp="1509028171387">
         <mark key="[" line="9" column="10" />
