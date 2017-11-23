@@ -139,8 +139,10 @@
         <mark key="^" line="15" column="54" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/86eee6cc-3a14-406f-a3ca-c6b7ce31fcd3/console.sql" timestamp="1511296150738">
-        <mark key="[" line="127" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/86eee6cc-3a14-406f-a3ca-c6b7ce31fcd3/console.sql" timestamp="1511464400185">
+        <mark key="[" line="134" column="31" />
+        <mark key="]" line="134" column="31" />
+        <mark key="." line="134" column="31" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/resources/views/welcome.blade.php" timestamp="1509028171387">
         <mark key="[" line="9" column="10" />
@@ -150,6 +152,13 @@
       </file>
       <file name="$USER_HOME$/code/mica/resources/lang/en/notifications.php" timestamp="1510687952276">
         <mark key="[" line="96" column="5" />
+      </file>
+      <file name="$USER_HOME$/code/mica/app/Winfund/Client.php" timestamp="1511464072318">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="448" column="9" />
+        <mark key="]" line="448" column="33" />
+        <mark key="^" line="448" column="33" />
+        <mark key="." line="448" column="33" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/vendor/orchestra/testbench-core/laravel/config/database.php" timestamp="1509542972632">
         <mark key="[" line="42" column="76" />
@@ -622,7 +631,7 @@
         <mark key="^" line="126" column="46" />
         <mark key="." line="126" column="46" />
       </file>
-      <file name="/dummy.sql" timestamp="1511441480396">
+      <file name="/dummy.sql" timestamp="1511464345132">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -768,6 +777,7 @@
         <mark key="." line="10" column="41" />
         <mark key="^" line="10" column="41" />
       </file>
+      <file name="$USER_HOME$/code/mica/app/Winfund/ClientType.php" timestamp="1511464081426" />
       <file name="$USER_HOME$/code/mica/app/Winfund/SystematicPlan.php" timestamp="1511376431699">
         <mark key="[" line="47" column="28" />
         <mark key="]" line="58" column="37" />
@@ -782,7 +792,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="143" filename="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Workflow/WorkflowRegistry.php" />
       <jump line="136" column="18" filename="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/vendor/symfony/workflow/Workflow.php" />
       <jump line="167" column="0" filename="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/tests/unit/WorkflowSubscriberTest.php" />
       <jump line="33" column="33" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
@@ -882,6 +891,7 @@
       <jump line="293" column="26" filename="$USER_HOME$/code/mica/database/seeds/WinfundDBMockSeeder.php" />
       <jump line="294" column="26" filename="$USER_HOME$/code/mica/database/seeds/WinfundDBMockSeeder.php" />
       <jump line="295" column="26" filename="$USER_HOME$/code/mica/database/seeds/WinfundDBMockSeeder.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1197,10 +1207,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>SystematicPlanFrequency</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PT4=</text>
+        <text>isCor</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgJ2JhbmtIb2xkZXJOYW1lJywKICAgICAgICAgICAgICAgICAgICAgJ2JhbmtCcmFuY2gnLAogICAgICAgICAgICAgICAgICAgICAnYmFua0FjY291bnRDb2RlJywKIA==</text>
@@ -1257,26 +1267,26 @@
           <key char="65535" code="36" mods="0" />
         </keys>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CkRFQ0xBUkUgQHF3ZSBTTUFMTElOVApFWEVDVVRFIEBxd2UgPSBkYm8udWRmV0RFR2V0UEFDRnJlcXVlbmN5ICdNb250aGx5JwpTRUxFQ1QgQHF3ZQ==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0RFRl9DbGllbnRzX0ludmVzdG1lbnRLbm93bGVkZ2UnLAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICovCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">LyoqCg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAqIEFwcFxXaW5mdW5kXEdlbmRlcgogKgogKiBAcHJvcGVydHkgaW50ICRDb2RlCiAqIEBwcm9wZXJ0eSBzdHJpbmcgJE5hbWVFTgogKiBAcHJvcGVydHkgc3RyaW5nICROYW1lRlIKICogQHByb3BlcnR5IGludCAkVmFsdWVPcmRlcgogKiBAbWV0aG9kIHN0YXRpYyBcQXBwXERhdGFiYXNlXFF1ZXJ5XEJ1aWxkZXJ8XEFwcFxXaW5mdW5kXEdlbmRlciB3aGVyZUNvZGUoJHZhbHVlKQogKiBAbWV0aG9kIHN0YXRpYyBcQXBwXERhdGFiYXNlXFF1ZXJ5XEJ1aWxkZXJ8XEFwcFxXaW5mdW5kXEdlbmRlciB3aGVyZU5hbWVFTigkdmFsdWUpCiAqIEBtZXRob2Qgc3RhdGljIFxBcHBcRGF0YWJhc2VcUXVlcnlcQnVpbGRlcnxcQXBwXFdpbmZ1bmRcR2VuZGVyIHdoZXJlTmFtZUZSKCR2YWx1ZSkKICogQG1ldGhvZCBzdGF0aWMgXEFwcFxEYXRhYmFzZVxRdWVyeVxCdWlsZGVyfFxBcHBcV2luZnVuZFxHZW5kZXIgd2hlcmVWYWx1ZU9yZGVyKCR2YWx1ZSkKICogQG1peGluIFxFbG9xdWVudA==</text>
-      </register>
-      <register name="6" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnYmFua0hvbGRlck5hbWUnCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CgpTZWxlY3QgY291bnQoQ0FTRSBDbGllbnRzLkNsaWVudFR5cGUgV0hFTiAwIFRIRU4gQ2xpZW50cy5TZXggRUxTRSBDbGllbnRzLlNwb3VzYWxfU2V4IEVORCkgYXMgZ2VuZGVyCkZyb20gQ2xpZW50cwotLSB3aGVyZSBDQVNFIENsaWVudHMuQ2xpZW50VHlwZSBXSEVOIDAgVEhFTiBDbGllbnRzLlNleCBFTFNFIENsaWVudHMuU3BvdXNhbF9TZXggRU5EID0gMAp3aGVyZSBDbGllbnRzLkNsaWVudF9TdGF0dXMgPSAwCg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CkRFQ0xBUkUgQHF3ZSBTTUFMTElOVApFWEVDVVRFIEBxd2UgPSBkYm8udWRmV0RFR2V0UEFDRnJlcXVlbmN5ICdNb250aGx5JwpTRUxFQ1QgQHF3ZQ==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ0RFRl9DbGllbnRzX0ludmVzdG1lbnRLbm93bGVkZ2UnLAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICovCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">LyoqCg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CiAqIEFwcFxXaW5mdW5kXEdlbmRlcgogKgogKiBAcHJvcGVydHkgaW50ICRDb2RlCiAqIEBwcm9wZXJ0eSBzdHJpbmcgJE5hbWVFTgogKiBAcHJvcGVydHkgc3RyaW5nICROYW1lRlIKICogQHByb3BlcnR5IGludCAkVmFsdWVPcmRlcgogKiBAbWV0aG9kIHN0YXRpYyBcQXBwXERhdGFiYXNlXFF1ZXJ5XEJ1aWxkZXJ8XEFwcFxXaW5mdW5kXEdlbmRlciB3aGVyZUNvZGUoJHZhbHVlKQogKiBAbWV0aG9kIHN0YXRpYyBcQXBwXERhdGFiYXNlXFF1ZXJ5XEJ1aWxkZXJ8XEFwcFxXaW5mdW5kXEdlbmRlciB3aGVyZU5hbWVFTigkdmFsdWUpCiAqIEBtZXRob2Qgc3RhdGljIFxBcHBcRGF0YWJhc2VcUXVlcnlcQnVpbGRlcnxcQXBwXFdpbmZ1bmRcR2VuZGVyIHdoZXJlTmFtZUZSKCR2YWx1ZSkKICogQG1ldGhvZCBzdGF0aWMgXEFwcFxEYXRhYmFzZVxRdWVyeVxCdWlsZGVyfFxBcHBcV2luZnVuZFxHZW5kZXIgd2hlcmVWYWx1ZU9yZGVyKCR2YWx1ZSkKICogQG1peGluIFxFbG9xdWVudA==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1286,19 +1296,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gInNkZnNkZiI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnYmFua0hvbGRlck5hbWUnCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">PT4=</last-search>
+      <last-search>isCor</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PT4=</last-pattern>
+      <last-pattern>isCor</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute encoding="base64">ID0+Lio=</last-substitute>
       <last-dir>1</last-dir>
@@ -1306,7 +1316,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">PT4uKg==</entry>
         <entry encoding="base64">ID0+Lio=</entry>
         <entry>self</entry>
         <entry>trust</entry>
@@ -1326,6 +1335,7 @@
         <entry>Client_Accounts</entry>
         <entry>system</entry>
         <entry encoding="base64">PT4=</entry>
+        <entry>isCor</entry>
       </history-search>
       <history-cmd>
         <entry>603</entry>
