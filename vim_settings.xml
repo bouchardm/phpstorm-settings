@@ -216,12 +216,6 @@
         <mark key="^" line="332" column="24" />
         <mark key="." line="332" column="24" />
       </file>
-      <file name="$USER_HOME$/code/mica/tests/unit/Winfund/PACsTest.php" timestamp="1511365569527">
-        <mark key="[" line="28" column="21" />
-        <mark key="]" line="29" column="24" />
-        <mark key="^" line="29" column="24" />
-        <mark key="." line="29" column="24" />
-      </file>
       <file name="$USER_HOME$/code/mica/tests/js/components/navigation/rep/DealerRepCodeSelectorTest.js" timestamp="1511367609128" />
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Commands/WorkflowDumpCommand.php" timestamp="1509377446737">
         <mark key="[" line="20" column="0" />
@@ -503,14 +497,11 @@
         <mark key="^" line="13" column="47" />
         <mark key="." line="13" column="47" />
       </file>
-      <file name="$USER_HOME$/code/mica/package.json" timestamp="1511367543206">
-        <mark key="[" line="57" column="35" />
-      </file>
-      <file name="$USER_HOME$/code/mica/resources/lang/en/information.php" timestamp="1511214188953">
-        <mark key="[" line="65" column="26" />
-        <mark key="]" line="65" column="26" />
-        <mark key="^" line="65" column="57" />
-        <mark key="." line="65" column="26" />
+      <file name="$USER_HOME$/code/mica/resources/lang/en/information.php" timestamp="1511529727922">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="144" />
+        <mark key="^" line="73" column="76" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Workflow/Contracts/TransitionEvent.php" timestamp="1510597488763">
         <mark key="[" line="1" column="0" />
@@ -689,7 +680,7 @@
         <mark key="^" line="424" column="11" />
         <mark key="." line="424" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511528791283">
+      <file name="/Dummy.txt" timestamp="1511529444196">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Policies/WinfundClientPolicy.php" timestamp="1510865745266">
@@ -820,11 +811,11 @@
         <mark key="^" line="171" column="0" />
         <mark key="." line="143" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/lang/fr/information.php" timestamp="1511282428415">
-        <mark key="[" line="67" column="26" />
-        <mark key="]" line="75" column="45" />
-        <mark key="." line="75" column="45" />
-        <mark key="^" line="75" column="45" />
+      <file name="$USER_HOME$/code/mica/resources/lang/fr/information.php" timestamp="1511529740536">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="144" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="76" column="45" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/Profile.vue" timestamp="1510763428012">
         <mark key="[" line="11" column="29" />
@@ -1323,25 +1314,25 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q29kZT0zODgzOAo=</text>
+        <text encoding="base64">ICAgICAgICAnY2hhbmdlLWVtYWlsLWRpc2NsYWltZXInID0+ICdUaGlzIGVtYWlsIHdpbGwgYmUgdXNlZCBmb3IgYWxsIHRoZSBmdW5jdGlvbmFsaXRpZXMgcmVsYXRlZCB0byB0aGUgYWRtaW5pc3RyYXRpb24gb2YgeW91ciBNSUNBIGFjY291bnRzLicsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEFwcFxEYXRhYmFzZVxFbG9xdWVudFxCdWlsZGVyIGFzIEVsb3F1ZW50QnVpbGRlcjsK</text>
+        <text encoding="base64">Q29kZT0zODgzOAo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">dXNlIEFwcFxEYXRhYmFzZVxFbG9xdWVudFxCdWlsZGVyIGFzIEVsb3F1ZW50QnVpbGRlcjsK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CgpTZWxlY3QgY291bnQoQ0FTRSBDbGllbnRzLkNsaWVudFR5cGUgV0hFTiAwIFRIRU4gQ2xpZW50cy5TZXggRUxTRSBDbGllbnRzLlNwb3VzYWxfU2V4IEVORCkgYXMgZ2VuZGVyCkZyb20gQ2xpZW50cwotLSB3aGVyZSBDQVNFIENsaWVudHMuQ2xpZW50VHlwZSBXSEVOIDAgVEhFTiBDbGllbnRzLlNleCBFTFNFIENsaWVudHMuU3BvdXNhbF9TZXggRU5EID0gMAp3aGVyZSBDbGllbnRzLkNsaWVudF9TdGF0dXMgPSAwCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CkRFQ0xBUkUgQHF3ZSBTTUFMTElOVApFWEVDVVRFIEBxd2UgPSBkYm8udWRmV0RFR2V0UEFDRnJlcXVlbmN5ICdNb250aGx5JwpTRUxFQ1QgQHF3ZQ==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0RFRl9DbGllbnRzX0ludmVzdG1lbnRLbm93bGVkZ2UnLAo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0RFRl9DbGllbnRzX0ludmVzdG1lbnRLbm93bGVkZ2UnLAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1351,10 +1342,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAqIEFwcFxXaW5mdW5kXEdlbmRlcgogKgogKiBAcHJvcGVydHkgaW50ICRDb2RlCiAqIEBwcm9wZXJ0eSBzdHJpbmcgJE5hbWVFTgogKiBAcHJvcGVydHkgc3RyaW5nICROYW1lRlIKICogQHByb3BlcnR5IGludCAkVmFsdWVPcmRlcgogKiBAbWV0aG9kIHN0YXRpYyBcQXBwXERhdGFiYXNlXFF1ZXJ5XEJ1aWxkZXJ8XEFwcFxXaW5mdW5kXEdlbmRlciB3aGVyZUNvZGUoJHZhbHVlKQogKiBAbWV0aG9kIHN0YXRpYyBcQXBwXERhdGFiYXNlXFF1ZXJ5XEJ1aWxkZXJ8XEFwcFxXaW5mdW5kXEdlbmRlciB3aGVyZU5hbWVFTigkdmFsdWUpCiAqIEBtZXRob2Qgc3RhdGljIFxBcHBcRGF0YWJhc2VcUXVlcnlcQnVpbGRlcnxcQXBwXFdpbmZ1bmRcR2VuZGVyIHdoZXJlTmFtZUZSKCR2YWx1ZSkKICogQG1ldGhvZCBzdGF0aWMgXEFwcFxEYXRhYmFzZVxRdWVyeVxCdWlsZGVyfFxBcHBcV2luZnVuZFxHZW5kZXIgd2hlcmVWYWx1ZU9yZGVyKCR2YWx1ZSkKICogQG1peGluIFxFbG9xdWVudA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
