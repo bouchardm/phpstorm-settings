@@ -48,11 +48,10 @@
         <mark key="^" line="49" column="38" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5055f813-3fb1-4bbd-a46b-d08038f1154a/console.sql" timestamp="1511551334532">
-        <mark key="[" line="751" column="23" />
-        <mark key="]" line="751" column="22" />
-        <mark key="." line="751" column="22" />
-        <mark key="^" line="751" column="22" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5055f813-3fb1-4bbd-a46b-d08038f1154a/console.sql" timestamp="1511555542070">
+        <mark key="[" line="769" column="0" />
+        <mark key="]" line="769" column="0" />
+        <mark key="." line="769" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Winfund/TrustAccountTest.php" timestamp="1508248763669">
         <mark key="[" line="23" column="39" />
@@ -458,7 +457,7 @@
         <mark key="." line="30" column="1" />
         <mark key="^" line="30" column="1" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1511550871568">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1511553784225">
         <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Type/Log/LogType.php" timestamp="1507641940044">
@@ -665,7 +664,7 @@
         <mark key="^" line="126" column="46" />
         <mark key="." line="126" column="46" />
       </file>
-      <file name="/dummy.sql" timestamp="1511552901499">
+      <file name="/dummy.sql" timestamp="1511554433654">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -684,7 +683,7 @@
         <mark key="^" line="424" column="11" />
         <mark key="." line="424" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511529444196">
+      <file name="/Dummy.txt" timestamp="1511555530933">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Policies/WinfundClientPolicy.php" timestamp="1510865745266">
@@ -1312,25 +1311,25 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBGcmVxdWVuY3ksCg==</text>
+        <text encoding="base64">ZGRkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CkRFQ0xBUkUgQHF3ZSBWQVJDSEFSKDEwMCkKRVhFQ1VURSBAcXdlID0gZGJvLnVkZldERUdldFBBQ0ZyZXF1ZW5jeVN0cldGIDEsIDEKU0VMRUNUIEBxd2UK</text>
+      <register name="3" type="2">
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBzeXMuc3lzb2JqdmFsdWVzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAnY2hhbmdlLWVtYWlsLWRpc2NsYWltZXInID0+ICdUaGlzIGVtYWlsIHdpbGwgYmUgdXNlZCBmb3IgYWxsIHRoZSBmdW5jdGlvbmFsaXRpZXMgcmVsYXRlZCB0byB0aGUgYWRtaW5pc3RyYXRpb24gb2YgeW91ciBNSUNBIGFjY291bnRzLicsCg==</text>
+        <text encoding="base64">ICBGcmVxdWVuY3ksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Q29kZT0zODgzOAo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">dXNlIEFwcFxEYXRhYmFzZVxFbG9xdWVudFxCdWlsZGVyIGFzIEVsb3F1ZW50QnVpbGRlcjsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">CkRFQ0xBUkUgQHF3ZSBWQVJDSEFSKDEwMCkKRVhFQ1VURSBAcXdlID0gZGJvLnVkZldERUdldFBBQ0ZyZXF1ZW5jeVN0cldGIDEsIDEKU0VMRUNUIEBxd2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnY2hhbmdlLWVtYWlsLWRpc2NsYWltZXInID0+ICdUaGlzIGVtYWlsIHdpbGwgYmUgdXNlZCBmb3IgYWxsIHRoZSBmdW5jdGlvbmFsaXRpZXMgcmVsYXRlZCB0byB0aGUgYWRtaW5pc3RyYXRpb24gb2YgeW91ciBNSUNBIGFjY291bnRzLicsCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1339,11 +1338,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CgpTZWxlY3QgY291bnQoQ0FTRSBDbGllbnRzLkNsaWVudFR5cGUgV0hFTiAwIFRIRU4gQ2xpZW50cy5TZXggRUxTRSBDbGllbnRzLlNwb3VzYWxfU2V4IEVORCkgYXMgZ2VuZGVyCkZyb20gQ2xpZW50cwotLSB3aGVyZSBDQVNFIENsaWVudHMuQ2xpZW50VHlwZSBXSEVOIDAgVEhFTiBDbGllbnRzLlNleCBFTFNFIENsaWVudHMuU3BvdXNhbF9TZXggRU5EID0gMAp3aGVyZSBDbGllbnRzLkNsaWVudF9TdGF0dXMgPSAwCg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Q29kZT0zODgzOAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CkRFQ0xBUkUgQHF3ZSBTTUFMTElOVApFWEVDVVRFIEBxd2UgPSBkYm8udWRmV0RFR2V0UEFDRnJlcXVlbmN5ICdNb250aGx5JwpTRUxFQ1QgQHF3ZQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">dXNlIEFwcFxEYXRhYmFzZVxFbG9xdWVudFxCdWlsZGVyIGFzIEVsb3F1ZW50QnVpbGRlcjsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
