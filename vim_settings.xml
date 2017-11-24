@@ -48,7 +48,7 @@
         <mark key="^" line="49" column="38" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5055f813-3fb1-4bbd-a46b-d08038f1154a/console.sql" timestamp="1511551324975">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5055f813-3fb1-4bbd-a46b-d08038f1154a/console.sql" timestamp="1511551334532">
         <mark key="[" line="751" column="23" />
         <mark key="]" line="751" column="22" />
         <mark key="." line="751" column="22" />
@@ -665,10 +665,11 @@
         <mark key="^" line="126" column="46" />
         <mark key="." line="126" column="46" />
       </file>
-      <file name="/dummy.sql" timestamp="1511551323459">
+      <file name="/dummy.sql" timestamp="1511552901499">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+        <mark key="^" line="0" column="3" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1509453365904">
         <mark key="[" line="20" column="26" />
