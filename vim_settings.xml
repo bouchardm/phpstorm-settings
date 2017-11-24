@@ -48,10 +48,11 @@
         <mark key="^" line="49" column="38" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5055f813-3fb1-4bbd-a46b-d08038f1154a/console.sql" timestamp="1511548809453">
-        <mark key="[" line="742" column="6" />
-        <mark key="]" line="748" column="0" />
-        <mark key="." line="748" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5055f813-3fb1-4bbd-a46b-d08038f1154a/console.sql" timestamp="1511551324975">
+        <mark key="[" line="751" column="23" />
+        <mark key="]" line="751" column="22" />
+        <mark key="." line="751" column="22" />
+        <mark key="^" line="751" column="22" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Winfund/TrustAccountTest.php" timestamp="1508248763669">
         <mark key="[" line="23" column="39" />
@@ -457,8 +458,8 @@
         <mark key="." line="30" column="1" />
         <mark key="^" line="30" column="1" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1511549500296">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1511550871568">
+        <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Type/Log/LogType.php" timestamp="1507641940044">
         <mark key="[" line="26" column="46" />
@@ -495,6 +496,9 @@
         <mark key="]" line="13" column="47" />
         <mark key="^" line="13" column="47" />
         <mark key="." line="13" column="47" />
+      </file>
+      <file name="$USER_HOME$/code/mica/package.json" timestamp="1511367543206">
+        <mark key="[" line="57" column="35" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/lang/en/information.php" timestamp="1511529727922">
         <mark key="[" line="70" column="0" />
@@ -661,9 +665,9 @@
         <mark key="^" line="126" column="46" />
         <mark key="." line="126" column="46" />
       </file>
-      <file name="/dummy.sql" timestamp="1511549540719">
+      <file name="/dummy.sql" timestamp="1511551323459">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1509453365904">
