@@ -48,12 +48,10 @@
         <mark key="^" line="49" column="38" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5055f813-3fb1-4bbd-a46b-d08038f1154a/console.sql" timestamp="1511799798946">
-        <mark key="'" line="807" column="0" />
-        <mark key="[" line="804" column="27" />
-        <mark key="]" line="804" column="26" />
-        <mark key="." line="804" column="26" />
-        <mark key="^" line="804" column="26" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5055f813-3fb1-4bbd-a46b-d08038f1154a/console.sql" timestamp="1511801166936">
+        <mark key="]" line="874" column="31" />
+        <mark key="^" line="874" column="31" />
+        <mark key="." line="874" column="31" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Winfund/TrustAccountTest.php" timestamp="1508248763669">
         <mark key="[" line="23" column="39" />
@@ -1312,26 +1310,26 @@
           <key char="65535" code="36" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CnNlbGVjdCAqIGZyb20gSG9saWRheQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgd2hlcmUgREFURVBBUlQoZHcsIERhdGUpICE9IDcgYW5kIERBVEVQQVJUKGR3LCBEYXRlKSAhPSAxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgc2VsZWN0ICogZnJvbSBkYm8udWRmV0RFR2V0RGF0ZXMoQ0FTVCgnMjAxNy0wMS0wMScgYXMgREFURSksIENBU1QoJzIwMTctMTItMzEnIGFzIERBVEUpKQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICBVTklPTgoKICAgIHNlbGVjdCBAbXlEYXRlLCBAbXlEYXRl</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgVU5JT04KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgd2hlcmUgREFURVBBUlQoZHcsIERhdGUpICE9IDcgYW5kIERBVEVQQVJUKGR3LCBEYXRlKSAhPSAxCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgc2VsZWN0ICogZnJvbSBkYm8udWRmV0RFR2V0RGF0ZXMoQ0FTVCgnMjAxNy0wMS0wMScgYXMgREFURSksIENBU1QoJzIwMTctMTItMzEnIGFzIERBVEUpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LS0gICBST1dfTlVNQkVSKCkgT1ZFUihPUkRFUiBCWSBjYXN0KENBU1QoZGJvLkhvbGlkYXkublllYXIgYXMgVkFSQ0hBUig0KSkgKyAnLScgKyBDQVNUKGRiby5Ib2xpZGF5Lm5Nb250aCBhcyBWQVJDSEFSKDIpKSArICctJyArIENBU1QoZGJvLkhvbGlkYXkubkRheSBhcyBWQVJDSEFSKDIpKSBhcyBEQVRFKSBhc2MpIGFzIHJhbmtpbmcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgVU5JT04KCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1341,7 +1339,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LS0gICAsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
