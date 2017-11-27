@@ -48,10 +48,10 @@
         <mark key="^" line="49" column="38" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5055f813-3fb1-4bbd-a46b-d08038f1154a/console.sql" timestamp="1511793325915">
-        <mark key="[" line="777" column="0" />
-        <mark key="]" line="768" column="0" />
-        <mark key="." line="768" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5055f813-3fb1-4bbd-a46b-d08038f1154a/console.sql" timestamp="1511795934601">
+        <mark key="[" line="804" column="18" />
+        <mark key="]" line="790" column="0" />
+        <mark key="." line="790" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/unit/Winfund/TrustAccountTest.php" timestamp="1508248763669">
         <mark key="[" line="23" column="39" />
@@ -734,7 +734,7 @@
         <mark key="." line="58" column="0" />
         <mark key="^" line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Repositories/Queries/WinfundQueryBuilder.php" timestamp="1508248682871">
+      <file name="$USER_HOME$/code/mica/app/Repositories/Queries/WinfundQueryBuilder.php" timestamp="1511795583471">
         <mark key="[" line="99" column="52" />
         <mark key="]" line="99" column="50" />
         <mark key="^" line="99" column="50" />
@@ -1250,7 +1250,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>create view v_pacs as</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>isCor</text>
@@ -1311,25 +1311,25 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZHJvcCB2aWV3IHZfcGFjczsK</text>
+        <text encoding="base64">ICAgICAgIHdoZXJlIGRiby5Ib2xpZGF5Lm5ZZWFyID0gMjAxNwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBhcyBOZXh0VHJhbnNmZXJ0LAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CgpzZWxlY3QgZnJvbSBIb2xpZGF5</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBkYm8uTVJfMTVEYXlzZGRkCg==</text>
+        <text encoding="base64">ICAgZ3JvdXAgYnkgeSwoQ0FTVChkcyBBUyBJTlQpLVJhbmtpbmcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">d2hlcmUgQGRhdGVUb0NoZWNrIEJFVFdFRU4gZHMgQU5EIGRlCi0tIERFQ0xBUkUgQHF3ZSBWQVJDSEFSKDEwMCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LS0gKQo=</text>
+        <text encoding="base64">KQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">LS0gICAgIENBU0UgUEFDcy5GcmVxdWVuY3kgV0hFTiAxIHRoZW4gNCBXSEVOIDIgdGhlbiAzIHdoZW4gMyB0aGVuIDIgd2hlbiA1IHRoZW4gNyB3aGVuIDcgdGhlbiA1IHdoZW4gOCB0aGVuIDUgZW5kCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CnNlbGVjdCB5LAogIE1JTihkcykgYXMgZHMsCiAgTUFYKGRzKSBhcyBkZQpmcm9tCiAgKAogICAgU2VsZWN0CiAgICAgICosCiAgICAgIFJPV19OVU1CRVIoKSBPVkVSKE9SREVSIEJZIGRzIGFzYykgYXMgcmFua2luZwogICAgZnJvbSBob2xpZGF5cwogICkgdApncm91cCBieSB5LChDQVNUKGRzIEFTIElOVCktUmFua2luZykKd2hlcmUgQGRhdGVUb0NoZWNrIEJFVFdFRU4gZHMgQU5EIGRlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKAo=</text>
+        <text encoding="base64">KXQK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1339,10 +1339,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">SU5ORVIgSk9JTiBERUZfU3lzdGVtYXRpY1BsYW5GcmVxdWVuY3kgb24gREVGX1N5c3RlbWF0aWNQbGFuRnJlcXVlbmN5LkNvZGUgPSAK</text>
+        <text encoding="base64">ZHJvcCB2aWV3IHZfcGFjczsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGRkCg==</text>
+        <text encoding="base64">ICBhcyBOZXh0VHJhbnNmZXJ0LAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
