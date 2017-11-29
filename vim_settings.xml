@@ -24,6 +24,7 @@
       <file name="/a.dummy" timestamp="1511877042774">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/mica/scripts/test.sh" timestamp="1511290883967" />
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/tests/Fixtures/TestObject.php" timestamp="1510583023074">
         <mark key="[" line="10" column="38" />
         <mark key="]" line="22" column="4" />
@@ -195,6 +196,7 @@
         <mark key="^" line="332" column="24" />
         <mark key="." line="332" column="24" />
       </file>
+      <file name="$USER_HOME$/code/mica/tests/js/components/navigation/rep/DealerRepCodeSelectorTest.js" timestamp="1511367609128" />
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Commands/WorkflowDumpCommand.php" timestamp="1509377446737">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -464,11 +466,12 @@
       <file name="$USER_HOME$/code/mica/package.json" timestamp="1511367543206">
         <mark key="[" line="57" column="35" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/lang/en/information.php" timestamp="1511529727922">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="144" />
-        <mark key="^" line="73" column="76" />
-        <mark key="." line="70" column="0" />
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/client/information/Form.vue" timestamp="1511961298878" />
+      <file name="$USER_HOME$/code/mica/resources/lang/en/information.php" timestamp="1511961479266">
+        <mark key="[" line="74" column="26" />
+        <mark key="]" line="67" column="30" />
+        <mark key="^" line="67" column="30" />
+        <mark key="." line="67" column="30" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Workflow/Contracts/TransitionEvent.php" timestamp="1510597488763">
         <mark key="[" line="1" column="0" />
@@ -569,6 +572,7 @@
         <mark key="^" line="107" column="80" />
         <mark key="." line="109" column="0" />
       </file>
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/admin/clients/record/ClientSelector.vue" timestamp="1511290004845" />
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/accounts/Account.vue" timestamp="1508412425382">
         <mark key="[" line="180" column="37" />
         <mark key="]" line="181" column="43" />
@@ -648,7 +652,7 @@
         <mark key="^" line="424" column="11" />
         <mark key="." line="424" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511874692582">
+      <file name="/Dummy.txt" timestamp="1511961062642">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/js/test-main.js" timestamp="1508274448059">
@@ -769,12 +773,16 @@
         <mark key="^" line="171" column="0" />
         <mark key="." line="143" column="0" />
       </file>
+      <file name="$USER_HOME$/code/mica/resources/lang/fr/information.php" timestamp="1511961422114">
+        <mark key="[" line="76" column="26" />
+      </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/Profile.vue" timestamp="1510763428012">
         <mark key="[" line="11" column="29" />
         <mark key="]" line="10" column="41" />
         <mark key="." line="10" column="41" />
         <mark key="^" line="10" column="41" />
       </file>
+      <file name="$USER_HOME$/code/mica/app/Winfund/ClientType.php" timestamp="1511464081426" />
       <file name="$USER_HOME$/code/mica/app/Winfund/SystematicPlan.php" timestamp="1511877674678">
         <mark key="'" line="50" column="0" />
         <mark key="[" line="12" column="0" />
@@ -1205,13 +1213,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>where $caseDateAdd BETWEEN date_start AND date_end</text>
+        <text>'pdf/Consent to the electronic transmission of the MICA tax slips.pdf'</text>
       </register>
       <register name="/" type="4">
         <text>dd(</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">JGFjY291bnQgPSAkdGhpcy0+Y3JlYXRlU2VsZkRpcmVjdGVkQWNjb3VudCgpOwogICAgICAgICR0aGlzLT5jcmVhdGVTeXN0ZW1hdGljUGxhbkZvclNlbGZEaXJlY3RlZEFjY291bnQoJGFjY291bnQsIFsnVHJhbnNhY3Rpb25fVHlwZScgPT4gJHR5cGUtPkNvZGVdKTsKCiAgICAgICAgJHJlc3VsdCA9ICR0aGlzLT5zeXN0ZW1hdGljUGxhblJlcG9zaXRvcnktPmFsbCgkYWNjb3VudCk7CgogICAgICAgICR0aGlzLT5hc3NlcnRUcnVlKCRyZXN1bHQtPnBsdWNrKCdwbGFuVHlwZU5hbWUnKS0+Y29udGFpbnMoJ3F3ZScpKTs=</text>
+        <text>'pdf/Consent to the electronic transmission of the MICA tax slips.pdf'</text>
       </register>
       <register name="q" type="4">
         <keys>
