@@ -24,6 +24,7 @@
       <file name="/a.dummy" timestamp="1511877042774">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/mica/scripts/test.sh" timestamp="1511290883967" />
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/tests/Fixtures/TestObject.php" timestamp="1510583023074">
         <mark key="[" line="10" column="38" />
         <mark key="]" line="22" column="4" />
@@ -98,6 +99,12 @@
         <mark key="." line="34" column="21" />
         <mark key="^" line="34" column="21" />
       </file>
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/navigation/TopMenu.vue" timestamp="1511973916541">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/helpers.php" timestamp="1510599790128">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -111,11 +118,6 @@
         <mark key="]" line="13" column="17" />
         <mark key="." line="13" column="17" />
         <mark key="^" line="13" column="17" />
-      </file>
-      <file name="$USER_HOME$/code/mica/tests/unit/Repositories/SystematicPlanRepositoryTest.php" timestamp="1511902933748">
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="0" />
-        <mark key="." line="152" column="0" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/tests/unit/Workflow/TransitionTest.php" timestamp="1509718976913">
         <mark key="[" line="44" column="6" />
@@ -216,6 +218,7 @@
         <mark key="^" line="16" column="4" />
         <mark key="." line="16" column="4" />
       </file>
+      <file name="$USER_HOME$/code/mica/tests/js/components/navigation/rep/DealerRepCodeSelectorTest.js" timestamp="1511367609128" />
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Commands/WorkflowDumpCommand.php" timestamp="1509377446737">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -332,11 +335,7 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/code/mica/app/Console/Commands/ImportDocuments.php" timestamp="1511528790222">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/navigation/Notifications.vue" timestamp="1511973293681" />
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/composer.json" timestamp="1509545929113">
         <mark key="[" line="35" column="37" />
         <mark key="]" line="33" column="10" />
@@ -505,7 +504,7 @@
         <mark key="^" line="13" column="47" />
         <mark key="." line="13" column="47" />
       </file>
-      <file name="$USER_HOME$/code/mica/package.json" timestamp="1511367543206">
+      <file name="$USER_HOME$/code/mica/package.json" timestamp="1511973665231">
         <mark key="[" line="57" column="35" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/client/information/Form.vue" timestamp="1511967919210">
@@ -613,6 +612,7 @@
         <mark key="^" line="129" column="62" />
         <mark key="." line="129" column="62" />
       </file>
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/admin/clients/record/ClientSelector.vue" timestamp="1511290004845" />
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/accounts/Account.vue" timestamp="1508412425382">
         <mark key="[" line="180" column="37" />
         <mark key="]" line="181" column="43" />
@@ -636,7 +636,7 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/assets/js/components/admin/navigation/rep/DealerRepCodeSelector.vue" timestamp="1508265990812">
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/admin/navigation/rep/DealerRepCodeSelector.vue" timestamp="1511973772130">
         <mark key="[" line="22" column="107" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Repositories/Queries/WindundDateQueryBuilder.php" timestamp="1511877040883">
@@ -690,7 +690,7 @@
         <mark key="^" line="20" column="49" />
         <mark key="." line="20" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511968232951">
+      <file name="/Dummy.txt" timestamp="1511973747977">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Policies/WinfundClientPolicy.php" timestamp="1510865745266">
@@ -703,6 +703,12 @@
       </file>
       <file name="$USER_HOME$/code/mica/resources/lang/fr/notifications.php" timestamp="1510687973334">
         <mark key="[" line="97" column="5" />
+      </file>
+      <file name="$USER_HOME$/code/mica/resources/views/partials/header.blade.php" timestamp="1511973207204">
+        <mark key="[" line="36" column="90" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Winfund/Type/Client/ClientType.php" timestamp="1510948057792">
         <mark key="[" line="255" column="61" />
@@ -718,12 +724,6 @@
         <mark key="]" line="19" column="0" />
         <mark key="^" line="3" column="36" />
         <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/mica/database/seeds/WinfundDBMockSeeder.php" timestamp="1511898885498">
-        <mark key="'" line="62" column="13" />
-        <mark key="[" line="64" column="22" />
-        <mark key="]" line="519" column="20" />
-        <mark key="." line="519" column="20" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/tests/migrations/2014_12_12_123312_create_workflow_marking_test.php" timestamp="1509543866290">
         <mark key="[" line="6" column="27" />
@@ -832,6 +832,7 @@
         <mark key="." line="10" column="41" />
         <mark key="^" line="10" column="41" />
       </file>
+      <file name="$USER_HOME$/code/mica/app/Winfund/ClientType.php" timestamp="1511464081426" />
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/fields/AccountPicker.vue" timestamp="1508249760102">
         <mark key="[" line="14" column="81" />
         <mark key="]" line="14" column="79" />
@@ -1316,25 +1317,25 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEFwcFxVc2VyTGluazsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgY29uc29sZS5sb2coIXRoaXMub3BlbmVkKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEFwcFxXaW5mdW5kXENsaWVudFN0YXR1czsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgaWYgKCEkLmNvbnRhaW5zKHRoaXMuJGVsLCBlLnRhcmdldCkpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIEFwcFxXaW5mdW5kXENsaWVudDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkY3VycmVudFF1c3J0ZXIgPSAieyR5ZWFyfVF7JHF1YXJ0ZXJ9IjsK</text>
+        <text encoding="base64">dXNlIEFwcFxVc2VyTGluazsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICdmcmVxdWVuY3lOYW1lJywK</text>
+        <text encoding="base64">dXNlIEFwcFxXaW5mdW5kXENsaWVudFN0YXR1czsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICdiYW5rQWNjb3VudENvZGUnLAovLyAgICAgICAgJ2Ftb3VudFR5cGVOYW1lJywK</text>
+        <text encoding="base64">dXNlIEFwcFxXaW5mdW5kXENsaWVudDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICdiYW5rSG9sZGVyTmFtZScsCi8vICAgICAgICAnYmFua0JyYW5jaCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAkY3VycmVudFF1c3J0ZXIgPSAieyR5ZWFyfVF7JHF1YXJ0ZXJ9IjsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1344,10 +1345,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgZHVtcCgkZGF0ZSwgJGRhdGUtPmRheU9mV2Vlayk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICdmcmVxdWVuY3lOYW1lJywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICdiYW5rQWNjb3VudENvZGUnLAovLyAgICAgICAgJ2Ftb3VudFR5cGVOYW1lJywK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
