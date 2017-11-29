@@ -201,6 +201,12 @@
         <mark key="^" line="8" column="46" />
         <mark key="." line="8" column="46" />
       </file>
+      <file name="$USER_HOME$/code/mica/app/Exceptions/Handler.php" timestamp="1511994948489">
+        <mark key="[" line="63" column="8" />
+        <mark key="]" line="63" column="12" />
+        <mark key="." line="63" column="12" />
+        <mark key="^" line="63" column="12" />
+      </file>
       <file name="$USER_HOME$/code/mica/tests/features/bootstrap/FeatureContext.php" timestamp="1510671174329">
         <mark key="[" line="149" column="37" />
         <mark key="]" line="149" column="36" />
@@ -522,6 +528,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Mica/Query/Notification/GetDocumentNotificationQuery.php" timestamp="1511995054887">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/code/CSQ-Sitebuilder/docker/volumes/data/Dockerfile" timestamp="1510081738964">
         <mark key="[" line="0" column="18" />
         <mark key="]" line="2" column="0" />
@@ -575,6 +586,12 @@
         <mark key="]" line="52" column="37" />
         <mark key="." line="52" column="37" />
         <mark key="^" line="52" column="37" />
+      </file>
+      <file name="$USER_HOME$/code/mica/config/graphql.php" timestamp="1511994507339">
+        <mark key="[" line="216" column="59" />
+        <mark key="]" line="214" column="7" />
+        <mark key="." line="214" column="7" />
+        <mark key="^" line="214" column="7" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/admin/clients/record/accounts/Accounts.vue" timestamp="1508412479742">
         <mark key="[" line="72" column="47" />
@@ -670,6 +687,12 @@
         <mark key="[" line="9" column="30" />
       </file>
       <file name="/Handler.php" timestamp="1511989184972" />
+      <file name="$USER_HOME$/code/mica/config/app.php" timestamp="1511995026732">
+        <mark key="[" line="40" column="15" />
+        <mark key="]" line="40" column="14" />
+        <mark key="^" line="40" column="14" />
+        <mark key="." line="40" column="14" />
+      </file>
       <file name="$USER_HOME$/code/mica/tests/features/bootstrap/UsersContext.php" timestamp="1506959734472">
         <mark key="[" line="126" column="47" />
         <mark key="]" line="126" column="46" />
@@ -722,6 +745,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="^" line="3" column="36" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/mica/database/seeds/WinfundDBMockSeeder.php" timestamp="1511898885498">
+        <mark key="'" line="62" column="13" />
+        <mark key="[" line="64" column="22" />
+        <mark key="]" line="519" column="20" />
+        <mark key="." line="519" column="20" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/tests/migrations/2014_12_12_123312_create_workflow_marking_test.php" timestamp="1509543866290">
         <mark key="[" line="6" column="27" />
@@ -831,10 +860,14 @@
         <mark key="^" line="14" column="79" />
         <mark key="." line="14" column="79" />
       </file>
+      <file name="$USER_HOME$/code/mica/vendor/folklore/graphql/src/Folklore/GraphQL/GraphQL.php" timestamp="1511994683464">
+        <mark key="'" line="267" column="27" />
+        <mark key="[" line="273" column="0" />
+        <mark key="]" line="273" column="0" />
+        <mark key="." line="273" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="50" filename="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Workflow/WorkflowRegistry.php" />
-      <jump line="77" column="16" filename="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Workflow/WorkflowRegistry.php" />
       <jump line="0" column="0" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
       <jump line="59" column="18" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
       <jump line="325" column="78" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
@@ -933,6 +966,8 @@
       <jump line="40" column="10" filename="$USER_HOME$/code/mica/app/Repositories/SystematicPlanRepository.php" />
       <jump line="44" column="10" filename="$USER_HOME$/code/mica/app/Repositories/SystematicPlanRepository.php" />
       <jump line="83" column="75" filename="$USER_HOME$/code/mica/app/Repositories/SystematicPlanRepository.php" />
+      <jump line="135" column="79" filename="$USER_HOME$/code/mica/vendor/folklore/graphql/src/Folklore/GraphQL/GraphQL.php" />
+      <jump line="267" column="27" filename="$USER_HOME$/code/mica/vendor/folklore/graphql/src/Folklore/GraphQL/GraphQL.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1248,10 +1283,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>formatError</text>
       </register>
       <register name="/" type="4">
-        <text>dd(</text>
+        <text>formatError</text>
       </register>
       <register name="0" type="4">
         <text>'pdf/Consent to the electronic transmission of the MICA tax slips.pdf'</text>
@@ -1309,25 +1344,25 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgY29uc29sZS5sb2coIXRoaXMub3BlbmVkKTsK</text>
+        <text encoding="base64">ICAgICAgICAkaSA9IDEgLyAwOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgaWYgKCEkLmNvbnRhaW5zKHRoaXMuJGVsLCBlLnRhcmdldCkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAkaSA9IDEgLyAwOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCJTREZTREYiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIEFwcFxVc2VyTGluazsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIEFwcFxXaW5mdW5kXENsaWVudFN0YXR1czsK</text>
+        <text encoding="base64">ICAgICAgICBcQnVnc25hZzo6bm90aWZ5RXhjZXB0aW9uKCRlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIEFwcFxXaW5mdW5kXENsaWVudDsK</text>
+        <text encoding="base64">dXNlIEJ1Z3NuYWdcQnVnc25hZ0xhcmF2ZWxcRmFjYWRlc1xCdWdzbmFnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkY3VycmVudFF1c3J0ZXIgPSAieyR5ZWFyfVF7JHF1YXJ0ZXJ9IjsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgY29uc29sZS5sb2coIXRoaXMub3BlbmVkKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1337,19 +1372,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICdmcmVxdWVuY3lOYW1lJywK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgaWYgKCEkLmNvbnRhaW5zKHRoaXMuJGVsLCBlLnRhcmdldCkpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICdiYW5rQWNjb3VudENvZGUnLAovLyAgICAgICAgJ2Ftb3VudFR5cGVOYW1lJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>dd(</last-search>
+      <last-search>formatError</last-search>
       <last-offset />
-      <last-pattern>dd(</last-pattern>
+      <last-pattern>formatError</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute encoding="base64">ID0+Lio=</last-substitute>
       <last-dir>1</last-dir>
@@ -1357,7 +1392,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Client_C</entry>
         <entry encoding="base64">dGhpcy0+b2Zmc2V0</entry>
         <entry>grammar</entry>
         <entry>mockwinfun</entry>
@@ -1377,6 +1411,7 @@
         <entry>date_stop</entry>
         <entry>dd</entry>
         <entry>dd(</entry>
+        <entry>formatError</entry>
       </history-search>
       <history-cmd>
         <entry>603</entry>
