@@ -249,7 +249,8 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0036229d-20c7-48b6-8562-77fdc4b28ee3/console.sql" timestamp="1507748709672">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/release/deploy.php" timestamp="1510762810324">
+      <file name="$USER_HOME$/code/mica/release/deploy.php" timestamp="1511996508397">
+        <mark key="'" line="81" column="45" />
         <mark key="[" line="2" column="54" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/accounts/Accounts.vue" timestamp="1508412389624">
@@ -868,7 +869,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
       <jump line="59" column="18" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
       <jump line="325" column="78" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
       <jump line="50" column="29" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
@@ -968,6 +968,7 @@
       <jump line="83" column="75" filename="$USER_HOME$/code/mica/app/Repositories/SystematicPlanRepository.php" />
       <jump line="135" column="79" filename="$USER_HOME$/code/mica/vendor/folklore/graphql/src/Folklore/GraphQL/GraphQL.php" />
       <jump line="267" column="27" filename="$USER_HOME$/code/mica/vendor/folklore/graphql/src/Folklore/GraphQL/GraphQL.php" />
+      <jump line="81" column="45" filename="$USER_HOME$/code/mica/release/deploy.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1286,7 +1287,7 @@
         <text>formatError</text>
       </register>
       <register name="/" type="4">
-        <text>formatError</text>
+        <text>au</text>
       </register>
       <register name="0" type="4">
         <text>'pdf/Consent to the electronic transmission of the MICA tax slips.pdf'</text>
@@ -1382,9 +1383,9 @@
       </register>
     </registers>
     <search>
-      <last-search>formatError</last-search>
+      <last-search>au</last-search>
       <last-offset />
-      <last-pattern>formatError</last-pattern>
+      <last-pattern>au</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute encoding="base64">ID0+Lio=</last-substitute>
       <last-dir>1</last-dir>
@@ -1392,7 +1393,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">dGhpcy0+b2Zmc2V0</entry>
         <entry>grammar</entry>
         <entry>mockwinfun</entry>
         <entry>test</entry>
@@ -1412,6 +1412,7 @@
         <entry>dd</entry>
         <entry>dd(</entry>
         <entry>formatError</entry>
+        <entry>au</entry>
       </history-search>
       <history-cmd>
         <entry>603</entry>
