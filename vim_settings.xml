@@ -656,8 +656,10 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/integration/build/src/sass/modules/_filters.scss" timestamp="1512050454523">
-        <mark key="[" line="207" column="38" />
+      <file name="$USER_HOME$/code/mica/integration/build/src/sass/modules/_filters.scss" timestamp="1512052064409">
+        <mark key="[" line="208" column="0" />
+        <mark key="]" line="208" column="0" />
+        <mark key="." line="208" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Http/GraphQL/Winfund/Query/Client/ClientQuery.php" timestamp="1510865706987">
         <mark key="[" line="39" column="0" />
@@ -1368,10 +1370,10 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9tYXJnaW4tcmlnaHQ6IGRkOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9tYXJnaW4tcmlnaHQ6IGRkOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1379,14 +1381,14 @@
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gd2hlcmVCZXR3ZWVuKCRjb2x1bW4sIGFycmF5ICR2YWx1ZXMsICRib29sZWFuID0gJ2FuZCcsICRub3QgPSBmYWxzZSkKICAgIHsKICAgICAgICAkdHlwZSA9ICdiZXR3ZWVuJzsKCiAgICAgICAgJHRoaXMtPndoZXJlc1tdID0gY29tcGFjdCgnY29sdW1uJywgJ3R5cGUnLCAnYm9vbGVhbicsICdub3QnKTsKCiAgICAgICAgJHRoaXMtPmFkZEJpbmRpbmcoJHZhbHVlcywgJ3doZXJlJyk7CgogICAgICAgIHJldHVybiAkdGhpczsKCgovLyAgICAgICAgcmV0dXJuIHBhcmVudDo6d2hlcmVCZXR3ZWVuKCRjb2x1bW4sICR2YWx1ZXMsICRib29sZWFuLCAkbm90KTsgLy8gVE9ETzogQ2hhbmdlIHRoZSBhdXRvZ2VuZXJhdGVkIHN0dWIKICAgIH0KCiAgICBwdWJsaWMgZnVuY3Rpb24gd2hlcmVJbigkY29sdW1uLCAkdmFsdWVzLCAkYm9vbGVhbiA9ICdhbmQnLCAkbm90ID0gZmFsc2UpCiAgICB7CiAgICAgICAgJHF3ZSA9IHBhcmVudDo6d2hlcmVJbigkY29sdW1uLCAkdmFsdWVzLCAkYm9vbGVhbiwgJG5vdCk7Ci8vICAgICAgICBkdW1wKCR2YWx1ZXMpOwovLyAgICAgICAgZGQoJHF3ZS0+KTsKICAgICAgICByZXR1cm4gJHF3ZTsgLy8gVE9ETzogQ2hhbmdlIHRoZSBhdXRvZ2VuZXJhdGVkIHN0dWIKICAgIH0=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGRkKCR0aGlzLT53aGVyZXMpOwo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGRkKCR0aGlzLT53aGVyZXMpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1396,10 +1398,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGR1bXAoJHF1ZXJ5KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGR1bXAoJHF1ZXJ5LCAkYmluZGluZ3MpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGR1bXAoJHF1ZXJ5KTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
