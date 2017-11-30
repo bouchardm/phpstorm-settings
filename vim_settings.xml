@@ -225,6 +225,7 @@
         <mark key="." line="16" column="4" />
       </file>
       <file name="$USER_HOME$/code/mica/tests/js/components/navigation/rep/DealerRepCodeSelectorTest.js" timestamp="1511367609128" />
+      <file name="$USER_HOME$/code/mica/database/migrations/2017_08_10_112835_add_notification_type.php" timestamp="1512000915360" />
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/src/Commands/WorkflowDumpCommand.php" timestamp="1509377446737">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
