@@ -84,6 +84,7 @@
         <mark key="." line="13" column="19" />
         <mark key="^" line="13" column="19" />
       </file>
+      <file name="/deploy.php" timestamp="1512052798217" />
       <file name="$USER_HOME$/code/mica/config/mica.php" timestamp="1511967960517">
         <mark key="[" line="24" column="68" />
       </file>
@@ -255,9 +256,9 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0036229d-20c7-48b6-8562-77fdc4b28ee3/console.sql" timestamp="1507748709672">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/mica/release/deploy.php" timestamp="1511999143008">
+      <file name="$USER_HOME$/code/mica/release/deploy.php" timestamp="1512052808531">
         <mark key="'" line="81" column="45" />
-        <mark key="[" line="48" column="17" />
+        <mark key="[" line="52" column="43" />
       </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/accounts/Accounts.vue" timestamp="1508412389624">
         <mark key="[" line="100" column="47" />
