@@ -98,6 +98,13 @@
       <file name="$USER_HOME$/code/mica/resources/lang/en/notifications.php" timestamp="1510687952276">
         <mark key="[" line="96" column="5" />
       </file>
+      <file name="$USER_HOME$/code/mica/app/Winfund/Client.php" timestamp="1512396536038">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="754" column="34" />
+        <mark key="]" line="749" column="44" />
+        <mark key="." line="749" column="44" />
+        <mark key="^" line="749" column="44" />
+      </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/vendor/orchestra/testbench-core/laravel/config/database.php" timestamp="1509542972632">
         <mark key="[" line="42" column="76" />
         <mark key="]" line="41" column="32" />
@@ -115,6 +122,13 @@
         <mark key="]" line="16" column="4" />
         <mark key="^" line="16" column="4" />
         <mark key="." line="16" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/mica/database/factories/ModelFactory.php" timestamp="1511886951965">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="354" column="3" />
+        <mark key="]" line="332" column="24" />
+        <mark key="^" line="332" column="24" />
+        <mark key="." line="332" column="24" />
       </file>
       <file name="/a.sql" timestamp="1507839843169">
         <mark key="[" line="0" column="0" />
@@ -334,7 +348,7 @@
         <mark key="^" line="126" column="46" />
         <mark key="." line="126" column="46" />
       </file>
-      <file name="/dummy.sql" timestamp="1512138027699">
+      <file name="/dummy.sql" timestamp="1512396827926">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -381,11 +395,12 @@
         <mark key="^" line="33" column="1" />
         <mark key="." line="33" column="1" />
       </file>
-      <file name="$USER_HOME$/code/mica/tests/unit/Winfund/ClientTest.php" timestamp="1511967716339">
-        <mark key="[" line="309" column="9" />
-        <mark key="]" line="311" column="45" />
-        <mark key="." line="311" column="45" />
-        <mark key="^" line="311" column="45" />
+      <file name="$USER_HOME$/code/mica/tests/unit/Winfund/ClientTest.php" timestamp="1512396570415">
+        <mark key="'" line="348" column="28" />
+        <mark key="[" line="363" column="52" />
+        <mark key="]" line="359" column="64" />
+        <mark key="." line="359" column="64" />
+        <mark key="^" line="359" column="64" />
       </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/tests/WorkflowDumpCommandTest.php" timestamp="1509363374979">
         <mark key="[" line="11" column="0" />
@@ -805,6 +820,13 @@
         <mark key="^" line="20" column="49" />
         <mark key="." line="20" column="49" />
       </file>
+      <file name="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" timestamp="1511875650478">
+        <mark key="'" line="345" column="6" />
+        <mark key="[" line="418" column="42" />
+        <mark key="]" line="424" column="11" />
+        <mark key="^" line="424" column="11" />
+        <mark key="." line="424" column="11" />
+      </file>
       <file name="$USER_HOME$/code/mica/app/Policies/WinfundClientPolicy.php" timestamp="1510865745266">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -822,12 +844,26 @@
       <file name="$USER_HOME$/code/mica/resources/lang/en/profile.php" timestamp="1511966286375">
         <mark key="[" line="4" column="119" />
       </file>
-      <file name="$USER_HOME$/code/mica/resources/assets/js/components/admin/clients/record/dashboard/ClientInformation.vue" timestamp="1512393997779" />
+      <file name="$USER_HOME$/code/mica/resources/assets/js/components/admin/clients/record/dashboard/ClientInformation.vue" timestamp="1512395072133" />
+      <file name="$USER_HOME$/code/mica/database/seeds/WinfundDBMockSeeder.php" timestamp="1512396151298">
+        <mark key="'" line="50" column="17" />
+        <mark key="[" line="163" column="28" />
+        <mark key="]" line="163" column="44" />
+        <mark key="." line="163" column="44" />
+        <mark key="^" line="163" column="44" />
+      </file>
       <file name="$USER_HOME$/code/workflow-engine/packages/libeo/laravel-workflow/tests/migrations/2014_12_12_123312_create_workflow_marking_test.php" timestamp="1509543866290">
         <mark key="[" line="6" column="27" />
         <mark key="]" line="6" column="30" />
         <mark key="^" line="6" column="30" />
         <mark key="." line="6" column="30" />
+      </file>
+      <file name="$USER_HOME$/code/mica/tests/unit/Winfund/SystematicPlanTest.php" timestamp="1511376668484">
+        <mark key="'" line="73" column="0" />
+        <mark key="[" line="57" column="25" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="58" column="0" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Repositories/Queries/WinfundQueryBuilder.php" timestamp="1511903282733">
         <mark key="[" line="23" column="73" />
@@ -893,6 +929,13 @@
         <mark key="^" line="10" column="41" />
       </file>
       <file name="$USER_HOME$/code/mica/app/Winfund/ClientType.php" timestamp="1511464081426" />
+      <file name="$USER_HOME$/code/mica/app/Winfund/SystematicPlan.php" timestamp="1511877674678">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="19" column="6" />
+        <mark key="." line="58" column="37" />
+        <mark key="^" line="58" column="37" />
+      </file>
       <file name="$USER_HOME$/code/mica/resources/assets/js/components/common/fields/AccountPicker.vue" timestamp="1508249760102">
         <mark key="[" line="14" column="81" />
         <mark key="]" line="14" column="79" />
@@ -901,20 +944,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="18" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
-      <jump line="325" column="78" filename="$USER_HOME$/code/mica/app/Winfund/ClientAccount.php" />
-      <jump line="50" column="29" filename="$USER_HOME$/code/mica/app/Winfund/Client.php" />
-      <jump line="33" column="8" filename="$USER_HOME$/code/mica/app/Console/Commands/GenerateChangedClientsEmailReport.php" />
-      <jump line="34" column="8" filename="$USER_HOME$/code/mica/app/Console/Commands/GenerateChangedClientsEmailReport.php" />
-      <jump line="35" column="8" filename="$USER_HOME$/code/mica/app/Console/Commands/GenerateChangedClientsEmailReport.php" />
-      <jump line="36" column="8" filename="$USER_HOME$/code/mica/app/Console/Commands/GenerateChangedClientsEmailReport.php" />
-      <jump line="37" column="8" filename="$USER_HOME$/code/mica/app/Console/Commands/GenerateChangedClientsEmailReport.php" />
-      <jump line="38" column="8" filename="$USER_HOME$/code/mica/app/Console/Commands/GenerateChangedClientsEmailReport.php" />
-      <jump line="39" column="8" filename="$USER_HOME$/code/mica/app/Console/Commands/GenerateChangedClientsEmailReport.php" />
-      <jump line="40" column="8" filename="$USER_HOME$/code/mica/app/Console/Commands/GenerateChangedClientsEmailReport.php" />
-      <jump line="41" column="8" filename="$USER_HOME$/code/mica/app/Console/Commands/GenerateChangedClientsEmailReport.php" />
-      <jump line="42" column="8" filename="$USER_HOME$/code/mica/app/Console/Commands/GenerateChangedClientsEmailReport.php" />
-      <jump line="43" column="8" filename="$USER_HOME$/code/mica/app/Console/Commands/GenerateChangedClientsEmailReport.php" />
       <jump line="44" column="8" filename="$USER_HOME$/code/mica/app/Console/Commands/GenerateChangedClientsEmailReport.php" />
       <jump line="45" column="8" filename="$USER_HOME$/code/mica/app/Console/Commands/GenerateChangedClientsEmailReport.php" />
       <jump line="0" column="0" filename="$USER_HOME$/code/mica/tests/unit/Winfund/ClientAccountTest.php" />
@@ -1001,6 +1030,20 @@
       <jump line="135" column="79" filename="$USER_HOME$/code/mica/vendor/folklore/graphql/src/Folklore/GraphQL/GraphQL.php" />
       <jump line="267" column="27" filename="$USER_HOME$/code/mica/vendor/folklore/graphql/src/Folklore/GraphQL/GraphQL.php" />
       <jump line="81" column="45" filename="$USER_HOME$/code/mica/release/deploy.php" />
+      <jump line="323" column="64" filename="$USER_HOME$/code/mica/tests/unit/Winfund/ClientTest.php" />
+      <jump line="12" column="15" filename="$USER_HOME$/code/mica/tests/unit/Winfund/ClientTest.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/mica/database/seeds/WinfundDBMockSeeder.php" />
+      <jump line="19" column="13" filename="$USER_HOME$/code/mica/database/seeds/WinfundDBMockSeeder.php" />
+      <jump line="26" column="17" filename="$USER_HOME$/code/mica/database/seeds/WinfundDBMockSeeder.php" />
+      <jump line="49" column="17" filename="$USER_HOME$/code/mica/database/seeds/WinfundDBMockSeeder.php" />
+      <jump line="50" column="17" filename="$USER_HOME$/code/mica/database/seeds/WinfundDBMockSeeder.php" />
+      <jump line="355" column="17" filename="$USER_HOME$/code/mica/tests/unit/Winfund/ClientTest.php" />
+      <jump line="349" column="30" filename="$USER_HOME$/code/mica/tests/unit/Winfund/ClientTest.php" />
+      <jump line="350" column="13" filename="$USER_HOME$/code/mica/tests/unit/Winfund/ClientTest.php" />
+      <jump line="353" column="49" filename="$USER_HOME$/code/mica/tests/unit/Winfund/ClientTest.php" />
+      <jump line="354" column="51" filename="$USER_HOME$/code/mica/tests/unit/Winfund/ClientTest.php" />
+      <jump line="345" column="34" filename="$USER_HOME$/code/mica/tests/unit/Winfund/ClientTest.php" />
+      <jump line="348" column="28" filename="$USER_HOME$/code/mica/tests/unit/Winfund/ClientTest.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1316,10 +1359,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dd</text>
+        <text>EmployerPostalCode</text>
       </register>
       <register name="/" type="4">
-        <text>au</text>
+        <text>asset</text>
       </register>
       <register name="0" type="4">
         <text>'pdf/Consent to the electronic transmission of the MICA tax slips.pdf'</text>
@@ -1377,25 +1420,25 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEFwcFxXaW5mdW5kXEZ1bmRSaXNrOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ0VtcGxveWVyUG9zdGFsQ29kZScpLT5udWxsYWJsZSgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LS0gd2hlcmUgQ2xpZW50cy5Db2RlID0gNTM5MzIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ1BPQV9EYXRlJyktPm51bGxhYmxlKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZChDYXJib246OnBhcnNlKCR0aGlzLT5MVEFfRGF0ZSktPmlzUGFzdCgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGRkKCRxdWVyeS0+Z2V0KCkpOwo=</text>
+        <text encoding="base64">dXNlIEFwcFxVc2VyTGluazsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxXaW5mdW5kXEZ1bmRSaXNrOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8K</text>
+        <text encoding="base64">LS0gd2hlcmUgQ2xpZW50cy5Db2RlID0gNTM5MzIK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">KgogICAgICogQ29sbGVjdGlvbiB7IzIxMTEgICNpdGVtczogYXJyYXk6NCBbICAgIDAgPT4gVHJhbnNhY3Rpb24geyMyMDM5ICAgICAgI3RhYmxlOiAiVHJhbnNhY3Rpb25zIiAgICAgICNhcHBlbmRzOiBhcnJheToxMSBbICAgICAgICAwID0+ICJkYXRlIiAgICAgICAgMSA9PiAic2hhcmVzX3VuaXRzIiAgICAgICAgMiA9PiAidG90YWxfc2hhcmVzX3VuaXRzIiAgICAgICAgMyA9PiAidW5pdF9wcmljZSIgICAgICAgIDQgPT4gImFtb3VudCIgICAgICAgIDUgPT4gImZlZXMiICAgICAgICA2ID0+ICJncm9zcyIgICAgICAgIDcgPT4gImRlZHVjdGlvbnMiICAgICAgICA4ID0+ICJwbGFuc190eXBlX25hbWUiICAgICAgICA5ID0+ICJwbGFuX2lkIiAgICAgICAgMTAgPT4gImFjdGl2ZSIgICAgICBdICAgICAgI3Zpc2libGU6IGFycmF5OjE1IFsgICAgICAgIDAgPT4gImRhdGUiICAgICAgICAxID0+ICJzaGFyZXNfdW5pdHMiICAgICAgICAyID0+ICJ0b3RhbF9zaGFyZXNfdW5pdHMiICAgICAgICAzID0+ICJ1bml0X3ByaWNlIiAgICAgICAgNCA9PiAiYW1vdW50IiAgICAgICAgNSA9PiAiZmVlcyIgICAgICAgIDYgPT4gImdyb3NzIiAgICAgICAgNyA9PiAidHlwZSIgICAgICAgIDggPT4gInN0YXR1cyIgICAgICAgIDkgPT4gImN1cnJlbmN5IiAgICAgICAgMTAgPT4gInNhbGUiICAgICAgICAxMSA9PiAiZGVkdWN0aW9ucyIgICAgICAgIDEyID0+ICJwbGFuc190eXBlX25hbWUiICAgICAgICAxMyA9PiAicGxhbl9pZCIgICAgICAgIDE0ID0+ICJhY3RpdmUiICAgICAgXSAgICAgICNjb25uZWN0aW9uOiAib2RiYyIgICAgICAjcHJpbWFyeUtleTogIkNvZGUiICAgICAgI2RhdGVGb3JtYXQ6ICJZLW0tZCBIOmk6cy51IiAgICAgICNwcmltYXJ5S2V5MjogbnVsbCAgICAgICNwZXJQYWdlOiA1MCAgICAgICNrZXlUeXBlOiAiaW50IiAgICAgICtpbmNyZW1lbnRpbmc6IHRydWUgICAgICAjd2l0aDogW10gICAgICAjd2l0aENvdW50OiBbXSAgICAgICtleGlzdHM6IHRydWUgICAgICArd2FzUmVjZW50bHlDcmVhdGVkOiBmYWxzZSAgICAgICNhdHRyaWJ1dGVzOiBhcnJheToxNSBbICAgICAgICAiQWNjb3VudF9Db2RlIiA9PiAiNjc2ODIyIiAgICAgICAgIkFtb3VudCIgPT4gIjIuNjIwMCIgICAgICAgICJGZWVzIiA9PiAiLjAwMDAiICAgICAgICAiV2l0aGhvbGRpbmdfVGF4IiA9PiAiLjAwMDAiICAgICAgICAiRFNDIiA9PiAiLjAwMDAiICAgICAgICAiRGF0ZSIgPT4gIjIwMTctMTAtMzEgMDA6MDA6MDAuMDAwIiAgICAgICAgIlNoYXJlc19Vbml0cyIgPT4gIi4xNDA1IiAgICAgICAgIlRvdGFsX1NoYXJlc19Vbml0cyIgPT4gIjQ3ODkuMTQ1MiIgICAgICAgICJVbml0X1ByaWNlIiA9PiAiMTguNjQzNCIgICAgICAgICJUcmFuc2FjdGlvbl9UeXBlIiA9PiAiNTkiICAgICAgICAiVHJhbnNhY3Rpb25fRmxhZyIgPT4gIjYiICAgICAgICAiQ29tbV9DdXJyZW5jeSIgPT4gbnVsbCAgICAgICAgImdyb3NzIiA9PiAiMi42MjAwIiAgICAgICAgImRlZHVjdGlvbnMiID0+ICIuMDAwMCIgICAgICAgICJwbGFuc1R5cGVOYW1lIiA9PiAiT1BFTiIgICAgICBdICAgICAgI29yaWdpbmFsOiBhcnJheToxNSBbICAgICAgICAiQWNjb3VudF9Db2RlIiA9PiAiNjc2ODIyIiAgICAgICAgIkFtb3VudCIgPT4gIjIuNjIwMCIgICAgICAgICJGZWVzIiA9PiAiLjAwMDAiICAgICAgICAiV2l0aGhvbGRpbmdfVGF4IiA9PiAiLjAwMDAiICAgICAgICAiRFNDIiA9PiAiLjAwMDAiICAgICAgICAiRGF0ZSIgPT4gIjIwMTctMTAtMzEgMDA6MDA6MDAuMDAwIiAgICAgICAgIlNoYXJlc19Vbml0cyIgPT4gIi4xNDA1IiAgICAgICAgIlRvdGFsX1NoYXJlc19Vbml0cyIgPT4gIjQ3ODkuMTQ1MiIgICAgICAgICJVbml0X1ByaWNlIiA9PiAiMTguNjQzNCIgICAgICAgICJUcmFuc2FjdGlvbl9UeXBlIiA9PiAiNTkiICAgICAgICAiVHJhbnNhY3Rpb25fRmxhZyIgPT4gIjYiICAgICAgICAiQ29tbV9DdXJyZW5jeSIgPT4gbnVsbCAgICAgICAgImdyb3NzIiA9PiAiMi42MjAwIiAgICAgICAgImRlZHVjdGlvbnMiID0+ICIuMDAwMCIgICAgICAgICJwbGFuc1R5cGVOYW1lIiA9PiAiT1BFTiIgICAgICBdICAgICAgI2Nhc3RzOiBbXSAgICAgICNkYXRlczogW10gICAgICAjZXZlbnRzOiBbXSAgICAgICNvYnNlcnZhYmxlczogW10gICAgICAjcmVsYXRpb25zOiBhcnJheTo0IFsgICAgICAgICJzYWxlIiA9PiBFcXVpdHlTYWxlIHsjMjA3NCAgICAgICAgICAjdGFibGU6ICJFcXVpdHlfU2FsZXMiICAgICAgICAgICNhcHBlbmRzOiBhcnJheTo2IFsgICAgICAgICAgICAwID0+ICJhY2NvdW50Q29kZSIgICAgICAgICAgICAxID0+ICJuYW1lIiAgICAgICAgICAgIDIgPT4gInRvdGFsX3VuaXRzIiAgICAgICAgICAgIDMgPT4gIm1hcmtldF92YWx1ZSIgICAgICAgICAgICA0ID0+ICJwcmljZSIgICAgICAgICAgICA1ID0+ICJhY3RpdmUiICAgICAgICAgIF0gICAgICAgICAgI3Zpc2libGU6IGFycmF5OjkgWyAgICAgICAgICAgIDAgPT4gImFjY291bnRDb2RlIiAgICAgICAgICAgIDEgPT4gIm5hbWUiICAgICAgICAgICAgMiA9PiAicHJvZHVjdCIgICAgICAgICAgICAzID0+ICJGdW5kX0FjY291bnRfQ29kZSIgICAgICAgICAgICA0ID0+ICJ0b3RhbF91bml0cyIgICAgICAgICAgICA1ID0+ICJtYXJrZXRfdmFsdWUiICAgICAgICAgICAgNiA9PiAicHJpY2UiICAgICAgICAgICAgNyA9PiAiYWN0aXZlIiAgICAgICAgICAgIDggPT4gIkVuZF9EYXRlIiAgICAgICAgICBdICAgICAgICAgICNjb25uZWN0aW9uOiAib2RiYyIgICAgICAgICAgI3ByaW1hcnlLZXk6ICJDb2RlIiAgICAgICAgICAjZGF0ZUZvcm1hdDogIlktbS1kIEg6aTpzLnUiICAgICAgICAgICNwcmltYXJ5S2V5MjogbnVsbCAgICAgICAgICAjcGVyUGFnZTogNTAgICAgICAgICAgI2tleVR5cGU6ICJpbnQiICAgICAgICAgICtpbmNyZW1lbnRpbmc6IHRydWUgICAgICAgICAgI3dpdGg6IFtdICAgICAgICAgICN3aXRoQ291bnQ6IFtdICAgICAgICAgICtleGlzdHM6IHRydWUgICAgICAgICAgK3dhc1JlY2VudGx5Q3JlYXRlZDogZmFsc2UgICAgICAgICAgI2F0dHJpYnV0ZXM6IGFycmF5OjgyIFsgICAgICAgICAgICAiQ29kZSIgPT4gIjY3NjgyMiIgICAgICAgICAgICAiRnVuZF9TdXBwbGllciIgPT4gIkZJRCAiICAgICAgICAgICAgIkZ1bmRfQ29kZSIgPT4gIjkwMTggIiAgICAgICAgICAgICJQbGFuX0NvZGUiID0+ICIxNDY2MzciICAgICAgICAgICAgIkZ1bmRfQWNjb3VudF9Db2RlIiA9PiAiNTU4NTU5ODUiICAgICAgICAgICAgIlRvdGFsX1NoYXJlc19Jc3N1ZWQiID0+ICIuMDAwMCIgICAgICAgICAgICAiVG90YWxfU2hhcmVzX1VuaXNzdWVkIiA9PiAiNDc4OS4xNDUyIiAgICAgICAgICAgICJBdmVyYWdlX0Nvc3QiID0+ICIxMC44NjA5NTkwNjk5IiAgICAgICAgICAgICJEYXRlX0NyZWF0ZWQiID0+ICIyMDE1LTAyLTExIDAwOjAwOjAwLjAwMCIgICAgICAgICAgICAiQ2VydGlmaWNhdGVfRmxhZyIgPT4gIjAiICAgICAgICAgICAgIkRpdmlkZW50X0ZsYWciID0+ICIwIiAgICAgICAgICAgICJQQUNfU3RhcnRfRGF0ZSIgPT4gbnVsbCAgICAgICAgICAgICJQQUNfU3RvcF9EYXRlIiA9PiBudWxsICAgICAgICAgICAgIlBBQ19SZXN0YXJ0X0RhdGUiID0+IG51bGwgICAgICAgICAgICAiUEFDX0ZyZXF1ZW5jeSIgPT4gbnVsbCAgICAgICAgICAgICJQQUNfQ29tbWlzc2lvbl9SYXRlIiA9PiBudWxsICAgICAgICAgICAgIlBBQ19BbW91bnQiID0+IG51bGwgICAgICAgICAgICAiUEFDX0luZGljYXRvciIgPT4gIjAiICAgICAgICAgICAgIkZ1bmRfRmxhZ3MiID0+ICIwIiAgICAgICAgICAgICJBY2NvdW50X1N0YXR1cyIgPT4gIjAiICAgICAgICAgICAgIkxhc3RfTW9kaWZpZWRfRGF0ZSIgPT4gIjIwMTctMTEtMDEgMDQ6NTI6MTAuNTMwIiAgICAgICAgICAgICJOb3RlcyIgPT4gIiIgICAgICAgICAgICAidXBzaXplX3RzIiA9PiAiMDAwMDAwMDAxOUM2NkVCMCIgICAgICAgICAgICAiTGFzdF9TZXF1ZW5jZSIgPT4gIjEiICAgICAgICAgICAgIkVxdWl0eV9UeXBlIiA9PiAiMCIgICAgICAgICAgICAiRm9yZWlnbl9JbmRleCIgPT4gIjAiICAgICAgICAgICAgIkVuZF9EYXRlIiA9PiBudWxsICAgICAgICAgICAgIlVzZXJEZWZpbmVkMSIgPT4gbnVsbCAgICAgICAgICAgICJFZmZlY3RpdmVfRGF0ZSIgPT4gIjIwMTctMTAtMzEgMDA6MDA6MDAuMDAwIiAgICAgICAgICAgICJNYXR1cml0eV9EYXRlIiA9PiBudWxsICAgICAgICAgICAgIldGX1NoYXJlX0JhbGFuY2UiID0+IG51bGwgICAgICAgICAgICAiV0ZfSW52ZXN0ZWRfQW1vdW50IiA9PiBudWxsICAgICAgICAgICAgIldGX1dpdGhkcmF3bl9BbW91bnQiID0+IG51bGwgICAgICAgICAgICAiUGFyZW50X0NvZGUiID0+IG51bGwgICAgICAgICAgICAiV0ZLZXkxIiA9PiBudWxsICAgICAgICAgICAgIldGS2V5MiIgPT4gbnVsbCAgICAgICAgICAgICJDdXJyZW5jeSIgPT4gbnVsbCAgICAgICAgICAgICJKdXJpc2RpY3Rpb25fUHJvdmluY2UiID0+ICJRQyIgICAgICAgICAgICAiRmVlX0luZGV4IiA9PiBudWxsICAgICAgICAgICAgIkRlc2NyaXB0aW9uIiA9PiBudWxsICAgICAgICAgICAgIlB1cmNoYXNlX0RhdGUiID0+IG51bGwgICAgICAgICAgICAiSW50ZXJlc3RfUmF0ZSIgPT4gIjAuMCIgICAgICAgICAgICAiSW50ZXJlc3RfRnJlcXVlbmN5IiA9PiAiMCIgICAgICAgICAgICAiSW50ZXJlc3RfVHlwZSIgPT4gIjAiICAgICAgICAgICAgIkxhc3RfSW50ZXJlc3RfRGF0ZSIgPT4gbnVsbCAgICAgICAgICAgICJOZXh0X0ludGVyZXN0X0RhdGUiID0+IG51bGwgICAgICAgICAgICAiTGFzdF9QYXltZW50X0RhdGUiID0+IG51bGwgICAgICAgICAgICAiV0ZHX0RlYWxlckNvZGUxIiA9PiAiICIgICAgICAgICAgICAiV0ZHX1JlcENvZGUxIiA9PiAiICIgICAgICAgICAgICAiV0ZHX1NwbGl0UGVyMSIgPT4gIjAuMCIgICAgICAgICAgICAiRGl2aWRlbmRfQ2FzaF9PcHRpb24iID0+ICIwIiAgICAgICAgICAgICJMZXZlcmFnZSIgPT4gIjAKICAgICAqLw==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1405,19 +1448,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGRkKCRxdWVyeS0+Z2V0KCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9tYXJnaW4tcmlnaHQ6IGRkOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>au</last-search>
+      <last-search>asset</last-search>
       <last-offset />
-      <last-pattern>au</last-pattern>
+      <last-pattern>asset</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute encoding="base64">ID0+Lio=</last-substitute>
       <last-dir>1</last-dir>
@@ -1425,9 +1468,6 @@
     </search>
     <history>
       <history-search>
-        <entry>grammar</entry>
-        <entry>mockwinfun</entry>
-        <entry>test</entry>
         <entry>trust_Acc</entry>
         <entry>trustAccoun</entry>
         <entry>isself</entry>
@@ -1445,6 +1485,9 @@
         <entry>dd(</entry>
         <entry>formatError</entry>
         <entry>au</entry>
+        <entry>clients</entry>
+        <entry>bank</entry>
+        <entry>asset</entry>
       </history-search>
       <history-cmd>
         <entry>603</entry>
