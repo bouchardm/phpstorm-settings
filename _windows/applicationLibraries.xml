@@ -1,5 +1,16 @@
 <application>
   <component name="libraryTable">
+    <library name="math" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_mathjs_4.1.1_math.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_mathjs_4.1.1_math.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="p5" type="javaScript">
       <properties>
         <sourceFilesUrls>
